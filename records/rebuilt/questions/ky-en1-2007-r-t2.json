@@ -1,0 +1,784 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "Which of the following may be required in an intelligence test?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Answering philosophical questions.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴。第1段第4、5句提到读者向萨万特提问关于爱与喜欢、运气与巧合的本质等问题（这些问题曾难倒最优秀的诗人和哲学家），这是专栏收到的生活/哲学困惑，并非智商测试本身的要求。"
+      },
+      {
+        "key": "B",
+        "text": "Folding or cutting paper into different shapes.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "偷换概念/断章取义。原文第1段第3句明确说明智商测试要求的是 'to envision paper after it has been folded and cut'（在头脑中设想/想象纸张折叠剪切后的样子，考查的是空间想象能力），而非让受试者亲自动手去折纸或剪纸。",
+        "vocab": [
+          {
+            "word": "Skeptical",
+            "ipa": "[ˈskeptɪk(ə)l]",
+            "meaning": "怀疑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Telling the differences between certain concepts.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴。第1段第4句中区分“爱和喜欢”（love and fondness）是读者向专栏抛出的日常困惑，不是智商测试的考核题目。",
+        "vocab": [
+          {
+            "word": "concepts",
+            "ipa": "",
+            "meaning": "概念",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Impartial",
+            "ipa": "[ɪmˈpɑːʃl]",
+            "meaning": "公正的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Choosing words or graphs similar to the given ones.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。原文第1段第3句指出智力测试要求 'complete verbal and visual analogies'（完成词语和视觉图形类比）。所谓类比（analogy），其本质就是发现词语或图形之间的相似对应逻辑，并在选项中选出具有同等相似关系的词语或图形，两者构成了极其精准的同义替换。",
+        "vocab": [
+          {
+            "word": "graphs",
+            "ipa": "",
+            "meaning": "图片",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "verbal and visual analogies": "Choosing words or graphs similar to the given ones (词语与视觉类比 -> 挑选与所给词语或图形相似的选项)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "intelligence",
+          "ipa": "[ɪnˈtelɪdʒəns]",
+          "meaning": "智力",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t2.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bbc54a6b9437f262263876aa70e8851d3df507a4e42d9caf5a4d6580bc8bbe7b"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "What can be inferred about intelligence testing from Paragraph 3?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "People no longer use IQ scores as an indicator of intelligence.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆/与原文矛盾。第3段第1句明确开宗明义：'The defining term of intelligence in humans still seems to be the IQ score'（定义人类智力的核心指标似乎仍然是智商分数），选项声称 'no longer use' 与原文直接事实完全相反。",
+        "vocab": [
+          {
+            "word": "no",
+            "ipa": "[nəʊ]",
+            "meaning": "不再",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "scores",
+            "ipa": "",
+            "meaning": "分数",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intelligence",
+            "ipa": "[ɪnˈtelɪdʒəns]",
+            "meaning": "智力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "More versions of IQ tests are now available on the Internet.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "无中生有/过度推断。第3段第3句虽然提到智力测试的变体在书店和互联网上随处可见（'variations of them populate bookstores and the World Wide Web'），但原文并未进行时间先后的数量对比，未提及现在网上的版本比以前更多（'More versions' 属于无根据的主观臆造）。",
+        "vocab": [
+          {
+            "word": "versions",
+            "ipa": "",
+            "meaning": "版本",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "available",
+            "ipa": "[əˈveɪləbl]",
+            "meaning": "可获得的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "The test contents and formats for adults and children may be different.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。合理推论。第3段第2句明确交代主要的两大测试形式（斯坦福-比奈与韦克斯勒量表）均 'both come in adult and children's version'。既然专门区分成人版与儿童版，根据常理与测量学原理，针对两类人群的考查题目难度、测试内容和具体形式自然存在差异，属于严谨稳妥的推断。",
+        "vocab": [
+          {
+            "word": "formats",
+            "ipa": "",
+            "meaning": "形式",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Scientists have defined the important elements of human intelligence.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆与主旨违背。第2段第3句明确设问 'How much of intelligence can be specified...'，第4段斯滕伯格更指出标准化测试根本未能衡量创造力和实践知识，表明科学界对智力要素的界定远未彻底明确与定论。",
+        "vocab": [
+          {
+            "word": "defined",
+            "ipa": "",
+            "meaning": "明确",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "elements",
+            "ipa": "",
+            "meaning": "成分",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intelligence",
+            "ipa": "[ɪnˈtelɪdʒəns]",
+            "meaning": "智力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "both come in adult and children's version": "The test contents and formats for adults and children may be different (同时提供成人版与儿童版 -> 成人与儿童的测试内容和形式可能有所不同)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "intelligence",
+          "ipa": "[ɪnˈtelɪdʒəns]",
+          "meaning": "智力",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "What",
+          "ipa": "[wɒt]",
+          "meaning": "推理题",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t2.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bbc54a6b9437f262263876aa70e8851d3df507a4e42d9caf5a4d6580bc8bbe7b"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "People nowadays can no longer achieve IQ scores as high as Vos Savant's because ______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the scores are obtained through different computational procedures.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第3段第4句直接给出明确因果解释：'because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100.' 原文明确对比了计分方式的改变（从旧有的除法计算公式变更为现代基于同龄人的统计分布），这正是 computational procedures（计算/计分程序）的改变。",
+        "vocab": [
+          {
+            "word": "scores",
+            "ipa": "",
+            "meaning": "分数",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "obtained",
+            "ipa": "",
+            "meaning": "获取",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "procedures",
+            "ipa": "",
+            "meaning": "程序",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "creativity rather than analytical skills is emphasized now.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "反向混淆。第4段第2句指出传统考试 'best assess analytical and verbal skills but fail to measure creativity'，说明现有考试根本没有转向强调创造力；且该论据出现在第4段，不能作为第3段计分变动的因果解释。",
+        "vocab": [
+          {
+            "word": "rather",
+            "ipa": "[ˈrɑːðə(r)]",
+            "meaning": "不是",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "emphasized",
+            "ipa": "",
+            "meaning": "强调",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "vos Savant's case is an extreme one that will not repeat.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "主观臆断与因果倒置。不再出现200+超高分是因为心理测量学计分算法的整体制度性变革（正态钟形曲线在数理上限制了极端离差），而非因为萨万特作为个人的特例不可复制。",
+        "vocab": [
+          {
+            "word": "extreme",
+            "ipa": "[ɪkˈstriːm]",
+            "meaning": "极端的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the defining characteristic of IQ tests has changed.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第3段第1句指出 'The defining term of intelligence in humans still seems to be the IQ score'（智力测试的定义指标依然是智商分数，并未改变）；改变的仅仅是具体的计分计算规则（scoring/computational procedure），而非测试本身的定义特征。",
+        "vocab": [
+          {
+            "word": "characteristic",
+            "ipa": "[ˌkærəktəˈrɪstɪk]",
+            "meaning": "特征",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "scoring is now based on a statistical population distribution... rather than simply dividing...": "the scores are obtained through different computational procedures (基于统计人口分布而非简单的除法公式 -> 通过不同的数学计算程序获取分数)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "scores",
+          "ipa": "",
+          "meaning": "分数",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t2.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bbc54a6b9437f262263876aa70e8851d3df507a4e42d9caf5a4d6580bc8bbe7b"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "We can conclude from the last paragraph that ______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "test scores may not be reliable indicators of one's ability.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第4段开篇首句即为主题句，斯滕伯格明确指出标准化测试无法评估取得成功所需的全部关键要素（S1）；紧接着指出它忽视创造力与实践知识（S2）；随后进一步论证其在人群或情境变化时预测效度极不稳定（S3），高压下智力与领导力甚至呈负相关（S4）；最后指出分数还受到猜题等应试技巧的影响（S5）。全段五句话均在论证同一个中心：测试分数无法可靠、全面地反映一个人的真正综合能力。",
+        "vocab": [
+          {
+            "word": "scores",
+            "ipa": "",
+            "meaning": "分数",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reliable",
+            "ipa": "[rɪˈlaɪəbl]",
+            "meaning": "可靠的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "IQ scores and SAT results are highly correlated.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第3段末句仅提到 SAT 涵盖了智力测试的主要维度，但最后一段完全没有讨论 IQ 分数与 SAT 分数之间是否高度相关，属于脱离末段文本的凭空编造。",
+        "vocab": [
+          {
+            "word": "scores",
+            "ipa": "",
+            "meaning": "分数",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "highly",
+            "ipa": "[ˈhaɪli]",
+            "meaning": "高度",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "testing involves a lot of guesswork.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "断章取义与以偏概全。末段末句提到应试技巧包括 'knowing when to guess'（知道何时该猜测答案），但作者只是借此说明考试包含应试技巧成分，并不能推导出整个测试涉及 'a lot of guesswork'（充斥着大量猜测）。",
+        "vocab": [
+          {
+            "word": "involves",
+            "ipa": "",
+            "meaning": "包含",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "traditional tests are out of date.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "过度绝对化。文章指出了传统测试的局限性和不完备性，但从未宣称它们已经“过时淘汰”（out of date）；第3段第1句还指出智商分数依然是定义人类智力的核心指标，第4段第2句也承认传统测试 'best assess analytical and verbal skills'，仍具备其考察价值。",
+        "vocab": [
+          {
+            "word": "out",
+            "ipa": "[aʊt]",
+            "meaning": "过时的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "may not assess all important elements ... negatively correlated with leadership ... test-taking skill also matters": "test scores may not be reliable indicators of one's ability (未评估成功要素 + 高压下负相关 + 受猜题应试技巧影响 -> 测试分数未必是一个人能力的可靠指标)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "conclude",
+          "ipa": "[kənˈkluːd]",
+          "meaning": "得出结论",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t2.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bbc54a6b9437f262263876aa70e8851d3df507a4e42d9caf5a4d6580bc8bbe7b"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "What is the author's attitude towards IQ tests?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Supportive.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。作者从开篇就对高智商与解决实际人生哲学问题的反差表示困惑（confusing, not obvious），随后明确指出智力远非一次考试分数所能涵盖，并借斯滕伯格之口批判其局限性，绝非支持赞同态度。"
+      },
+      {
+        "key": "B",
+        "text": "Skeptical.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。作者通篇都在对传统智商测试衡量真实人类智力与预测实际成就的有效性提出审慎质疑：第1段用 'confusing' 和 'It's not obvious how...' 质疑其解答复杂哲学生活难题的资格；第2段指出 'intelligence encompasses more than a score'；第4段全面援引斯滕伯格对传统测试忽略创造力、高压下出现负相关预测失效的学术论证，通篇鲜明体现出理性的怀疑与批判态度。"
+      },
+      {
+        "key": "C",
+        "text": "Impartial.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "过度中立。作者虽然进行了科学客观的论述，但在全文的选材、设问与论点组织上具有极其鲜明的批判与反思导向，绝非毫无倾向的纯客观中立。"
+      },
+      {
+        "key": "D",
+        "text": "Biased.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "考研态度题负面极端禁忌词。Biased（有偏见的）带有主观盲目和非理性贬义色彩，考研英语阅读的学者型社论文章中，作者即使持批评态度也是基于科学证据的理性怀疑（skeptical/critical），绝不会是带有非理性成见的 biased。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "ATTITUDE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "confusing ... not obvious how ... fail to measure creativity ... predict the opposite": "Skeptical (令人困惑 + 无法理解如何使人回答深奥问题 + 未能测量创造力 + 预测出相反结果 -> 怀疑的/审慎质疑的)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author's",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t2.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bbc54a6b9437f262263876aa70e8851d3df507a4e42d9caf5a4d6580bc8bbe7b"
+    }
+  }
+]

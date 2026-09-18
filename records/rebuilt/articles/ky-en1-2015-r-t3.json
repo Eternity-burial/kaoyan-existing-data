@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2015-r-t3",
+  "year": 2015,
+  "textNumber": 3,
+  "title": "Scientific Reproducibility and the Reinforcement of Statistical Review in Science",
+  "chineseTitle": "科研可复制性危机与《科学》杂志强化论文统计学审查之举",
+  "topic": null,
+  "topicDomain": "科研伦理与学术评价",
+  "subTopic": "《科学》杂志增设统计审查编委会（SBoRE）、科研结果不可复制性危机与学界反响",
+  "overview": null,
+  "wordCount": 410,
+  "readingTimeEstimate": "11-13 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自 Nature 专栏新闻报道《Science joins push to screen statistics in papers》",
+  "paragraphCount": 6,
+  "sentenceCount": 17,
+  "vocabularyCount": 28,
+  "phraseCount": 20,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "近年来，国际学术界遭遇了严重的“可复制性危机（Reproducibility Crisis）”——大量发表在顶级科学期刊上的重大研究成果在后续独立实验中均无法重现，其首要元凶之一便是实验数据处理与统计学推断中的基础性低级错误或恶意数据操纵（如P值操纵、小样本过度拟合等）。针对这一普遍忧虑，2014年全球顶尖学术期刊《科学》（Science）主编玛西娅·麦克纳特宣布，在该刊传统的同行评审流程之外，联手美国统计协会（ASA）增设一轮专门的“统计审查编辑委员会（SBoRE）”，由内部编辑或审稿人标出有疑义的论文，交由外部独立统计学家把关复核。哈佛大学生物统计学家乔瓦尼·帕玛强尼认为此举具有远见，有望成为全行业典范；斯坦福大学著名方法论学者约翰·约安尼季斯称赞此举“姗姗来迟但极受欢迎”，指出当下统计审查远比专家同行评审更不可或缺；而细胞生物学家大卫·沃克斯则一针见血地指出其局限——该机制仍依赖于非统计专业的编委会去筛选“哪些论文需要送审”，若第一道关卡漏筛，把关效果将大打折扣，仍有进一步完善空间。",
+      "coreDisputeOrTheme": "核心主题在于如何通过同行评审机制的制度化革新，消除科研论文中广泛存在的统计学硬伤，恢复公众与学界对发表科研结论的信任与可复制性。各方学者肯定了《科学》杂志的引领示范作用，同时也客观指出了现行方案存在漏检依赖的潜在短板。",
+      "keyTerminology": [
+        {
+          "term": "Peer Review",
+          "explanation": "同行评议/同行评审：学术出版中由同行专家对来稿进行学术真实性、创新性与逻辑把关的标准审定机制。"
+        },
+        {
+          "term": "Reproducibility Crisis",
+          "explanation": "可复制性危机：科学实验结论无法被独立同行以相同条件再现验证的严重信誉危机。"
+        },
+        {
+          "term": "SBoRE (Statistics Board of Reviewing Editors)",
+          "explanation": "统计审查编辑委员会：《科学》杂志联手美国统计学会专门组建的专业独立统计把关复核智囊团队。"
+        },
+        {
+          "term": "Flag up",
+          "explanation": "做出标记/标识标出：审稿编辑在流程中发现疑点论文并打上专门标签以启动后续专项严密审查。"
+        },
+        {
+          "term": "Statistical Literacy",
+          "explanation": "统计学素养：科研人员准确理解、计算与运用统计推断工具以避免伪相关与数据伪造的核心专业素养。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "学术出版、同行评议与统计方法论 (Academic Publishing, Peer Review & Statistics)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "ir- / re- (前缀组合)",
+          "examples": [
+            "irreproducibility (不可复制性)",
+            "reproducibility (可重现性)"
+          ]
+        },
+        {
+          "affix": "over- (过度/越过)",
+          "examples": [
+            "overdue (早该发生的/过期的)",
+            "overlook (忽略)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "统计审定与数据严谨",
+          "words": [
+            "statistical review",
+            "data analysis",
+            "statistician",
+            "verify",
+            "statistically literate"
+          ]
+        },
+        {
+          "theme": "学术出版与评审机制",
+          "words": [
+            "journal",
+            "peer-review",
+            "editorial",
+            "manuscript",
+            "Board of Reviewing Editors",
+            "scrutiny"
+          ]
+        },
+        {
+          "theme": "危机应对与制度反思",
+          "words": [
+            "irreproducibility",
+            "flag up",
+            "advisory role",
+            "model after",
+            "long overdue",
+            "room for improvement"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2015_t3.json",
+    "year": 2015,
+    "articleKey": "ky-en1-2015-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:05fae15faf016887bd14f14435ae8b224a1d8bc0b9eb5db84a825821a6ebf459"
+  }
+}

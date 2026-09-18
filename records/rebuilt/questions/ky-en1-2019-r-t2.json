@@ -1,0 +1,577 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "What is commonly regarded as the cause of grade inflation?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Colleges' neglect of GPAs.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】大学不仅不忽视，反而为了拨款和声誉极力推高 GPA。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The influence of consumer culture.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P1-S1 明确阐述普遍公认的成因：'Grade inflation... is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased'（成绩通胀通常被视作高等教育消费时代的产物，学生被当成需要讨好的顾客）。D选项 The influence of consumer culture（消费文化的影响）与 product of a consumer era 完全同义对应。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Students' indifference to GPAs.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】学生对 GPA 极为在乎重视，非漠不关心（indifference）。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The change of course catalogs.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选课目录（course catalogs）只是政策被隐藏的地方，非成绩通胀的成因。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "product of a consumer era in higher education = The influence of consumer culture。",
+      "methodSummary": "首段题眼同义改写：product of a consumer era 直接对应 The influence of consumer culture。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "commonly regarded as",
+        "cause of grade inflation"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "What was the original purpose of grade forgiveness?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To maintain colleges' graduation rates.",
+        "isCorrect": false,
+        "distractorType": "后期异化目的",
+        "analysis": "【干扰特征: 时代错配】维持毕业率是近年来政策加速扩张蔓延后的功利诉求（P3-S1），非最初的原始初衷（original purpose）。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "To increase universities' income from tuition.",
+        "isCorrect": false,
+        "distractorType": "后期商业诉求",
+        "analysis": "【干扰特征: 时代错配】赚取学费是现代大学留住学生的商业算计，非原始初衷。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "To prepare graduates for a challenging future.",
+        "isCorrect": false,
+        "distractorType": "泛化泛指",
+        "analysis": "【干扰特征: 过于笼统】最初仅针对大一新生适应期，非为毕业生准备挑战。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "To help freshmen adapt to college learning.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P3-S2 明确说明该政策数十年前起步时的原始初衷：'When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance... if they struggled in their transition to college-level courses'（最初严格限于大一新生，如果他们在向大学课程过渡转型中遇到困难，给他们第二次补救机会）。A选项 To help freshmen adapt to college learning（帮助新生适应大学阶段学习）是该原句最精准的同义转述。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "limited to freshmen struggling in transition to college-level courses = To help freshmen adapt to college learning。",
+      "methodSummary": "时间定位法：抓准 When first started decades ago 对应的 original purpose。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "original purpose",
+        "grade forgiveness"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "According to Paragraph 5, grade forgiveness enables colleges to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "obtain more financial support.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确揭示大学推行该政策的自身利益动机：'state funds are sometimes tied partly to their success on metrics such as graduation rates... so better grades can, by boosting figures like those, mean more money'（州政府拨款与毕业率等指标挂钩，因此更高的成绩通过刷亮数据意味着更多资金）。A选项 obtain more financial support（获取更多财政/财务资金支持）是 mean more money / state funds 的完美同义转述。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "improve their teaching quality.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】成绩通胀只是刷高分数指标，并不等于提升实质教学质量。",
+        "refSentences": [
+          "P5-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "boost their student enrollments.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】提高的是留校率（student retention）和毕业率，非扩大新生招生录取规模（enrollments）。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "meet local governments' needs.",
+        "isCorrect": false,
+        "distractorType": "偷换主体利益",
+        "analysis": "【干扰特征: 偏离核心】满足的是大学自身拿拨款的需求（satisfies colleges' own needs），非地方政府的需要。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "state funds tied to metrics... mean more money = obtain more financial support。",
+      "methodSummary": "因果利益题提取：抓准 mean more money 对应的 obtain more financial support。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 5",
+        "grade forgiveness enables colleges to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "What does the phrase \"to be aligned\" (Line 5, Para. 6) most probably mean?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To counterbalance each other.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 词义相反】意为相互抗衡制衡，而文意是双方利益诉求完全重合一致走向相同方向。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "To be contradictory to each other.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 词义完全相反】意为相互矛盾对立，与文意背道而驰。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "To be identical with each other.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P6-S1 中 'Since students expect degree to lead to job, it is in best interest of school to turn out qualified graduates... On this, students' and colleges' incentives seem to be aligned' 意为学生想要高分文凭求职，学校想要亮眼就业数据，在这一点上，学生与高校的利益动机“完全一致/契合”。be aligned 意为“达成一致、保持同一战线”，与 To be identical with each other（彼此完全一致相同）高度同义吻合。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "To complement each other.",
+        "isCorrect": false,
+        "distractorType": "词义偏差",
+        "analysis": "【干扰特征: 词义偏差】意为相互补充，未能体现双方目标利益完全一致相同的含义。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "词义猜测题",
+    "targetSentences": [
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "incentives are aligned = incentives are identical / point in the same direction = To be identical with each other。",
+      "methodSummary": "语境逻辑推断法：学生诉求与高校最佳利益方向一致，推断 aligned 意为 identical。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "to be aligned",
+        "Line 5 Para 6",
+        "most probably mean"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "The author examines the practice of grade forgiveness by",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "assessing its feasibility.",
+        "isCorrect": false,
+        "distractorType": "概念错误",
+        "analysis": "【干扰特征: 偷换概念】该政策在绝大多数大学早已普遍落地实施，作者并非在评估其可行性（feasibility）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "listing its long-run effects.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偏离重点】文章未详细列举其长远学术后果，核心是深挖其形成的内驱动因。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "comparing different views on it.",
+        "isCorrect": false,
+        "distractorType": "偏离主线",
+        "analysis": "【干扰特征: 以偏概全】文章主要是作者客观剖析各方背后的真实利益驱动，非对立观点的交锋对比。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "analyzing the causes behind it.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 写作手法精准概括】文章层层递进地展开深度透视剖析：从第1段的高等教育消费主义宏观成因，到第3段的提高毕业率留校率，到第5段的满足公立大学获取政府财政拨款的自身利益驱动，再到第6段总结学生求职与大学品牌激励高度一致的根本动力。全篇始终在围绕“剖析成绩豁免现象背后的深层动因与利益机理”（analyzing the causes behind it）展开严密论证。B选项精准统摄全篇分析逻辑。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1",
+          "P5-S1",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "篇章写作手法题",
+    "targetSentences": [
+      "P1-S1",
+      "P3-S1",
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "consumer era (P1) + keep tuition & graduation rate (P3) + state funds (P5) + aligned incentives (P6) = analyzing the causes behind it。",
+      "methodSummary": "写作手法归纳题：识别全文从教育消费文化到财政拨款激励的多维度归因分析脉络（analyzing the causes）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "examines the practice of grade forgiveness by"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  }
+]

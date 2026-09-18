@@ -1,0 +1,572 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "An invisible border divides those arguing for computers in the classroom on the behalf of students' career prospects and those arguing for computers in the classroom for broader reasons of radical educational reform.",
+    "translation": "那些为了学生的职业前景而在课堂上争论计算机的人，和那些出于激进教育改革的更广泛原因而争论课堂上计算机的人，之间存在着一条无形的界限。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Very few writers on the subject have explored this distinction—indeed, contradiction—which goes to the heart of what is wrong with the campaign to put computers in the classroom.",
+    "translation": "很少有该主题的作者探讨过这种区别（实际上是矛盾），这触及了将计算机带入教室运动的问题的核心。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "An education that aims at getting a student a certain kind of job is a technical education, justified for reasons radically different from why education is universally required by law.",
+    "translation": "旨在让学生获得某种工作的教育是技术教育，其合理性与法律普遍要求教育的原因截然不同。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "It is not simply to raise everyone's job prospects that all children are legally required to attend school into their teens.",
+    "translation": "法律要求所有儿童到十几岁都必须上学，这不仅仅是为了提高每个人的就业前景。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Rather, we have a certain conception of the American citizen, a character who is incomplete if he cannot competently assess how his livelihood and happiness are affected by things outside of himself.",
+    "translation": "相反，我们对美国公民有一种特定的概念，如果他不能胜任地评估他的生计和幸福如何受到他自己之外的事物的影响，那么这个角色就是不完整的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "But this was not always the case; before it was legally required for all children to attend school until a certain age, it was widely accepted that some were just not equipped by nature to pursue this kind of education.",
+    "translation": "但情况并非总是如此。在法律要求所有儿童到一定年龄之前必须上学之前，人们普遍认为有些人天生不具备接受这种教育的能力。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "With optimism characteristic of all industrialized countries, we came to accept that everyone is fit to be educated.",
+    "translation": "带着所有工业化国家特有的乐观态度，我们开始接受每个人都适合接受教育的观点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Computer-education advocates forsake this optimistic notion for a pessimism that betrays their otherwise cheery outlook.",
+    "translation": "计算机教育的倡导者放弃了这种乐观的观念，转而采取悲观的态度，这种悲观的态度背叛了他们原本乐观的前景。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Banking on the confusion between educational and vocational reasons for bringing computers into schools, computer's advocates often emphasize the job prospects of graduates over their educational achievement.",
+    "translation": "由于将计算机引入学校的教育和职业原因之间存在混淆，计算机的拥护者经常强调毕业生的就业前景而不是他们的教育成就。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "There are some good arguments for a technical education given the right kind of student.",
+    "translation": "对于针对合适类型的学生进行技术教育有一些很好的论据。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Many European schools introduce the concept of professional training early on in order to make sure children are properly equipped for the professions they want to join.",
+    "translation": "许多欧洲学校很早就引入了专业培训的概念，以确保孩子们为他们想加入的职业做好适当的准备。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "It is, however, presumptuous to insist that there will only be so many jobs for so many scientists, so many businessmen, so many accountants.",
+    "translation": "然而，坚持认为只能为这么多的科学家、这么多的商人、这么多的会计师提供这么多的工作，这是自以为是的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Besides, this is unlikely to produce the needed number of every kind of professional in a country as large as ours and where the economy is spread over so many states and involves so many international corporations.",
+    "translation": "此外，在我们这样一个幅员辽阔、经济分布在如此多的州、涉及如此多的跨国公司的国家里，这不太可能培养出所需数量的各类专业人员。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "But, for a small group of students, professional training might be the way to go since well-developed skills, all other factors being equal, can be the difference between having a job and not.",
+    "translation": "但是，对于一小部分学生来说，专业培训可能是一条出路，因为在所有其他因素相同的情况下，良好的技能发展可能是找到工作与没有工作的区别。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Of course, the basics of using any computer these days are very simple.",
+    "translation": "当然，如今使用任何计算机的基础知识都非常简单。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "It does not take a lifelong acquaintance to pick up various software programs.",
+    "translation": "不需要花一辈子的时间来熟悉各种软件程序。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "If one wanted to become a computer engineer, that is, of course, an entirely different story.",
+    "translation": "如果一个人想成为一名计算机工程师，那当然是一个完全不同的故事。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Basic computer skills take—at the very longest—a couple of months to learn.",
+    "translation": "学习基本的计算机技能最长需要几个月的时间。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "In any case, basic computer skills are only complementary to the host of real skills that are necessary to becoming any kind of professional. It should be observed, of course, that no school, vocational or not, is helped by a confusion over its purpose.",
+    "translation": "无论如何，基本的计算机技能只是对成为任何专业人士所必需的大量实际技能的补充。当然，应该指出的是，任何一所学校，无论是职业学校还是非职业学校，都不会因其宗旨的混乱而有所帮助。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  }
+]

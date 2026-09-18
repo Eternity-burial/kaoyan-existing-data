@@ -1,0 +1,926 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "What is true of the agreement between the NHS and DeepMind?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It fell short of the latter's expectations.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中完全未提及该协议未能达到 DeepMind（the latter）的预期，DeepMind 顺利获取了160万患者的完整病历档案。",
+        "refSentences": [
+          "P1-S4"
+        ],
+        "vocab": [
+          {
+            "word": "conflicts",
+            "ipa": "[ˈkɒnflɪkt]",
+            "meaning": "冲突",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "tech",
+            "ipa": "/tek/",
+            "meaning": "科技巨头",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "It caused conflicts among tech giants.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中讨论的是医疗机构与 DeepMind 之间的隐私争议，从未提及科技巨头之间由此爆发争端或利益冲突。",
+        "refSentences": [
+          "P1-S4"
+        ],
+        "vocab": [
+          {
+            "word": "failed",
+            "ipa": "[feɪl]",
+            "meaning": "未能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "pay",
+            "ipa": "[peɪ]",
+            "meaning": "注意",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "It failed to pay due attention to patients' rights.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P1第4句明确指出医院信托机构“handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy”，其中“took far too little account of patients' rights”与“failed to pay due attention to patients' rights（未能对患者权利予以应有的关注）”构成了精准同义置换。",
+        "refSentences": [
+          "P1-S4"
+        ],
+        "vocab": [
+          {
+            "word": "short",
+            "ipa": "[ʃɔːt]",
+            "meaning": "未达到（标准或期望）",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "latter’s",
+            "ipa": "",
+            "meaning": "后者的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "expectations",
+            "ipa": "[ˌekspekˈteɪʃ(ə)n]",
+            "meaning": "期望",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "It put both sides into a dangerous situation.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】P1首句提到“dangers of the deal”，指的是该交易对患者隐私和公共利益构成的潜在危险与风险隐患，而非双方陷入某种人身或经营上的“危险处境”。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "took far too little account of the patients' rights": "failed to pay due attention to patients' rights"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "B"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "agreement",
+          "ipa": "[əˈɡriːmənt]",
+          "meaning": "协议",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "The NHS trust responded to Denham's verdict with",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "empty promises.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文中说明医院信托切实开启了审查与整改流程，并非敷衍塞责的空洞承诺。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "tough resistance.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】文中指出 NHS trust 已经同意对其合作模式进行改革整顿（agreed to reform its dealings），完全没有顽固抗拒监管裁决。",
+        "refSentences": [
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "tough",
+            "ipa": "[tʌf]",
+            "meaning": "强硬的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "resistance",
+            "ipa": "[rɪˈzɪstəns]",
+            "meaning": "抵抗",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "sincere apologies.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【张冠李戴】P2第1句明确说明公开道歉的是商业公司 DeepMind（DeepMind has apologized），而医院信托机构所采取的对应行动是同意整改改革（agreed to reform its dealings）。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "necessary adjustments.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P2第1句指出“The NHS trust has also agreed to reform its dealings with whatever new tool it uses”，第2句进一步具体展开说明后续合作安排都将受到极为严格的审查，“to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned”，从流程、知情同意到数据清洗全面推行整改，准确对应做出“必要的调整与修正”（necessary adjustments）。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "sincere",
+            "ipa": "[sɪnˈsɪə(r)]",
+            "meaning": "诚恳的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "apologies",
+            "ipa": "[əˈpɒlədʒi]",
+            "meaning": "道歉",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "agreed to reform its dealings / ensure all necessary permissions asked and unnecessary data cleaned": "necessary adjustments"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "D",
+          "C"
+        ],
+        "letterMapping": {
+          "D": "C"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "responded",
+          "ipa": "[rɪˈspɒnd]",
+          "meaning": "对…作出回应",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "verdict",
+          "ipa": "[ˈvɜːdɪkt]",
+          "meaning": "裁定",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "The author argues in Paragraph 2 that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "privacy protection must be secured at all costs.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_WORDS",
+        "analysis": "【极端言辞】P2第4句明确指出“privacy is not the only angle in this case and not even the most important”，说明隐私并非压倒一切的唯一维度，与“不惜一切代价保护隐私”截然相反。",
+        "refSentences": [
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "privacy",
+            "ipa": "[ˈprɪvəsi]",
+            "meaning": "隐私",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "secured",
+            "ipa": "[sɪˈkjʊə(r)]",
+            "meaning": "保证",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "all",
+            "ipa": "[ɔːl]",
+            "meaning": "不惜任何代价",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the value of data comes from the processing of it.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P2末句是作者鲜明立论的核心所在：“what matters about data is not the individual elements of it, but the aggregation and the machine learning; what is valuable is what is done to it”，明确指出有价值的是对数据进行了怎样的加工和机器学习，直截了当对应“数据的价值源于对它的处理”（the value of data comes from the processing of it）。",
+        "refSentences": [
+          "P2-S6"
+        ],
+        "vocab": [
+          {
+            "word": "leaking",
+            "ipa": "[liːk]",
+            "meaning": "泄露",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "making profits from patients' data is illegal.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】第二段探讨的是数据加工所创造的生产力价值，并未在法律层面上断言从患者数据中获利一律非法。",
+        "refSentences": [
+          "P2-S6"
+        ],
+        "vocab": [
+          {
+            "word": "making",
+            "ipa": "[meɪk]",
+            "meaning": "获取利润",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "illegal",
+            "ipa": "[ɪˈliːɡ(ə)l]",
+            "meaning": "非法的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "leaking patients' data is worse than selling it.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中完全未对泄露数据与倒卖数据这两者的危害恶劣程度做对比评价。",
+        "refSentences": [
+          "P2-S6"
+        ],
+        "vocab": [
+          {
+            "word": "comes",
+            "ipa": "[kʌm]",
+            "meaning": "归因于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "processing",
+            "ipa": "[prəˈses; ˈprəʊses]",
+            "meaning": "处理",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P2-S6"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "what is valuable is what is done to it": "the value of data comes from the processing of it"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "C",
+          "D",
+          "B"
+        ],
+        "letterMapping": {
+          "B": "D"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "argues",
+          "ipa": "[ˈɑːɡjuː]",
+          "meaning": "提出",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "According to the last paragraph, the real worry arising from this deal is",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the monopoly of big data by tech giants.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】末段第2句点明隐私法并未触及“the real worry”，第4句紧接着指出核心症结所在：“What matters is that they will belong to a private monopoly which developed them using public resources”，并且第7句明确告诫必须全力“avoid a future of digital feudalism（避免滑向数字封建制）”，表明作者真正担忧的是少数私营高科技垄断企业将公共数据据为己有并形成长期垄断（the monopoly of big data by tech giants）。",
+        "refSentences": [
+          "P4-S2",
+          "P4-S4",
+          "P4-S7"
+        ],
+        "vocab": [
+          {
+            "word": "vicious",
+            "ipa": "[ˈvɪʃəs]",
+            "meaning": "恶性的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "rivalry",
+            "ipa": "[ˈraɪvlri]",
+            "meaning": "竞争",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the vicious rivalry among big pharmas.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】P4第5句指出大数据科技企业的垄断行为可能会像过去的大药企一样（behave as a big pharma has done），是对科技巨头行为模式的比喻类比，并非指出大药企之间存在恶性竞争。",
+        "refSentences": [
+          "P4-S5"
+        ],
+        "vocab": [
+          {
+            "word": "privacy",
+            "ipa": "[ˈprɪvəsi]",
+            "meaning": "隐私",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "ineffective",
+            "ipa": "[ˌɪnɪˈfektɪv]",
+            "meaning": "低效率的，缺乏效果的实施",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the uncontrolled use of new software.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】新软件的使用问题只是技术应用的浅层表象，核心危机是算法资产归私有垄断寡头所有。",
+        "refSentences": [
+          "P4-S4",
+          "P4-S5"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the ineffective enforcement of privacy law.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】P4第1句说的是隐私法在规制科技垄断问题上显得“maladapted（不适用/工具错配）”，而不是执法不力的问题。",
+        "refSentences": [
+          "P4-S1"
+        ],
+        "vocab": [
+          {
+            "word": "monopoly",
+            "ipa": "[məˈnɒpəli]",
+            "meaning": "垄断",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "tech",
+            "ipa": "/tek/",
+            "meaning": "科技巨头",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P4-S4",
+      "P4-S7"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "belong to a private monopoly / digital feudalism": "the monopoly of big data by tech giants"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "B",
+          "C",
+          "D",
+          "A"
+        ],
+        "letterMapping": {
+          "A": "D"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "arising",
+          "ipa": "[əˈraɪz]",
+          "meaning": "由…所带来的",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "The author's attitude toward the application of AI to healthcare is",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ambiguous.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【态度混淆】ambiguous 意为模棱两可的，作者在肯定技术潜力的同时清晰指出垄断和合规风险，态度鲜明坚定，毫不含糊。",
+        "refSentences": [
+          "P1-S3",
+          "P4-S6"
+        ],
+        "vocab": [
+          {
+            "word": "ambiguous",
+            "ipa": "[æmˈbɪɡjuəs]",
+            "meaning": "模棱两可的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "appreciative.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】appreciative 意为欣赏赞许的，虽然作者承认 AI 的巨大潜力（potential in healthcare is enormous），但全文将绝大部分篇幅用于警示不对称风险和数字封建垄断，因此不能简单归纳为全盘赞美。",
+        "refSentences": [
+          "P1-S3",
+          "P4-S4"
+        ],
+        "vocab": [
+          {
+            "word": "cautious",
+            "ipa": "[ˈkɔːʃəs]",
+            "meaning": "谨慎的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "cautious.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解态度综合研判】通读全文，作者一方面认可双方初衷良好且医疗AI拥有挽救生命的巨大潜能（save lives, mean well），但另一方面极其尖锐地指出其伴随的权力失衡（power asymmetry）、患者隐私侵犯、缺乏有效知情同意以及科技巨头数据垄断（digital feudalism）的巨大危险，并在末段呼吁“small choices now may turn out to have gigantic consequences later... A long struggle will be needed”，充分展现出既不盲从抗拒、又对滥用和垄断保持高度警惕的客观审慎（cautious）态度。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S3",
+          "P4-S6",
+          "P4-S7"
+        ],
+        "vocab": [
+          {
+            "word": "appreciative",
+            "ipa": "[əˈpriːʃətɪv]",
+            "meaning": "赞赏的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "contemptuous.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【情感色彩偏颇】contemptuous 意为轻蔑蔑视的，作者对技术进步带来的生命福祉持高度肯定，毫无轻蔑嘲讽之意。",
+        "refSentences": [
+          "P1-S3"
+        ],
+        "vocab": [
+          {
+            "word": "contemptuous",
+            "ipa": "[kənˈtemptʃuəs]",
+            "meaning": "鄙夷的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P1-S3",
+      "P4-S6",
+      "P4-S7"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "small choices now may have gigantic consequences / a long struggle needed to avoid digital feudalism": "cautious"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "B"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author’s",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "application",
+          "ipa": "[ˌæplɪˈkeɪʃ(ə)n]",
+          "meaning": "运用",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  }
+]

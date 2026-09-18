@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2022",
+  "exam": "kaoyan",
+  "track": "englishOne",
+  "year": 2022,
+  "title": "2022年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析数据库",
+  "subject": "英语(一)",
+  "articleKeys": [
+    "ky-en1-2022-r-t1",
+    "ky-en1-2022-r-t2",
+    "ky-en1-2022-r-t3",
+    "ky-en1-2022-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2022.js",
+    "year": 2022,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+  }
+}

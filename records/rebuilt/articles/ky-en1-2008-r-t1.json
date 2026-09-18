@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2008-r-t1",
+  "year": 2008,
+  "textNumber": 1,
+  "title": "Gender Inequality and Stress: Why Women Suffer More",
+  "chineseTitle": "性别不平等与压力机制：为何女性承受更深",
+  "topic": null,
+  "topicDomain": "医学心理与性别社会学",
+  "subTopic": "女性抑郁与焦虑高发的生物学机理、性激素反应差异、家庭多重角色重负与慢性人际关系损耗",
+  "overview": null,
+  "wordCount": 425,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自《Time》(美国《时代周刊》) 科学与心理专栏深度调查报道",
+  "paragraphCount": 6,
+  "sentenceCount": 23,
+  "vocabularyCount": 88,
+  "phraseCount": 51,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "本文选自美国著名杂志《时代周刊》（Time）聚焦神经科学与现代心理健康的专栏调查报告。在20世纪末至21世纪初，流行病学与公共卫生临床统计均表明：女性罹患严重抑郁障碍（Major Depression）和焦虑性障碍的概率在全世界范围内稳居男性的近两倍之高。在很长一段时间里，男权社会与传统医学常常将此归因为所谓的‘女性神经质脆弱’或情绪化偏见。然而，伴随神经内分泌学与女性主义社会学研究的深度交叉，纽约退伍军人管理医院（VA Hospital）著名创伤与应激心理学权威雷切尔·耶胡达（Rachel Yehuda）等专家通过严谨的动物及人体对照实验，揭示了这一现象背后被长期遮蔽的真相——这是人类生物性激素机制与当代社会不平等的家庭角色分工相互叠加作用的残酷必然结果。",
+      "coreDisputeOrTheme": "文章系统性地从‘生理’与‘社会’两个交织维度剖析了女性压力与情绪障碍的高发之谜：第一，生物激素层面的易感性（Biological Vulnerability）——雌性激素（如雌激素与孕激素）显著影响了下丘脑-垂体-肾上腺轴（HPA轴），使女性在同等压力诱因下分泌更多应激化学递质，而切除卵巢消除雌激素后两性反应立刻齐平；第二，应激暴露度的社会不平等（Social Exposure & Inequality）——女性在现代社会不仅要在职场与男性竞争，更在家庭内部承担着繁重的育儿、赡养与家务‘第二轮班（The Second Shift）’，承受着多得多的应激源（dealing with so many more things）；第三，压力性质的致命损耗——男性的压力多来源于偶发性、短促的战斗或外来治安暴力（One-shot deals），而女性面临的人际与家庭暴力往往发生在紧密的家庭关系之中，呈现持久性（chronic）、反复性（repeated）与不可脱身性，这种持续的‘身心磨损（wear-and-tear）’具有长期的毁灭性打击，最终导致女性过早枯竭崩溃。",
+      "keyTerminology": [
+        {
+          "term": "Susceptibility to Depression & Anxiety",
+          "explanation": "抑郁与焦虑易感性：指个体因生物遗传、性激素内分泌及神经递质通路等先天生理机制，在遭受外界压力时更容易诱发情绪障碍的生物学倾向。"
+        },
+        {
+          "term": "Stress Response & Sex Hormones",
+          "explanation": "应激反应与性激素：雌激素与雄激素对机体压力激素（皮质醇、肾上腺素等）分泌阈值与回馈调节通路的生理调控差异。"
+        },
+        {
+          "term": "Chronic vs One-Shot Stress",
+          "explanation": "慢性压力与一次性偶发压力：男性压力多为突发性偶发事件（如战场交火、街头暴力）；女性压力多为旷日持久、隐匿于家庭内部的慢性人际摩擦与经济重担。"
+        },
+        {
+          "term": "Living from Paycheck to Paycheck",
+          "explanation": "过着月光糊口的生活：美国社会底层与单亲家庭极其普遍的经济窘境，指每月的薪水只够勉强支撑房租账单而毫无积蓄储备，抗风险能力脆弱至极。"
+        }
+      ],
+      "crossExamLinks": [
+        {
+          "year": "2007 Text 3",
+          "theme": "双薪家庭的经济脆弱性与风险转嫁",
+          "relevance": "同样探讨家庭内部女性（Mom）在职场与家庭双重负担下的沉重压力与防线瓦解"
+        },
+        {
+          "year": "2014 Text 2",
+          "theme": "心理机制与日常习惯的重塑",
+          "relevance": "探讨人在长期逆境与心理挫败感中如何寻找微小的出路与应对策略"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "神经内分泌学、压力心理学与性别社会学 (Neuroendocrinology, Stress Psychology & Gender Studies)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "suscept- (在……之下受影响)",
+          "examples": [
+            "susceptible (易受影响的/易感的)",
+            "susceptibility (易感性)"
+          ]
+        },
+        {
+          "affix": "inter- (在……之间/相互)",
+          "examples": [
+            "interpersonal (人际之间的)",
+            "interact (相互作用)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "生理机制与化学反应",
+          "words": [
+            "sex hormones",
+            "ovaries",
+            "trigger chemicals",
+            "chemical responses",
+            "dose",
+            "biologically vulnerable"
+          ]
+        },
+        {
+          "theme": "压力性质与身心损耗",
+          "words": [
+            "chronic",
+            "repeated nature",
+            "one-shot deal",
+            "wear-and-tear",
+            "devastating",
+            "worn out",
+            "strain"
+          ]
+        },
+        {
+          "theme": "社会重担与应对疏解",
+          "words": [
+            "paycheck to paycheck",
+            "obligations",
+            "cope with",
+            "tolerate stress",
+            "diffuse stress",
+            "ability to function"
+          ]
+        }
+      ]
+    },
+    "nuancesAndConfusions": {
+      "familiarWordUncommonMeanings": [
+        {
+          "word": "spheres",
+          "location": "P1 L1",
+          "familiarMeaning": "球体",
+          "examMeaning": "领域，方面",
+          "contextCollocation": "in some spheres of modern life"
+        },
+        {
+          "word": "developing",
+          "location": "P1 L3",
+          "familiarMeaning": "发展",
+          "examMeaning": "患上，出现",
+          "contextCollocation": "developing depression and anxiety disorders"
+        },
+        {
+          "word": "depression",
+          "location": "P1 L3",
+          "familiarMeaning": "沮丧；经济萧条",
+          "examMeaning": "抑郁症/抑郁状态",
+          "contextCollocation": "depression and anxiety disorders"
+        },
+        {
+          "word": "disorders",
+          "location": "P1 L3",
+          "familiarMeaning": "混乱",
+          "examMeaning": "医学上的障碍、疾病",
+          "contextCollocation": "anxiety disorders"
+        },
+        {
+          "word": "Administration",
+          "location": "P1 L4",
+          "familiarMeaning": "管理；行政",
+          "examMeaning": "行政机构，管理局",
+          "contextCollocation": "Veteran’s Administration Hospital"
+        },
+        {
+          "word": "trigger",
+          "location": "P2 L2",
+          "familiarMeaning": "扳机",
+          "examMeaning": "诱因；触发因素",
+          "contextCollocation": "trigger chemicals"
+        },
+        {
+          "word": "dose",
+          "location": "P3 L1",
+          "familiarMeaning": "药物剂量",
+          "examMeaning": "某种物质或影响的量",
+          "contextCollocation": "dose of stress chemicals"
+        },
+        {
+          "word": "opportunities",
+          "location": "P3 L2",
+          "familiarMeaning": "机会，机遇",
+          "examMeaning": "压力暴露情境，带反讽",
+          "contextCollocation": "opportunities for stress"
+        },
+        {
+          "word": "observes",
+          "location": "P3 L4",
+          "familiarMeaning": "观察；遵守",
+          "examMeaning": "评论说，指出",
+          "contextCollocation": "she observes"
+        },
+        {
+          "word": "nature",
+          "location": "P4 L2",
+          "familiarMeaning": "自然；天性",
+          "examMeaning": "性质，特征",
+          "contextCollocation": "a chronic ... nature"
+        },
+        {
+          "word": "combat",
+          "location": "P4 L3",
+          "familiarMeaning": "战斗",
+          "examMeaning": "作战压力中的“作战”",
+          "contextCollocation": "combat stress"
+        },
+        {
+          "word": "acts",
+          "location": "P4 L3-L4",
+          "familiarMeaning": "行动；表演",
+          "examMeaning": "行为，举动",
+          "contextCollocation": "acts of physical violence"
+        },
+        {
+          "word": "domestic",
+          "location": "P4 L5",
+          "familiarMeaning": "国内的",
+          "examMeaning": "家庭的，家中的",
+          "contextCollocation": "domestic situations"
+        },
+        {
+          "word": "escape",
+          "location": "P5 L3",
+          "familiarMeaning": "逃跑",
+          "examMeaning": "解脱方式，精神出口",
+          "contextCollocation": "that was my escape"
+        },
+        {
+          "word": "strain",
+          "location": "P6 L3 / Q25 A",
+          "familiarMeaning": "拉伤",
+          "examMeaning": "压力，负担",
+          "contextCollocation": "feeling the strain / Strain of Stress"
+        },
+        {
+          "word": "demonstrates",
+          "location": "P6 L3",
+          "familiarMeaning": "示范；游行示威",
+          "examMeaning": "表明，说明",
+          "contextCollocation": "experience demonstrates..."
+        },
+        {
+          "word": "diffuse",
+          "location": "P6 L3",
+          "familiarMeaning": "扩散，传播",
+          "examMeaning": "分散、缓解压力",
+          "contextCollocation": "diffuse stress"
+        },
+        {
+          "word": "suggests",
+          "location": "Q22 题干",
+          "familiarMeaning": "建议",
+          "examMeaning": "表明，暗示",
+          "contextCollocation": "research suggests that..."
+        },
+        {
+          "word": "durable",
+          "location": "Q23 C",
+          "familiarMeaning": "耐用的",
+          "examMeaning": "持久的",
+          "contextCollocation": "durable and frequent"
+        },
+        {
+          "word": "household",
+          "location": "Q24 B",
+          "familiarMeaning": "房屋相关",
+          "examMeaning": "家庭；家庭单位",
+          "contextCollocation": "household expenses"
+        },
+        {
+          "word": "practically",
+          "location": "Q24 D",
+          "familiarMeaning": "实际地",
+          "examMeaning": "几乎，差不多",
+          "contextCollocation": "practically everything"
+        },
+        {
+          "word": "covered",
+          "location": "Q24 B",
+          "familiarMeaning": "覆盖",
+          "examMeaning": "支付、足以应付",
+          "contextCollocation": "salary barely covered expenses"
+        },
+        {
+          "word": "organ",
+          "location": "P2 L4",
+          "familiarMeaning": "器官",
+          "examMeaning": "机构，机关（其他语境常见）",
+          "contextCollocation": "reproductive organs"
+        },
+        {
+          "word": "stress",
+          "location": "P6 L4",
+          "familiarMeaning": "强调",
+          "examMeaning": "压力",
+          "contextCollocation": "diffuse stress"
+        },
+        {
+          "word": "equal to",
+          "location": "P2 L5",
+          "familiarMeaning": "等于",
+          "examMeaning": "与……相当；能胜任（其他语境）",
+          "contextCollocation": "became equal to those of the males"
+        }
+      ],
+      "confusingWordPairs": [
+        {
+          "pair": "susceptible / vulnerable",
+          "analysis": "二者都可表示“易受……影响”。susceptible 常接 to，强调对疾病、压力、影响因素的易感性；vulnerable 更宽泛，可指身体、心理、社会处境上的脆弱。"
+        },
+        {
+          "pair": "particularly / specially",
+          "analysis": "particularly 强调“尤其、特别”，用于突出程度或对象；specially 强调“专门地、特意地”。"
+        },
+        {
+          "pair": "depression / anxiety / disorder",
+          "analysis": "depression 指抑郁或沮丧，也可指经济萧条；anxiety 指焦虑、担忧；disorder 是医学上的障碍、失调。"
+        },
+        {
+          "pair": "trigger / cause / factor",
+          "analysis": "trigger 强调引发某反应的触发点；cause 是直接原因；factor 是影响因素，范围更宽。"
+        },
+        {
+          "pair": "stressful / stressed / stressed-out",
+          "analysis": "stressful 形容事情“令人有压力”；stressed 和 stressed-out 形容人“感到压力大”，stressed-out 语气更口语、更强。"
+        },
+        {
+          "pair": "cope with / deal with / handle",
+          "analysis": "cope with 强调在困难中应付、撑住；deal with 范围更广，可指处理问题或涉及话题；handle 更口语，强调处理能力。"
+        },
+        {
+          "pair": "capacity / ability / capability",
+          "analysis": "ability 泛指能力；capacity 可指承受、容纳或完成某事的能力；capability 更偏潜在能力、系统能力。"
+        },
+        {
+          "pair": "chronic / acute / temporary / durable",
+          "analysis": "chronic 指长期、慢性；acute 指急性、突然且严重；temporary 指暂时的；durable 指持久的/耐用的。本文女性压力对应 chronic/durable，不是 temporary。"
+        },
+        {
+          "pair": "domestic / national / household",
+          "analysis": "domestic 可指“家庭的”或“国内的”；national 指国家层面；household 指家庭单位或家庭相关开支。"
+        },
+        {
+          "pair": "diffuse / defuse",
+          "analysis": "diffuse 指扩散、分散，也可在文中表示分散压力；defuse 原义“拆除引信”，常表示化解危机、缓和紧张局势。"
+        },
+        {
+          "pair": "stress / strain",
+          "analysis": "stress 指压力或强调；strain 更强调压力造成的负担、紧张或拉伤。"
+        },
+        {
+          "pair": "salary / wage / paycheck",
+          "analysis": "salary 通常指定期薪水，多按月或年；wage 常指按小时、日、周支付的工资；paycheck 指工资支票或一次工资收入。"
+        },
+        {
+          "pair": "cover expenses / cover a surface",
+          "analysis": "cover 熟义是覆盖；在经济语境中表示支付、足以应付，如 cover costs/expenses。"
+        },
+        {
+          "pair": "suggest = advise / indicate",
+          "analysis": "suggest 可表示“建议”，也可表示“表明、暗示”。research/evidence suggests that... 通常译为“研究/证据表明”。"
+        },
+        {
+          "pair": "gender difference / gender inequality",
+          "analysis": "gender difference 指“性别差异”，侧重男女不同；gender inequality 指“性别不平等/处境不均”，更能突出本文反复讨论的女性压力处境。Q25 正确答案为 D，B 项只泛泛概括“性别差异”，未突出女性承压这一核心主体。"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+    "year": 2008,
+    "articleKey": "ky-en1-2008-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+  }
+}

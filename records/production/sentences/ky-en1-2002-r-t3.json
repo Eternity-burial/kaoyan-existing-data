@@ -1,0 +1,632 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Could the bad old days of economic decline be about to return?",
+    "translation": "经济衰退的糟糕日子会再次出现吗？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December.",
+    "translation": "自 3 月份 OPEC 同意减产以来，原油价格已从去年 12 月的每桶不到 10 美元跃升至近 26 美元。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "This near-tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-1980, when they also almost tripled.",
+    "translation": "石油价格几乎翻了三倍，让人想起 1973 年石油危机，当时价格翻了两番，而 1979 年至 1980 年，石油价格也几乎翻了三倍。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Both previous shocks resulted in double-digit inflation and global economic decline.",
+    "translation": "之前的两次冲击都导致了两位数的通货膨胀和全球经济衰退。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "So where are the headlines warning of gloom and doom this time?",
+    "translation": "那么，这次警告悲观和厄运的头条新闻在哪里呢？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "The oil price was given another push up this week when Iraq suspended oil exports.",
+    "translation": "本周伊拉克暂停石油出口，油价再次上涨。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short term.",
+    "translation": "在北半球冬季来临的同时，经济增长的加强可能会在短期内推高价格。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Yet there are good reasons to expect the economic consequences now to be less severe than in the 1970s.",
+    "translation": "然而，我们有充分的理由预计现在的经济后果不会比 20 世纪 70 年代那么严重。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s.",
+    "translation": "在大多数国家，原油成本目前在汽油价格中所占的比例比 20 世纪 70 年代要小。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.",
+    "translation": "在欧洲，税收占零售价格的五分之四，因此即使原油价格发生相当大的变化，对汽油价格的影响也比过去小。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price.",
+    "translation": "富裕经济体对石油的依赖也比以前减少了，因此对石油价格波动的敏感度也降低了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption.",
+    "translation": "节约能源、转向其他燃料以及重工业、能源密集型工业重要性的下降减少了石油消耗。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Software, consultancy and mobile telephones use far less oil than steel or car production.",
+    "translation": "软件、咨询和移动电话使用的石油远少于钢铁或汽车生产。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "For each dollar of GDP (in constant prices) rich economies now use nearly 50% less oil than in 1973.",
+    "translation": "富裕经济体现在每增加一美元 GDP（按不变价格计算）的石油用量比 1973 年减少了近 50%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP.",
+    "translation": "经合组织在其最新的《经济展望》中估计，如果全年油价平均为每桶 22 美元，而 1998 年为每桶 13 美元，那么富裕经济体的石油进口费用仅会增加 GDP 的 0.25-0.5%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "That is less than one-quarter of the income loss in 1974 or 1980.",
+    "translation": "这还不到 1974 年或 1980 年收入损失的四分之一。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed.",
+    "translation": "另一方面，重工业已转移到石油进口的新兴经济体已成为能源密集型国家，因此可能受到更严重的挤压。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand.",
+    "translation": "不要因油价上涨而失眠的另一个原因是，与 20 世纪 70 年代的上涨不同，这次上涨并不是在大宗商品价格普遍上涨和全球需求过剩的背景下发生的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "A sizable portion of the world is only just emerging from economic decline.",
+    "translation": "世界上相当大一部分地区刚刚摆脱经济衰退。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "The Economist's commodity price index is broadly unchanging from a year ago.",
+    "translation": "《经济学人》的商品价格指数与一年前相比基本没有变化。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.",
+    "translation": "1973 年，商品价格上涨了 70%，1979 年则上涨了近 30%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  }
+]

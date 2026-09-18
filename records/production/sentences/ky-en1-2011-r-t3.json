@@ -1,0 +1,744 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The rough guide to marketing success used to be that you got what you paid for.",
+    "translation": "在过去，营销成功的大致准则是：一分钱一分货。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (主系表 + 表语从句 + 宾语从句)",
+      "mainClause": "The rough guide to marketing success used to be (that...)",
+      "subordinateClauses": [
+        "表语从句: that you got what you paid for",
+        "宾语从句: what you paid for (作 got 的宾语)"
+      ],
+      "corePattern": "The rough guide used to be that... / get what you pay for"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "No longer.",
+    "translation": "如今，这条准则已不再适用。",
+    "syntaxAnalysis": {
+      "structureType": "省略句 (承前省略完整主谓)",
+      "mainClause": "It is no longer the rough guide to marketing success",
+      "subordinateClauses": [],
+      "corePattern": "No longer"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "While traditional \"paid\" media – such as television commercials and print advertisements – still play a major role, companies today can exploit many alternative forms of media.",
+    "translation": "虽然电视广告和平面广告等传统的“付费”媒体仍然占据重要地位，但今天的企业可以借助许多其他形式的媒体。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (让步状语从句 + 插入语 + 主句)",
+      "mainClause": "companies today can exploit many alternative forms of media",
+      "subordinateClauses": [
+        "让步状语从句: While traditional \"paid\" media still play a major role",
+        "破折号插入语: such as television commercials and print advertisements"
+      ],
+      "corePattern": "While... still play a major role, sb can exploit alternative forms of..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Consumers passionate about a product may create \"earned\" media by willingly promoting it to friends, and a company may leverage \"owned\" media by sending e-mail alerts about products and sales to customers registered with its Web site.",
+    "translation": "热衷于某种产品的消费者可能会主动向朋友推荐，从而形成“赢得（口碑）”媒体；企业也可以借助“自有”媒体，通过电子邮件向已在其网站注册的顾客发送产品和促销信息。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 (and连接两个分句 + 后置定语 + 过去分词后置定语)",
+      "mainClause": "Consumers may create \"earned\" media..., and a company may leverage \"owned\" media...",
+      "subordinateClauses": [
+        "后置定语1: passionate about a product (修饰 Consumers)",
+        "方式状语1: by willingly promoting it to friends",
+        "方式状语2: by sending e-mail alerts about products and sales to customers registered with its Web site",
+        "后置定语2: registered with its Web site (过去分词短语修饰 customers)"
+      ],
+      "corePattern": "passionate about / promote sth to sb / leverage / registered with"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "The way consumers now approach the process of making purchase decisions means that marketing's impact stems from a broad range of factors beyond conventional paid media.",
+    "translation": "如今消费者做出购买决策的方式意味着，营销的影响力源于传统付费媒体之外的广泛因素。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (定语从句省略引导词 + 宾语从句)",
+      "mainClause": "The way means that marketing's impact stems from a broad range of factors beyond conventional paid media",
+      "subordinateClauses": [
+        "定语从句: (that/in which) consumers now approach the process of making purchase decisions (修饰 The way)",
+        "宾语从句: that marketing's impact stems from a broad range of factors beyond conventional paid media"
+      ],
+      "corePattern": "The way sb do sth means that / stem from / beyond conventional paid media"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Paid and owned media are controlled by marketers promoting their own products.",
+    "translation": "付费媒体和自有媒体由推广自身产品的营销者所掌控。",
+    "syntaxAnalysis": {
+      "structureType": "被动语态简单句 + 现在分词后置定语",
+      "mainClause": "Paid and owned media are controlled by marketers",
+      "subordinateClauses": [
+        "后置定语: promoting their own products (修饰 marketers)"
+      ],
+      "corePattern": "be controlled by sb doing sth"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "For earned media, such marketers act as the initiator for users' responses.",
+    "translation": "对于“赢得（口碑）”媒体而言，这类营销者扮演的是引发用户回应的角色。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (介词状语 + 主谓宾)",
+      "mainClause": "such marketers act as the initiator for users' responses",
+      "subordinateClauses": [],
+      "corePattern": "act as the initiator for"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "But in some cases, one marketer's owned media become another marketer's paid media, for instance, when an e-commerce retailer sells ad space on its Web site.",
+    "translation": "但在某些情况下，一个营销者的自有媒体会变成另一个营销者的付费媒体，例如电商零售商在自己的网站上出售广告位时便是如此。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (并列转折 + 时间状语从句举例)",
+      "mainClause": "one marketer's owned media become another marketer's paid media",
+      "subordinateClauses": [
+        "时间状语从句: when an e-commerce retailer sells ad space on its Web site (for instance举例)"
+      ],
+      "corePattern": "owned media become paid media / sell ad space"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "We define such sold media as owned media whose traffic is so strong that other organizations place their content or e-commerce engines within that environment.",
+    "translation": "我们将这类“售出”媒体定义为：流量足够可观、以至于其他机构愿意将自己的内容或电商引擎嵌入其中的自有媒体。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (定语从句 + 结果状语从句)",
+      "mainClause": "We define such sold media as owned media",
+      "subordinateClauses": [
+        "定语从句: whose traffic is so strong (修饰 owned media)",
+        "结果状语从句: that other organizations place their content or e-commerce engines within that environment"
+      ],
+      "corePattern": "define A as B / whose traffic is so strong that..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "This trend, which we believe is still in its infancy, effectively began with retailers and travel providers such as airlines and hotels and will no doubt go further.",
+    "translation": "我们认为这一趋势仍处于萌芽阶段，它实际上始于零售商以及航空公司、酒店等旅游服务提供商，并且无疑会进一步发展。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (非限制性定语从句中含插入语 + 并列谓语)",
+      "mainClause": "This trend effectively began with retailers and travel providers... and will no doubt go further",
+      "subordinateClauses": [
+        "非限制性定语从句: which is still in its infancy (修饰 trend)",
+        "从句插入语: we believe"
+      ],
+      "corePattern": "in its infancy / begin with / will no doubt go further"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Johnson & Johnson, for example, has created BabyCenter, a stand-alone media property that promotes complementary and even competitive products.",
+    "translation": "例如，强生公司创办了BabyCenter，这是一个独立运营的媒体资产，上面推广互补性产品，甚至包括与自家产品存在竞争关系的产品。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (同位语 + 定语从句)",
+      "mainClause": "Johnson & Johnson has created BabyCenter",
+      "subordinateClauses": [
+        "同位语: a stand-alone media property (解释 BabyCenter)",
+        "定语从句: that promotes complementary and even competitive products (修饰 property)"
+      ],
+      "corePattern": "stand-alone media property / promote complementary products"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "Besides generating income, the presence of other marketers makes the site seem objective, gives companies opportunities to learn valuable information about the appeal of other companies' marketing, and may help expand user traffic for all companies concerned.",
+    "translation": "除了带来收入之外，其他营销者的入驻还让网站显得更加客观，使企业有机会了解其他公司营销活动吸引力方面的宝贵信息，并有助于为所有相关企业扩大用户流量。",
+    "syntaxAnalysis": {
+      "structureType": "复杂简单句 (介词短语状语 + 三个并列谓语动词短语)",
+      "mainClause": "the presence of other marketers makes..., gives..., and may help expand...",
+      "subordinateClauses": [
+        "伴随状语: Besides generating income",
+        "谓语1: makes the site seem objective (make + 宾语 + 省略to不定式)",
+        "谓语2: gives companies opportunities to learn valuable information about...",
+        "谓语3: may help expand user traffic for all companies concerned (concerned作后置定语)"
+      ],
+      "corePattern": "Besides doing sth / make sth seem objective / expand user traffic"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The same dramatic technological changes that have provided marketers with more (and more diverse) communications choices have also increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways.",
+    "translation": "恰是这些剧烈的技术变革，在给营销人员提供更多、更多样的传播选择的同时，也增加了风险：热情的消费者会以更快、更显眼且更具破坏力的方式发表看法。",
+    "syntaxAnalysis": {
+      "structureType": "复合长难句 (定语从句 + 同位语从句)",
+      "mainClause": "The same dramatic technological changes have also increased the risk",
+      "subordinateClauses": [
+        "限制性定语从句: that have provided marketers with more choices (修饰 changes)",
+        "同位语从句: that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways (解释 risk)"
+      ],
+      "corePattern": "provide sb with sth / increase the risk that / voice opinions"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Such hijacked media are the opposite of earned media: an asset or campaign becomes hostage to consumers, other stakeholders, or activists who make negative allegations about a brand or product.",
+    "translation": "这种被劫持的媒体与赢得媒体恰好相反：某项品牌资产或营销活动受制于消费者、其他利益相关者或社会活动人士，而这些人会对相关品牌或产品提出负面指控。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (冒号解释 + 定语从句)",
+      "mainClause": "Such hijacked media are the opposite of earned media",
+      "subordinateClauses": [
+        "同位说明: an asset or campaign becomes hostage to consumers...",
+        "限制性定语从句: who make negative allegations about a brand or product (修饰 consumers, stakeholders, or activists)"
+      ],
+      "corePattern": "be the opposite of / become hostage to / make negative allegations"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Members of social networks, for instance, are learning that they can hijack media to apply pressure on the businesses that originally created them.",
+    "translation": "例如，社交网络的成员正逐渐意识到，他们可以劫持这些媒体，向最初创建它们的企业施压。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (宾语从句 + 目的状语 + 定语从句)",
+      "mainClause": "Members of social networks are learning (that...)",
+      "subordinateClauses": [
+        "宾语从句: that they can hijack media to apply pressure on the businesses...",
+        "目的状语: to apply pressure on...",
+        "定语从句: that originally created them (修饰 businesses)"
+      ],
+      "corePattern": "hijack media / apply pressure on / originally create"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "If that happens, passionate consumers would try to persuade others to boycott products, putting the reputation of the target company at risk.",
+    "translation": "一旦发生这种情况，热情的消费者就会试图劝说他人抵制相关产品，使目标企业的声誉面临风险。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (条件状语从句 + 现在分词作结果状语)",
+      "mainClause": "passionate consumers would try to persuade others to boycott products",
+      "subordinateClauses": [
+        "条件状语从句: If that happens",
+        "结果状语: putting the reputation of the target company at risk"
+      ],
+      "corePattern": "persuade sb to boycott / put sth at risk"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "In such a case, the company's response may not be sufficiently quick or thoughtful, and the learning curve has been steep.",
+    "translation": "在这种情况下，企业的回应可能不够迅速，也不够周全，而且相关经验的积累过程也十分艰难。",
+    "syntaxAnalysis": {
+      "structureType": "并列句 (and连接两个分句)",
+      "mainClause": "the company's response may not be sufficiently quick or thoughtful, and the learning curve has been steep",
+      "subordinateClauses": [],
+      "corePattern": "sufficiently quick or thoughtful / the learning curve has been steep"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign, which included efforts to engage with consumers directly on sites such as Twitter and the social-news site Digg.",
+    "translation": "例如，丰田汽车通过一场相对迅速且精心策划的社交媒体应对行动，减轻了今年早些时候召回危机造成的部分损失，其中包括在Twitter和社交新闻网站Digg等平台上与消费者直接互动。",
+    "syntaxAnalysis": {
+      "structureType": "复合长难句 (主谓宾 + 方式状语 + 非限制性定语从句 + 不定式定语)",
+      "mainClause": "Toyota Motor alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign",
+      "subordinateClauses": [
+        "非限制性定语从句: which included efforts to engage with consumers directly on sites such as Twitter and the social-news site Digg (修饰 campaign)",
+        "后置定语: to engage with consumers directly... (不定式修饰 efforts)"
+      ],
+      "corePattern": "alleviate damage / recall crisis / well-orchestrated campaign / engage with consumers directly"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  }
+]

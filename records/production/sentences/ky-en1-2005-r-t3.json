@@ -1,0 +1,662 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Of all the components of a good night's sleep, dreams seem to be least within our control.",
+    "translation": "在良好睡眠的所有组成部分中，梦似乎是我们最无法控制的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "In dreams, a window opens into a world where logic is suspended and dead people speak.",
+    "translation": "在梦中，一扇窗户打开，通向一个逻辑被悬置、死人说话的世界。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "A century ago, Freud formulated his revolutionary theory that dreams were the disguised shadows of our unconscious desires and fears; by the late 1970s, neurologists had switched to thinking of them as just \"mental noise\"—the random byproducts of the neural-repair work that goes on during sleep.",
+    "translation": "一个世纪前，弗洛伊德提出了他的革命性理论，即梦是我们无意识欲望和恐惧的伪装阴影；梦是我们无意识欲望和恐惧的伪装阴影。到了 20 世纪 70 年代末，神经学家开始将它们视为“精神噪音”——睡眠期间进行的神经修复工作的随机副产品。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Now researchers suspect that dreams are part of the mind's emotional thermostat, regulating moods while the brain is \"off-line.\" And one leading authority says that these intensely powerful mental events can be not only harnessed but actually brought under conscious control, to help us sleep and feel better.",
+    "translation": "现在，研究人员怀疑，梦是大脑情绪恒温器的一部分，可以在大脑“离线”时调节情绪。一位权威人士表示，这些极其强大的心理事件不仅可以被利用，而且实际上可以被置于有意识的控制之下，以帮助我们睡眠和感觉更好。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "\"It's your dream,\" says Rosalind Cartwright, chair of psychology at Chicago's Medical Center.",
+    "translation": "“这是你的梦想，”芝加哥医学中心心理学主任罗莎琳德·卡特赖特说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "\"If you don't like it, change it.\" Evidence from brain imaging supports this view.",
+    "translation": "“如果你不喜欢它，就改变它。”来自大脑成像的证据支持了这一观点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "The brain is as active during REM (rapid eye movement) sleep – when most vivid dreams occur—as it is when fully awake, says Dr. Eric Nofzinger at the University of Pittsburgh.",
+    "translation": "匹兹堡大学的埃里克·诺夫辛格博士说，在快速眼动睡眠期间（最生动的梦发生时），大脑与完全清醒时一样活跃。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "But not all parts of the brain are equally involved; the limbic system (the \"emotional brain\") is especially active, while the prefrontal cortex (the center of intellect and reasoning) is relatively quiet.",
+    "translation": "但并非大脑的所有部分都同样参与其中。边缘系统（“情感脑”）特别活跃，而前额叶皮层（智力和推理中心）相对安静。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "\"We wake up from dreams happy or depressed, and those feelings can stay with us all day.\" says Stanford sleep researcher Dr. William Dement.",
+    "translation": "“我们从快乐或沮丧的梦中醒来，这些感觉会伴随我们一整天。”斯坦福大学睡眠研究员威廉·德门特博士说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "The link between dreams and emotions shows up among the patients in Cartwright's clinic.",
+    "translation": "梦和情绪之间的联系在卡特赖特诊所的病人身上显现出来。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Most people seem to have more bad dreams early in the night, progressing toward happier ones before awakening, suggesting that they are working through negative feelings generated during the day.",
+    "translation": "大多数人似乎在深夜会做更多的噩梦，在醒来之前会做一些更快乐的梦，这表明他们正在努力克服白天产生的负面情绪。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Because our conscious mind is occupied with daily life we don't always think about the emotional significance of the day's events—until, it appears, we begin to dream.",
+    "translation": "因为我们的意识思维被日常生活占据，所以我们并不总是思考当天事件的情感意义——直到我们开始做梦。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "And this process need not be left to the unconscious.",
+    "translation": "这个过程不需要留给无意识。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "Cartwright believes one can exercise conscious control over recurring bad dreams.",
+    "translation": "卡特赖特相信，人们可以有意识地控制反复出现的噩梦。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "As soon as you awaken, identify what is upsetting about the dream.",
+    "translation": "醒来后，立即找出梦中令人不安的原因。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course.",
+    "translation": "想象一下你希望它如何结束；下次发生这种情况时，尝试醒来足以控制其进程。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "With much practice people can learn to, literally, do it in their sleep.",
+    "translation": "通过大量练习，人们实际上可以学会在睡梦中做到这一点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "At the end of the day, there's probably little reason to pay attention to our dreams at all unless they keep us from sleeping or \"we wake up in a panic,\" Cartwright says.",
+    "translation": "卡特赖特说，归根结底，我们可能根本没有理由去关注我们的梦，除非它们让我们无法入睡或“我们在惊慌中醒来”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Terrorism, economic uncertainties and general feelings of insecurity have increased people's anxiety.",
+    "translation": "恐怖主义、经济不确定性和普遍的不安全感加剧了人们的焦虑。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Those suffering from persistent nightmares should seek help from a therapist.",
+    "translation": "那些经常做噩梦的人应该寻求治疗师的帮助。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "For the rest of us, the brain has its ways of working through bad feelings.",
+    "translation": "对于我们其他人来说，大脑有其处理不良情绪的方式。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "Sleep—or rather dream—on it and you'll feel better in the morning.",
+    "translation": "睡觉——或者更确切地说做梦——早上你会感觉更好。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  }
+]

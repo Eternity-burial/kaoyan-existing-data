@@ -1,0 +1,422 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "According to those who support mergers, railway monopoly is unlikely because\\_\\_\\_\\_\\_.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "cost reduction is based on competition.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "services call for cross-trade coordination.",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "outside competitors will continue to exist.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "shippers will have the railway by the throat.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 D 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 31 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "According",
+        "those",
+        "support"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "What is many captive shippers' attitude towards the consolidation in the rail industry?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Indifferent.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 A 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Supportive.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Indignant.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Apprehensive.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 32 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "What",
+        "many",
+        "captive"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "It can be inferred from paragraph 3 that_____.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "shippers will be charged less without a rival railroad.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "there will soon be only one railroad company nationwide.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "overcharged shippers are unlikely to appeal for rate relief.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "a government board ensures fair play in railway business.",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "词义句意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 33 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "inferred",
+        "from",
+        "paragraph"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "The word \"arbiters\" (line 7, paragraph 4) most probably refers to those\\_\\_\\_\\_\\_.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "who work as coordinators.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "who function as judges.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 B 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "who supervise transactions.",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "who determine the price.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 34 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "word",
+        "arbiters",
+        "line"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "According to the text, the cost increase in the rail industry is mainly caused by_____.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the continuing acquisition.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the growing traffic.",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the cheering Wall Street.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the shrinking market.",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 35 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "According",
+        "text",
+        "cost"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  }
+]

@@ -1,0 +1,678 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "scold",
+    "word": "scold",
+    "ipa": "/skoʊld/",
+    "pos": "v.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "训斥，责备",
+    "examMeaning": "斥责，责骂",
+    "collocationOrDerivation": "scold sb. for (doing) sth. 因某事责骂某人",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "descend",
+    "word": "descend",
+    "ipa": "/dɪˈsend/",
+    "pos": "v.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "降临，由高处流落到下层",
+    "examMeaning": "下降，下斜；流传，遗传",
+    "collocationOrDerivation": "descend from ... to ... 从...传降至...；descendant n. 后裔",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "bargain",
+    "word": "bargain",
+    "ipa": "/ˈbɑːrɡən/",
+    "pos": "n./v.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "廉价货，特价商品",
+    "examMeaning": "特价品；协议；讨价还价",
+    "collocationOrDerivation": "bargain bin 折价大甩卖箱；drive a hard bargain 极力讨价还价",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "doubtless",
+    "word": "doubtless",
+    "ipa": "/ˈdaʊtləs/",
+    "pos": "adv.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "无疑地，肯定地",
+    "examMeaning": "无疑地，大概",
+    "collocationOrDerivation": "doubtless to say 无疑；doubtful adj. 怀疑的",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "conception",
+    "word": "conception",
+    "ipa": "/kənˈsepʃn/",
+    "pos": "n.",
+    "sourceLocation": "P2 S3",
+    "contextMeaning": "概念，观念",
+    "examMeaning": "概念，设想；怀孕",
+    "collocationOrDerivation": "top-down conception 自上而下的理念；misconception n. 误解",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "feverish",
+    "word": "feverish",
+    "ipa": "/ˈfiːvərɪʃ/",
+    "pos": "adj.",
+    "sourceLocation": "P2 S3",
+    "contextMeaning": "狂热的，极度兴奋的",
+    "examMeaning": "发烧的；狂热不安的",
+    "collocationOrDerivation": "feverish excitement 狂热兴奋；feverishly adv. 狂热地",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "indictment",
+    "word": "indictment",
+    "ipa": "/ɪnˈdaɪtmənt/",
+    "pos": "n.",
+    "sourceLocation": "P2 S3",
+    "contextMeaning": "谴责，控诉，严正控诉",
+    "examMeaning": "起诉书，控告；控诉，谴责",
+    "collocationOrDerivation": "an indictment of / on sth. 对...的控诉；indict v. 起诉，控告",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "anticipate",
+    "word": "anticipate",
+    "ipa": "/ænˈtɪsɪpeɪt/",
+    "pos": "v.",
+    "sourceLocation": "P2 S4",
+    "contextMeaning": "预判，预期",
+    "examMeaning": "预料，预期；先于...做",
+    "collocationOrDerivation": "anticipate demand 预判需求；anticipation n. 期待，预料",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "turnaround",
+    "word": "turnaround",
+    "ipa": "/ˈtɜːrnəraʊnd/",
+    "pos": "n.",
+    "sourceLocation": "P2 S5",
+    "contextMeaning": "货品周转期；好转",
+    "examMeaning": "周转时间；转变，转机",
+    "collocationOrDerivation": "quick turnaround 快速周转；turn around 转机，好转",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "inventory",
+    "word": "inventory",
+    "ipa": "/ˈɪnvəntɔːri/",
+    "pos": "n.",
+    "sourceLocation": "P2 S5",
+    "contextMeaning": "库存存货",
+    "examMeaning": "详细目录；存货清单，库存",
+    "collocationOrDerivation": "wasted inventory 积压浪费的存货；inventory turnover 库存周转率",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "disposable",
+    "word": "disposable",
+    "ipa": "/dɪˈspoʊzəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "用后即弃的，一次性的",
+    "examMeaning": "一次性的；可动用的，可支配的",
+    "collocationOrDerivation": "disposable income 可支配收入；dispose of 处理，丢弃",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "wardrobe",
+    "word": "wardrobe",
+    "ipa": "/ˈwɔːrdroʊb/",
+    "pos": "n.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "（个人拥有的）全部衣服，衣橱",
+    "examMeaning": "衣柜；行头，全部服装",
+    "collocationOrDerivation": "renew one's wardrobe 更新衣橱",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "hijack",
+    "word": "hijack",
+    "ipa": "/ˈhaɪdʒæk/",
+    "pos": "v.",
+    "sourceLocation": "P2 S7",
+    "contextMeaning": "强行控制，劫持，绑架",
+    "examMeaning": "劫持（飞机等）；霸占，强行操纵",
+    "collocationOrDerivation": "hijack fashion cycles 劫持时尚周期；hijacker n. 劫持者",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "accustom",
+    "word": "accustom",
+    "ipa": "/əˈkʌstəm/",
+    "pos": "v.",
+    "sourceLocation": "P2 S7",
+    "contextMeaning": "使适应，使习惯于",
+    "examMeaning": "使习惯于",
+    "collocationOrDerivation": "be accustomed to (doing) sth. 习惯于...",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "knit",
+    "word": "knit",
+    "ipa": "/nɪt/",
+    "pos": "v./adj.",
+    "sourceLocation": "P3 S9",
+    "contextMeaning": "针织的；编织",
+    "examMeaning": "针织，编织；使紧密结合",
+    "collocationOrDerivation": "knit miniskirt 针织超短裙；close-knit 紧密团结的",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "strain",
+    "word": "strain",
+    "ipa": "/streɪn/",
+    "pos": "v./n.",
+    "sourceLocation": "P3 S9",
+    "contextMeaning": "使不堪重负，过度消耗，竭力",
+    "examMeaning": "使过度紧张，拉伤；压力，重负",
+    "collocationOrDerivation": "strain natural resources 耗竭自然资源；under the strain of 在...重压下",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "omnivore",
+    "word": "omnivore",
+    "ipa": "/ˈɑːmnɪvɔːr/",
+    "pos": "n.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "杂食动物（指人类）",
+    "examMeaning": "杂食动物；什么都读/看的人",
+    "collocationOrDerivation": "The Omnivore's Dilemma 《杂食者的杂食困境》；carnivore 肉食动物；herbivore 草食动物",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "dilemma",
+    "word": "dilemma",
+    "ipa": "/dɪˈlemə/",
+    "pos": "n.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "进退两难的困境",
+    "examMeaning": "进退两难，窘境",
+    "collocationOrDerivation": "be in a dilemma 处于两难境地；ethical dilemma 道德困境",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "non-durable",
+    "word": "non-durable",
+    "ipa": "/ˌnɑːnˈdʊrəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S11",
+    "contextMeaning": "不耐用的，非耐用品的",
+    "examMeaning": "不耐用的，不经久的",
+    "collocationOrDerivation": "durable goods 耐用品；durability n. 耐久性",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "roughly",
+    "word": "roughly",
+    "ipa": "/ˈrʌfli/",
+    "pos": "adv.",
+    "sourceLocation": "P4 S12",
+    "contextMeaning": "大约，粗略地",
+    "examMeaning": "粗暴地；粗略地，大约",
+    "collocationOrDerivation": "buy roughly 20 billion 大约购买200亿件",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "excess",
+    "word": "excess",
+    "ipa": "/ɪkˈses/",
+    "pos": "n./adj.",
+    "sourceLocation": "P4 S12",
+    "contextMeaning": "过度，过量消费",
+    "examMeaning": "过量，无节制；过度的",
+    "collocationOrDerivation": "excessive consumption 过度消费；in excess of 超过",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "knock off",
+    "word": "knock off",
+    "ipa": "/nɑːk ɔːf/",
+    "pos": "v. phr.",
+    "sourceLocation": "P5 S14",
+    "contextMeaning": "仿制，山寨，廉价复制（熟词僻义）",
+    "examMeaning": "仿制；停工，下班；扣除",
+    "collocationOrDerivation": "knock-off n. 仿制品，冒牌货",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "curb",
+    "word": "curb",
+    "ipa": "/kɜːrb/",
+    "pos": "v./n.",
+    "sourceLocation": "P6 S15",
+    "contextMeaning": "控制，抑制，遏制",
+    "examMeaning": "控制，抑制；路缘",
+    "collocationOrDerivation": "curb one's impact 遏制负面影响；curb inflation 抑制通胀",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "sustainability",
+    "word": "sustainability",
+    "ipa": "/səˌsteɪnəˈbɪləti/",
+    "pos": "n.",
+    "sourceLocation": "P6 S16",
+    "contextMeaning": "可持续性，生态永续性",
+    "examMeaning": "可持续性，能维持性",
+    "collocationOrDerivation": "advocates of sustainability 可持续发展倡导者；sustainable growth 可持续增长",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "vanity",
+    "word": "vanity",
+    "ipa": "/ˈvænəti/",
+    "pos": "n.",
+    "sourceLocation": "P6 S17",
+    "contextMeaning": "虚荣心，自负爱美",
+    "examMeaning": "虚荣心，自负；虚无，微不足道",
+    "collocationOrDerivation": "Vanity is a constant 虚荣是永恒常态；vanity project 面子工程",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "surface": "constant",
+    "word": "constant",
+    "ipa": "/ˈkɑːnstənt/",
+    "pos": "n./adj.",
+    "sourceLocation": "P6 S17",
+    "contextMeaning": "常态，不变的事物",
+    "examMeaning": "常数，不变之物；持续不断的",
+    "collocationOrDerivation": "a constant factor 恒定因素；constantly adv. 持续地",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  }
+]

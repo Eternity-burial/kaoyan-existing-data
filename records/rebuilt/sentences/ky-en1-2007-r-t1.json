@@ -1,0 +1,691 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "If you were to examine the birth certificates of every soccer player in 2006's World Cup tournament, you would most likely find a noteworthy quirk: elite soccer players are more likely to have been born in the earlier months of the year than in the later months.",
+    "translation": "如果你去查看2006年世界杯锦标赛每一位足球运动员的出生证明，很有可能会发现一个耐人寻味的奇特现象：顶尖职业球员出生在上半年的几率要显著高于出生在下半年。",
+    "syntaxAnalysis": {
+      "structureType": "条件虚拟语气复合句 + 宾语从句 + 冒号同位解释",
+      "mainClause": "you would most likely find a noteworthy quirk（主谓宾，对将来情况的虚拟假设）",
+      "subordinateClauses": [
+        "条件状语从句: If you were to examine...（were to + 动词原形表示对将来的假设）",
+        "同位解释: elite soccer players are more likely to have been born...（不定式完成时表示动作发生在谓语之前）"
+      ],
+      "corePattern": "If sb were to do..., sb would do...（与将来相反的虚拟语气）"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "If you then examined the European national youth teams that feed the World Cup and professional ranks, you would find this strange phenomenon to be even more pronounced.",
+    "translation": "如果你再去考察那些向世界杯和职业球队输送人才的欧洲各国青年队，就会发现这一奇怪现象更加明显。",
+    "syntaxAnalysis": {
+      "structureType": "虚拟条件复合句 + 定语从句",
+      "mainClause": "you would find this strange phenomenon to be even more pronounced",
+      "subordinateClauses": [
+        "定语从句: that feed the World Cup and professional ranks 修饰 European national youth teams"
+      ],
+      "corePattern": "feed the ranks（输送生源/队伍）"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "What might account for this strange phenomenon?",
+    "translation": "该如何解释这种奇怪的现象呢？",
+    "syntaxAnalysis": {
+      "structureType": "特殊疑问句（承上启下设问句）",
+      "mainClause": "What might account for this strange phenomenon",
+      "subordinateClauses": [],
+      "corePattern": "account for（对……做出解释 / 占据……比例）"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Here are a few guesses: a) certain astrological signs confer superior soccer skills; b) winter-born babies tend to have higher oxygen capacity, which increases soccer stamina; c) soccer-mad parents are more likely to conceive children in springtime, at the annual peak of soccer mania; d) none of the above.",
+    "translation": "下面是几种猜测：a）某些星座赋予人卓越的足球技能；b）冬天出生的婴儿往往肺活量更高，从而增强了足球耐力；c）酷爱足球的父母更可能在春天怀上孩子，因为春天正是每年足球狂热的巅峰期；d）以上都不是。",
+    "syntaxAnalysis": {
+      "structureType": "倒装引出列举结构 + 非限制性定语从句",
+      "mainClause": "Here are a few guesses（倒装结构）",
+      "subordinateClauses": [
+        "非限制性定语从句: which increases soccer stamina 修饰整个选项b前面的事实"
+      ],
+      "corePattern": "confer sth on sb / tend to do sth / be likely to do sth"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Anders Ericsson, a 58-year-old psychology professor at Florida State University, says he believes strongly in \"none of the above.\"",
+    "translation": "佛罗里达州立大学58岁的心理学教授安德斯·埃里克森表示，他坚信答案是“以上都不是”。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 同位语",
+      "mainClause": "Anders Ericsson says he believes strongly in 'none of the above'",
+      "subordinateClauses": [
+        "同位语: a 58-year-old psychology professor at Florida State University 修饰 Anders Ericsson"
+      ],
+      "corePattern": "believe strongly in sth"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Ericsson grew up in Sweden, and studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology.",
+    "translation": "埃里克森在瑞典长大，起初攻读核工程学，直到他意识到如果转向心理学，将有更多机会开展自己独立的研究。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 + 时间状语从句 + 宾语从句 + 条件状语从句",
+      "mainClause": "Ericsson grew up in Sweden, and studied nuclear engineering",
+      "subordinateClauses": [
+        "时间状语从句: until he realized...",
+        "宾语从句: (that) he would have more opportunity...",
+        "条件状语从句: if he switched to psychology"
+      ],
+      "corePattern": "conduct research / switch to"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "His first experiment, nearly 30 years ago, involved memory: training a person to hear and then repeat a random series of numbers.",
+    "translation": "将近30年前他所做的第一个实验与记忆力有关：训练一个人在听完一串随机数字后将其复述出来。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 插入语 + 冒号解释",
+      "mainClause": "His first experiment involved memory",
+      "subordinateClauses": [
+        "时间插入语: nearly 30 years ago",
+        "冒号后分词短语作同位语解释: training a person to hear and then repeat a random series of numbers"
+      ],
+      "corePattern": "involve doing sth"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "\"The first subject, after about 20 hours of training, was able to recall 20 numbers, up from seven,\" says Ericsson. \"He kept improving, and after about 200 hours of training he could recall more than 80 numbers.\"",
+    "translation": "“第一位受试者在经过大约20小时的训练后，能记住的数字从7个提高到了20个，”埃里克森回忆道，“他不断取得突破，在接受了大约200小时的训练后，能记住的数字超过了80个。”",
+    "syntaxAnalysis": {
+      "structureType": "直接引语复合句",
+      "mainClause": "says Ericsson（倒装引述句）",
+      "subordinateClauses": [],
+      "corePattern": "up from... to... / keep doing sth"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.",
+    "translation": "这一成功，加上后来表明记忆本身并非由基因决定的研究所提供的佐证，使埃里克森得出结论：记忆行为更多的是一种认知练习，而不是一种直觉活动。",
+    "syntaxAnalysis": {
+      "structureType": "并列伴随主语 + 伴随分词短语 + 宾语从句 + 比较结构",
+      "mainClause": "This success led Ericsson to conclude that...",
+      "subordinateClauses": [
+        "伴随介词短语: coupled with later research（加上随后的研究）",
+        "现在分词定语: showing that memory itself is not genetically determined",
+        "宾语从句: that the act of memorizing is more of a cognitive exercise than an intuitive one"
+      ],
+      "corePattern": "coupled with... / lead sb to do sth / more of A than B（与其说是B不如说是A）"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "In other words, whatever innate differences two people may exhibit in their abilities to memorize, those differences are swamped by how well each person \"encodes\" the information.",
+    "translation": "换言之，无论两个人在记忆能力方面表现出何种先天差异，这些差异都会被各自对信息进行“编码”的高低水平所掩盖。",
+    "syntaxAnalysis": {
+      "structureType": "让步状语从句 + 主句（被动语态） + 介词宾语从句",
+      "mainClause": "those differences are swamped by...",
+      "subordinateClauses": [
+        "让步状语从句: whatever innate differences two people may exhibit in their abilities to memorize",
+        "介词宾语从句: how well each person 'encodes' the information"
+      ],
+      "corePattern": "whatever differences sb may exhibit / be swamped by（被……淹没/掩盖）"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as deliberate practice.",
+    "translation": "而埃里克森认定，学会对信息进行有意义编码的最佳途径，正是一种被称为“刻意练习”的过程。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 + 插入语 + 后置分词定语",
+      "mainClause": "the best way was a process",
+      "subordinateClauses": [
+        "不定式作后置定语: to learn how to encode information meaningfully",
+        "插入语: Ericsson determined",
+        "过去分词作后置定语: known as deliberate practice"
+      ],
+      "corePattern": "the best way to do sth is... / known as"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "Deliberate practice entails more than simply repeating a task.",
+    "translation": "刻意练习绝不仅仅意味着机械重复一项任务。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 动名词宾语",
+      "mainClause": "Deliberate practice entails more than simply repeating a task",
+      "subordinateClauses": [],
+      "corePattern": "entail doing sth / more than simply doing"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P4-S5",
+      "pIndex": 4
+    },
+    "text": "Rather, it involves setting specific goals, obtaining immediate feedback and concentrating as much on technique as on outcome.",
+    "translation": "相反，它包括设定具体明确的目标、获取即时反馈，以及在关注技巧的同时同样高度关注结果。",
+    "syntaxAnalysis": {
+      "structureType": "转折主句 + 三个并列动名词宾语 + 平衡比较结构",
+      "mainClause": "it involves setting..., obtaining... and concentrating...",
+      "subordinateClauses": [],
+      "corePattern": "involve doing A, doing B and doing C / concentrate as much on A as on B"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Ericsson and his colleagues have thus taken to studying expert performers in a wide range of pursuits, including soccer.",
+    "translation": "因此，埃里克森和他的同事们开始着手研究各类广泛领域中的顶尖高手，其中就包括足球。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 介词介词短语",
+      "mainClause": "Ericsson and his colleagues have thus taken to studying expert performers",
+      "subordinateClauses": [],
+      "corePattern": "take to doing sth（开始养成……习惯/着手从事） / in a wide range of pursuits"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "They gather all the data they can, not just performance statistics and biographical details but also the results of their own laboratory experiments with high achievers.",
+    "translation": "他们尽可能搜集所有能够获取的数据，不仅包括比赛表现统计和个人传记细节，还包括他们在实验室中对卓越成就者开展的一系列实验结果。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 定语从句 + not just... but also... 复合宾语",
+      "mainClause": "They gather all the data, not just A but also B",
+      "subordinateClauses": [
+        "定语从句: (that) they can 修饰 all the data"
+      ],
+      "corePattern": "not just... but also..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "Their work makes a rather startling assertion: the trait we commonly call talent is highly overrated.",
+    "translation": "他们的研究得出了一个颇为惊人的论断：我们通常所称的“天赋”这一特质被严重高估了。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 冒号同位语解释 + 定语从句",
+      "mainClause": "Their work makes a rather startling assertion",
+      "subordinateClauses": [
+        "定语从句: (that) we commonly call talent 修饰 the trait",
+        "同位解释句: the trait is highly overrated"
+      ],
+      "corePattern": "make an assertion / highly overrated"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21,
+        24,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "Or, put another way, expert performers—whether in memory or surgery, ballet or computer programming—are nearly always made, not born.",
+    "translation": "或者换句话说，各领域的顶尖专家——无论是在记忆力还是外科手术、芭蕾舞还是计算机编程领域——几乎无一例外都是后天造就的，而非先天生成的。",
+    "syntaxAnalysis": {
+      "structureType": "插入语 + 主系表结构 + 让步状语插入语",
+      "mainClause": "expert performers are nearly always made, not born",
+      "subordinateClauses": [
+        "修饰插入语: put another way（换言之）",
+        "让步状语插入语: whether in memory or surgery, ballet or computer programming"
+      ],
+      "corePattern": "made, not born（后天造就而非先天生成 / nurture vs nature）"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21,
+        24,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+    }
+  }
+]

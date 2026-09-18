@@ -1,0 +1,272 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new year with a call to institute a UK \"town of culture\" award.",
+    "translation": "以伊薇特·库珀为代表的一批英国工党议员在新年伊始联合发出倡议，呼吁设立全英“文化小镇”大奖（town of culture award）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The proposal is that it should sit alongside the existing city of culture title, which was held by Hull in 2017, and has been awarded to Coventry for 2021.",
+    "translation": "该提案建议将该奖项与现有的“文化之城”（city of culture）头衔并列设置——后者曾于2017年授予赫尔市，并已确定于2021年授予考文垂市。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Cooper and her colleagues argue that the success of the crown for Hull, where it brought in £220m of investment and an avalanche of arts, ought not to be confined to cities. Britain's towns, it is true, are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitors. A town of culture award could, it is argued, become an annual event, attracting funding and creating jobs.",
+    "translation": "库珀及其同僚力辩道，赫尔市荣膺桂冠所取得的辉煌成功——为当地吸引了高达2.2亿英镑的巨额投资以及如潮水般的艺术盛宴——绝不应当仅局限于大型中心城市。诚然，英国的小城镇并未被禁止参评，但它们通常普遍缺乏编制竞标方案以击败那些体量更大竞争对手的充足资源。他们主张，设立文化小镇奖可以成为一项年度盛事，从而源源不断地吸引投资并创造就业岗位（increase economic strength / attracting funding and creating jobs）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 2
+    },
+    "text": "Some might see the proposal as a booby prize for the fact that Britain is no longer able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008.",
+    "translation": "一些人或许会将该提案视作一份不值钱的“安慰奖”（booby prize / a self-deceiving attempt）——因为英国由于脱欧已无法再申请那项享有盛誉得多的“欧洲文化之都”头衔，而格拉斯哥（1990年）和利物浦（2008年）曾荣获过这项炙手可热的殊荣。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 2
+    },
+    "text": "A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world: after town of culture, who knows what will follow—village of culture? Suburb of culture? Hamlet of culture?",
+    "translation": "愤世嫉俗的怀疑者或许会讥讽揣测：英国正急不可耐地企图在后脱欧时代的世界上重塑自我形象，以至于濒临陷入一场无休止的自我庆祝狂热之中——在文化小镇之后，天晓得接下来还会冒出什么：文化乡村？文化郊区？文化村落？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "It is also wise to recall that such titles are not a cure-all. A badly run \"year of culture\" washes in and washes out of a place like the tide, bringing prominence for a spell but leaving no lasting benefits to the community.",
+    "translation": "保持清醒并牢记此类文化头衔绝非包治百病的万灵药（not a cure-all）同样是明智的。一个运营拙劣的“文化年”往往如潮水般涌来又退去，虽能带来一时的显赫声名，却无法为当地社区留下任何持久的长远福祉。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The really successful holders of such titles are those that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year. They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light. It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations.",
+    "translation": "此类头衔真正成功的持有者，绝不仅仅止步于填满酒店客房、引入瞩目的高端艺术盛事并博得一整年的良好媒体赞誉。它们深刻重塑了当地居民的心灵抱负与精神追求，将整座城市的自我形象推向更加自信大胆、乐观向上的崭新境界。要做到这一点极其不易，它不仅需要卓越非凡的远见卓识，更需要市政当局、私营部门、社区团体与文化机构之间的精诚协同合作（commits to its long-term growth）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "But it can be done: Glasgow's year as European capital of culture can certainly be seen as one of a complex series of factors that have turned the city into the powerhouse of art, music and theatre that it remains today.",
+    "translation": "但这完全是可以实现的：格拉斯哥当年当选欧洲文化之都的经历，无疑可以被视作促成其成功转型为今日依然生机勃勃的艺术、音乐与戏剧重镇这一系列复杂综合因素中的关键一环（supporting example）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "A \"town of culture\" could be not just about the arts but about honouring a town's peculiarities—helping sustain its high street, supporting local facilities and above all celebrating its people. Jeremy Wright, the culture secretary, should welcome this positive, hope-filled proposal, and turn it into action.",
+    "translation": "“文化小镇”的内涵绝不应仅限于纯粹的艺术范畴，而更应在于弘扬彰显一个小镇的独特个性魅力——助力维系其繁华商业街区的生机、扶持当地公共设施，最重要的是由衷赞美生活于其间的广大民众。英国文化大臣杰里米·赖特理应热情欢迎这一积极向上、充满希望的提案（favourable attitude），并将其迅速转化为切实行动！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  }
+]

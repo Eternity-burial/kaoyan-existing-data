@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KaoyanExistingArticleRecord",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "source",
+    "articleKey",
+    "year",
+    "textNumber",
+    "title",
+    "paragraphCount",
+    "sentenceCount",
+    "provenance"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "kaoyan-existing-article-1.0"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["production", "rebuilt"]
+    },
+    "articleKey": {
+      "type": "string",
+      "pattern": "^ky-en1-\\d{4}-r-t\\d+$"
+    },
+    "year": {
+      "type": "integer"
+    },
+    "textNumber": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    },
+    "chineseTitle": {
+      "type": ["string", "null"]
+    },
+    "topic": {
+      "type": ["string", "null"]
+    },
+    "topicDomain": {
+      "type": ["string", "null"]
+    },
+    "subTopic": {
+      "type": ["string", "null"]
+    },
+    "overview": {
+      "type": ["string", "null"]
+    },
+    "wordCount": {
+      "type": ["integer", "null"]
+    },
+    "readingTimeEstimate": {
+      "type": ["string", "null"]
+    },
+    "difficultyRating": {
+      "type": ["string", "null"]
+    },
+    "sourcePublication": {
+      "type": ["string", "null"]
+    },
+    "paragraphCount": {
+      "type": "integer"
+    },
+    "sentenceCount": {
+      "type": "integer"
+    },
+    "vocabularyCount": {
+      "type": "integer"
+    },
+    "phraseCount": {
+      "type": "integer"
+    },
+    "questionCount": {
+      "type": "integer"
+    },
+    "capsules": {
+      "type": "object"
+    },
+    "rawFields": {
+      "type": "object"
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["sourceLayer", "sourceFile", "year", "articleKey", "extractedAt", "contentHash"]
+    }
+  }
+}

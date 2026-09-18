@@ -1,0 +1,613 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Robert F. Kennedy once said that a country's GDP measures \"everything except that which makes life worthwhile.\"",
+    "translation": "罗伯特·F·肯尼迪曾经说过，一个国家的国内生产总值（GDP）可以衡量“一切，除了令人生真正有价值的东西”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "With Britain voting to leave the European Union, and GDP already predicted to slow as a result, it is now a timely moment to assess what he was referring to.",
+    "translation": "随着英国公投决定脱离欧盟，且GDP也已断定将因之下滑，此时正是考量其话语所指的最佳时机。",
+    "syntaxAnalysis": {
+      "structureType": "with复合结构作状语+形式主语句+宾语从句",
+      "mainClause": "it is now a timely moment to assess what he was referring to.（it 为形式主语，不定式短语 to assess... 为真正主语）",
+      "modifiers": "With Britain voting... and GDP already predicted... 为两个并列的 with 复合独立主格结构作伴随状语；what he was referring to 为宾语从句作 assess 的宾语。",
+      "corePattern": "With + n. + doing/done（随着……）；It is a timely moment to do sth.（正是做某事的适宜时机）；refer to（指的是）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The question of GDP and its usefulness has annoyed policymakers for over half a century.",
+    "translation": "GDP及其效用问题已困扰政策制定者们超过半个世纪。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Many argue that it is a flawed concept. It measures things that do not matter and misses things that do.",
+    "translation": "很多人坚称这是个有缺陷的概念。它衡量并不重要的东西，却遗漏了真正重要的东西。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "By most recent measures, the UK's GDP has been the envy of the Western world, with record low unemployment and high growth figures.",
+    "translation": "根据最新的测量标准，英国的GDP一直是西方世界羡慕的对象，有着有史以来最低的失业率和最高的增长值。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "If everything was going so well, then why did over 17 million people vote for Brexit, despite the warnings about what it could do to their country's economic prospects?",
+    "translation": "倘若一切都进展得如此喜人，那为何尽管已有警示表明脱欧将会影响本国经济，还是有1700多万人投票支持脱欧？",
+    "syntaxAnalysis": {
+      "structureType": "条件状语从句+特殊疑问句+介词短语及宾语从句",
+      "mainClause": "why did over 17 million people vote for Brexit...",
+      "modifiers": "If everything was going so well 为条件状语从句；despite the warnings about... 为让步状语；what it could do to their country's economic prospects 为宾语从句作 about 的宾语。",
+      "corePattern": "vote for sth.（投票赞成某事）；despite the warnings about...（尽管有关于……的警告）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question.",
+    "translation": "最近一项关于“不同国家及其将增长转化为人民幸福的能力”的年度研究给上述问题提供了些许解释。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Across the 163 countries measured, the UK is one of the poorest performers in ensuring that economic growth is translated into meaningful improvements for its citizens.",
+    "translation": "在所有被测量的163个国家中，英国是在“确保经济增长转化为有意义的民生改善”方面表现最差的国家之一。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构+介词短语+宾语从句",
+      "mainClause": "the UK is one of the poorest performers...",
+      "modifiers": "Across the 163 countries measured 为范围状语，measured 为后置定语；in ensuring that... 作方式/领域状语；that economic growth is translated into... 为宾语从句作 ensuring 的宾语。",
+      "corePattern": "one of the poorest performers in doing（在做……方面表现最差之一）；translate A into B（将A转化为B）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Rather than just focusing on GDP, over 40 different sets of criteria from health, education and civil society engagement have been measured to get a more rounded assessment of how countries are performing.",
+    "translation": "此次研究并非只关注GDP，而是涵盖了健康、教育和公民社会参与度领域的40多组不同指标，意在对各国表现做出更全面的评估。",
+    "syntaxAnalysis": {
+      "structureType": "状语从句缩略+被动语态主干+目的状语及宾语从句",
+      "mainClause": "over 40 different sets of criteria... have been measured...",
+      "modifiers": "Rather than just focusing on GDP 作否定状语；from health, education and civil society engagement 作定语修饰 criteria；to get a more rounded assessment... 作目的状语；of how countries are performing 为介词宾语从句。",
+      "corePattern": "Rather than doing sth.（与其做某事/并非……）；rounded assessment（全面综合的评估）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "While all of these countries face their own challenges, there are a number of consistent themes.",
+    "translation": "尽管所有这些国家都面临着各自的挑战，但仍存在许多一致的问题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Yes, there has been a budding economic recovery since the 2008 global crash, but in key indicators in areas such as health and education, major economies have continued to decline.",
+    "translation": "的确，自2008年全球危机以来，经济已经有了复苏的苗头；但就健康和教育这类领域的关键指标而言，主要经济体的表现持续下滑。",
+    "syntaxAnalysis": {
+      "structureType": "but连接的并列转折复合句",
+      "mainClause": "there has been a budding economic recovery... but major economies have continued to decline.",
+      "modifiers": "since the 2008 global crash 作时间状语；in key indicators in areas such as... 作领域状语修饰后半句。",
+      "corePattern": "a budding recovery（初露苗头的复苏）；continue to decline（持续下滑）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Yet this isn't the case with all countries.",
+    "translation": "然而，并非所有国家都是如此。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "Some relatively poor European countries have seen huge improvements across measures including civil society, income equality and the environment.",
+    "translation": "一些相对贫困的欧洲国家在包括公民社会、收入平等和环境等诸多方面的指标上都有巨大的提升。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "This is a lesson that rich countries can learn: When GDP is no longer regarded as the sole measure of a country's success, the world looks very different.",
+    "translation": "这是一条富裕国家可以吸取的教训：当GDP不再被当作衡量国家成功与否的唯一标准时，那世界看起来就大不相同了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "So, what Kennedy was referring to was that while GDP has been the most common method for measuring the economic activity of nations, as a measure, it is no longer enough.",
+    "translation": "因此，肯尼迪所要指的是：尽管GDP一直是衡量国家经济活动最常用的方法，但作为一种衡量标准，它已不足以担此重任。",
+    "syntaxAnalysis": {
+      "structureType": "主语从句+系动词+表语从句（内含让步状语从句）",
+      "mainClause": "what Kennedy was referring to was that... it is no longer enough.",
+      "modifiers": "what Kennedy was referring to 为 what 引导的主语从句；that 引导表语从句；while GDP has been... 为让步状语从句；as a measure 作插入语。",
+      "corePattern": "what sb. was referring to was that...（某人所指的其实是……）；no longer enough（不再充足/不再管用）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "It does not include important factors such as environmental quality or education outcomes—all things that contribute to a person's sense of well-being.",
+    "translation": "它并不包含环境质量和教育成果等重要因素——所有那些能提供个人幸福感的因素。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "The sharp hit to growth predicted around the world and in the UK could lead to a decline in the everyday services we depend on for our well-being and for growth.",
+    "translation": "据预测，世界范围内和英国的经济增长都将遭受重创，而这可能会导致我们提升幸福感和促进个人发展所依赖的日常服务（水平）下降。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t3",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P7-S2",
+      "pIndex": 7
+    },
+    "text": "But policymakers who refocus efforts on improving well-being rather than simply worrying about GDP figures could avoid the forecasted doom and may even see progress.",
+    "translation": "但，政策制定者们应重新集中精力于提升（社会）福利，而非仅仅忧心GDP数字；如此才有可能避免预期的灾难，甚至取得进步。",
+    "syntaxAnalysis": {
+      "structureType": "定语从句修饰主语+并列谓语复合句",
+      "mainClause": "policymakers could avoid the forecasted doom and may even see progress.",
+      "modifiers": "who refocus efforts on improving well-being rather than simply worrying about GDP figures 为限制性定语从句修饰 policymakers；rather than 连接两个并列动名词短语。",
+      "corePattern": "refocus efforts on sth.（将精力重新聚焦于某事）；avoid the forecasted doom（避免预见的灾难）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t3.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:27f0cb0fa6b926bad393631876267c4e50e472708f6fe48d653302ef2ad31d06"
+    }
+  }
+]

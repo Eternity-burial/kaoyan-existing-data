@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2014-r-t4",
+  "year": 2014,
+  "textNumber": 4,
+  "title": "The Illiberal Nature of Liberal Education and 'The Heart of the Matter'",
+  "chineseTitle": "美国通识教育的非自由化危机与AAAS报告《问题的核心》反思",
+  "topic": null,
+  "topicDomain": "高等教育与思想意识形态",
+  "subTopic": "美国人文社科危机、通识教育被政治宣传绑架的现实与AAAS报告未能触及核心的局限",
+  "overview": null,
+  "wordCount": 380,
+  "readingTimeEstimate": "11-13 mins",
+  "difficultyRating": "4.2/5.0",
+  "sourcePublication": "选自 The Wall Street Journal 专栏社论《The Real Crisis in Higher Education》",
+  "paragraphCount": 6,
+  "sentenceCount": 15,
+  "vocabularyCount": 30,
+  "phraseCount": 19,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "2010年，美国国会参众两院两党重量级领袖致信著名的美国人文与科学院（AAAS），敦促其成立专门委员会，明确联邦、州政府、高校及社会各界应采取的行动方案，以‘维护国家在人文与社会科学学术研究和教育领域的卓越地位’。2013年，该委员会历时两年半，汇集了全美51位顶尖学者、常春藤名校校长、法官与商界领袖，发布了题为《问题的核心》（The Heart of the Matter）的重磅报告。报告极力倡导普及全员读写素养、重视美国历史与政治教学、引入新兴数字技术、增加科研与教师资助。然而在作者看来，这份耗资巨大的报告恰恰回避了美国高等教育面临的最核心症结——‘通识自由教育中日益严重的非自由（排他偏狭）本质’（the illiberal nature of liberal education）。在当下美国名校校园中，自由探究精神已被左翼激进意识形态宣传所取代，保守与古典自由主义理念被排斥出合法学术边界，导致大学毕业生既不懂通识教育的真谛，也无法真正从中受益。",
+      "coreDisputeOrTheme": "核心争论在于当代美国高等教育危机的根源究竟是‘外部资源、资金与课程投入不足’，还是‘大学内部意识形态极化与学术偏见侵蚀了通识教育多元包容的本质’。AAAS报告表面上对通识教育展现出极大热情，但实际上通过掩盖国会要求其阐明的深层思想挑战，反而极有可能误导公众、延误并阻碍真正触及灵魂的教育改革。",
+      "keyTerminology": [
+        {
+          "term": "AAAS (American Academy of Arts and Sciences)",
+          "explanation": "美国人文与科学院：创立于1780年的美国历史最悠久的学术荣誉机构之一，汇集全美各领域顶尖学者与思想家。"
+        },
+        {
+          "term": "Liberal Education",
+          "explanation": "通识教育/博雅教育：源自西方古典传统的大学通识教育理念，旨在超越功利职业技能，培养具有独立思考、批判性思维与宽广视野的健全公民。"
+        },
+        {
+          "term": "Illiberal",
+          "explanation": "非自由的/不开明的/排他的：在此处指美国高校表面打着‘自由教育’旗号，实则在思想意识上走向极化与狭隘，排斥不同学术见解。"
+        },
+        {
+          "term": "The Heart of the Matter",
+          "explanation": "《问题的核心》：AAAS发布的报告名称。作者借此形成反讽双关——报告虽然名为‘问题的核心’，却从未触及问题的真正核心。"
+        },
+        {
+          "term": "Spirit of Inquiry",
+          "explanation": "自由探究精神：大学作为学术殿堂的核心根基，主张不预设政治立场、开放包容地质疑、探索与求真。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "高等教育、意识形态与人文素养 (Higher Education, Ideology & Liberal Arts)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "il- / in- (否定前缀)",
+          "examples": [
+            "illiberal (不开明的/偏狭的)",
+            "illiterate (文盲的)"
+          ]
+        },
+        {
+          "affix": "pre- (前置/预先前缀)",
+          "examples": [
+            "presuppose (以…为先决条件)",
+            "precondition (先决条件)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "人文通识与学术研究",
+          "words": [
+            "liberal education",
+            "humanities",
+            "social sciences",
+            "scholarship",
+            "curricula",
+            "intellectual investigation"
+          ]
+        },
+        {
+          "theme": "政治生态与制度理念",
+          "words": [
+            "liberal democracy",
+            "representative government",
+            "citizenry",
+            "progressive interpretation",
+            "propaganda",
+            "self-reliance"
+          ]
+        },
+        {
+          "theme": "批判反思与危机揭示",
+          "words": [
+            "illiberal nature",
+            "spirit of inquiry",
+            "deprive",
+            "obscure",
+            "set back",
+            "illuminate"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2014_t4.json",
+    "year": 2014,
+    "articleKey": "ky-en1-2014-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:b4bbda7900d7cb34627751f05dac0c10225401af5a0b7fe064ad2aa8321a2903"
+  }
+}

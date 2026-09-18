@@ -1,0 +1,338 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "Discerned from the perplexing picture of population growth the 1980 census provided, America in the 1970s \\_\\_\\_\\_\\_\\_\\_\\_.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "enjoyed the lowest net growth of population in history",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "witnessed a southwestern shift of population",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 B 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "underwent an unparalleled period of population growth",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "brought to a standstill its pattern of migration since World War II",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "词义句意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 23 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Discerned",
+        "from",
+        "perplexing"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "The census distinguished itself from previous studies on population movement in that ________.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "it stresses the climatic influence on population distribution",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "it highlights the contribution of continuous waves of immigrants",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "it reveals the Americans' new pursuit of spacious living",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "it elaborates the delayed effects of yesterday's \"baby boom\"",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 24 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "census",
+        "distinguished",
+        "itself"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "We can see from the available statistics that ________.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "California was once the most thinly populated area in the whole US",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the top 10 states in growth rate of population were all located in the West",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "cities with better climates benefited unanimously from migration",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Arizona ranked second of all states in its growth rate of population",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 D 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 25 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "from",
+        "available",
+        "statistics"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "The word \"demographers\" (Line 1, Paragraph 8) most probably means ________.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "people in favor of the trend of democracy",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "advocates of migration between states",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "scientists engaged in the study of population",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "conservatives clinging to old patterns of life",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 26 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "word",
+        "demographers",
+        "Line"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  }
+]

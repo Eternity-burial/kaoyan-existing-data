@@ -1,0 +1,872 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "A deal is a deal -- except, apparently, when Entergy is involved.",
+    "translation": "契约就是契约——但显然，一旦涉及安特吉公司便另当别论。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 + 破折号转折介词短语 (except + when时间状语从句)",
+      "mainClause": "A deal is a deal",
+      "subordinateClauses": [
+        "转折状语: except when Entergy is involved",
+        "从句内部被动语态: when Entergy is involved"
+      ],
+      "corePattern": "A deal is a deal / except when sb is involved"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations.",
+    "translation": "这家新英格兰地区的主要能源供应商上周宣布，将背弃其长期以来作出的遵守佛蒙特州严格核能法规的承诺，此举在该州激起了正当的愤怒。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (同位语 + 时间状语从句 + 宾语从句 + 不定式后置定语)",
+      "mainClause": "The company provoked justified outrage in Vermont last week",
+      "subordinateClauses": [
+        "同位语修饰主语: a major energy supplier in New England",
+        "时间状语从句: when it announced...",
+        "宾语从句 (省略that): it was reneging on a longstanding commitment...",
+        "不定式后置定语: to abide by the state's strict nuclear regulations"
+      ],
+      "corePattern": "provoke justified outrage / renege on a commitment / abide by regulations"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        26
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desperate effort to keep its Vermont Yankee nuclear power plant running.",
+    "translation": "相反，该公司恰恰做了它长期承诺不会做的事：为了竭力维持其佛蒙特扬基核电站的运营，跑到联邦法院去质疑佛蒙特州相关规定的合宪性。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (what宾语从句 + 冒号同位解释 + 介词短语状语 + 复合宾语)",
+      "mainClause": "the company has done precisely what it had long promised it would not",
+      "subordinateClauses": [
+        "宾语从句: what it had long promised it would not (do)",
+        "冒号后同位补充说明: challenge the constitutionality...",
+        "介词短语状语: as part of a desperate effort to keep...",
+        "复合宾语: keep its nuclear power plant running"
+      ],
+      "corePattern": "done precisely what ... promised would not / challenge constitutionality / keep sth running"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        26
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "It's a stunning move.",
+    "translation": "这是一个令人震惊的举动。",
+    "syntaxAnalysis": {
+      "structureType": "主系表简单句",
+      "mainClause": "It is a stunning move",
+      "subordinateClauses": [],
+      "corePattern": "a stunning move"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The conflict has been surfacing since 2002, when the corporation bought Vermont's only nuclear power plant, an aging reactor in Vernon.",
+    "translation": "这场冲突自2002年就已初露端倪，当年该公司收购了佛蒙特州唯一的核电站——位于弗农的一座老旧反应堆。",
+    "syntaxAnalysis": {
+      "structureType": "主谓复合句 (非限制性定语从句 + 同位语)",
+      "mainClause": "The conflict has been surfacing since 2002",
+      "subordinateClauses": [
+        "定语从句修饰2002: when the corporation bought Vermont's only nuclear power plant",
+        "同位语修饰plant: an aging reactor in Vernon"
+      ],
+      "corePattern": "conflict has been surfacing since / buy power plant"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+    "translation": "作为收购获得州政府批准的条件之一，该公司同意，若要在2012年之后继续运营，须向州监管机构申请许可。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (条件介词短语前置 + 不定式目的状语)",
+      "mainClause": "the company agreed to seek permission from state regulators to operate past 2012",
+      "subordinateClauses": [
+        "前置状语: As a condition of receiving state approval for the sale",
+        "目的状语: to operate past 2012"
+      ],
+      "corePattern": "as a condition of / agree to seek permission to operate past..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "In 2006, the state went a step further, requiring that any extension of the plant's license be subject to Vermont legislature's approval.",
+    "translation": "2006年，该州更进一步，规定该电站牌照的任何延期都必须经过佛蒙特州议会的批准。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (现在分词伴随状语 + 虚拟语气宾语从句)",
+      "mainClause": "the state went a step further",
+      "subordinateClauses": [
+        "现在分词伴随状语: requiring that...",
+        "命令动词虚拟语气从句 (省略should): that any extension of the plant's license (should) be subject to..."
+      ],
+      "corePattern": "go a step further / require that sth be subject to approval"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Then, too, the company went along.",
+    "translation": "当时，该公司也表示接受。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (主谓结构 + 时间与同位副词)",
+      "mainClause": "the company went along",
+      "subordinateClauses": [],
+      "corePattern": "go along"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Either Entergy never really intended to live by those commitments, or it simply didn't foresee what would happen next.",
+    "translation": "要么是安特吉公司从未真正打算履行这些承诺，要么就是它压根没有预料到接下来会发生什么。",
+    "syntaxAnalysis": {
+      "structureType": "并列选择复合句 (either... or... + 宾语从句)",
+      "mainClause": "Either Entergy never really intended to live by those commitments, or it simply didn't foresee what would happen next",
+      "subordinateClauses": [
+        "宾语从句: what would happen next"
+      ],
+      "corePattern": "either ... or ... / intend to live by commitments / foresee what would happen"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        28
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee's safety and Entergy's management -- especially after the company made misleading statements about the pipe.",
+    "translation": "一连串事故——包括2007年一座冷却塔的局部坍塌以及地下管道系统泄漏的发现——让人们对佛蒙特扬基核电站的安全性以及安特吉公司的管理水平都产生了严重质疑，尤其是在该公司就管道问题作出误导性陈述之后。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (包含介词短语举例 + 并列介词短语后置定语 + 破折号强调状语从句)",
+      "mainClause": "A string of accidents raised serious questions about both Vermont Yankee's safety and Entergy's management",
+      "subordinateClauses": [
+        "插入语举例: including the partial collapse of a cooling tower... and the discovery of...",
+        "破折号后时间状语从句: especially after the company made misleading statements about the pipe"
+      ],
+      "corePattern": "a string of accidents raised serious questions about / misleading statements"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        28
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.",
+    "translation": "对安特吉公司的行为深感愤怒，佛蒙特州参议院去年以26票对4票否决了牌照延期。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (过去分词短语作原因/伴随状语)",
+      "mainClause": "the Vermont Senate voted 26 to 4 last year against allowing an extension",
+      "subordinateClauses": [
+        "句首过去分词状语: Enraged by Entergy's behavior (逻辑主语为 the Senate)"
+      ],
+      "corePattern": "enraged by / vote 26 to 4 against doing"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        28
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation, and that only the federal government has regulatory power over nuclear issues.",
+    "translation": "如今，该公司却突然声称，2002年的协议因2006年的立法而失效，并且只有联邦政府才对核问题拥有监管权。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (并列that引导的宾语从句 + 原因短语)",
+      "mainClause": "Now the company is suddenly claiming...",
+      "subordinateClauses": [
+        "并列宾语从句1: that the 2002 agreement is invalid because of the 2006 legislation",
+        "并列宾语从句2: and that only the federal government has regulatory power over nuclear issues"
+      ],
+      "corePattern": "claim that ... is invalid / have regulatory power over"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend.",
+    "translation": "此案涉及的法律问题并不明朗：最高法院曾裁定各州对核电确实享有一定的监管权，但法律学者指出，佛蒙特案将为这些权力的适用范围提供一次具有先例意义的检验。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 (冒号解释 + 让步状语从句 + 宾语从句 + 间接疑问宾语从句)",
+      "mainClause": "The legal issues in the case are obscure",
+      "subordinateClauses": [
+        "让步状语从句: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power",
+        "强调谓语: do have",
+        "主句分句: legal scholars say that Vermont case will offer a precedent-setting test...",
+        "介词宾语从句: of how far those powers extend"
+      ],
+      "corePattern": "issues are obscure / whereas ... / precedent-setting test of how far powers extend"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "Certainly, there are valid concerns about the patchwork regulations that could result if every state sets its own rules.",
+    "translation": "诚然，如果各州各自为政、自行制定规则，由此形成拼凑式的监管格局，也确实令人担忧，这种担忧不无道理。",
+    "syntaxAnalysis": {
+      "structureType": "There be复合句 (定语从句 + 条件状语从句)",
+      "mainClause": "there are valid concerns about the patchwork regulations",
+      "subordinateClauses": [
+        "定语从句修饰regulations: that could result",
+        "条件状语从句: if every state sets its own rules"
+      ],
+      "corePattern": "valid concerns about / patchwork regulations / result if..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "But had Entergy kept its word, that debate would be beside the point.",
+    "translation": "但如果安特吉公司信守承诺，这场争论就无关紧要了。",
+    "syntaxAnalysis": {
+      "structureType": "虚拟语气复合句 (条件句省略if倒装 + 主句条件虚拟)",
+      "mainClause": "that debate would be beside the point",
+      "subordinateClauses": [
+        "虚拟条件倒装: had Entergy kept its word (= if Entergy had kept its word)"
+      ],
+      "corePattern": "had sb done / would be beside the point"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state.",
+    "translation": "该公司似乎认定，自己在佛蒙特州的声誉已经受损殆尽，与该州彻底翻脸也没什么可再失去的了。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (不定式完成体 + that宾语从句 + so... that...结果状语从句 + 介词方式状语)",
+      "mainClause": "The company seems to have concluded that...",
+      "subordinateClauses": [
+        "宾语从句: that its reputation in Vermont is already so damaged...",
+        "结果状语从句: that it has nothing left to lose by going to war with the state"
+      ],
+      "corePattern": "seem to have concluded / reputation is so damaged that / have nothing left to lose by doing"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "But there should be consequences.",
+    "translation": "但这样做理应承担后果。",
+    "syntaxAnalysis": {
+      "structureType": "There be情态简单句",
+      "mainClause": "there should be consequences",
+      "subordinateClauses": [],
+      "corePattern": "there should be consequences"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "Permission to run a nuclear plant is a public trust.",
+    "translation": "运营核电站的许可是一种公共信托。",
+    "syntaxAnalysis": {
+      "structureType": "主系表简单句 (动词不定式后置定语)",
+      "mainClause": "Permission to run a nuclear plant is a public trust",
+      "subordinateClauses": [
+        "不定式作后置定语修饰permission: to run a nuclear plant"
+      ],
+      "corePattern": "permission to do sth is a public trust"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P6-S4",
+      "pIndex": 6
+    },
+    "text": "Entergy runs 11 other reactors in the United States, including Pilgrim Nuclear station in Plymouth.",
+    "translation": "安特吉公司在美国还运营着另外11座反应堆，其中包括位于普利茅斯的朝圣者核电站。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (介词短语举例同位修饰)",
+      "mainClause": "Entergy runs 11 other reactors in the United States",
+      "subordinateClauses": [
+        "介词短语举例: including Pilgrim Nuclear station in Plymouth"
+      ],
+      "corePattern": "runs 11 other reactors, including..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 5,
+      "ps": "P6-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P6-S5",
+      "pIndex": 6
+    },
+    "text": "Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years.",
+    "translation": "该公司承诺安全运营朝圣者核电站，并已向联邦申请许可，希望该电站能再运营20年。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (现在分词伴随状语 + 不定式复合宾语)",
+      "mainClause": "the company has applied for federal permission to keep it open for another 20 years",
+      "subordinateClauses": [
+        "句首现在分词伴随状语: Pledging to run Pilgrim safely",
+        "复合宾语结构: keep it open"
+      ],
+      "corePattern": "pledge to do / apply for permission to keep sth open"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 6,
+      "ps": "P6-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P6-S6",
+      "pIndex": 6
+    },
+    "text": "But as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+    "translation": "但在核管理委员会（NRC）审查该公司的申请时，应当牢记：安特吉公司的承诺究竟有多少分量。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (时间状语从句 + 宾语从句)",
+      "mainClause": "it should keep in mind what promises from Entergy are worth",
+      "subordinateClauses": [
+        "时间状语从句: as the Nuclear Regulatory Commission (NRC) reviews the company's application",
+        "宾语从句: what promises from Entergy are worth"
+      ],
+      "corePattern": "keep in mind what ... are worth"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t2.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6db2f8880946acc10ab5d8763af2872e58418980d78dea58fd64a00e2400ce5f"
+    }
+  }
+]

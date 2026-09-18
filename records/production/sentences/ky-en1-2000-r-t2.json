@@ -1,0 +1,782 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Being a man has always been dangerous.",
+    "translation": "作为一个男人一直都是危险的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity, and among 70-year-olds there are twice as many women as men.",
+    "translation": "大约每 100 名女性出生就有 105 名男性，但这一比例在成熟时下降到接近平衡，并且在 70 岁的老年人中，女性数量是男性的两倍。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "But the great universal of male mortality is being changed.",
+    "translation": "但男性死亡率的普遍现象正在发生改变。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Now, boy babies survive almost as well as girls do.",
+    "translation": "现在，男婴的生存率几乎和女婴一样好。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "This means that, for the first time, there will be an excess of boys in those crucial years when they are searching for a mate.",
+    "translation": "这意味着，在寻找伴侣的关键年份，男孩数量将首次出现过剩。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "More importantly, another chance for natural selection has been removed.",
+    "translation": "更重要的是，自然选择的另一个机会被消除了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "Fifty years ago, the chance of a baby (particularly a boy baby) surviving depended on its weight.",
+    "translation": "五十年前，婴儿（尤其是男婴）的生存机会取决于其体重。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 8,
+      "ps": "P1-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P1-S8",
+      "pIndex": 1
+    },
+    "text": "A kilogram too light or too heavy meant almost certain death.",
+    "translation": "太轻或太重一公斤几乎都意味着死亡。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Today it makes almost no difference.",
+    "translation": "今天，这几乎没有什么区别。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Since much of the variation is due to genes, one more agent of evolution has gone.",
+    "translation": "由于大部分变异是由基因造成的，因此又一个进化的推动者消失了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "There is another way to commit evolutionary suicide: stay alive, but have fewer children.",
+    "translation": "进化自杀还有另一种方式：保持活力，但少生孩子。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Few people are as fertile as in the past.",
+    "translation": "很少有人像过去一样生育能力强。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Except in some religious communities, very few women have 15 children.",
+    "translation": "除了一些宗教团体外，很少有女性拥有 15 个孩子。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Nowadays the number of births, like the age of death, has become average.",
+    "translation": "如今，出生人数和死亡年龄一样，已趋于平均。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "Most of us have roughly the same number of offspring.",
+    "translation": "我们大多数人的后代数量大致相同。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 8,
+      "ps": "P2-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P2-S8",
+      "pIndex": 2
+    },
+    "text": "Again, differences between people and the opportunity for natural selection to take advantage of it have diminished.",
+    "translation": "人与人之间的差异以及自然选择利用这种差异的机会再次减少。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "India shows what is happening.",
+    "translation": "印度展示了正在发生的事情。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples.",
+    "translation": "这个国家为大城市中的少数人提供了财富，却为剩下的部落人民提供了贫困。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "The grand mediocrity of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in upper-middle-class India compared to the tribes.",
+    "translation": "今天的巨大平庸——每个人的生存和后代数量都一样——意味着与部落相比，自然选择在印度中上层阶级中失去了 80% 的力量。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "For us, this means that evolution is over; the biological Utopia has arrived.",
+    "translation": "对我们来说，这意味着进化已经结束；生物乌托邦已经到来。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Strangely, it has involved little physical change.",
+    "translation": "奇怪的是，它几乎没有带来任何物理变化。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "No other species fills so many places in nature.",
+    "translation": "没有其他物种占据了自然界如此多的地方。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "But in the past 100,000 years—even the past 100 years—our lives have been transformed but our bodies have not.",
+    "translation": "但在过去的十万年里，甚至在过去的一百年里，我们的生活已经发生了改变，但我们的身体却没有。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "We did not evolve, because machines and society did it for us.",
+    "translation": "我们没有进化，因为机器和社会为我们进化了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 9,
+      "ps": "P3-S9"
+    },
+    "sourceLocator": {
+      "sIndex": 9,
+      "id": "P3-S9",
+      "pIndex": 3
+    },
+    "text": "Darwin had a phrase to describe those ignorant of evolution: they \"look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension.\" No doubt we will remember a 20th century way of life beyond comprehension for its ugliness.",
+    "translation": "达尔文曾用一句话来描述那些对进化论一无所知的人：他们“看待有机生物就像野蛮人看待一艘船，就像看待完全超出他理解范围的事物”。毫无疑问，我们会记住20世纪的生活方式，因为它的丑陋是无法理解的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 10,
+      "ps": "P3-S10"
+    },
+    "sourceLocator": {
+      "sIndex": 10,
+      "id": "P3-S10",
+      "pIndex": 3
+    },
+    "text": "But however amazed our descendants may be at how far from Utopia we were, they will look just like us.",
+    "translation": "但是，无论我们的后代对我们离乌托邦有多远感到惊讶，他们看起来都会像我们一样。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  }
+]

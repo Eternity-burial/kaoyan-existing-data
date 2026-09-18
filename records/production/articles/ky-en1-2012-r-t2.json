@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2012-r-t2",
+  "year": 2012,
+  "textNumber": 2,
+  "title": "Broken Promises and Public Trust: The Legal Battle Over the Vermont Yankee Nuclear Plant",
+  "chineseTitle": "契约背弃与公共信任的沦丧：安特吉公司与佛蒙特州核电监管博弈",
+  "topic": null,
+  "topicDomain": "商经政法 · 联邦体制与核能管辖权争议 (Business Law, Federalism & Nuclear Regulation)",
+  "subTopic": "商业契约精神、联邦与州监管权博弈、核电安全与公共信托危机 (Sanctity of Contracts, State vs Federal Powers & Nuclear Trust)",
+  "overview": null,
+  "wordCount": 382,
+  "readingTimeEstimate": "6-8 mins",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Adapted from The Boston Globe editorial: 'At Vermont Yankee, a deal must be a deal' (2011)",
+  "paragraphCount": 6,
+  "sentenceCount": 21,
+  "vocabularyCount": 76,
+  "phraseCount": 17,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "核电监管的双层博弈：联邦优先权（Preemption）与州权抗衡",
+      "subtitle": "商业契约的神圣性与公共信托——当核能巨头撕毁承诺诉诸合宪性审查",
+      "coreNarrative": "2002年，跨国能源巨头安特吉公司（Entergy）收购了佛蒙特州唯一的核电站——弗农的老旧核反应堆（Vermont Yankee）。作为获批收购的前置条件，安特吉签署协议承诺若在2012年牌照到期后继续运营，必须征求佛蒙特州监管机构的批准；2006年州政府追加立法规定延期须经州议会表决通过，安特吉再次予以顺从。然而此后该厂发生冷却塔局部倒塌、含致癌物氚的地下排污管泄漏等多起安全事故，安特吉更对管道问题发表误导性欺瞒陈述，激怒了佛蒙特州参议院，最终以26:4的压倒性多数否决了其延期申请。遭遇重挫的安特吉随即出尔反尔，以‘2002年协议因2006年新法而失效、且唯有联邦政府享有核事务管辖权’为由，在联邦法院起诉州法违宪。作者痛斥其背信弃义，指出契约必须信守（a deal is a deal），核电运营权乃公众信托（public trust），并呼吁联邦核管会（NRC）在审查其在其他州（如马萨诸塞州朝圣者核电站）的延期申请时，清醒认识到该公司的承诺毫无诚信价值。",
+      "historicalAndEconomicContext": "反映了美国能源法领域著名的‘联邦先占权’（Federal Preemption）与州保留权力之间的张力。根据美国《原子能法》（Atomic Energy Act），联邦核管会（NRC）对核辐射安全拥有专属管辖权，但各州对电力设施的经济性、可靠性和选址土地利用保留监管权。安特吉利用这一法律灰色地带逃避州对老旧核反应堆的安全约束，引发了关于垄断企业诚信、环境安全与多层级治理边界的激烈交锋。",
+      "crossExamLinks": "与2003年Text 4（医疗与行政监管）、2005年Text 2（全球变暖与各州环保法规抗争）、2018年英语二Text 2（企业社会责任与信托义务）呼应，共同探讨‘大型企业合规、契约伦理与公权力多层级监管’的经典法政题材。"
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "商事契约、行政法与能源监管 (Contract Law & Energy Regulation)",
+      "coreConceptRoots": [
+        {
+          "root": "reg- / rect-",
+          "meaning": "规则，统治，正",
+          "examples": "regulate (监管), regulator (监管机构), regulatory (监管的), correct (正确的)"
+        },
+        {
+          "root": "leg- / legis-",
+          "meaning": "法律",
+          "examples": "legislation (立法/法规), legislature (立法机构), legitimate (合法的), legal (法律的)"
+        },
+        {
+          "root": "stitut- / stat-",
+          "meaning": "建立，确立",
+          "examples": "constitution (宪法), constitutionality (合宪性), statute (成文法), institute (设立)"
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "term": "a deal is a deal",
+          "meaning": "契约就是契约/必须信守协议"
+        },
+        {
+          "term": "renege on a commitment",
+          "meaning": "背弃承诺"
+        },
+        {
+          "term": "abide by regulations",
+          "meaning": "遵守规章制度"
+        },
+        {
+          "term": "challenge the constitutionality",
+          "meaning": "质疑合宪性/诉其违宪"
+        },
+        {
+          "term": "precedent-setting test",
+          "meaning": "开创判例先河的检验"
+        },
+        {
+          "term": "patchwork regulations",
+          "meaning": "碎片化/拼凑式不统一的监管法规"
+        },
+        {
+          "term": "public trust",
+          "meaning": "公共信托"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2012.js",
+    "year": 2012,
+    "articleKey": "ky-en1-2012-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+  }
+}

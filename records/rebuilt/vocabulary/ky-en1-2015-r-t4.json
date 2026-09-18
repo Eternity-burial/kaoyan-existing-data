@@ -1,0 +1,652 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "integrity",
+    "word": "integrity",
+    "ipa": "/ɪnˈteɡrəti/",
+    "pos": "n.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "诚信正直，操守道德良知",
+    "examMeaning": "正直，诚实；完整，完好",
+    "collocationOrDerivation": "dearth of integrity 诚信缺失；unsettling dearth 令人担忧的匮乏",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "unsettling",
+    "word": "unsettling",
+    "ipa": "/ʌnˈsetlɪŋ/",
+    "pos": "adj.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "令人深感不安的，使人担忧的",
+    "examMeaning": "令人不安的，使人心神不宁的",
+    "collocationOrDerivation": "unsettling dearth 令人不安的匮乏；unsettle v. 使动摇/不安",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "dearth",
+    "word": "dearth",
+    "ipa": "/dɜːrθ/",
+    "pos": "n.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "极度匮乏，普遍缺乏",
+    "examMeaning": "缺乏，不足",
+    "collocationOrDerivation": "dearth of moral purpose 道德宗旨的缺失；scarcity 同义",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "mechanism",
+    "word": "mechanism",
+    "ipa": "/ˈmekənɪzəm/",
+    "pos": "n.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "资源分选机制，评价导向机制",
+    "examMeaning": "机制，方法；机件",
+    "collocationOrDerivation": "sorting mechanism 社会分选机制；market mechanism 市场机制",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "capitalism",
+    "word": "capitalism",
+    "ipa": "/ˈkæpɪtəlɪzəm/",
+    "pos": "n.",
+    "sourceLocation": "P2 S4",
+    "contextMeaning": "资本主义自由市场制度",
+    "examMeaning": "资本主义",
+    "collocationOrDerivation": "capitalism and freedom 资本主义与自由；capitalist n. 资本家",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "wound",
+    "word": "wound",
+    "ipa": "/wuːnd/",
+    "pos": "v.",
+    "sourceLocation": "P2 S5",
+    "contextMeaning": "严重侵蚀，伤害，损害名誉（熟词僻义）",
+    "examMeaning": "使受伤，伤害；损害感情",
+    "collocationOrDerivation": "wounding companies 伤害侵蚀企业声誉；wound n. 伤口",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "predecessor",
+    "word": "predecessor",
+    "ipa": "/ˈpredəsesər/",
+    "pos": "n.",
+    "sourceLocation": "P3 S6",
+    "contextMeaning": "前任领导，前任主编",
+    "examMeaning": "前任，前辈；原先的东西",
+    "collocationOrDerivation": "finding his predecessor innocent 判定其前任无罪；successor n. 继任者",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "industrial",
+    "word": "industrial",
+    "ipa": "/ɪnˈdʌstriəl/",
+    "pos": "adj.",
+    "sourceLocation": "P3 S7",
+    "contextMeaning": "产业化大规模的，成流水线的",
+    "examMeaning": "工业的，产业的",
+    "collocationOrDerivation": "on an industrial scale 达到工业化产业规模",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "unfold",
+    "word": "unfold",
+    "ipa": "/ʌnˈfoʊld/",
+    "pos": "v.",
+    "sourceLocation": "P3 S8",
+    "contextMeaning": "丑闻逐渐展开，情节进一步发酵",
+    "examMeaning": "展开，打开；逐渐展现",
+    "collocationOrDerivation": "the story unfolds 情节展开；fold v. 折叠",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "revelation",
+    "word": "revelation",
+    "ipa": "/ˌrevəˈleɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "庭审中披露的惊人内幕/真相",
+    "examMeaning": "被暴露的真相，揭示；启示",
+    "collocationOrDerivation": "astonishing revelations 令人惊骇的内幕披露；reveal v. 揭露",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "inquire",
+    "word": "inquire",
+    "ipa": "/ɪnˈkwaɪər/",
+    "pos": "v.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "主动过问，打听盘问细节",
+    "examMeaning": "询问，查问，调查",
+    "collocationOrDerivation": "never inquired how the stories arrived 从不询问报道来源",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "accountable",
+    "word": "accountable",
+    "ipa": "/əˈkaʊntəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P5 S12",
+    "contextMeaning": "对管理行为负有法律与道德责任的",
+    "examMeaning": "负有责任的，应做解释的",
+    "collocationOrDerivation": "be accountable for 对...负责；hold sb accountable 追究某人责任",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "doctrine",
+    "word": "doctrine",
+    "ipa": "/ˈdɑːktrɪn/",
+    "pos": "n.",
+    "sourceLocation": "P5 S13",
+    "contextMeaning": "被奉为圭臬的集体教义，信条",
+    "examMeaning": "教义，主义，信条",
+    "collocationOrDerivation": "the collective doctrine 集体信条；indoctrinate v. 灌输",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "efficiency",
+    "word": "efficiency",
+    "ipa": "/ɪˈfɪʃnsi/",
+    "pos": "n.",
+    "sourceLocation": "P5 S14",
+    "contextMeaning": "商业运转的纯粹效率",
+    "examMeaning": "效率，效能",
+    "collocationOrDerivation": "efficiency and flexibility 效率与变通灵活性；efficient adj. 高效的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "shareholder",
+    "word": "shareholder",
+    "ipa": "/ˈʃerhoʊldər/",
+    "pos": "n.",
+    "sourceLocation": "P5 S14",
+    "contextMeaning": "上市公司股票持有者，股东",
+    "examMeaning": "股东",
+    "collocationOrDerivation": "shareholder value 股东利益最大化",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "degrade",
+    "word": "degrade",
+    "ipa": "/dɪˈɡreɪd/",
+    "pos": "v.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "贬黜，降格，贬低到次要地位",
+    "examMeaning": "降低…身份，贬低；降解",
+    "collocationOrDerivation": "words degraded to the margin 沦为边缘化的词汇",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "margin",
+    "word": "margin",
+    "ipa": "/ˈmɑːrdʒɪn/",
+    "pos": "n.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "社会关注的边缘冷宫（熟词僻义）",
+    "examMeaning": "边缘；利润率；差额",
+    "collocationOrDerivation": "on the margin 在边缘；marginalize v. 使边缘化",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "proportionality",
+    "word": "proportionality",
+    "ipa": "/prəˌpɔːrʃəˈnæləti/",
+    "pos": "n.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "比例适度原则，行为与后果的均衡",
+    "examMeaning": "均衡，比例性，相称性",
+    "collocationOrDerivation": "tolerance and proportionality 包容与均衡适度；proportional adj. 成比例的",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "accountability",
+    "word": "accountability",
+    "ipa": "/əˌkaʊntəˈbɪləti/",
+    "pos": "n.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "行政问责机制，责任承担制度",
+    "examMeaning": "有责任，问责制，负有责任",
+    "collocationOrDerivation": "corporate accountability 企业问责制度",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "quest",
+    "word": "quest",
+    "ipa": "/kwest/",
+    "pos": "n.",
+    "sourceLocation": "P6 S17",
+    "contextMeaning": "对利润与发行量的疯狂追逐追求",
+    "examMeaning": "探索，寻求，追求",
+    "collocationOrDerivation": "in the quest for circulation 为了追求发行量",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "suspicion",
+    "word": "suspicion",
+    "ipa": "/səˈspɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P6 S18",
+    "contextMeaning": "内心的怀疑，嫌疑",
+    "examMeaning": "怀疑，涉嫌，猜疑",
+    "collocationOrDerivation": "have suspicions about 对...心存疑虑；suspicious adj. 可疑的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "traceable",
+    "word": "traceable",
+    "ipa": "/ˈtreɪsəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P6 S18",
+    "contextMeaning": "有迹可循的，可追溯查证的",
+    "examMeaning": "可追踪的，起因于…的",
+    "collocationOrDerivation": "traceable, recorded answers 有据可查的书面答复；trace v. 追踪",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "conspiracy",
+    "word": "conspiracy",
+    "ipa": "/kənˈspɪrəsi/",
+    "pos": "n.",
+    "sourceLocation": "Q38",
+    "contextMeaning": "串谋犯罪，阴谋暗中勾结",
+    "examMeaning": "阴谋，共谋",
+    "collocationOrDerivation": "part of a conspiracy 阴谋的一环；conspire v. 密谋",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "distorted",
+    "word": "distorted",
+    "ipa": "/dɪˈstɔːrtɪd/",
+    "pos": "adj.",
+    "sourceLocation": "Q39",
+    "contextMeaning": "彻底畸变扭曲的，失真的",
+    "examMeaning": "扭曲的，变形的",
+    "collocationOrDerivation": "generally distorted values 普遍扭曲的价值观；distort v. 曲解/扭曲",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "regulation",
+    "word": "regulation",
+    "ipa": "/ˌreɡjuˈleɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "Q40",
+    "contextMeaning": "行业行业监管规程，法规",
+    "examMeaning": "规章，规则，管理",
+    "collocationOrDerivation": "industrial regulations 行业监管规定；regulate v. 监管",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t4.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfee11c6b1f2c7dee35e59ef4bca031676234ec4172d79c014d4751f67b106a5"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2023",
+  "exam": "kaoyan",
+  "track": "englishOne",
+  "year": 2023,
+  "title": "2023年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析数据库",
+  "subject": "英语(一)",
+  "articleKeys": [
+    "ky-en1-2023-r-t1",
+    "ky-en1-2023-r-t2",
+    "ky-en1-2023-r-t3",
+    "ky-en1-2023-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2023.js",
+    "year": 2023,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+  }
+}

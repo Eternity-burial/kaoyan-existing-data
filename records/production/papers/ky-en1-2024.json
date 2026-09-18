@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2024",
+  "exam": "kaoyan",
+  "track": "englishOne",
+  "year": 2024,
+  "title": "2024年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析数据库",
+  "subject": "英语(一)",
+  "articleKeys": [
+    "ky-en1-2024-r-t1",
+    "ky-en1-2024-r-t2",
+    "ky-en1-2024-r-t3",
+    "ky-en1-2024-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2024.js",
+    "year": 2024,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+  }
+}

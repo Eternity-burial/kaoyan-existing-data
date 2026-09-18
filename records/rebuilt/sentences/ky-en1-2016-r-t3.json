@@ -1,0 +1,612 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "\"There is one and only one social responsibility of business,\" wrote Milton Friedman, a Nobel prize-winning economist.",
+    "translation": "诺贝尔经济学奖得主米尔顿·弗里德曼曾写道：“企业有且只有一种社会责任，”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "That is, to use its resources and engage in activities designed to increase its profits.",
+    "translation": "那就是：调配自身资源并投身于旨在增加自身利润的商业活动。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "But even if you accept Friedman's premise and regard corporate social responsibility (CSR) policies as a waste of shareholders' money, things may not be absolutely clear-cut.",
+    "translation": "但即便你全盘接受弗里德曼的前提假设，并将企业社会责任（CSR）政策视为对股东资金的纯粹浪费，现实中的利弊得失也绝非这般非黑即白、一清二楚。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句（even if引导的让步状语从句 + 并列谓语 + 主系表主句）",
+      "mainClause": "things may not be absolutely clear-cut.",
+      "modifiers": "even if 引导让步状语从句；accept Friedman's premise 和 regard... as... 为 and 连接的两个并列动宾短语；corporate social responsibility (CSR) policies 为 regard 的宾语；as a waste of shareholders' money 为介词短语作宾语补足语；main clause 中 things 为主语，may not be 为系表谓语，clear-cut 为表语形容词。",
+      "corePattern": "even if...（即使/哪怕……）；accept one's premise（接受某人的前提假定）；regard A as B（把A视为B）；a waste of money（对金钱的浪费）；clear-cut（界限分明、一目了然）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "New research suggests that CSR may create monetary value for companies in at least one relatively untracked way: by smoothing their path on the occasions when they fall foul of the law.",
+    "translation": "最新实证研究表明，CSR至少能在一种相对未受关注的途径中为企业创造直接的货币价值：即当企业触犯法律陷入诉讼困境时，为它们铺平化解危机之道。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + that宾语从句 + 冒号同位阐述 + by引导的方式状语 + when引导的定语从句",
+      "mainClause": "New research suggests that CSR may create monetary value for companies...",
+      "modifiers": "that CSR may create monetary value... 为 suggests 的宾语从句；in at least one relatively untracked way 为介词短语作方式状语；冒号后为具体途径阐释；by smoothing their path 为方式状语；on the occasions 为时间介词短语；when they fall foul of the law 为限制性定语从句修饰 occasions。",
+      "corePattern": "suggest that...（表明/指出……）；create monetary value（创造直接货币价值）；smooth one's path（为某人铺平道路/扫清障碍）；fall foul of the law（触犯法律/遭遇法律制裁）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The largest firms in America and Britain together spend more than $15 billion a year on CSR, according to an estimate by EPG, a consulting firm.",
+    "translation": "据咨询公司EPG的测算，美英两国规模最大的顶尖企业每年在CSR项目上的总支出超过150亿美元。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "This could add value to their businesses in three ways.",
+    "translation": "这一庞大投入可通过三种机制为企业业务增加价值。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "First, consumers may take CSR spending as a signal that a company's products are of high quality.",
+    "translation": "首先，消费者可能会将企业在CSR上的巨额投入视为其产品具有卓越高品质的有力信号。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Second, customers may be willing to buy a company's products as an indirect way to donate to the good causes it helps.",
+    "translation": "其次，顾客可能乐于购买该公司的产品，以此作为向其所资助的崇高慈善事业进行间接捐赠的一种途径。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "And third, through a more diffuse halo effect whereby its good deeds earn it greater consideration from consumers and others.",
+    "translation": "第三，则是通过一种更为广泛弥散的‘光环效应’（halo effect），使企业的行善义举为其从消费者及全社会其他利益相关方处赢得更多善意关照与信任好感。",
+    "syntaxAnalysis": {
+      "structureType": "省略句（承前省略 This could add value） + 介词短语 + whereby引导的限制性定语从句 + 双宾语结构",
+      "mainClause": "[This could add value] through a more diffuse halo effect...",
+      "modifiers": "And third 为承接上文的序数词状语；through a more diffuse halo effect 为方式介词短语；whereby（借此/凭此）引导定语从句修饰 halo effect；its good deeds 为从句主语，earn 为谓语，it 为间接宾语，greater consideration 为直接宾语；from consumers and others 为介词短语修饰 consideration。",
+      "corePattern": "through a halo effect（通过光环效应）；whereby...（凭此……）；good deeds（行善义举）；earn sb. consideration（为某人赢得关照/宽容/好感）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Previous studies on CSR have had trouble differentiating these effects because consumers can be affected by all three.",
+    "translation": "以往关于CSR的研究难以将这三种效应清晰剥离区分，因为普通消费者可能会同时受到这三种机制的综合交织影响。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "A recent study attempts to separate them by looking at bribery prosecutions under America's Foreign Corrupt Practices Act (FCPA).",
+    "translation": "而一项最新研究另辟蹊径，试图通过审视依据美国《反海外腐败法》（FCPA）提起的海外商业行贿起诉案件，将这些效应剥离开来。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "It argues that since prosecutors do not consume a company's products as part of their investigations, they could be influenced only by the halo effect.",
+    "translation": "该研究论证指出，由于司法检察官在行使调查职权时绝不会消费涉案企业的产品，因此检方唯一可能受到影响的，便只有弥漫在企业周围的‘光环效应’。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句（that引导的宾语从句 + since引导的原因状语从句 + 被动语态主句）",
+      "mainClause": "It argues that they could be influenced only by the halo effect.",
+      "modifiers": "that 引导 argues 的宾语从句；since prosecutors do not consume... 为原因状语从句插在从句主语前；as part of their investigations 为介词短语作方式/目的修饰；from consumer-bias 被剥离；they（指代 prosecutors）为从句主语；could be influenced 为被动语态谓语；only by the halo effect 为介词短语作状语。",
+      "corePattern": "argue that...（论证指出……）；since...（鉴于/由于……）；as part of investigations（作为调查的一部分）；be influenced by the halo effect（受光环效应的影响）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties.",
+    "translation": "这项实证研究发现：在遭到FCPA起诉的涉案企业中，那些拥有最健全完善CSR项目的公司，往往能获得显著更为轻微宽大的司法处罚。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + that宾语从句 + 介词短语范围状语 + 介词短语定语",
+      "mainClause": "The study found that those tended to get more lenient penalties.",
+      "modifiers": "that 引导 found 的宾语从句；among prosecuted firms 为介词短语作范围状语；those 为从句主语；with the most comprehensive CSR programmes 为介词短语作 those 的后置定语；tended to get 为谓语动词短语；more lenient penalties 为宾语，其中 lenient 为核心考点词。",
+      "corePattern": "the study found that...（研究发现……）；prosecuted firms（遭到起诉的企业）；comprehensive programmes（全面系统的项目计划）；lenient penalties（宽大从轻的处罚）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Their analysis ruled out the possibility that it was firms' political influence, rather than their CSR stand, that accounted for the leniency: Companies that contributed more to political campaigns did not receive lower fines.",
+    "translation": "研究者的量化分析彻底排除了是企业的‘政治影响力’而非‘CSR良好立场’促成量刑从宽的可能性：实证数据表明，那些向政治竞选活动捐献更多献金的公司，并未因此获得更低的罚金。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + that引导的同位语从句 + 强调句型（it was... that...） + 冒号解释句（带that定语从句）",
+      "mainClause": "Their analysis ruled out the possibility...",
+      "modifiers": "ruled out 意为‘排除了’；the possibility 为宾语；that it was... 为同位语从句解释说明 possibility 的内容；从句采用 it was A, rather than B, that... 强调句型；accounted for 为从句谓语，the leniency 为宾语；冒号后 Companies that contributed more... 为独立补充说明句，that contributed more to political campaigns 为定语从句修饰 Companies。",
+      "corePattern": "rule out the possibility that...（排除……的可能性）；it is A rather than B that...（正是A而不是B……）；account for（解释……的原因/促成）；political campaigns（政治竞选活动）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "In all, the study concludes that whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company's record in CSR.",
+    "translation": "总而言之，研究得出的核心结论是：尽管从法理上讲检察官应当仅仅依据案件本身的案情事实（merits）做出公正评估，但他们实际上确实显著受到了涉案公司既往CSR履约记录的潜移默化影响。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + that宾语从句 + whereas引导的让步/对比从句 + 强调动词do",
+      "mainClause": "In all, the study concludes that they do seem to be influenced by a company's record in CSR.",
+      "modifiers": "In all 为总结副词短语；that 引导 concludes 的宾语从句；whereas 引导对比让步状语从句；based on its merits 为过去分词短语作状语修饰 evaluate a case；从句主句中 do 为助动词表示强力强调，seem to be influenced 为系表谓语短语，by a company's record in CSR 为介词短语作施动者。",
+      "corePattern": "conclude that...（得出结论认为……）；whereas...（然而/尽管……）；evaluate a case based on its merits（依据案件本身的是非曲直/事实依据做出裁决）；do seem to be influenced（确实显著受到影响）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "\"We estimate that either eliminating a substantial labour-rights concern, such as child labour, or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment for bribing foreign officials,\" says one researcher.",
+    "translation": "一位研究员表示：“我们估算，企业只要消除一项重大的劳工权益隐患（例如童工问题），或者将企业慈善捐赠额提高约20%，其最终所遭受的罚款通常就会比行贿外国官员的标准量刑从轻约40%之多。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Researchers admit that their study does not answer the question of how much businesses ought to spend on CSR.",
+    "translation": "研究者坦承，他们的研究并未解答企业究竟应当在CSR项目上投入多少预算才最为合理的难题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "Nor does it reveal how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies.",
+    "translation": "这项研究也未能揭示企业在制定行善政策时，究竟有多大程度上是在指望依赖光环效应，而非谋求其他潜在的商业回报。",
+    "syntaxAnalysis": {
+      "structureType": "否定副词Nor置于句首的部分倒装句 + how much引导的宾语从句 + when时间状语从句",
+      "mainClause": "Nor does it reveal how much companies are banking on the halo effect...",
+      "modifiers": "Nor 置于句首，助动词 does 提前引起部分倒装；how much companies are banking on... 为 reveal 的宾语从句；bank on 意为‘依赖/指望’；rather than the other possible benefits 为排除对比介词短语；when they decide their do-gooding policies 为时间状语从句修饰 are banking on。",
+      "corePattern": "Nor does it...（它也未能……）；bank on sth.（依赖/指望某事）；rather than（而不是）；do-gooding policies（行善/履责政策）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "But at least they have demonstrated that when companies get into trouble with the law, evidence of good character can win them a less costly punishment.",
+    "translation": "但至少学者们用确凿证据证明：当企业陷入法律纠纷泥潭时，良好道德操守与企业品格的记录，确实能够为它们赢得代价更小、成本更低的宽免处罚。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t3.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bc298204cce32de57863e51f095abc18c194f20a6bf9088bd6324376bcbda5a5"
+    }
+  }
+]

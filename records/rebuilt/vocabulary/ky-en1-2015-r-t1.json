@@ -1,0 +1,730 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "abdicate",
+    "word": "abdicate",
+    "ipa": "/ˈæbdɪkeɪt/",
+    "pos": "v.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "主动或被迫退位，辞让王位",
+    "examMeaning": "退位；放弃（职责/权力）",
+    "collocationOrDerivation": "abdicate the throne 退位；abdication n. 退位",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "scandal",
+    "word": "scandal",
+    "ipa": "/ˈskændl/",
+    "pos": "n.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "令人震惊的丑闻，丑事",
+    "examMeaning": "丑闻；公众反感，耻辱",
+    "collocationOrDerivation": "embarrassing scandals 令人尴尬的丑闻；scandalous adj. 可耻的/骇人听闻的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "republican",
+    "word": "republican",
+    "ipa": "/rɪˈpʌblɪkən/",
+    "pos": "adj.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "共和派的，主张废除君主制的",
+    "examMeaning": "共和政体的，共和主义的；共和党的",
+    "collocationOrDerivation": "the republican left 左翼共和派；republic n. 共和国",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "monarchy",
+    "word": "monarchy",
+    "ipa": "/ˈmɑːnərki/",
+    "pos": "n.",
+    "sourceLocation": "P1 S3",
+    "contextMeaning": "君主制度，君主政体",
+    "examMeaning": "君主制；君主国；王室",
+    "collocationOrDerivation": "constitutional monarchy 君主立宪制；monarch n. 君主",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "magnificent",
+    "word": "magnificent",
+    "ipa": "/mæɡˈnɪfɪsnt/",
+    "pos": "adj.",
+    "sourceLocation": "P1 S4",
+    "contextMeaning": "华丽宏伟的，高贵典雅的",
+    "examMeaning": "宏伟的，壮丽的；华丽的",
+    "collocationOrDerivation": "magnificent uniforms 华丽的皇室礼服；magnificence n. 壮丽/华贵",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "majestic",
+    "word": "majestic",
+    "ipa": "/məˈdʒestɪk/",
+    "pos": "adj.",
+    "sourceLocation": "P1 S4",
+    "contextMeaning": "威严高贵的，庄严肃穆的",
+    "examMeaning": "威严的，雄伟的，壮丽的",
+    "collocationOrDerivation": "majestic lifestyles 威严显赫的生活方式；majesty n. 威严/陛下",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "polarised",
+    "word": "polarised",
+    "ipa": "/ˈpoʊləraɪzd/",
+    "pos": "adj.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "极度两极分化的，对立极端的",
+    "examMeaning": "两极分化的；偏振的",
+    "collocationOrDerivation": "public opinion is polarised 公众舆论两极分化；polarize v. 极化",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "regime",
+    "word": "regime",
+    "ipa": "/reɪˈʒiːm/",
+    "pos": "n.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "专制独裁政权，统治体制",
+    "examMeaning": "政权；管理体制；饮食规则",
+    "collocationOrDerivation": "the Franco regime 佛朗哥独裁政权；authoritarian regime 威权体制",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "monarch",
+    "word": "monarch",
+    "ipa": "/ˈmɑːnərk/",
+    "pos": "n.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "世袭君主，帝王",
+    "examMeaning": "君主，帝王",
+    "collocationOrDerivation": "absolute monarch 专制君主；monarchs as heads of state 作为国家元首的君主",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "embody",
+    "word": "embody",
+    "ipa": "/ɪmˈbɑːdi/",
+    "pos": "v.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "具体体现，作为…的象征化身",
+    "examMeaning": "体现，具体表现；收录，包含",
+    "collocationOrDerivation": "embody a spirit of national unity 体现国家团结精神；embodiment n. 化身/体现",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "unity",
+    "word": "unity",
+    "ipa": "/ˈjuːnəti/",
+    "pos": "n.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "国家团结统一，凝聚力",
+    "examMeaning": "团结，统一；一致性",
+    "collocationOrDerivation": "national unity 国家团结；unite v. 团结/联合",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "transcendence",
+    "word": "transcendence",
+    "ipa": "/trænˈsendəns/",
+    "pos": "n.",
+    "sourceLocation": "P3 S7",
+    "contextMeaning": "政治超越性，超脱世俗党争",
+    "examMeaning": "超越，卓越，超然",
+    "collocationOrDerivation": "transcendence of politics 超越政治；transcend v. 超越；transcendent adj. 卓越超常的",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "infested",
+    "word": "infested",
+    "ipa": "/ɪnˈfestɪd/",
+    "pos": "adj.",
+    "sourceLocation": "P3 S8",
+    "contextMeaning": "过度密集的，君主泛滥成灾的（反讽幽默修辞）",
+    "examMeaning": "大批滋生的，泛滥成灾的",
+    "collocationOrDerivation": "monarch-infested region 君主制泛滥密集的地区；infest v. 骚扰/大批出没",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "absolutist",
+    "word": "absolutist",
+    "ipa": "/ˌæbsəˈluːtɪst/",
+    "pos": "adj.",
+    "sourceLocation": "P3 S9",
+    "contextMeaning": "独裁专制主义的",
+    "examMeaning": "专制主义的；绝对论的",
+    "collocationOrDerivation": "absolutist counterparts 专制君主对应者；absolutism n. 专制主义",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "counterpart",
+    "word": "counterpart",
+    "ipa": "/ˈkaʊntərpɑːrt/",
+    "pos": "n.",
+    "sourceLocation": "P3 S9",
+    "contextMeaning": "处于同等地位者，对应同类人/物",
+    "examMeaning": "职能/地位相当的人或物",
+    "collocationOrDerivation": "absolutist counterparts 专制同僚/对等掌权者",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "downside",
+    "word": "downside",
+    "ipa": "/ˈdaʊnsaɪd/",
+    "pos": "n.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "负面短板，消极不利因素",
+    "examMeaning": "缺点，不利方面",
+    "collocationOrDerivation": "have a downside 存在弊端不足；upside n. 好处/积极面",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "symbolic",
+    "word": "symbolic",
+    "ipa": "/sɪmˈbɑːlɪk/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S11",
+    "contextMeaning": "作为象征的，名义代表的",
+    "examMeaning": "象征性的，有象征意义的",
+    "collocationOrDerivation": "symbolic of national unity 作为国家团结的象征；symbol n. 象征",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "indefensible",
+    "word": "indefensible",
+    "ipa": "/ˌɪndɪˈfensəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S11",
+    "contextMeaning": "站不住脚的，无理无可辩白的",
+    "examMeaning": "无法辩解的，站不住脚的",
+    "collocationOrDerivation": "indefensible privileges 站不住脚的特权；defensible adj. 可辩护的",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "inequality",
+    "word": "inequality",
+    "ipa": "/ˌɪnɪˈkwɑːləti/",
+    "pos": "n.",
+    "sourceLocation": "P4 S11",
+    "contextMeaning": "社会与财富不平等",
+    "examMeaning": "不平等，不平均",
+    "collocationOrDerivation": "rising inequality 不断加剧的不平等；equal adj. 平等的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "bizarre",
+    "word": "bizarre",
+    "ipa": "/bɪˈzɑːr/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S12",
+    "contextMeaning": "荒诞怪异的，极其反常的",
+    "examMeaning": "奇异的，古怪的",
+    "collocationOrDerivation": "it is bizarre that... ...显得极其古怪荒谬；odd / weird 同义",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "aristocratic",
+    "word": "aristocratic",
+    "ipa": "/əˌrɪstəˈkrætɪk/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S12",
+    "contextMeaning": "封建贵族的，豪门贵戚的",
+    "examMeaning": "贵族的，有贵族气派的",
+    "collocationOrDerivation": "wealthy aristocratic families 富有贵族世家；aristocracy n. 贵族阶层",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "intrusiveness",
+    "word": "intrusiveness",
+    "ipa": "/ɪnˈtruːsɪvnəs/",
+    "pos": "n.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "无孔不入的侵扰，狗仔队的刺探",
+    "examMeaning": "侵扰性，侵入性",
+    "collocationOrDerivation": "media intrusiveness 媒体的刺探侵扰；intrusive adj. 侵扰的；intrude v. 侵扰",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "well-heeled",
+    "word": "well-heeled",
+    "ipa": "/ˌwel ˈhiːld/",
+    "pos": "adj.",
+    "sourceLocation": "P7 S17",
+    "contextMeaning": "家资巨富的，身家殷实的（熟词僻义）",
+    "examMeaning": "富有的，手头宽裕的",
+    "collocationOrDerivation": "rather ordinary (if well-heeled) 虽巨富但看似普通平凡",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "hierarchical",
+    "word": "hierarchical",
+    "ipa": "/ˌhaɪəˈrɑːrkɪkl/",
+    "pos": "adj.",
+    "sourceLocation": "P7 S18",
+    "contextMeaning": "尊卑森严的，按等级划分的",
+    "examMeaning": "分等级的，等级制度的",
+    "collocationOrDerivation": "a pretty hierarchical view of the world 相当森严的阶层等级世界观；hierarchy n. 等级制度",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "preserve",
+    "word": "preserve",
+    "ipa": "/prɪˈzɜːrv/",
+    "pos": "v.",
+    "sourceLocation": "P7 S17",
+    "contextMeaning": "勉力维持，保全维护",
+    "examMeaning": "保护，维护，保存",
+    "collocationOrDerivation": "preserved the monarchy's reputation 维护住了君主制的名声",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "reputation",
+    "word": "reputation",
+    "ipa": "/ˌrepjuˈteɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P7 S17",
+    "contextMeaning": "公众声誉，公信力名望",
+    "examMeaning": "名誉，声望",
+    "collocationOrDerivation": "maintain/preserve reputation 维护名誉；reputable adj. 声誉良好的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "non-controversial",
+    "word": "non-controversial",
+    "ipa": "/ˌnɑːnˌkɑːntrəˈvɜːrʃl/",
+    "pos": "adj.",
+    "sourceLocation": "P7 S19",
+    "contextMeaning": "无可争议的，不引发纷争的",
+    "examMeaning": "无争议的",
+    "collocationOrDerivation": "non-controversial and non-political heads of state 无争议非政治的国家元首",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "non-political",
+    "word": "non-political",
+    "ipa": "/ˌnɑːn pəˈlɪtɪkl/",
+    "pos": "adj.",
+    "sourceLocation": "P7 S19",
+    "contextMeaning": "超脱党派政治纷争的",
+    "examMeaning": "非政治的，不涉及政治的",
+    "collocationOrDerivation": "non-political public figure 超脱政治的公众人物",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  }
+]

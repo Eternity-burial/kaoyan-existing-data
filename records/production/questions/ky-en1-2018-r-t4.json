@@ -1,0 +1,913 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The financial problem with the USPS is caused partly by",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "its unbalanced budget.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【因果倒置/字面干扰】支出超过收入、预算失衡是财务危机的外在表象结果，并非导致体制性崩溃的根源动因。",
+        "refSentences": [
+          "P1-S2"
+        ],
+        "vocab": [
+          {
+            "word": "budget",
+            "ipa": "[ˈbʌdʒɪt]",
+            "meaning": "预算",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "its rigid management.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P1末句深刻指出 USPS 陷入历史性挤压的体制根源所在：“a regulatory structure that denies management the flexibility to adjust its operations to the new reality”（僵化的监管体制剥夺了管理层根据新现实灵活调整业务运营的自主权）。“denies management the flexibility”精准对应“its rigid management（其僵化死板的管理模式）”。",
+        "refSentences": [
+          "P1-S5"
+        ],
+        "vocab": [
+          {
+            "word": "rigid",
+            "ipa": "[ˈrɪdʒɪd]",
+            "meaning": "僵化的管理",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the cost for technical upgrading.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】P2第2句明确指出，因为严重没钱，邮政局只能不断“推迟至关重要的现代化改造（deferring vital modernization）”，即技术升级根本没有足额推进，而非因为技术升级花钱过多导致亏损。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "upgrading",
+            "ipa": "[ˈʌpɡreɪd]",
+            "meaning": "升级",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the withdrawal of bank support.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中通篇讨论的是国会监管、工会游说与联邦医保计划，完全未提及任何商业银行撤销支持。",
+        "refSentences": [
+          "P1-S5"
+        ],
+        "vocab": [
+          {
+            "word": "withdrawal",
+            "ipa": "[wɪðˈdrɔːəl]",
+            "meaning": "终止",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S5"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "a regulatory structure that denies management the flexibility to adjust": "rigid management"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "financial",
+          "ipa": "[faɪˈnænʃ(ə)l]",
+          "meaning": "财政的",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "According to Paragraph 2, the USPS fails to modernize itself due to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the interference from interest groups.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P2第1句指出“interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer — Congress...”，第2句紧接着强调“This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization”，清楚地表明无法推进现代化正是由于利益集团向国会施加自私压力并屡次破坏改革立法所致，完全对应 the interference from interest groups。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "interference",
+            "ipa": "[ˌɪntəˈfɪərəns]",
+            "meaning": "干涉",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the inadequate funding from Congress.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】国会未能通过改革法案是因为利益集团施压阻挠，且邮政局本应作为独立核算的联邦自收自支机构运营，而非国会直接拨款不足。",
+        "refSentences": [
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Congress",
+            "ipa": "[ˈkɒŋɡres]",
+            "meaning": "国会",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "inadequate",
+            "ipa": "[ɪnˈædɪkwət]",
+            "meaning": "不足的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the shrinking demand for postal service.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全/张冠李戴】普通信件需求下降是第一段说明的宏观背景，并非第二段用于解释改革立法屡屡流产、现代化被迫推迟的直接阻碍。",
+        "refSentences": [
+          "P1-S5",
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "shrinking",
+            "ipa": "[ʃrɪŋk]",
+            "meaning": "萎缩",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "demand",
+            "ipa": "[dɪˈmɑːnd]",
+            "meaning": "需求",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "the incompetence of postal unions.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】工会为了谋求私利极力保护现状，施加了强大的政治游说压力，说明其政治能量巨大，并非能力不足（incompetence）。",
+        "refSentences": [
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "unions",
+            "ipa": "[ˈjuːniən]",
+            "meaning": "工会",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "incompetence",
+            "ipa": "",
+            "meaning": "无能",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "interest groups exert self-interested pressure / repeated attempts at reform legislation have failed": "interference from interest groups"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "fails",
+          "ipa": "[feɪl]",
+          "meaning": "未能",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "due",
+          "ipa": "[djuː]",
+          "meaning": "由于",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "The long-standing complaint by the USPS and its unions can be addressed by",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "removing its burden of retiree health care.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P3第3句提到将邮政退休人员转入联邦医保（shifting postal retirees into Medicare），第4句紧接着指出“The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions”，明确指出后一步骤能够大幅抵消预先筹资退休医保的重负，从而化解长久以来的抱怨，精准对应 removing its burden of retiree health care。",
+        "refSentences": [
+          "P3-S3",
+          "P3-S4"
+        ],
+        "vocab": [
+          {
+            "word": "burden",
+            "ipa": "[ˈbɜːdn]",
+            "meaning": "负担",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "health",
+            "ipa": "[helθ]",
+            "meaning": "医疗保健",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "making more investment in new vehicles.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面干扰】P3第2句提到为新运输车辆付款是法案省钱后的潜在支出来源之一，并非化解长期抱怨的核心举措。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "investment",
+            "ipa": "[ɪnˈvestmənt]",
+            "meaning": "投入",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "vehicles",
+            "ipa": "[ˈviːəkl]",
+            "meaning": "运输工具",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "adopting a new rate-increase mechanism.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】提高信件邮资费率是法案增加资金的渠道之一，但针对 complaint 的是针对医保负担的后一步措施（the latter step: shifting into Medicare）。",
+        "refSentences": [
+          "P3-S3",
+          "P3-S4"
+        ],
+        "vocab": [
+          {
+            "word": "adopting",
+            "ipa": "[əˈdɒpt]",
+            "meaning": "采用",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "mechanism",
+            "ipa": "[ˈmekənɪzəm]",
+            "meaning": "机制",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "attracting more first-class mail users.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】文中指出由于技术变革，普通信件需求已经永久性下降（permanently decreased），根本不可能通过吸引更多平邮用户来解决问题。",
+        "refSentences": [
+          "P1-S5"
+        ],
+        "vocab": [
+          {
+            "word": "attracting",
+            "ipa": "[əˈtrækt]",
+            "meaning": "吸引",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "first-class",
+            "ipa": "",
+            "meaning": "普通邮件；一类邮件",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S3",
+      "P3-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "shifting postal retirees into Medicare / offset financial burden of annually pre-funding retiree health care": "removing its burden of retiree health care"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "complaint",
+          "ipa": "[kəmˈpleɪnt]",
+          "meaning": "抱怨",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "unions",
+          "ipa": "[ˈjuːniən]",
+          "meaning": "工会",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "In the last paragraph, the author seems to view legislators with",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "respect.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【态度偏颇】作者在末段通篇批评立法者目光短浅、回避实质性矛盾，毫无尊重敬仰之意。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S6"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "tolerance.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【态度偏颇】作者使用一系列严厉批评的贬义措辞，并未表现出理解容忍的宽容心态。",
+        "refSentences": [
+          "P4-S6",
+          "P4-S7"
+        ],
+        "vocab": [
+          {
+            "word": "tolerance",
+            "ipa": "[ˈtɒlərəns]",
+            "meaning": "容忍",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "discontent.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解褒贬色彩研判】末段中作者措辞极具批判与讽刺意味：直言该法案“amounts to the bare, bare minimum necessary... not comprehensive reform”（充其量仅仅是苟延残喘的绝对最低线，绝非彻底改革），指出其保留集体谈判是“a major omission（重大疏漏）”，批评议员们屈服于特殊利益集团扼杀了取消周六投递的改革，最后更深刻指出“legislators are getting frightened about a politically embarrassing short-term collapse... It is not, however, a sign that they're getting serious...”（立法者不过是害怕承担短期政治难堪的恐惧，绝不意味着他们开始认真改革），充分展现出对立法者回避核心矛盾、缺乏担当的不满与批评（discontent）。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2",
+          "P4-S6",
+          "P4-S7"
+        ],
+        "vocab": [
+          {
+            "word": "discontent",
+            "ipa": "",
+            "meaning": "不满",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "gratitude.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】gratitude 意为感激感恩，作者对议员们的敷衍了事持严厉鞭挞态度，根本不存在感激。",
+        "refSentences": [
+          "P4-S6",
+          "P4-S7"
+        ],
+        "vocab": [
+          {
+            "word": "gratitude",
+            "ipa": "[ˈɡrætɪtjuːd]",
+            "meaning": "感激",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2",
+      "P4-S6",
+      "P4-S7"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "bare minimum / major omission / frightened about politically embarrassing collapse / not getting serious": "discontent"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "view",
+          "ipa": "[vjuː]",
+          "meaning": "看待",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The USPS Starts to Miss Its Good Old Days",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】怀恋往昔只是P1提及它曾是稳固机构的一个引子，不能概括全文对邮政危机体制成因与改革困局的严肃政治经济学剖析。",
+        "refSentences": [
+          "P1-S4"
+        ],
+        "vocab": [
+          {
+            "word": "Good",
+            "ipa": "[ɡʊd]",
+            "meaning": "美好的过去",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "The Postal Service: Keep Away from My Cheese",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】借用寓言成语，但偏离了全文探讨国会立法与公共机构体制改革的核心基调。",
+        "refSentences": [
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "The",
+            "ipa": "[ðə]",
+            "meaning": "邮政局",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Keep",
+            "ipa": "[kiːp]",
+            "meaning": "远离",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "The USPS: Chronic Illness Requires a Quick Cure",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】文章通篇批判国会目前的提案恰恰是在搞“速效、权宜的止血贴（Quick Cure / band-aid）”，作者明确强调这种治标不治本的做法根本无法解决慢性病，需要的是面向未来的长期彻底重构。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S7"
+        ],
+        "vocab": [
+          {
+            "word": "Chronic",
+            "ipa": "[ˈkrɒnɪk]",
+            "meaning": "慢性的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "The Postal Service Needs More than a Band-Aid",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解形象化主旨概括】全文通篇论证美国邮政陷入深重危机，而国会目前正在推进的方案仅仅是最低限度维持现状的权宜之计（bare minimum），根本没有触及占80%成本的人力机制和取消周六投递等实质性改革。作者在尾段呼吁必须认真推进面向21世纪的根本性体制重塑，The Postal Service Needs More Than a Band-Aid（邮政服务需要的绝不仅是创可贴/权宜之计）形象生动且极其深刻地概括了全文核心主旨。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S5",
+          "P4-S1",
+          "P4-S7"
+        ],
+        "vocab": [
+          {
+            "word": "The",
+            "ipa": "[ðə]",
+            "meaning": "邮政局",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Band-Aid",
+            "ipa": "",
+            "meaning": "权宜之计",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S5",
+      "P4-S1",
+      "P4-S7"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "bare minimum to keep afloat, not comprehensive reform / transforming the postal system": "The Postal Service Needs More Than a Band-Aid"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  }
+]

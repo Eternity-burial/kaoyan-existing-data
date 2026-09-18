@@ -1,0 +1,482 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots.",
+    "translation": "全球分布着 100 多个孤立的火山活动小区域，被地质学家称为热点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Unlike most of the world's volcanoes, they are not always found at the boundaries of the great drifting plates that make up the earth's surface; on the contrary, many of them lie deep in the interior of a plate.",
+    "translation": "与世界上大多数火山不同，它们并不总是位于构成地球表面的巨大漂移板块的边界处；相反，它们中的许多都位于盘子的内部深处。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Most of the hot spots move only slowly, and in some cases the movement of the plates past them has left trails of dead volcanoes.",
+    "translation": "大多数热点移动缓慢，在某些情况下，经过它们的板块运动会留下死火山的痕迹。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "The hot spots and their volcanic trails are milestones that mark the passage of the plates.",
+    "translation": "热点及其火山轨迹是标志着板块移动的里程碑。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "That the plates are moving is now beyond dispute.",
+    "translation": "板块正在移动，这一点现在已无可争议。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Africa and South America, for example, are moving away from each other as new material is injected into the sea floor between them.",
+    "translation": "例如，随着新物质被注入非洲和南美洲之间的海底，非洲和南美洲正在彼此远离。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The complementary coastlines and certain geological features that seem to span the ocean are reminders of where the two continents were once joined.",
+    "translation": "互补的海岸线和某些似乎跨越海洋的地质特征提醒人们，这两个大陆曾经是连接在一起的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "The relative motion of the plates carrying these continents has been constructed in detail, but the motion of one plate with respect to another cannot readily be translated into motion with respect to the earth's interior.",
+    "translation": "承载这些大陆的板块的相对运动已经被详细构建，但是一个板块相对于另一个板块的运动不能轻易地转化为相对于地球内部的运动。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "It is not possible to determine whether both continents are moving in opposite directions or whether one continent is stationary and the other is drifting away from it.",
+    "translation": "无法确定两个大陆是否朝相反方向移动，或者一个大陆是否静止而另一个大陆正在远离它。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Hot spots, anchored in the deeper layers of the earth, provide the measuring instruments needed to resolve the question.",
+    "translation": "位于地球深层的热点提供了解决该问题所需的测量仪器。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "From an analysis of the hot-spot population it appears that the African plate is stationary and that it has not moved during the past 30 million years.",
+    "translation": "从对热点人口的分析来看，非洲板块似乎是静止的，并且在过去 3000 万年里没有移动。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The significance of hot spots is not confined to their role as a frame of reference.",
+    "translation": "热点的重要性不仅限于其作为参考框架的作用。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "It now appears that they also have an important influence on the geophysical processes that propel the plates across the globe.",
+    "translation": "现在看来，它们对推动板块穿越全球的地球物理过程也有重要影响。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "When a continental plate comes to rest over a hot spot, the material rising from deeper layers creates a broad dome.",
+    "translation": "当大陆板块停在热点上方时，从深层升起的物质会形成一个宽阔的圆顶。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "As the dome grows, it develops deep fissures (cracks); in at least a few cases the continent may break entirely along some of these fissures, so that the hot spot initiates the formation of a new ocean.",
+    "translation": "随着圆顶的生长，它会出现很深的裂缝（裂缝）；至少在某些情况下，大陆可能会沿着其中一些裂缝完全破裂，从而使热点开始形成新的海洋。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Thus, just as earlier theories have explained the mobility of the continents, so hot spots may explain their mutability (inconstancy).",
+    "translation": "因此，正如早期的理论解释了大陆的流动性一样，热点也可以解释它们的可变性（不稳定）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  }
+]

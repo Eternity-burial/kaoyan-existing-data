@@ -1,0 +1,427 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The most thoroughly studied intellectuals in the history of the New World are the ministers and political leaders of seventeenth-century New England.",
+    "translation": "在美洲新大陆的历史上，被研究得最为详尽透彻的知识分子群体，是17世纪新英格兰的牧师和政治领袖们。",
+    "syntaxAnalysis": "主系表倒装倾向句。主语 The most thoroughly studied intellectuals in the history of the New World（过去分词短语 thoroughly studied 作后置定语修饰 intellectuals）；系动词 are；表语 the ministers and political leaders of seventeenth-century New England。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "According to the standard history of American philosophy, nowhere else in colonial America was \"so much importance attached to intellectual pursuits.\"",
+    "translation": "按照权威公认的美国哲学史著作的记述，在整个殖民地时期的美洲，没有任何地方像这里一样“对求知探索与学术追求给予了如此高度的重视”。",
+    "syntaxAnalysis": "否定副词置于句首的部分倒装句。According to... 为来源状语；否定副词短语 nowhere else in colonial America 位于句首；助动词 was 提到主语 so much importance 之前；谓语动词过去分词 attached to intellectual pursuits（attach importance to 为固定搭配）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "According to many books and articles, New England's leaders established the basic themes and preoccupations of an unfolding, dominant Puritan tradition in American intellectual life.",
+    "translation": "根据浩繁的学术书籍和论文的记载，新英格兰的早期领袖确立了美国思想生活中一个不断延展、居于主导地位的清教传统的基本主题与核心关切。",
+    "syntaxAnalysis": "主谓宾复合结构。来源状语 According to many books and articles；主语 New England's leaders；谓语 established；宾语 the basic themes and preoccupations；介词短语 of an unfolding, dominant Puritan tradition in American intellectual life 作后置定语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "To take this approach to the New Englanders normally means to start with the Puritans' theological innovations and their distinctive ideas about the church—important subjects that we may not neglect.",
+    "translation": "采用这种研究路径来考察新英格兰人，通常意味着要从清教徒的神学教义创新以及他们对教会治理的独特见解切入——这些确实是我们不容忽视的重要课题。",
+    "syntaxAnalysis": "主系表复合结构。主语是不定式短语 To take this approach to the New Englanders；频度状语 normally；谓语 means；动名词短语 to start with... 作宾语；破折号后 important subjects 为同位语，that we may not neglect 为限制性定语从句修饰 subjects。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "But in keeping with our examination of southern intellectual life, we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances.",
+    "translation": "但是，为了与我们对北美南部思想生活的考察脉络保持一致，我们不妨将最初的这批清教徒视作欧洲旧大陆文化的承载者与播种者，正在逐步适应美洲新大陆的全新环境。",
+    "syntaxAnalysis": "转折复合句。介词短语 in keeping with... 作状语表示‘与……保持一致’；主语 we；情态动词复合谓语 may consider；宾语 the original Puritans；宾语补足语 as carriers of European culture；现在分词短语 adjusting to New World circumstances 作伴随状语修饰 Puritans。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.",
+    "translation": "新英格兰殖民地正是追求在当时被广泛认同的文明修养与崇高德行理想这一壮阔历程中一系列重要历史事件的发生舞台。",
+    "syntaxAnalysis": "主系表结构。主语 The New England colonies；系动词 were；表语 the scenes of important episodes；介词短语 in the pursuit of widely understood ideals of civility and virtuosity 作后置定语（widely understood 为过去分词短语修饰 ideals）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The early settlers of Massachusetts Bay included men of impressive education and influence in England.",
+    "translation": "马萨诸塞湾的早期定居者当中，包括了一批在英格兰本土就已受过极高水准教育、具有广泛社会声望与影响力的精英人物。",
+    "syntaxAnalysis": "主谓宾句。主语 The early settlers of Massachusetts Bay；谓语 included；宾语 men of impressive education and influence in England（of + 抽象名词短语作定语修饰 men）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Besides the ninety or so learned ministers who came to Massachusetts churches in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.",
+    "translation": "除1629年之后十年间来到马萨诸塞各教会任职的约90位博学多才的牧师之外，这里还有像约翰·温思罗普这样的政治领袖——在启程前往波士顿之前，他就是一位受过良好教育的绅士、出庭律师和英格兰王室官员。",
+    "syntaxAnalysis": "there be 存在句+介词排除状语。介词短语 Besides the ninety or so learned ministers... 作排除状语，who 引导定语从句修饰 ministers；there were 引导存在句，主语 political leaders like John Winthrop；an educated gentleman, lawyer, and official of the Crown 为同位语修饰 Winthrop；before 引导时间状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "These men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness.",
+    "translation": "这批领袖广泛著书立说并大量出版，其读者群横跨大西洋两岸的新旧大陆，从而为新英格兰注入了一种严肃庄重、探求真理的思想求索氛围。",
+    "syntaxAnalysis": "主谓结构+并列现在分词状语。主语 These men；并列谓语 wrote and published extensively；现在分词短语 reaching both New World and Old World audiences 和 giving New England an atmosphere of intellectual earnestness 并列作结果状语，giving 后接双宾语（间接宾语 New England，直接宾语 an atmosphere...）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "We should not forget, however, that most New Englanders were less well educated.",
+    "translation": "然而，我们绝不应当忘记的是，绝大多数普通新英格兰人所受的教育程度其实要低得多。",
+    "syntaxAnalysis": "主从复合句。主语 We；情态复合谓语 should not forget；插入转折词 however；that 引导宾语从句；从句主语 most New Englanders，系动词 were，表语 less well educated。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized.",
+    "translation": "虽然极少有手工业工匠或自耕农——更不用说家眷仆役了——留下了可供后人分析考证的书面文学作品，但显而易见的是，他们的思想观念并没有那么高度的思辨理性化。",
+    "syntaxAnalysis": "复合句。While 引导让步状语从句，从句主语 few craftsmen or farmers，let alone dependents and servants 为插入排除短语，谓语 left，宾语 literary compositions，to be analyzed 作定语；主句 it 为形式主语，is obvious 为系表，that 引导真正的主语从句 that their views were less fully intellectualized。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Their thinking often had a traditional superstitious quality.",
+    "translation": "他们的日常思维方式往往带有极其浓厚的传统民间迷信色彩。",
+    "syntaxAnalysis": "主谓宾句。主语 Their thinking；频度状语 often；谓语 had；宾语 a traditional superstitious quality。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "A tailor named John Dane, who emigrated in the late 1630s, left an account of his reasons for leaving England that is filled with signs.",
+    "translation": "一位在17世纪30年代末移民美洲、名叫约翰·丹恩的裁缝，留下了一份记述自己离开英格兰原因的回忆录，通篇充斥着各种超自然的神秘兆头与预言征兆。",
+    "syntaxAnalysis": "复合句。主语 A tailor named John Dane，named 为分词定语，who 引导非限制性定语从句修饰 Dane；谓语 left；宾语 an account of his reasons for leaving England；that 引导限制性定语从句修饰 account，谓语 is filled with signs。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Sexual confusion, economic frustrations, and religious hope—all came together in a decisive moment when he opened the Bible, told his father that the first line he saw would settle his fate, and read the magical words: \"Come out from among them, touch no unclean thing, and I will be your God and you shall be my people.\"",
+    "translation": "性心理的困惑迷茫、经济上的屡屡受挫以及宗教信仰的狂热希望——所有这些情绪在一个决定性时刻交织汇聚在一起：他猛然翻开《圣经》，对父亲宣称自己看到的第一行经文将决定自己的终身命运，随即读出了那句具有神秘魔力的箴言：“务要从他们中间出来，不可沾不洁净之物，我就作你们的神，你们要作我的子民。”",
+    "syntaxAnalysis": "破折号总分复合句。主语为由 and 连接的三个并列名词短语 Sexual confusion, economic frustrations, and religious hope；破折号后 all 作总括同位语主语；谓语 came together；时间状语 in a decisive moment；when 引导时间状语从句修饰 moment，从句内包含由 and 连接的三个并列谓语（opened the Bible, told his father... and read the magical words...）；引号内为直接引语经文。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 6,
+      "ps": "P4-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "One wonders what Dane thought of the careful sermons explaining the Bible that he heard in Puritan churches.",
+    "translation": "人们不禁会深深好奇，当丹恩坐在清教教堂里聆听那些字句严密、充满复杂义理阐发与神学思辨的布道时，他心中究竟在想些什么。",
+    "syntaxAnalysis": "复合句。主语 One（泛指人们）；谓语 wonders；宾语从句 what Dane thought of the careful sermons...；explaining the Bible 为现在分词短语修饰 sermons；that he heard in Puritan churches 为定语从句修饰 sermons。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion.",
+    "translation": "与此同时，许多定居者的宗教虔诚度甚至比丹恩还要淡薄得多，正如一位神职人员在沿海地区与当地居民正面接触时所亲身领教的那样，那些居民公开嘲讽讥笑说，他们来到新大陆根本就不是为了什么宗教信仰。",
+    "syntaxAnalysis": "比较复合句+非限制性定语从句。连接状语 Meanwhile；主语 many settlers；谓语 had；宾语 slighter religious commitments than Dane's；as 引导非限制性定语从句修饰前句，从句主干 one clergyman learned in confronting folk...；who 引导定语从句修饰 folk，从句中 mocked 后接 that 引导的宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"Our main end was to catch fish.\"",
+    "translation": "“我们来到这里的主要目的，纯粹就是为了出海打鱼谋生。”",
+    "syntaxAnalysis": "主系表结构直接引语。主语 Our main end（end 此处为熟词僻义，意为‘目的、目标’）；系动词 was；表语不定式短语 to catch fish。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  }
+]

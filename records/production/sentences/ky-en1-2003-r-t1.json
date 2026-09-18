@@ -1,0 +1,602 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Wild Bill Donovan would have loved the Internet.",
+    "translation": "狂野的比尔·多诺万一定会喜欢互联网。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The American spymaster who built the Office of Strategic Services in the World War Ⅱ and later laid the roots for the CIA was fascinated with information.",
+    "translation": "这位在第二次世界大战期间建立战略情报局、后来为中央情报局奠定基础的美国间谍头子对信息非常着迷。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Donovan believed in using whatever tools came to hand in the \"great game\" of espionage—spying as a \"profession.\" These days the Net, which has already re-made such everyday pastimes as buying books and sending mail, is reshaping Donovan's vocation as well.",
+    "translation": "多诺万相信在间谍活动的“伟大游戏”中使用任何可用的工具——间谍作为一种“职业”。如今，网络已经重新塑造了购买书籍和发送邮件等日常消遣方式，也正在重塑多诺万的职业。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "The latest revolution isn't simply a matter of gentlemen reading other gentlemen's e-mail.",
+    "translation": "最新的革命不仅仅是绅士们阅读其他绅士的电子邮件的问题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "That kind of electronic spying has been going on for decades.",
+    "translation": "这种电子间谍活动已经持续了几十年。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying.",
+    "translation": "在过去的三四年里，万维网催生了整个点击式间谍活动行业。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The spooks call it \"open source intelligence,\" and as the Net grows, it is becoming increasingly influential. In 1995 the CIA held a contest to see who could compile the most data about Burundi.",
+    "translation": "间谍们称之为“开源情报”，随着网络的发展，它的影响力也越来越大。 1995年，中央情报局举办了一场竞赛，看谁能收集最多有关布隆迪的数据。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.",
+    "translation": "以较大优势获胜的是弗吉尼亚州一家名为“开源解决方案”的小公司，该公司的明显优势是对电子世界的掌控。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Among the firms making the biggest splash in the new world is Straitford, Inc., a private intelligence-analysis firm based in Austin, Texas.",
+    "translation": "在新世界中引起最大关注的公司之一是 Straitford, Inc.，这是一家总部位于德克萨斯州奥斯汀的私人情报分析公司。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Straitford makes money by selling the results of spying (covering nations from Chile to Russia) to corporations like energy-services firm McDermott International. Many of its predictions are available online at .",
+    "translation": "斯特雷特福德通过向能源服务公司麦克德莫特国际公司等公司出售间谍活动的结果（覆盖从智利到俄罗斯的国家）来赚钱。它的许多预测都可以在网上找到。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Straiford president George Friedman says he sees the online world as a kind of mutually reinforcing tool for both information collection and distribution, a spymaster's dream.",
+    "translation": "斯特莱福德总裁乔治·弗里德曼表示，他将网络世界视为一种信息收集和分发的相辅相成的工具，这是间谍头子的梦想。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Last week his firm was busy vacuuming up data bits from the far corners of the world and predicting a crisis in Ukraine.",
+    "translation": "上周，他的公司正忙于从世界遥远的角落收集数据并预测乌克兰的危机。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "\"As soon as that report runs, we'll suddenly get 500 new internet sign-ups from Ukraine,\" says Friedman, a former political science professor.",
+    "translation": "前政治学教授弗里德曼表示：“该报告一发布，我们就会突然从乌克兰获得 500 个新的互联网注册用户。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "\"And we'll hear back from some of them.\" Open-source spying does have its risks, of course, since it can be difficult to tell good information from bad.",
+    "translation": "“我们会收到其中一些人的回复。”当然，开源间谍活动确实有其风险，因为很难区分好信息和坏信息。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "That's where Straitford earns its keep.",
+    "translation": "这就是斯特雷特福德赖以生存的地方。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Friedman relies on a lean staff of 20 in Austin.",
+    "translation": "Friedman 在奥斯汀拥有 20 名精干员工。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Several of his staff members have military intelligence backgrounds.",
+    "translation": "他的几名幕僚拥有军事情报背景。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "He sees the firm's outsider status as the key to its success.",
+    "translation": "他认为公司的局外人地位是其成功的关键。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong.",
+    "translation": "斯特雷特福德的简报听起来不像华盛顿通常的来来回回，各机构避免发表戏剧性的声明，以免自己可能出错。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "Straitford, says Friedman, takes pride in its independent voice.",
+    "translation": "弗里德曼说，斯特雷特福德为其独立的声音感到自豪。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  }
+]

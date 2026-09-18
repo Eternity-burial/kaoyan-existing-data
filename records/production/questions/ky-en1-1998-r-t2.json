@@ -1,0 +1,338 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t2",
+    "qIndex": 15,
+    "questionNumber": 15,
+    "stem": "According to the author, the American economic situation is \\_\\_\\_\\_\\_\\_\\_\\_.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "not as good as it seems",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 A 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "at its turning point",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "much better than it seems",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "near to complete recovery",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 15 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "According",
+        "author",
+        "American"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t2",
+    "qIndex": 16,
+    "questionNumber": 16,
+    "stem": "The official statistics on productivity growth ________.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "exclude the usual rebound in a business cycle",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "fall short of businessmen's anticipation",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 B 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "meet the expectation of business people",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "fail to reflect the true state of economy",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 16 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "official",
+        "statistics",
+        "productivity"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t2",
+    "qIndex": 17,
+    "questionNumber": 17,
+    "stem": "The author raises the question \"what about pain without gain?\" because ________.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "he questions the truth of \"no gain without pain\"",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "he does not think the productivity revolution works",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 B 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "he wonders if the official statistics are misleading",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "he has conclusive evidence for the revival of businesses",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 17 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "author",
+        "raises",
+        "question"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t2",
+    "qIndex": 18,
+    "questionNumber": 18,
+    "stem": "Which of the following statements is NOT mentioned in the passage?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Radical reforms are essential for the increase of productivity.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 A 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "New ways of organizing workplaces may help to increase productivity.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "The reduction of costs is not a sure way to gain long-term profitability.",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The consultants are a bunch of good-for-nothings.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "词义句意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 18 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Which",
+        "following",
+        "statements"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  }
+]

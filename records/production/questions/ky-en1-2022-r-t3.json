@@ -1,0 +1,578 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "According to Paragraph 1, art-science collaborations have",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "caught the attention of critics.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偷换受众】调查对象是《自然》的广大科研读者群，非职业艺术评论家。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "received favourable responses.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 和 P1-S2 明确展现读者的热烈正面反馈：'Enlightening, challenging, stimulating, fun... almost all said they would consider doing so in the future'（启迪心智、激发灵感、妙趣横生，几乎所有人都表示未来会继续合作）。B选项 received favourable responses（收获了极其良好的赞同反馈）是对这些高度正面褒义评价最精准的提炼。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "promoted academic publishing.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 偷换概念】《自然》刊发了系列文章，但跨界合作的宗旨是创新与传播，非推动学术出版行业发展。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "sparked heated public disputes.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 褒贬颠倒】全篇洋溢着积极肯定与高度热情支持，绝非引发激烈公众争议（heated disputes）。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Enlightening, stimulating, fun + almost all consider doing so in future = received favourable responses。",
+      "methodSummary": "褒义情感提炼法：从 Enlightening, fun 到 consider in future 直接锁定 favourable responses。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "art-science collaborations have"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "The reworked version of The Four Seasons is mentioned to show that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "art can offer audiences easy access to science.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P2-S1 和 P3-S1、P3-S2 紧密相连：P2-S1 提出论点'Scientists seek out artists... help reach a broader audience and make emotional connections'（科学家寻求艺术家帮助触达更广泛受众并建立情感共鸣）；P3-S1 和 P3-S2 举出《四季》将气候科研数据融入交响乐震撼感官作为例证。引用该案例正是为了证明艺术能够为普通大众提供感知与理解科学的便捷生动途径（art can offer audiences easy access to science）。A选项精准契合论点。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "science can help with the expression of emotions.",
+        "isCorrect": false,
+        "distractorType": "主客颠倒",
+        "analysis": "【干扰特征: 主客体颠倒】是艺术帮助科学激发情感共鸣（Artists make emotional connections for science），非科学帮助表达艺术情感。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "public participation in science has a promising future.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】案例强调的是艺术的大众传播桥梁功能，非公民科学（public participation in science）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "art is effective in facilitating scientific innovations.",
+        "isCorrect": false,
+        "distractorType": "跨段混淆",
+        "analysis": "【干扰特征: 跨段错位】激发科研创新是第四段讨论的更高级共创阶段，第三段《四季》案例专讲艺术在向大众传播科学数据上的感官震撼效果。",
+        "refSentences": [
+          "P3-S2",
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P2-S1",
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "artists help reach broader audience + injecting climate data into Four Seasons = art can offer audiences easy access to science。",
+      "methodSummary": "例证题前段论点锁定法：抓准 reach broader audience and make emotional connections 对应的 easy access to science。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "reworked version of The Four Seasons",
+        "mentioned to show that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "Some artists seem to worry that in the art-science partnership",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "their role may be underestimated.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 明确揭示艺术家的顾虑：'artists do not simply assist scientists with their communication requirements. Nor should their work be considered only as an object of study'（艺术家绝不只是协助科学家的传播工具，其作品也不应仅作为研究客体）。A选项 their role may be underestimated（他们的角色地位可能被严重低估/狭隘化）精准概括了艺术家拒绝被矮化为单纯宣传配角的担忧心理。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "their reputation may be impaired.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及声誉受损。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "their creativity may be inhibited.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 概念偏差】担忧的是合作地位不平等，非创造力被直接压制抑制（inhibited）。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "their work may be misguided.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】未提及创作被误导（misguided）。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P4-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "not simply assist communication, nor only object of study = their role may be underestimated（角色被低估）。",
+      "methodSummary": "否定句式推断担忧：not simply assist... nor only object 暗示担心自身角色被严重低估（underestimated）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Some artists seem to worry",
+        "art-science partnership"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "What does the author say about CAVS?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It was headed alternately by artists and scientists.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】是期待科研人员同时成为艺术家诗人（researchers could be artists），非轮流担任中心负责人领导（headed alternately）。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "It exemplified valuable art-science alliances.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确指出 CAVS 的历史地位：MIT 创立 CAVS 探索科技在文化中的作用，围绕艺术家和科学家共同感兴趣的“光”作为合作基石（basis of collaboration）。结合前文第四段末句'The alliances are most valuable when...'，CAVS 正是这种极具价值的科学与艺术深度联盟的典型杰出代表（exemplified valuable art-science alliances）。B选项精准吻合。",
+        "refSentences": [
+          "P4-S2",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Its projects aimed at advancing visual studies.",
+        "isCorrect": false,
+        "distractorType": "字面望文生义",
+        "analysis": "【干扰特征: 字面局限】项目以光为核心探索科技在文化中的深层作用，非单纯为了推进狭隘的视觉研究学科。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Its founders sought to raise the status of artists.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端拔高】宗旨是科艺融合共创，非单向提高艺术家的社会地位。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "explore role of tech in culture + light formed basis of collaboration = exemplified valuable art-science alliances。",
+      "methodSummary": "典型案例功能定位：CAVS 作为历史典范直接对应 exemplified valuable art-science alliances。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author say about CAVS"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "In the last paragraph, the author holds that art-science collaborations",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "are likely to go beyond public expectations.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】原文是超越单纯科研传播的目的（go beyond purpose of research communication），非超出公众期望。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "will intensify interdisciplinary competition.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】强调的是跨学科深度融合协作（immersed in discovery together），非加剧学科间恶性竞争。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "should do more than communicating science.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P6-S2 明确总结全篇的核心规范性主张：'The reach of art-science tie-ups needs to go beyond the necessary purpose of research communication... Artists and scientists alike are immersed in discovery and invention'（艺术与科学跨界联手的辐射范围必须超越单纯科研成果传播的目的……双方应在探索与发明中共创）。C选项 should do more than communicating science（应当远不止于单纯的科学传播）是对 go beyond the necessary purpose of research communication 最精准完美的同义改写。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "are becoming more popular than before.",
+        "isCorrect": false,
+        "distractorType": "次要背景表象",
+        "analysis": "【干扰特征: 现象非核心论点】流行趋势强劲是让步背景（P6-S1: trend is as strong as ever），末段核心主旨落脚在呼吁深化合作内涵。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "篇章主旨建议题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "needs to go beyond the necessary purpose of research communication = should do more than communicating science。",
+      "methodSummary": "末段规范性主张提取：go beyond purpose of research communication 转换为 should do more than communicating science。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "last paragraph",
+        "author holds that art-science collaborations"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  }
+]

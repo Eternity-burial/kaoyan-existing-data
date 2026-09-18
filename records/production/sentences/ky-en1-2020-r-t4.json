@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France.",
+    "translation": "上周四，法国参议院正式审议通过了一项“数字服务税”（digital services tax）法案，将对向法国消费者或网络用户提供数字化服务的大型跨国巨头开征一项全新的税种（impose a levy on tech multinationals）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Digital services include everything from providing a platform for selling goods and services online to targeting advertising based on user data, and the tax applies to gross revenue from such services.",
+    "translation": "数字服务的范畴涵盖了从提供在线销售商品和服务的交易平台，到基于海量用户数据投放定向精准广告的一切业务，该税种直接适用于此类服务所产生的营业总收入。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Many French politicians and media outlets have referred to this as a \"GAFA tax,\" meaning that it is designed to apply primarily to companies such as Google, Apple, Facebook and Amazon—in other words, multinational tech companies based in the United States.",
+    "translation": "众多法国政界人士与新闻媒体将该税项直呼为“GAFA 税”，意味着其设计初衷主要便是为了精准适用于谷歌、苹果、脸书和亚马逊等科技巨头——换句话说，即以美国为总部基地的跨国科技寡头企业。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The digital services tax now awaits the signature of President Emmanuel Macron, who has expressed support for the measure, and it could go into effect within the next few weeks.",
+    "translation": "这项数字服务税目前正等待已明确表达支持立场的埃马纽埃尔·马克龙总统的正式签署，并有望在未来数周之内正式生效落地实施。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "But it has already sparked significant controversy, with the United States trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France.",
+    "translation": "然而，它已经在国际上引爆了极其剧烈的轩然大波：美国贸易代表已正式启动针对该税种是否构成对美国企业歧视的不公平调查，这进而极可能会导致美国对法国实施严厉的贸易反制制裁（may trigger countermeasures against France）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The French tax is not just a unilateral move by one country in need of revenue.",
+    "translation": "法国此番开征新税，绝非仅仅是一个急需财政收入的国家所采取的孤立单边举措。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Instead, the digital services tax is part of a much larger trend, with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions. They have included Britain's DPT (diverted profits tax), Australia's MAAL (multinational anti-avoidance law), and India's SEP (significant economic presence) test, to name but a few. At the same time, the European Union, Spain, Britain and several other countries have all seriously contemplated digital services taxes.",
+    "translation": "相反，这项数字服务税是一场规模宏大得多的全球大趋势的组成部分——过去几年间，各国纷纷提出或正式实施了一大批令人目不暇接的新国际税收条款。其中包括英国的“利润转移税”（DPT）、澳大利亚的“跨国公司反避税法”（MAAL）以及印度的“显著经济存在测试”（SEP），凡此种种不一而足。与此同时，欧盟、西班牙、英国以及其他若干国家，也都在极其严肃地酝酿本国的数字服务税。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "These unilateral developments differ in their specifics, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right. In other words, they all share a view that the international tax system has failed to keep up with the current economy.",
+    "translation": "这些单边行动在具体细节上固然各有不同，但其设计初衷都是为了对跨国公司的收入和利润征税——各国坚信自己本就拥有征税权，哪怕现行的国际税收旧规则尚未正式赋予它们这项权利。换言之，这些国家都普遍抱有同一种共识：现行的国际税收体系已经严重跟不上当代数字经济的发展步伐，亟需进行根本性的升级重塑（current international tax system needs upgrading）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution. Both France and the United States are involved in the organization's work, but France's digital services tax and the American response raise questions about what the future holds for the international tax system.",
+    "translation": "为了应对这一大批单边行动，经济合作与发展组织（OECD）目前正同全球131个国家展开密集协商，力争在2020年底前就一项全球多边国际解决方案达成广泛共识。法国与美国均深度参与了该组织的工作，但法国强推数字服务税以及美方的强烈反弹，给国际税收体系未来的走向打上了一个大大的问号（faced with uncertain prospects）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "France's planned tax is a clear warning: Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit, and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly.",
+    "translation": "法国谋划开征的税项无疑是一记极其响亮的警钟警示：除非各方能够就改革国际税收体系达成广泛共识，否则其他国家极可能会纷纷起而效仿（follow suit）；届时，美国企业将不得不面临来自数十个国家纷至沓来、重叠交织的各种复杂税负，这必将被证明是极其沉重繁琐且代价惨痛的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  }
+]

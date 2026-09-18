@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2013-r-t4",
+  "year": 2013,
+  "textNumber": 4,
+  "title": "Federalism and the Limits of Executive Power in Immigration Enforcement",
+  "chineseTitle": "联邦制宪法平衡与行政权力越界的司法制衡",
+  "topic": null,
+  "topicDomain": "法律宪法与美国联邦政治",
+  "subTopic": "亚利桑那州移民法违宪审查、联邦先占原则与最高法院对白宫权力的制衡",
+  "overview": null,
+  "wordCount": 425,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.5/5.0",
+  "sourcePublication": "选自 The Wall Street Journal《The Real Arizona Victory: An 8-0 rebuke to the Obama Administration's imperial presidency》",
+  "paragraphCount": 7,
+  "sentenceCount": 19,
+  "vocabularyCount": 84,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "2010年，亚利桑那州通过了严苛的参议院第1070号移民法案（SB 1070），试图动用州及地方警力惩治非法移民。奥巴马政府随即向联邦最高法院提起诉讼（Arizona v. United States, 2012）。2012年6月，最高法院公布裁决：一方面以5:3推翻了该法案涉嫌侵犯联邦排他性特权的3项条款（认定国会已在移民立法上‘先占了该领域’）；但另一方面，更具深远宪政意义的是以8:0全票否决了奥巴马白宫关于‘联邦行政权可以凌驾并随意废除任何不合其心意的合法州法’的越权主张。本案生动体现了美国宪法中‘联邦先占（Preemption）’、‘三权分立（Separation of Powers）’以及‘联邦与州权力平衡（Federal-State Balance of Power）’的深刻互动。",
+      "coreDisputeOrTheme": "核心争端围绕两大维度展开：1. 联邦法律与州法律的位阶冲突——各州能否制定平行于联邦的严苛移民执法条款；2. 联邦行政权（White House Executive Discretion）与州权的宪法边界——白宫以自身执法优先权（Enforcement Priorities）为由，企图随意废除未违背联邦成文法的州立法的扩张野心，遭到最高法院9位大法官（扣除回避1人后8人）的统一断然阻击。",
+      "keyTerminology": [
+        {
+          "term": "Arizona v. United States (2012)",
+          "explanation": "亚利桑那州诉美国联邦政府案：美国宪政史上关于联邦与州移民管辖权边界的划时代里程碑判例。"
+        },
+        {
+          "term": "Field Preemption",
+          "explanation": "领域先占原则：当国会已对某一全国性事项进行详尽立法时，联邦法律即‘占领全域’，排斥各州制定任何平行或补充性立法。"
+        },
+        {
+          "term": "Rule of Naturalization",
+          "explanation": "统一归化条例：美国宪法第一条第八款赋予国会独占拥有的制定外国人入籍与国籍规则的排他权力。"
+        },
+        {
+          "term": "Enforcement Priorities",
+          "explanation": "行政执法优先权：总统与联邦行政机构在资源有限时，对法律执行对象和执法节奏享有的自由裁量权。"
+        },
+        {
+          "term": "Alien and Sedition Acts (1798)",
+          "explanation": "《外侨与煽动叛乱法案》：美国早期关于战时驱逐危险外国人和州权抵制联邦专制的历史法案，斯卡利亚大法官借此捍卫州固有防御特权。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "美国宪政与法律制度 (Constitutional Law & American Federalism)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "over- (越过/压倒)",
+          "examples": [
+            "overturn (推翻判决)",
+            "overstep (逾越权限)",
+            "outweigh (超过/重于)"
+          ]
+        },
+        {
+          "affix": "-ize / -ation (名词/动词后缀)",
+          "examples": [
+            "naturalization (归化入籍)",
+            "constitution (宪法)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "司法裁判与程序",
+          "words": [
+            "Supreme Court",
+            "knock out",
+            "overturn",
+            "provisions",
+            "Justice",
+            "statute",
+            "invalidate"
+          ]
+        },
+        {
+          "theme": "宪法权力与机构博弈",
+          "words": [
+            "Constitution",
+            "Administration",
+            "federal",
+            "states",
+            "precede",
+            "occupied the field",
+            "intruded"
+          ]
+        },
+        {
+          "theme": "执法与行政裁量",
+          "words": [
+            "enforce",
+            "verify",
+            "joint enforcement",
+            "assertion",
+            "executive power",
+            "to the letter",
+            "check the power"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2013.js",
+    "year": 2013,
+    "articleKey": "ky-en1-2013-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+  }
+}

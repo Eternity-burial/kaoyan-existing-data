@@ -1,0 +1,722 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Many things make people think artists are weird.",
+    "translation": "很多事情让人们觉得艺术家很奇怪。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "But the weirdest may be this: artists' only job is to explore emotions, and yet they choose to focus on the ones that feel bad.",
+    "translation": "但最奇怪的可能是：艺术家唯一的工作就是探索情感，但他们却选择关注那些感觉不好的东西。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "This wasn't always so.",
+    "translation": "情况并非总是如此。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "The earliest forms of art, like painting and music, are those best suited for expressing joy.",
+    "translation": "最早的艺术形式，如绘画和音乐，是最适合表达欢乐的艺术形式。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "But somewhere from the 19th century onward, more artists began seeing happiness as meaningless, phony or, worst of all, boring, as we went from Wordsworth's daffodils to Baudelaire's flowers of evil.",
+    "translation": "但从 19 世纪开始，随着我们从华兹华斯的水仙花转向波德莱尔的邪恶之花，越来越多的艺术家开始认为幸福是毫无意义的、虚假的，或者最糟糕的是，无聊的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "You could argue that art became more skeptical of happiness because modern times have seen so much misery.",
+    "translation": "你可以说艺术对幸福变得更加怀疑，因为现代已经看到了如此多的痛苦。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "But it's not as if earlier times didn't know about perpetual war, disaster and the massacre of innocents.",
+    "translation": "但这并不是说早期时代不知道无休止的战争、灾难和对无辜者的屠杀。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 8,
+      "ps": "P1-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P1-S8",
+      "pIndex": 1
+    },
+    "text": "The reason, in fact, may be just the opposite: there is too much damn happiness in the world today.",
+    "translation": "事实上，原因可能恰恰相反：当今世界有太多该死的幸福。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "After all, what is the one modern form of expression almost completely dedicated to depicting happiness?",
+    "translation": "毕竟，一种几乎完全致力于描绘幸福的现代表达形式是什么？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Advertising.",
+    "translation": "广告。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "The rise of anti-happy art almost exactly tracks the emergence of mass media, and with it, a commercial culture in which happiness is not just an ideal but an ideology.",
+    "translation": "反幸福艺术的兴起几乎完全伴随着大众媒体的出现，以及随之而来的商业文化的出现，在这种文化中，幸福不仅是一种理想，而且是一种意识形态。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "People in earlier eras were surrounded by reminders of misery.",
+    "translation": "早期时代的人们总是被痛苦的回忆所包围。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "They worked until exhausted, lived with few protections and died young.",
+    "translation": "他们工作到筋疲力尽，生活缺乏保护，英年早逝。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in danger and that they would someday be meat for worms.",
+    "translation": "在西方，在大众传播和识字之前，最强大的大众媒介是教堂，它提醒信徒，他们的灵魂处于危险之中，有一天他们会成为蠕虫的肉。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "Given all this, they did not exactly need their art to be a bummer too.",
+    "translation": "考虑到这一切，他们并不完全希望自己的艺术也变得无赖。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 8,
+      "ps": "P2-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P2-S8",
+      "pIndex": 2
+    },
+    "text": "Today the messages the average Westerner is surrounded with are not religious but commercial, and forever happy.",
+    "translation": "今天，普通西方人周围的信息不再是宗教性的，而是商业性的，并且永远快乐。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Fast-food eaters, news anchors, text messengers, all smiling, smiling, smiling.",
+    "translation": "吃快餐的人、新闻主播、短信员，都在微笑、微笑、微笑。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Our magazines feature beaming celebrities and happy families in perfect homes.",
+    "translation": "我们的杂志以笑容满面的名人和拥有完美住宅的幸福家庭为特色。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "And since these messages have an agenda—to lure us to open our wallets—they make the very idea of happiness seem unreliable.",
+    "translation": "由于这些信息有一个目的——引诱我们打开钱包——它们让幸福的概念看起来不可靠。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "\"Celebrate!\" commanded the ads for the arthritis drug Celebrex, before we found out it could increase the risk of heart attacks.",
+    "translation": "“庆祝！”在我们发现关节炎药物西乐葆会增加心脏病发作的风险之前，他就指挥了它的广告。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "But what we forget—what our economy depends on us forgetting—is that happiness is more than pleasure without pain.",
+    "translation": "但我们忘记了——我们的经济依赖于我们的忘记——幸福不仅仅是没有痛苦的快乐。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "The things that bring the greatest joy carry the greatest potential for loss and disappointment.",
+    "translation": "那些能带来最大快乐的事情也有可能带来最大的损失和失望。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "Today, surrounded by promises of easy happiness, we need art to tell us, as religion once did, Memento mori: remember that you will die, that everything ends, and that happiness comes not in denying this but in living with it.",
+    "translation": "今天，我们被轻松幸福的承诺所包围，我们需要艺术来告诉我们，就像宗教曾经那样，“死亡的象征”：记住你会死，一切都会结束，幸福不是来自于否认这一点，而是来自于与它一起生活。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "It's a message even more bitter than a clove cigarette, yet, somehow, a breath of fresh air.",
+    "translation": "这是一个比丁香香烟更苦涩的信息，但不知怎的，却是一股新鲜空气。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "A lot of students take up law as their profession due to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the growing demand from clients.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。首段虽然提及客户抱怨多，第二段提及法律支出增长，但从未表明学生学法律是受到‘客户需求增长’的驱动。",
+        "vocab": [
+          {
+            "word": "demand",
+            "ipa": "[dɪˈmɑːnd]",
+            "meaning": "需求",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "clients",
+            "ipa": "",
+            "meaning": "委托人",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "the increasing pressure of inflation.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。第二段第一句指出法律服务支出‘增长速度是通胀的两倍’，只是用来对比法律服务费用的飞涨速度，并非学生选择法律专业的动因。",
+        "vocab": [
+          {
+            "word": "pressure",
+            "ipa": "[ˈpreʃə(r)]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "inflation",
+            "ipa": "[ɪnˈfleɪʃn]",
+            "meaning": "通货膨胀",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the prospect of working in big firms.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与断章取义。第二段第三句明确指出‘most law graduates never get a big-firm job’（多数毕业生从未得到过大律所工作），吸引学生涌入法学院的根本是暴利本身，大公司前景只是学生最终无法实现的泡影。",
+        "vocab": [
+          {
+            "word": "prospect",
+            "ipa": "[ˈprɒspekt]",
+            "meaning": "前景",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the attraction of financial rewards.",
+        "isCorrect": true,
+        "analysis": "定位至第二段 S4：“The best lawyers made skyscrapers-full of money, tempting ever more students to pile into law schools.” 原文指出顶尖律师大发横财（made skyscrapers-full of money），从而诱惑吸引了越来越多学生蜂拥挤进法学院学习法律。skyscrapers-full of money（堆满摩天大楼的巨额金钱）正是‘financial rewards’（经济回报）的形象化修辞表达，tempting 直接对应 the attraction，因此 D 为绝佳同义替换。",
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "财务的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "rewards",
+            "ipa": "",
+            "meaning": "回报",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "the attraction of financial rewards": "The best lawyers made skyscrapers-full of money, tempting ever more students to pile into law schools (顶级律师赚得像摩天大楼一样多的钱，吸引了越来越多学生涌入法学院 -> 丰厚经济回报的强大吸引力)"
+    },
+    "methodologyReview": "事实因果题。寻找促使学生涌入法学院（pile into law schools）的动因。原文借用极富画面感的夸张修辞 ‘made skyscrapers-full of money, tempting ...’，将金钱诱惑与学生涌入建立了坚实的因果联系。financial rewards 是对这一财富诱惑的高级概括。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "lot",
+          "ipa": "[lɒt]",
+          "meaning": "许多",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "take",
+          "ipa": "[teɪk]",
+          "meaning": "从事",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "profession",
+          "ipa": "[prəˈfeʃn]",
+          "meaning": "职业",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "due",
+          "ipa": "[djuː]",
+          "meaning": "因为",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "Which of the following adds to the costs of legal education in most American states?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Higher tuition fees for undergraduate studies.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第三段指出学生必须先读四年无关本科，增加了就读年限与总学费负债，但并未断言本科专业本身的学费比其他专业‘更贵（Higher tuition fees）’。",
+        "vocab": [
+          {
+            "word": "tuition",
+            "ipa": "[tjuˈɪʃ(ə)n]",
+            "meaning": "学费",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "fees",
+            "ipa": "",
+            "meaning": "费用",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "undergraduate",
+            "ipa": "[ˌʌndəˈɡrædʒuət]",
+            "meaning": "本科生",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Pursuing a bachelor's degree in another major.",
+        "isCorrect": true,
+        "analysis": "定位至第三段 S9：“There is just one path for a lawyer in most American states: a four-year undergraduate degree in some unrelated subject, then a three-year law degree ...” 在美国绝大多数州，成为律师必须先在‘某些毫不相关的学科上修读四年本科学位（a four-year undergraduate degree in some unrelated subject）’，随后才能进入三年制法学院。这一冗长制度迫使学生多付四年额外学费与生活成本，是导致债务高达10万美元的关键推手。unrelated subject 精准同义转换为 another major，undergraduate degree 精准替换为 bachelor's degree。",
+        "vocab": [
+          {
+            "word": "Admissions",
+            "ipa": "",
+            "meaning": "准入，入场（此处指入学）认可",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "association",
+            "ipa": "[əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn]",
+            "meaning": "律师职业协会",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Admissions approval from the bar association.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。律协（ABA）只是对法学院机构进行资质认证（authorized），从未提及申请法学院需获得律协的个人‘入学批准许可（Admissions approval）’。",
+        "vocab": [
+          {
+            "word": "Pursuing",
+            "ipa": "",
+            "meaning": "追逐，追求（此处指追求学位，即…",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Receiving training by professional associations.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。原文提到的是法学院受美国律师协会认证（authorized by the ABA）以及昂贵的司法考试备考（expensive preparation for the bar exam），绝非‘接受专业协会的培训’。",
+        "vocab": [
+          {
+            "word": "professional",
+            "ipa": "[prəˈfeʃənl]",
+            "meaning": "专业的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "associations",
+            "ipa": "",
+            "meaning": "协会",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Pursuing a bachelor's degree in another major": "a four-year undergraduate degree in some unrelated subject (在毫不相干的学科上修读四年本科学位 -> 在另一专业攻读学士学位)"
+    },
+    "methodologyReview": "细节事实题。考查对美国法学特殊学制‘4+3’成本构成（unrelated subject undergraduate degree）的领悟。第四段的改革建议‘allow people to study law as an undergraduate degree’从反面印证了：正是原本四年读无关专业学位的制度人为拔高了教育成本。同义改写：unrelated subject = another major。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2014_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "adds",
+          "ipa": "",
+          "meaning": "增加",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "legal",
+          "ipa": "[ˈliːɡ(ə)l]",
+          "meaning": "法律的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "states",
+          "ipa": "",
+          "meaning": "州",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "Hindrance to the reform of the legal system originates from _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "non-professionals' sharp criticism.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中从未提及非法律专业人士对法律系统的尖锐批评构成改革障碍。",
+        "vocab": [
+          {
+            "word": "resistance",
+            "ipa": "[rɪˈzɪstəns]",
+            "meaning": "反对",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "lawyers' and clients' strong resistance.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。第四段首句明确强调改革对‘lawyers and their customers’双方都有利，第五段也指出行业内部有‘pressure for change’（求变呼声），客户也抱怨重重，绝非他们抵制改革。",
+        "vocab": [
+          {
+            "word": "rigid",
+            "ipa": "[ˈrɪdʒɪd]",
+            "meaning": "严格死板的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "governing",
+            "ipa": "",
+            "meaning": "治理，监管",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "profession",
+            "ipa": "[prəˈfeʃn]",
+            "meaning": "行业",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the rigid bodies governing the profession.",
+        "isCorrect": true,
+        "analysis": "定位至第四段 S13：“Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them.” 许多合理的改革方案久已提出，但改革未能推行的阻力（Hindrance）恰恰源自‘掌管该行业的各州机构（the state-level bodies that govern the profession）’过于思想保守僵化（too conservative）。too conservative 与 rigid（死板、不肯变通）完美呼应，故 A 项为最确切答案。",
+        "vocab": [
+          {
+            "word": "stern",
+            "ipa": "[stɜːn]",
+            "meaning": "严厉的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "the stern exam for would-be lawyers.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。第四段提到司法考试足够严格（stern enough test），是作者用来论证‘允许优秀学生提前考律考’可行性的依据，并非阻挠体制改革的阻力源头。",
+        "vocab": [
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "批评",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "sharp",
+            "ipa": "[ʃɑːp]",
+            "meaning": "非专业的（此处形容词作名词，代…",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "the rigid bodies governing the profession": "the state-level bodies that govern the profession have been too conservative to implement them (管理该行业的各州监管机构过于保守而不愿落实 -> 管理该行业的僵化死板机构)"
+    },
+    "methodologyReview": "因果细节题。定位词为 reform 的阻力（Hindrance）。转折句 ‘but the state-level bodies that govern the profession have been too conservative to implement them’ 一针见血点名了阻力主体：state-level bodies governing the profession，及其保守死板特征：too conservative（同义替换为 rigid）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2014_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "reform",
+          "ipa": "[rɪˈfɔːm]",
+          "meaning": "改革",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "legal",
+          "ipa": "[ˈliːɡ(ə)l]",
+          "meaning": "法律（上）的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "originates",
+          "ipa": "",
+          "meaning": "起源于",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Hindrance",
+          "ipa": "[ˈhɪndrəns]",
+          "meaning": "阻碍",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "The guild-like ownership structure is considered \"restrictive\" partly because it _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "prevents lawyers from gaining due profits.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "与原文相反。第二段指出顶尖律师赚得盆满钵满，第五段也指出该结构使得费用常年居高不下（keeps fees high），并未阻止律师赚钱。",
+        "vocab": [
+          {
+            "word": "bans",
+            "ipa": "[bænz]",
+            "meaning": "禁止",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "profession",
+            "ipa": "[prəˈfeʃn]",
+            "meaning": "行业",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "keeps lawyers from holding law-firm shares.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。被禁止持股的是‘non-lawyers’（非执业律师/局外人），该结构恰恰规定只有执业律师才能合法持有律所股份，选项完全张冠李戴、正反颠倒。",
+        "vocab": [
+          {
+            "word": "keeps",
+            "ipa": "",
+            "meaning": "阻止",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "aggravates the ethical situation in the trade.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。第五段末尾指出，监管反对派维护该体制的说辞正是为了‘serve clients ethically’（讲求职业道德），作者指出它阻碍效率，但并未断言该架构直接‘恶化了行业道德’。",
+        "vocab": [
+          {
+            "word": "aggravates",
+            "ipa": "",
+            "meaning": "使恶化",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "ethical",
+            "ipa": "[ˈeθɪk(ə)l]",
+            "meaning": "道德的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "bans outsiders' involvement in the profession.",
+        "isCorrect": true,
+        "analysis": "定位至第五段 S19 及 S21：“Except in the District of Columbia, non-lawyers may not own any share of a law firm. ... keeping outsiders out of a law firm isolates lawyers ...” 所谓的封建行会式所有权架构（guild-like structure），其核心限制性就在于法理上严禁非律师持有律所股份，将任何外部人员强行拒之门外（keeping outsiders out）。这直接印证了它‘禁止局外外部人士介入该行业（bans outsiders' involvement in the profession）’。",
+        "vocab": [
+          {
+            "word": "prevents",
+            "ipa": "",
+            "meaning": "阻止，妨碍",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "profits",
+            "ipa": "",
+            "meaning": "收益",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "bans outsiders' involvement in the profession": "non-lawyers may not own any share of a law firm ... keeping outsiders out of a law firm (非律师不得拥有任何律所股份 ... 将局外人排斥在律所之外 -> 禁止外部人员参与该行业)"
+    },
+    "methodologyReview": "名词内涵细节题。理解 guild-like（行会式）的核心特征。中世纪行会即以‘封闭垄断、严禁外人插手’著称。文中紧接着解释其限制性表现：‘non-lawyers may not own any share’，后文呼应‘keeping outsiders out’。non-lawyers / outsiders 对应 outsiders，may not own / keeping out 精准对应 bans involvement。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2014_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "ownership",
+          "ipa": "[ˈəʊnəʃɪp]",
+          "meaning": "所有权",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "structure",
+          "ipa": "[ˈstrʌktʃə(r)]",
+          "meaning": "结构",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "In this text, the author mainly discusses _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "flawed ownership of America's law firms and its causes.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。所有权缺陷（flawed ownership）仅仅是文章后半部分（P5-P6）探讨的第二个原因与方案，完全忽略了前半部分同样浓墨重彩论述的法律教育成本沉疴。",
+        "vocab": [
+          {
+            "word": "ownership",
+            "ipa": "[ˈəʊnəʃɪp]",
+            "meaning": "所有权",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "law",
+            "ipa": "[lɔː]",
+            "meaning": "律师事务所",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "flawed",
+            "ipa": "[flɔːd]",
+            "meaning": "有缺陷的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the factors that help make a successful lawyer in America.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "主旨相悖。全文是在深刻揭露法律行业高收费、毕业生沉沦诉棍的制度困局，绝非撰写‘成功律师进阶指南’。",
+        "vocab": [
+          {
+            "word": "factors",
+            "ipa": "",
+            "meaning": "因素",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "a problem in America's legal profession and solutions to it.",
+        "isCorrect": true,
+        "analysis": "全文主旨题。文章遵循经典的‘提出问题（P1-P2 律师遭痛恨、客户抱怨多、费用暴涨）-> 分析两大成因（P3 法律教育成本极高；P5 行会式所有权排他垄断）-> 分别给出改革方案（P4 缩短学制降学贷；P6 允许非律师入股提升效率）-> 总结呼吁效仿英澳推进自由化改革’的完美问题-解决型（Problem-Solution）论述结构。因此，‘美国法律行业存在的问题及其应对解决方案（a problem in America's legal profession and solutions to it）’是全文最宏观、最精准的主旨概括。",
+        "vocab": [
+          {
+            "word": "legal",
+            "ipa": "[ˈliːɡ(ə)l]",
+            "meaning": "法律的行业",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "solutions",
+            "ipa": "",
+            "meaning": "解决方案",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the role of undergraduate studies in America's legal education.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。本科专业学习仅仅是第三段分析教育成本和第四段探讨教改时的局部细节，绝不能代表整篇文章的宏大论题。",
+        "vocab": [
+          {
+            "word": "undergraduate",
+            "ipa": "[ˌʌndəˈɡrædʒuət]",
+            "meaning": "本科生",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "legal",
+            "ipa": "[ˈliːɡ(ə)l]",
+            "meaning": "法律的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "a problem in America's legal profession and solutions to it": "全文系统阐述美国法律服务成本畸高、教育体制与所有权垄断两大问题，并逐一提出教育改革与放宽非律师准入的破解方案"
+    },
+    "methodologyReview": "主旨大意题。纵览全文骨架：Problem（高昂收费与恶性缠诉）-> Reason 1 & Solution 1（教育成本高与学制改革）-> Reason 2 & Solution 2（行会所有权垄断与自由化开放）。典型的高频社论结构。选项 B ‘a problem and solutions to it’ 完美统筹了全文问题与对策的双重视野，兼具准确度与广度。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2014_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

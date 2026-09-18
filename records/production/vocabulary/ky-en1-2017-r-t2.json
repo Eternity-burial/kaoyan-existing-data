@@ -1,0 +1,730 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "reigning",
+    "word": "reigning",
+    "ipa": "/ˈreɪnɪŋ/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "在位的，执政的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "monarch",
+    "word": "monarch",
+    "ipa": "/ˈmɒnək/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "君主，国王",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "esteemed",
+    "word": "esteemed",
+    "ipa": "/ɪˈstiːmd/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "受尊敬的，受推崇的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "revolutionize",
+    "word": "revolutionize",
+    "ipa": "/ˌrevəˈluːʃənaɪz/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "彻底改变，引发革命",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "observatory",
+    "word": "observatory",
+    "ipa": "/əbˈzɜːvətri/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "天文台，天文观测站",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "cosmos",
+    "word": "cosmos",
+    "ipa": "/ˈkɒzmɒs/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "宇宙",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "dormant",
+    "word": "dormant",
+    "ipa": "/ˈdɔːmənt/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "休眠的，静止的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "at issue",
+    "word": "at issue",
+    "ipa": "/æt ˈɪʃuː/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "争议焦点，核心问题",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "unsurpassed",
+    "word": "unsurpassed",
+    "ipa": "/ˌʌnsəˈpɑːst/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "无可比拟的，无与伦比的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "dense",
+    "word": "dense",
+    "ipa": "/dens/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "稠密的，密集的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "nothing new",
+    "word": "nothing new",
+    "ipa": "/ˈnʌθɪŋ njuː/",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "屡见不鲜，不是新鲜事",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "sacred",
+    "word": "sacred",
+    "ipa": "/ˈseɪkrɪd/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "神圣的，宗教圣洁的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "sovereign",
+    "word": "sovereign",
+    "ipa": "/ˈsɒvrɪn/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "有主权的，独立主权的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "vocal",
+    "word": "vocal",
+    "ipa": "/ˈvəʊkl/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "直言不讳的，激烈发声的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "disrespect for",
+    "word": "disrespect for",
+    "ipa": "/ˌdɪsrɪˈspekt fɔː/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "对……的亵渎/不敬",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "fragile",
+    "word": "fragile",
+    "ipa": "/ˈfrædʒaɪl/",
+    "pos": null,
+    "sourceLocation": "P4-S3",
+    "contextMeaning": "脆弱的，易受损的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "renaissance",
+    "word": "renaissance",
+    "ipa": "/rɪˈneɪsns/",
+    "pos": null,
+    "sourceLocation": "P4-S4",
+    "contextMeaning": "复兴，再生",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "relic",
+    "word": "relic",
+    "ipa": "/ˈrelɪk/",
+    "pos": null,
+    "sourceLocation": "P4-S4",
+    "contextMeaning": "遗迹，遗物，过时之物",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "dawn of civilization",
+    "word": "dawn of civilization",
+    "ipa": "/dɔːn əv ˌsɪvəlaɪˈzeɪʃn/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "文明的黎明，人类文明开端",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "inspires",
+    "word": "inspires",
+    "ipa": "/ɪnˈspaɪəz/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "激励，激发，赋予灵感",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "disassemble",
+    "word": "disassemble",
+    "ipa": "/ˌdɪsəˈsembl/",
+    "pos": null,
+    "sourceLocation": "P5-S3",
+    "contextMeaning": "拆除，解体",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "seek to answer",
+    "word": "seek to answer",
+    "ipa": "/siːk tə ˈɑːnsə/",
+    "pos": null,
+    "sourceLocation": "P5-S3",
+    "contextMeaning": "试图回答，探索解开",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "primal",
+    "word": "primal",
+    "ipa": "/ˈpraɪml/",
+    "pos": null,
+    "sourceLocation": "P5-S4",
+    "contextMeaning": "原始的，根本的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "ancestral",
+    "word": "ancestral",
+    "ipa": "/ænˈsestrəl/",
+    "pos": null,
+    "sourceLocation": "P5-S4",
+    "contextMeaning": "祖先的，祖传的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "compromises",
+    "word": "compromises",
+    "ipa": "/ˈkɒmprəmaɪzɪz/",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "妥协，折中让步",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "visibility",
+    "word": "visibility",
+    "ipa": "/ˌvɪzəˈbɪləti/",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "可见度，能见度",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "archaeological",
+    "word": "archaeological",
+    "ipa": "/ˌɑːkiəˈlɒdʒɪkl/",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "考古的，考古学上的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t2",
+    "surface": "steps in the right direction",
+    "word": "steps in the right direction",
+    "ipa": "/steps ɪn ðə raɪt dəˈrekʃn/",
+    "pos": null,
+    "sourceLocation": "P6-S4",
+    "contextMeaning": "朝正确方向迈出的坚实步伐",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  }
+]

@@ -1,0 +1,829 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The statement \"It never rains but it pours\" is used to introduce _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the fierce business competition.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。文章核心探讨的是企业在公司治理中面临的突发数据泄露与信息安全危机，并未涉及企业之间的市场份额争夺或激烈的商业竞争。",
+        "vocab": [
+          {
+            "word": "fierce",
+            "ipa": "[fɪəs]",
+            "meaning": "激烈的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the feeble boss-board relations.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "断章取义。第1段第2句虽然提到了 'improved their feeble corporation governance'（改善了原本薄弱的公司治理），但并非讨论老板与董事会之间关系的薄弱或对立。",
+        "vocab": [
+          {
+            "word": "feeble",
+            "ipa": "[ˈfiːbl]",
+            "meaning": "脆弱的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the threat from news reports.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全与就事论事。新闻媒体的负面头条丑闻（nasty headlines）只是数据泄露东窗事发后引发的直接舆论后果，并非该谚语引入的根本实质问题。",
+        "vocab": [
+          {
+            "word": "threat",
+            "ipa": "[θret]",
+            "meaning": "威胁",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the severity of data leakage.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。开篇引用英语经典谚语 'It never rains but it pours'（祸不单行/不雨则已一雨倾盆），紧接着以 Just as... 进行对照：管理层刚理顺最棘手的会计与合规麻烦，'data insecurity'（数据不安全/数据泄露）这一全新危机便劈头盖脸席卷而来，威胁要让高管们引咎辞职。作者引用此谚语生动形象地引出数据泄露危机的突如其来及其破坏性与严峻性（the severity of data leakage）。",
+        "vocab": [
+          {
+            "word": "legal",
+            "ipa": "[ˈliːɡ(ə)l]",
+            "meaning": "法律的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "penalty",
+            "ipa": "[ˈpenəlti]",
+            "meaning": "惩罚",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "solution",
+            "ipa": "[səˈluːʃ(ə)n]",
+            "meaning": "解决办法",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "severity",
+            "ipa": "[sɪˈverəti]",
+            "meaning": "严重性",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "It never rains but it pours ... a new problem threatens ... data insecurity": "the severity of data leakage (祸不单行/不雨则已一雨倾盆 -> 数据泄露问题的突发性与严重性)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "statement",
+          "ipa": "[ˈsteɪtmənt]",
+          "meaning": "陈述",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "According to Paragraph 2, some organizations check their systems to find out _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "whether there is any weak point.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第2段末尾指出管理者紧急排查错综复杂的IT系统与业务流程的目的为：'in search of potential vulnerabilities'。vulnerability 意为‘系统漏洞、脆弱点或易受攻击的薄弱环节’，与选项 A 'whether there is any weak point' 构成了近乎词典级的精准同义替换。"
+      },
+      {
+        "key": "B",
+        "text": "what sort of data has been stolen.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。各机构匆忙自查系统是为了‘排查潜在系统漏洞’以防患于未然，而非去统计失窃数据的种类。"
+      },
+      {
+        "key": "C",
+        "text": "who is responsible for the leakage.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第2段全文仅说明管理层在排查系统漏洞，只字未提企业自查是为了追查谁该对泄密负责。",
+        "vocab": [
+          {
+            "word": "responsible",
+            "ipa": "[rɪˈspɒnsəb(ə)l]",
+            "meaning": "负责",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "how the potential spies can be located.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "荒谬过度推断。文章讨论的是企业防范黑客和系统外泄漏洞，并非用于排查或抓捕间谍（spies）。",
+        "vocab": [
+          {
+            "word": "potential",
+            "ipa": "[pəˈtenʃ(ə)l]",
+            "meaning": "潜在的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "located",
+            "ipa": "",
+            "meaning": "找出…的准确位置",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "in search of potential vulnerabilities": "whether there is any weak point (寻找潜在的漏洞 -> 查明是否存在任何薄弱环节)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "organizations",
+          "ipa": "",
+          "meaning": "组织",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "check",
+          "ipa": "[tʃek]",
+          "meaning": "检查",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "In bringing up the concept of GASP the author is making the point that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "shareholders' interests should be properly attended to.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "偏离核心论题。股东利益是第3段第2句提到的董事会受托责任背景，并非提出 GASP 这一全新安全规范概念所旨在证明的核心论点。",
+        "vocab": [
+          {
+            "word": "attended",
+            "ipa": "",
+            "meaning": "注意",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "information protection should be given due attention.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第3段提出 GASP（Generally Accepted Security Practices，公认安全实践），通过类比会计行业的 GAAP 说明信息安全防护绝不能再被视为底层运维的琐事，而必须确立全行业通用的规范与标准，上升为全体管理层的高度共识，即证明了 'information protection should be given due attention'（信息保护理应受到充分应有的重视）。"
+      },
+      {
+        "key": "C",
+        "text": "businesses should enhance their level of accounting security.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴与借词混淆。GAAP 才是会计原则，GASP 代表的是安全实践（Security Practices），选项移花接木混淆为所谓‘会计安全’。",
+        "vocab": [
+          {
+            "word": "enhance",
+            "ipa": "[ɪnˈhɑːns]",
+            "meaning": "加强",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "security",
+            "ipa": "[sɪˈkjʊərəti]",
+            "meaning": "安全",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the market value of customer data should be emphasized.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。客户数据的市场价值是第3段第2句的支撑论据，提出 GASP 强调的是建立全套正当管理安全规范，而非仅仅强调数据本身的价值。",
+        "vocab": [
+          {
+            "word": "emphasized",
+            "ipa": "",
+            "meaning": "强调",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "EXEMPLIFICATION",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "GASP ... Setting the proper norms has become a management issue": "information protection should be given due attention (公认安全实践 + 树立正当规范成为管理要务 -> 信息保护理应得到充分的应有重视)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "bringing",
+          "ipa": "",
+          "meaning": "提出",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "concept",
+          "ipa": "[ˈkɒnsept]",
+          "meaning": "概念",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "GASP",
+          "ipa": "[ɡɑːsp]",
+          "meaning": "公认安全措施（Generally",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "making",
+          "ipa": "",
+          "meaning": "证明论点",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "According to Paragraph 4, what puzzles the author is that some bosses fail to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "see the link between trust and data protection.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第4段第1句开宗明义：'The mystery is that this should come as a surprise to any boss.'（令作者百思不得其解的是这竟然会让任何老板吃惊）。第2句立刻给出严密逻辑：最愚钝的高管也该知道信任是最脆弱宝贵的资产，而没有什么比泄露客户敏感数据更容易彻底毁掉信任。老板们之所以感到吃惊，正是因为他们愚钝地未能看清‘数据保护’与‘商业信任’之间生死相依的直接纽带（see the link between trust and data protection）。",
+        "vocab": [
+          {
+            "word": "link",
+            "ipa": "[lɪŋk]",
+            "meaning": "联系",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "perceive the sensitivity of personal data.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "细节偏差与未达本质。作者困惑的核心在于数据泄露对企业最宝贵商业信任资产的毁灭性打击，而非单纯在于管理者能否感知个人数据是否敏感。",
+        "vocab": [
+          {
+            "word": "perceive",
+            "ipa": "[pəˈsiːv]",
+            "meaning": "感觉到",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "realize the high cost of data restoration.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。原文说的是 'trust... is hugely expensive to restore'（重建客户信任的代价极其高昂），选项偷换成了恢复数据本身的代价（data restoration）。"
+      },
+      {
+        "key": "D",
+        "text": "appreciate the economic value of trust.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "未达核心因果。商业信任具有最高经济价值是客观公认的前提（obvious），老板们之所以产生盲区，是因为他们没意识到数据泄露会直接把这项核心资产毁于一旦。",
+        "vocab": [
+          {
+            "word": "appreciate",
+            "ipa": "[əˈpriːʃieɪt]",
+            "meaning": "意识到",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "economic",
+            "ipa": "[ˌiːkəˈnɒmɪk]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "The mystery is that this should come as a surprise ... trust is easily destroyed ... company letting sensitive personal data get into the wrong hands": "see the link between trust and data protection (令作者费解的是竟然会吃惊 + 信任极易被摧毁 + 泄露敏感数据最容易摧毁信任 -> 没能看清信任与数据保护之间的内在必然联系)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "puzzles",
+          "ipa": "",
+          "meaning": "使困惑",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "fail",
+          "ipa": "[feɪl]",
+          "meaning": "未能",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "It can be inferred from Paragraph 5 that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "data leakage is more severe in Europe.",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "正反混淆与无中生有。第5段第1句指出“(in America, but not Europe)”，表明欧洲对数据泄露有法律惩罚，而美国缺乏。原文仅对比了法律惩罚的有无，并未比较两地数据泄露的严重程度，不能得出“欧洲的数据泄露更严重”。",
+        "refSentences": [
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "severe",
+            "ipa": "[sɪˈvɪə(r)]",
+            "meaning": "严重的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "FTC's decision is essential to data security.",
+        "isCorrect": false,
+        "distractorType": "程度夸大",
+        "analysis": "夸大绝对与过度推理。第5段末句提到FTC做出了“hugely important decision”（极其重要的决定），警告企业若失职监管部门将采取惩戒行动。但“极其重要”不等于“对数据安全是必不可少的/起决定性作用的”（essential），过度夸大了该决定的绝对地位。",
+        "refSentences": [
+          "P5-S4"
+        ],
+        "vocab": [
+          {
+            "word": "essential",
+            "ipa": "[ɪˈsenʃl]",
+            "meaning": "对…必不可少",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "security",
+            "ipa": "[sɪˈkjʊərəti]",
+            "meaning": "安全",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "California takes the lead in security legislation.",
+        "isCorrect": false,
+        "distractorType": "过度引申/非核心推论",
+        "analysis": "非段落核心推论。第5段第2句提到加州最近通过了一项法案（Until California recently passed a law...），但作者意在说明监管环境和企业通报要求的变化，并紧接着提到国会山正在酝酿法案，并未着力强调加州处于“领先领头地位”（takes the lead）。真题标准答案选定为D。",
+        "refSentences": [
+          "P5-S2",
+          "P5-S3"
+        ],
+        "vocab": [
+          {
+            "word": "takes",
+            "ipa": "",
+            "meaning": "处于领先地位",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "security",
+            "ipa": "[sɪˈkjʊərəti]",
+            "meaning": "安全",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "legislation",
+            "ipa": "[ˌledʒɪsˈleɪʃn]",
+            "meaning": "立法",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "legal penalty is a major solution to data leakage.",
+        "isCorrect": true,
+        "distractorType": "正确项",
+        "analysis": "正确选项（真题MD参考答案版本）。第5段第1句指出：“The current state of affairs may have been encouraged—though not justified—by the lack of legal penalty (in America, but not Europe) for data leakage.”（目前这种数据泄露局面在很大程度上是由于缺乏对数据泄露的法律惩罚所助长的）。作者通过因果关系反推：缺乏法律惩罚助长了泄露，因此法律惩罚是解决、遏制数据泄露问题的主要手段与途径（a major solution to data leakage）。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "encouraged... by the lack of legal penalty": "legal penalty is a major solution to data leakage (缺乏法律惩罚助长了泄露 -> 法律惩罚是解决问题的主要途径)"
+    },
+    "methodologyReview": "逆向因果推断法",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "explanation": {
+        "summary": "推断题（依据历年真题MD标准答案）。根据第5段第1句“The current state of affairs may have been encouraged—though not justified—by the lack of legal penalty (in America, but not Europe) for data leakage.”（目前这种混乱局面在很大程度上是由缺乏对数据泄露的法律惩罚所助长的），作者明确指出“缺乏法律惩罚”是造成当前数据泄露频发的重要诱因。由反向因果逻辑合理推知：既然缺乏法律惩罚助长了数据泄露，那么实施法律惩罚就是遏制、解决数据泄露问题的关键手段。因此[D]选项“legal penalty is a major solution to data leakage”（法律惩罚是解决数据泄露的主要方案）为正确推断。",
+        "distractorAnalysis": "A项“data leakage is more severe in Europe”：正反混淆。正反混淆与无中生有。第5段第1句指出“(in America, but not Europe)”，表明欧洲对数据泄露有法律惩罚，而美国缺乏。原文仅对比了法律惩罚的有无，并未比较两地数据泄露的严重程度，不能得出“欧洲的数据泄露更严重”。\nB项“FTC's decision is essential to data security”：程度夸大。夸大绝对与过度推理。第5段末句提到FTC做出了“hugely important decision”（极其重要的决定），警告企业若失职监管部门将采取惩戒行动。但“极其重要”不等于“对数据安全是必不可少的/起决定性作用的”（essential），过度夸大了该决定的绝对地位。\nC项“California takes the lead in security legislation”：过度引申/非核心推论。非段落核心推论。第5段第2句提到加州最近通过了一项法案（Until California recently passed a law...），但作者意在说明监管环境和企业通报要求的变化，并紧接着提到国会山正在酝酿法案，并未着力强调加州处于“领先领头地位”（takes the lead）。真题标准答案选定为D。",
+        "method": "【逆向因果推断法】由原文“缺乏A助长了B问题”，反向推导出“施加/推行A是解决B问题的核心途径”。"
+      },
+      "stemKeywords": [
+        "inferred",
+        "Paragraph 5"
+      ],
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  }
+]

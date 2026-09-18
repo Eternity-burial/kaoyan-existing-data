@@ -1,0 +1,400 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "According to Paragraph 1, Swetnam was surprised by",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the scarcity of tree-ring research in the U.S.",
+        "isCorrect": false,
+        "distractorType": "无中生有研究匮乏",
+        "analysis": "【干扰特征: 概念偏差】亚利桑那大学拥有专门的年轮实验室，非震惊于美国年轮研究匮乏。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the firefighting measures in ancient Europe.",
+        "isCorrect": false,
+        "distractorType": "偷换地理历史背景",
+        "analysis": "【干扰特征: 偷换背景】研究的是北美大陆在欧洲人到达前的火灾历史（before European colonists arrived on continent），非古代欧洲的灭火措施。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the forest management practices in the 1970s.",
+        "isCorrect": false,
+        "distractorType": "偷换对象",
+        "analysis": "【干扰特征: 偷换对象】70年代灭火指令（put everything out）是他早年的工作经历，震惊的是年轮中发现的殖民前密集火疤。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the number of wildfires in precolonial times.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 和 P1-S2 明确交代其震惊发现：'surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent. Some trees bore more than 20 fire scars'（震惊地发现欧洲殖民者到达前数百年间反复发生大火的记录，有的古树甚至留有20多道火疤）。repeated blazes before European colonists arrived 与 the number of wildfires in precolonial times（殖民前时期野火发生数量之多）完全同义对应。D选项精准吻合。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "surprised to find record of repeated blazes before European colonists (20 fire scars) = surprised by the number of wildfires in precolonial times。",
+      "methodSummary": "首段题眼直接提取：repeated blazes before European colonists 转换为 number of wildfires in precolonial times。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "Swetnam was surprised by"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "Paragraph 2 mainly focuses on",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the causes of previous burns.",
+        "isCorrect": false,
+        "distractorType": "偷换论题为起火原因",
+        "analysis": "【干扰特征: 偷换焦点】第二段未探讨野火最初如何被引发的原因，重心在于阐述低烈度火对生态的良性功能。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the treatment of diseased trees.",
+        "isCorrect": false,
+        "distractorType": "以偏概全局部细节",
+        "analysis": "【干扰特征: 局部细节】清除病树（rid of sick trees）只是小火带来的诸多生态益处之一，无法概括全段。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the benefits of low-severity fires.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 段落主旨高度概括】P2-S1 提出核心论点'frequent, low-severity fires made many ecosystems healthier'（频繁发生的低烈度野火让许多生态系统更为健康）；P2-S2 紧随其后全面详述其三大生态益处：清除枯木病树、遏制疾病蔓延、消耗地表易燃物以防特大火灾。整段全部围绕低强度小火的生态益处展开。C选项 the benefits of low-severity fires（低烈度火灾的生态益处）完美周延地统领全段。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the importance of forest ecosystems.",
+        "isCorrect": false,
+        "distractorType": "泛化泛指",
+        "analysis": "【干扰特征: 过于宽泛】遗漏了贯穿全段最核心的限定词‘低强度野火’（low-severity fires）。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "段落主旨题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "low-severity fires made ecosystems healthier (rid dead trees, curb disease, prevent fuel build up) = the benefits of low-severity fires。",
+      "methodSummary": "段落主题句归纳法：抓准 low-severity fires made ecosystems healthier 直接锁定 C。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 2 mainly focuses on"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "What did the study find about the wildfires over the past few decades?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Their intensity has vastly fluctuated.",
+        "isCorrect": false,
+        "distractorType": "偷换概念强度波动",
+        "analysis": "【干扰特征: 概念偏差】第三段统计测量的是火灾发生频次（number of fires/shortfall），非火灾强度的巨大波动。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Their frequency has markedly decreased.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确交代该项研究的核心量化发现：'compared historical fire cadence with wildfires over past few decades, and uncovered a striking shortfall. The sites experienced less than a quarter of the number of fires that would have been expected...'（对比过去几十年与历史节律发现巨大赤字短缺，实际火灾次数还不到预期发生数量的四分之一）。less than a quarter of the number of fires / striking shortfall 与 Their frequency has markedly decreased（它们的发生频率已显著锐减下降）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Their threats have been underestimated.",
+        "isCorrect": false,
+        "distractorType": "无中生有威胁低估",
+        "analysis": "【干扰特征: 概念偏差】未提及威胁被低估，重点在阐明由于灭火导致野火发生次数锐减。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Their records have been misinterpreted.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 事实相反】研究团队建立了严谨精确的火疤数据库（NAFSN），记录极其准确而非被错误解读。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "striking shortfall: experienced less than a quarter of the number of fires = Their frequency has markedly decreased。",
+      "methodSummary": "数据特征同义转述：less than a quarter of number of fires 转换为 frequency markedly decreased。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "study find about wildfires over past few decades"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "What can be inferred about modern firefighting?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its workforce needs more training.",
+        "isCorrect": false,
+        "distractorType": "无中生有人力培训",
+        "analysis": "【干扰特征: 概念偏差】未提及消防人员需要更多培训，问题根源在于全面压制灭火的生态策略失误。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Its effectiveness is questioned by the public.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】第四段明确肯定其扑灭小火的有效性（testament to effectiveness），问题在于长远积累了特大火灾隐患。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "It may render traditional tactics useless.",
+        "isCorrect": false,
+        "distractorType": "偷换传统战术",
+        "analysis": "【干扰特征: 概念偏差】文章呼吁恢复的是传统的生态引火（prescribed burns），非传统战术变得无用。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "It may make severe fires harder to put out.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P4-S1 明确揭示现代灭火造成的深刻悖论与恶果：'the combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those that ignite under the most dangerous weather conditions'（一味灭火压制导致可燃物积聚，反而严重侵蚀削弱了人类扑灭大火的能力，尤其是在最危险恶劣天气下引燃的暴烈大火）。eroded ability to suppress fires under dangerous conditions 与 It may make severe fires harder to put out（它可能使严重特大火灾变得更难扑灭）完全同义对应。D选项精准契合推理。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P4-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "suppression eroded ability to suppress fires under dangerous weather conditions = It may make severe fires harder to put out。",
+      "methodSummary": "反噬效应推断法：eroded ability to suppress severe fires 转换为 make severe fires harder to put out。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "inferred about modern firefighting"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Both Martin and Prichard would agree that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "it is challenging to predict large wildfires.",
+        "isCorrect": false,
+        "distractorType": "偷换预测火灾",
+        "analysis": "【干扰特征: 概念偏差】普里查德强调的是执行引火工作本身面临挑战（work gets more challenging），非预测大火难度大。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "it is urgent to assess the use of planned fires.",
+        "isCorrect": false,
+        "distractorType": "偷换行动诉求为评估",
+        "analysis": "【干扰特征: 偷换行动】两位专家强调的是‘必须大力推行实施受控引火’，其实际效果早已被充分验证（P5-S2），非停留在评估阶段。",
+        "refSentences": [
+          "P5-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "it is necessary to introduce prescribed burns.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 专家共识提炼】P5-S1 明确交代马丁的主张与行动：'people must bring healthy fire back... oversaw the use of prescribed burns'（人类必须将健康火带回，并在优胜美地推行受控规定引火）；P6-S1 明确引述普里查德的立场：'even as scientists agree on the need for more fires... we need this work even more'（我们比以往任何时候都更加迫切需要这项受控引火工作）。两位权威生态学家均坚定不移地高度认同：在森林生态管理中引入并推行受控“规定引火”是绝对必要且刻不容缓的（it is necessary to introduce prescribed burns）。C选项完全精准吻合。",
+        "refSentences": [
+          "P5-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "it is rewarding to double fire detection efforts.",
+        "isCorrect": false,
+        "distractorType": "偷换火情监测",
+        "analysis": "【干扰特征: 概念偏差】核心对策在于‘以火治火’主动引火消耗燃料，非单纯加倍火灾监测（detection）。",
+        "refSentences": [
+          "P5-S1",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点共识题",
+    "targetSentences": [
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Martin: must bring healthy fire back (prescribed burns) + Prichard: we need this work even more = it is necessary to introduce prescribed burns。",
+      "methodSummary": "双专家共识提取法：抓准两位专家共同强调的核心对策（need prescribed burns），锁定 C。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Both Martin and Prichard would agree that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  }
+]

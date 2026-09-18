@@ -1,0 +1,362 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+    "translation": "研究学者们提出，从非洲狩猎采集部落中汲取借鉴的育儿经验，或许正是培养出更富满足感、更快乐身心健康儿童的制胜关键所在。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The idea is based on studies of communities such as the !Kung of Botswana where each child is cared for by many adults. !Kung children as young as four will help to look after younger ones, and \"baby-wearing\", in which infants are carried in slings, is considered the norm.",
+    "translation": "该观点建立在对诸如博茨瓦纳昆族（!Kung）等原始部落社区的深入研究之上——在这些社区里，每一个孩子都由多名成年人共同分担照料（sharing childcare among community members）。昆族年仅四岁的小孩就会主动帮助照看更年幼的弟妹，而用背带将婴儿时刻背在身上的“背娃育儿”更是被视作最普遍的日常规范。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "According to Dr. Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.",
+    "translation": "剑桥大学演化人类学家尼基尔·乔杜里博士指出，这种被称为“共同育儿”（alloparenting，即非父母照料/社区协作育儿）的传统习俗，能够实质性地大幅减轻孩子与父母双方的心理焦虑情绪。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Dr. Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life. In Germany, one scheme has paired an old people's home with a nursery. The residents help to look after the children, an arrangement akin to alloparenting. Another measure could be encouraging friendships between children in different school years to mimic the supervised mixed-age play groups in hunter-gatherer communities.",
+    "translation": "儿童精神病学家安妮·斯瓦内普尔博士深信，完全有多种可行途径将这些有益模式融入西方现代生活（an approach to integrating into western society）。在德国，一项创新试点方案成功将一家养老院与一家幼儿园结对配对：养老院的老年居民们协助照料幼儿，这一制度安排与部落的共同育儿如出一辙。另一项举措则是鼓励不同年级学龄儿童之间建立跨龄友谊，以模拟再现狩猎采集部落中在大人看护下的混龄游戏小组。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "In a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history.",
+    "translation": "在一篇发表于《儿童心理学与精神病学杂志》的重磅论文中，研究人员深刻指出：现代西方的“核心家庭”（nuclear family）模式只是一项近现代才出现的新发明，它彻底打破背离了人类漫长的生物演化历史（broke with evolutionary history / departs from the course of evolution）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "This abrupt shift to an \"intensive mothering narrative\" which suggests that mothers should manage child care alone, was likely to have been harmful. \"Such narratives can lead to maternal exhaustion and have dangerous consequences,\" they wrote.",
+    "translation": "这种骤然转向要求母亲必须独自一肩挑起全部育儿重任的“密集母职叙事”（intensive mothering narrative），极可能已造成了严重的身心伤害。“此类偏颇叙事会导致母亲身心彻底精疲力竭，并引发极其危险的连锁后果，”学者们在论文中警示道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "By contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child's care. One previous study looked at the people of the Democratic Republic of Congo.",
+    "translation": "与此形成鲜明对比的是，在狩猎采集社会中，父母之外的其他成年族人能够提供孩子将近一半的日常照料。此前针对刚果民主共和国原住民的一项实证研究发现：",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old and were passed between caregivers eight times an hour.",
+    "translation": "当地婴儿在出生满18周时，平均每天有多达14位非父母共同照料者悉心看护，每小时在不同照料者怀抱中交接多达八次之多！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Chaudhary said that parents now had less child care support from family and social networks than during most of human evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a \"knock-on\" benefit to child's wellbeing.",
+    "translation": "乔杜里表示，现代父母从家族与社会网络中所能获得的育儿支持，比人类演化史上的绝大多数时期都要匮乏得多；然而，引入额外的辅助照料者能够显著减轻育儿压力与产后抑郁，从而对孩子的身心福祉产生极其显著的良性‘连锁反应’红利。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "An infant born to a hunter-gatherer society could have more than ten caregivers—this contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.",
+    "translation": "一个出生在狩猎采集社会的婴儿能够同时拥有十多位悉心呵护的照料者——这与英国现代托儿所的制度环境形成了触目惊心的强烈反差：英国法定法规竟然要求一名照料人员独自看管照看四名两至三岁的幼童（inferred that UK nurseries ought to improve their carer-to-child ratio）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "While hunter-gatherer children learn from observation and imitation in mixed-age playgroups, researchers said that western \"instructive teaching\", where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder.",
+    "translation": "部落儿童是在混龄游戏小组中通过主动观察与模仿来自然学习；而研究学者指出，西方要求学生必须僵化端坐不动的“指令灌输式教学”，很可能正是诱发注意力缺陷多动障碍（ADHD）等心理病症的重要诱因。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "Chaudhary said that Britain should explore the possibility that older siblings helping their parents might also enhance their own social development.",
+    "translation": "乔杜里深刻呼吁：英国应当积极探索让年长兄姐协助父母照看弟妹的现实可能性，这不仅能减轻父母重负，更能极大促进年长孩子自身的社交心智成熟发展（For a happier family, learn from the hunter-gatherers）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  }
+]

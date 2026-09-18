@@ -1,0 +1,223 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2007-r-t2",
+  "year": 2007,
+  "textNumber": 2,
+  "title": "The Myth of IQ Scores and the True Nature of Intelligence",
+  "chineseTitle": "智商分数的迷思与人类智力的多元本质",
+  "topic": null,
+  "topicDomain": "认知心理学与教育评估",
+  "subTopic": "萨万特超高智商专栏的悖论、比率智商向正态离差智商的算法演变、斯滕伯格对传统标准化测试的局限性批判",
+  "overview": null,
+  "wordCount": 382,
+  "readingTimeEstimate": "10-12 mins",
+  "difficultyRating": "3.8/5.0",
+  "sourcePublication": "选自《Science and Spirit》(科学与精神杂志) 专栏评论文章",
+  "paragraphCount": 4,
+  "sentenceCount": 18,
+  "vocabularyCount": 83,
+  "phraseCount": 81,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "玛丽莲·沃斯·萨万特（Marilyn Vos Savant）在20世纪80年代被吉尼斯世界纪录收录为“世界上智商最高的人”，其测试得分为惊人的228分。随后，全美发行量最大的周日增刊《大观》（Parade）专门为她开设了“问问玛丽莲”（Ask Marilyn）专栏，每周由她回答来自全美读者五花八门的各领域提问（包括著名的“蒙提霍尔三门概率悖论”即由该专栏引发全美大讨论）。然而，文章开篇指出了一个尖锐的反差：智商测试所考核的无非是图形旋转、数列推理和词汇类比，这类狭窄的抽象数理能力到底凭借什么能让人解决甚至难倒了顶尖哲学家和诗人的深刻人生与生活谜题？这一反差直接切中了20世纪末心理学界对智商神话的全面反思。",
+      "coreDisputeOrTheme": "文章的核心在于揭示智商测试（IQ Test）的本质局限与算法演变：首先，从心理测量学发展史来看，早期萨万特的228高分源于比奈的“心理年龄比率法”（Ratio IQ = 心理年龄 / 实足年龄 × 100），由于10岁儿童的心智若达到成年早期水平便可测出200+的高分；但现代智力测验（如韦克斯勒量表）已全面转向“离差智商”（Deviation IQ），基于同龄人群体的正态钟形曲线（均值100，标准差15），在数学统计上彻底封死了超高异常高分的产生可能。其次，耶鲁大学当代心理学泰斗罗伯特·斯滕伯格（Robert J. Sternberg）提出了著名的“成功智力理论”（Triarchic Theory of Intelligence），尖锐指出传统的IQ、SAT、GRE等标准化测试仅仅考察了单一的“分析与言语能力”，却完全忽略了真实世界中至关重要的“创造性智力”和“实践性知识（街头智慧）”，甚至在高压逆境下，高智商与实际领导力呈现荒谬的负相关。这证明了考试分数绝非个人真实综合能力的决定性指标。",
+      "keyTerminology": [
+        {
+          "term": "Ratio IQ vs Deviation IQ",
+          "explanation": "比率智商（早期算法，心理年龄除以生理年龄乘以100）与离差智商（现代算法，基于同龄人群正态分布与标准差偏离度，上限被正态曲线收拢）。"
+        },
+        {
+          "term": "Stanford-Binet & Wechsler Scales",
+          "explanation": "斯坦福-比奈智力量表与韦克斯勒智力量表，现代心理学界最经典的两大标准化智商测试系统，均划分为成人版与儿童版。"
+        },
+        {
+          "term": "Triarchic Theory of Intelligence",
+          "explanation": "斯滕伯格三元智力论：人类智力由分析性智力（Analytical）、创造性智力（Creative）和实践性智力（Practical）三部分组成，传统考试只能测出前者。"
+        },
+        {
+          "term": "Scholastic Assessment Test (SAT)",
+          "explanation": "美国大学入学委员会主办的学术能力评估测试，主要测试言语推理与数理逻辑，与智商测试内容高度重合。"
+        }
+      ],
+      "crossExamLinks": [
+        {
+          "year": "2007 Text 1",
+          "theme": "刻意练习打破天赋神话",
+          "relevance": "同样是对天生单一素质（天资/高智商）的祛魅，强调后天多维技能与实践积累"
+        },
+        {
+          "year": "2014 Text 2",
+          "theme": "意志力与行为习惯重塑",
+          "relevance": "探讨非认知因素（习惯、坚毅）在人生长期成就中超越单一智力测量的决定性价值"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "心理测量学与认知能力评估 (Psychometrics & Cognitive Ability Assessment)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "chrono- (时间)",
+          "examples": [
+            "chronological (按时间顺序的/生理年龄的)",
+            "chronicle (编年史)"
+          ]
+        },
+        {
+          "affix": "co- / com- (共同/相互)",
+          "examples": [
+            "correlate (相互关联)",
+            "coincidence (巧合)",
+            "component (组成部分)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "智力测量与测试形式",
+          "words": [
+            "encompass",
+            "analogy",
+            "deduce",
+            "envision",
+            "numerical",
+            "standardized",
+            "scale"
+          ]
+        },
+        {
+          "theme": "认知能力与多元智慧",
+          "words": [
+            "analytical",
+            "verbal",
+            "creativity",
+            "practical knowledge",
+            "leadership skills"
+          ]
+        },
+        {
+          "theme": "评价与批判态度",
+          "words": [
+            "assess",
+            "elude",
+            "skeptical",
+            "impartial",
+            "biased",
+            "negatively correlated"
+          ]
+        }
+      ]
+    },
+    "nuancesAndConfusions": {
+      "familiarWordUncommonMeanings": [
+        {
+          "word": "fields",
+          "location": "P1 L6",
+          "familiarMeaning": "田野；领域",
+          "examMeaning": "应对、回答（问题）",
+          "contextCollocation": "fields such queries"
+        },
+        {
+          "word": "suits",
+          "location": "P1 L9",
+          "familiarMeaning": "西装；适合",
+          "examMeaning": "使某人适合做某事",
+          "contextCollocation": "suits one to answer questions"
+        },
+        {
+          "word": "eluded",
+          "location": "P1 L10",
+          "familiarMeaning": "躲避、逃脱",
+          "examMeaning": "使……未能理解或解决",
+          "contextCollocation": "questions that have eluded..."
+        },
+        {
+          "word": "Scale",
+          "location": "P3 L3",
+          "familiarMeaning": "刻度；规模",
+          "examMeaning": "测量等级体系、量表",
+          "contextCollocation": "Intelligence Scale"
+        },
+        {
+          "word": "populate",
+          "location": "P3 L5",
+          "familiarMeaning": "居住于；构成人口",
+          "examMeaning": "遍布、充斥于",
+          "contextCollocation": "variations populate bookstores and the Web"
+        },
+        {
+          "word": "capture",
+          "location": "P3 L10",
+          "familiarMeaning": "捕获；夺取",
+          "examMeaning": "概括、体现",
+          "contextCollocation": "capture the main aspects of..."
+        },
+        {
+          "word": "measure",
+          "location": "P4 L4",
+          "familiarMeaning": "测量长度、尺寸",
+          "examMeaning": "衡量能力、特质",
+          "contextCollocation": "measure creativity"
+        },
+        {
+          "word": "populations",
+          "location": "P4 L6",
+          "familiarMeaning": "人口",
+          "examMeaning": "研究中的人群/总体",
+          "contextCollocation": "once populations ... change"
+        },
+        {
+          "word": "correlated",
+          "location": "P4 L8",
+          "familiarMeaning": "有关联的",
+          "examMeaning": "呈统计上的正/负相关",
+          "contextCollocation": "negatively correlated with leadership"
+        }
+      ],
+      "confusingWordPairs": [
+        {
+          "pair": "visual / visualize / visible",
+          "analysis": "visual 是“视觉的”；visualize 是“在脑中形成图像”；visible 是“可见的”。"
+        },
+        {
+          "pair": "envision / visualize",
+          "analysis": "二者均可表“想象”。envision 偏设想情景或未来；visualize 更强调脑中形成清晰画面。"
+        },
+        {
+          "pair": "numerical / numeral",
+          "analysis": "numerical 指“数字的、数量的”；numeral 指“数字符号”，如 1、2、3。"
+        },
+        {
+          "pair": "nature / nurture",
+          "analysis": "nature 指自然、天性或本质；nurture 指后天培养、教养与环境影响。"
+        },
+        {
+          "pair": "assess / measure / evaluate",
+          "analysis": "assess 指系统性评估；measure 强调测量或量化；evaluate 强调评价价值、质量或效果。"
+        },
+        {
+          "pair": "population / populate",
+          "analysis": "population 是“人口、人群、总体”；populate 作动词，既可指“居住于”，也可指“充满、遍布于”。"
+        },
+        {
+          "pair": "correlation / causation",
+          "analysis": "correlation 是相关关系；causation 是因果关系。相关不等于因果。"
+        },
+        {
+          "pair": "skeptical / impartial / biased",
+          "analysis": "skeptical 表“持怀疑、质疑态度”；impartial 表“公正中立”；biased 表“有偏见、带倾向”。本文作者态度是 skeptical。"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2007.js",
+    "year": 2007,
+    "articleKey": "ky-en1-2007-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+  }
+}

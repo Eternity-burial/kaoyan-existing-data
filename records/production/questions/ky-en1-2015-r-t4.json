@@ -1,0 +1,893 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "According to the first two paragraphs, Elisabeth was upset by _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the consequences of the current sorting mechanism.",
+        "isCorrect": true,
+        "analysis": "定位至第一段与第二段：第一段第一、二句指出伊丽莎白对“unsettling dearth of integrity across so many of our institutions”（社会机构中普遍缺乏诚信）深感不安，并阐明其根源在于“a collective acceptance that the only 'sorting mechanism' in society should be profit and the market”（全社会默认利润和市场是唯一的‘分选机制’）；第二段紧接着指出这种道德宗旨的缺失进一步导致企业迷失方向滑入大规模非法电话窃听（lose its way as it had with widespread illegal telephone hacking）。因此，令伊丽莎白深感不安的，正是以利润为导向的当前社会分选机制所带来的一系列诚信崩溃与违法犯罪恶果（the consequences of the current sorting mechanism）。",
+        "vocab": [
+          {
+            "word": "consequences",
+            "ipa": "",
+            "meaning": "后果",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "current",
+            "ipa": "[ˈkʌrənt]",
+            "meaning": "当前的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "sorting",
+            "ipa": "",
+            "meaning": "分选机制",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "companies' financial loss due to immoral practices.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第二段提到“wounding companies such as News International”，是指道德败坏从精神与声誉上侵蚀伤害企业、使之误入歧途，绝非指公司遭受了直接的‘经济损失（financial loss）’。",
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "财务的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "due",
+            "ipa": "[djuː]",
+            "meaning": "由于",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "governmental ineffectiveness on moral issues.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第二段提到 government, media or business 内部普遍缺乏道德语言，但并未针对‘政府在道德问题上的软弱无能（governmental ineffectiveness）’展开评判。",
+        "vocab": [
+          {
+            "word": "moral",
+            "ipa": "[ˈmɒrəl]",
+            "meaning": "道德问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the wide misuse of integrity among institutions.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "正反颠倒/用词篡改。第一段明确是“dearth of integrity”（诚信操守的严重匮乏与缺失），选项却篡改为“misuse of integrity”（诚信的广泛滥用），完全歪曲了词义。",
+        "vocab": [
+          {
+            "word": "integrity",
+            "ipa": "[ɪnˈteɡrəti]",
+            "meaning": "正直",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "institutions",
+            "ipa": "",
+            "meaning": "机构",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "the consequences of the current sorting mechanism": "Integrity had collapsed ... because of a collective acceptance that the only 'sorting mechanism' in society should be profit and the market (诚信崩塌源于社会将利润和市场视作唯一分选机制 -> 当前分选机制所带来的恶劣后果)"
+    },
+    "methodologyReview": "事实细节综合理解题。理清前两段的因果逻辑链条：核心诱因是 the sorting mechanism based on profit and the market $\\rightarrow$ 直接恶果是 dearth of integrity 和 widespread illegal telephone hacking。两者结合，精准对应选项A中的 the consequences of the current sorting mechanism。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraphs",
+          "ipa": "",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "upset",
+          "ipa": "[ˌʌpˈset]",
+          "meaning": "使不安",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "It can be inferred from Paragraph 3 that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Glenn Mulcaire may deny phone hacking as a crime.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反相反。第三段第二句明确指出“as was acknowledged by Glenn Mulcaire”（正如格伦·穆凯尔所坦白承认的那样），穆凯尔早已公开承认窃听事实，绝非否认（deny）其为罪行。",
+        "vocab": [
+          {
+            "word": "Glenn",
+            "ipa": "",
+            "meaning": "[人名]格伦·穆凯尔",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "deny",
+            "ipa": "[dɪˈnaɪ]",
+            "meaning": "否认",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "phone",
+            "ipa": "[fəʊn]",
+            "meaning": "电话窃听",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "crime",
+            "ipa": "[kraɪm]",
+            "meaning": "犯罪",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "phone hacking will be accepted on certain occasions.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "违背常理与常识。非法电话窃听是严重侵害人权的违法刑事犯罪，全篇对其予以严厉谴责，绝无可能在某些场合被‘默许接纳（accepted）’。",
+        "vocab": [
+          {
+            "word": "journalists",
+            "ipa": "",
+            "meaning": "新闻记者",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "guilty",
+            "ipa": "[ˈɡɪlti]",
+            "meaning": "有罪的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "phone",
+            "ipa": "[fəʊn]",
+            "meaning": "电话窃听",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Andy Coulson should be held innocent of the charge.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反相反。第三段首句明确提到法庭“finding guilty one ex-editor ... Andy Coulson, for conspiring to hack phones”，库尔森已被依法定罪，选项宣称他‘应该被判无罪’与文意完全背道而驰。",
+        "vocab": [
+          {
+            "word": "Andy",
+            "ipa": "",
+            "meaning": "[人名]安迪·柯尔逊",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "innocent",
+            "ipa": "[ˈɪnəs(ə)nt]",
+            "meaning": "无辜的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "more journalists may be found guilty of phone hacking.",
+        "isCorrect": true,
+        "analysis": "推理判断题。定位至第三段全段：第三段首先指出除库尔森被定罪外，涉案记者窃听了多达5,500人，窃听达到了“流水线般的工业化规模（on an industrial scale）”；紧接着末尾两句点明“Others await trial. This long story still unfolds.”（其他涉案人员尚在等候司法审理，这一漫长故事还在持续发展展开）。既然窃听规模如此空前浩大，且大批涉案记者还在候审、黑幕不断揭开，由此必然且合理地推断出：后续将有更多记者很可能会被判定犯有窃听罪（more journalists may be found guilty of phone hacking）。",
+        "vocab": [
+          {
+            "word": "phone",
+            "ipa": "[fəʊn]",
+            "meaning": "电话窃听",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "occasions",
+            "ipa": "",
+            "meaning": "场合",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "more journalists may be found guilty of phone hacking": "Journalists are known to have hacked ... hacking on an industrial scale ... Others await trial. This long story still unfolds (多达5500人被窃听、流水线规模窃听、其他人正候审且丑闻在持续展开 -> 更多记者可能会被判有罪)"
+    },
+    "methodologyReview": "段落逻辑推断题。牢牢抓住段尾核心指引句：“Others await trial. This long story still unfolds.” 结合前文揭露的“up to 5,500 people hacked”与“hacking on an industrial scale”，顺理成章地推断出审讯继续推进将导致更多涉案者被定罪（more journalists may be found guilty）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2015_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "The author believes that Rebekah Brooks's defence _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "revealed a cunning personality.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "主观过度推断。作者批判的是其抗辩逻辑本身的荒谬以及高管免责体制的腐败，并未去主观剖析描摹其个人是否具有‘狡黠奸诈的个性人格（cunning personality）’。"
+      },
+      {
+        "key": "B",
+        "text": "centered on trivial issues.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。布鲁克斯的辩护围绕的是其自身是否知晓犯罪行为这一生死攸关的核心罪责问题，绝非围绕‘无关痛痒的琐事（trivial issues）’。",
+        "vocab": [
+          {
+            "word": "centered",
+            "ipa": "",
+            "meaning": "集中在",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "trivial",
+            "ipa": "[ˈtrɪviəl]",
+            "meaning": "不重要的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "was hardly convincing.",
+        "isCorrect": true,
+        "analysis": "作者态度推理题。定位至第四段第二、三句及第五、六段：第四段指出庭审中最令人震惊的揭露之一（astonishing revelations）是布鲁克斯声称自己对新闻编辑室发生的一切“一无所知、从未动念去问、从不过问”（how little she knew, how little she thought to ask, never inquired），而她脱罪的所谓核心居然是“自己什么都不知道（she knew nothing）”；第五段紧接着讽刺道“拿着高薪的高管无需对所经营机构负责竟成常态”；第六段末句更是挖苦她“不提问、不下指令、也不接收任何有记录的回答”。作者通篇字里行间充满了对布鲁克斯这种以装聋作哑“不知情”来侥幸脱责的极端辛辣讽刺与嘲弄，在作者看来，堂堂报社主编对下属成千上万条靠窃听获得的重磅独家新闻完全不知情的辩解，是彻底荒唐透顶、根本难以令人信服的（was hardly convincing）。",
+        "vocab": [
+          {
+            "word": "revealed",
+            "ipa": "",
+            "meaning": "显示",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "cunning",
+            "ipa": "[ˈkʌnɪŋ]",
+            "meaning": "狡猾的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "personality",
+            "ipa": "[ˌpɜːsəˈnæləti]",
+            "meaning": "个性",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "was part of a conspiracy.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中仅提及记者合谋窃听（conspiring to hack phones），从未指称布鲁克斯在法庭上的自我辩护是某种‘宏大阴谋的一部分（part of a conspiracy）’。",
+        "vocab": [
+          {
+            "word": "part",
+            "ipa": "[pɑːt]",
+            "meaning": "部分",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "conspiracy",
+            "ipa": "[kənˈspɪrəsi]",
+            "meaning": "阴谋",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "was hardly convincing": "how little Rebekah Brooks knew ... how little she thought to ask and the fact that she never inquired ... The core of her successful defence was that she knew nothing ... well-paid executives should not be accountable (作为高管宣称对编辑部一切毫不知情/从不过问来免罪脱责 -> 极具反讽、难以令人信服)"
+    },
+    "methodologyReview": "作者态度与修辞推断题。细品作者的讽刺笔触：astonishing revelations（令人震惊的披露）、The core of her successful defence was that she knew nothing（辩护核心竟然是什么都不知道）、well-paid executives should not be accountable（拿着巨额高薪却无需负责）。这种强烈的讽刺反差清晰地传达出作者对其辩词合法性与真实性的彻底否定——难以令人信服（hardly convincing）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "The author holds that the current collective doctrine shows _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "generally distorted values.",
+        "isCorrect": true,
+        "analysis": "定位至第五段第二至四句：“For a generation, the collective doctrine has been that the sorting mechanism of society should be profit. The words that have mattered are efficiency, flexibility, shareholder value, business-friendly, wealth generation, sales, impact and, in newspapers, circulation. Words degraded to the margin have been justice, fairness, tolerance, proportionality and accountability.” 作者深刻揭示出：当代社会的集体信条将唯利是图作为唯一的资源分选标准，效率、利润、发行量等商业利益指标受到全盘热捧，而正义、公平、宽容、问责等基本社会公义价值却被肆意践踏并打入冷宫。这种本末倒置、道德沦丧的时代病态，正是社会普遍扭曲畸变价值观的典型表征（generally distorted values）。"
+      },
+      {
+        "key": "B",
+        "text": "unfair wealth distribution.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第五段抨击的是商业社会唯利是图的价值取向，并未针对宏观层面的‘财富分配不均（wealth distribution）’展开论述。",
+        "vocab": [
+          {
+            "word": "distribution",
+            "ipa": "[ˌdɪstrɪˈbjuːʃn]",
+            "meaning": "分配",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "a marginalized lifestyle.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。第五段第四句说的是正义、公平等崇高语汇被贬黜到了‘边缘（degraded to the margin）’，绝非指一种‘边缘化的生活方式（marginalized lifestyle）’。",
+        "vocab": [
+          {
+            "word": "distorted",
+            "ipa": "[dɪsˈtɔrtɪd]",
+            "meaning": "扭曲的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "a rigid moral code.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反相反。当前集体信条的根本问题在于‘缺乏道德准则（dearth of moral purpose）’，道德底线荡然无存，绝非存在某种‘严苛僵化的道德守则（rigid moral code）’。",
+        "vocab": [
+          {
+            "word": "moral",
+            "ipa": "[ˈmɒrəl]",
+            "meaning": "严格死板的，僵化的道德（上）的准则",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "rigid",
+            "ipa": "[ˈrɪdʒɪd]",
+            "meaning": "严格死板的，僵化的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "code",
+            "ipa": "[kəʊd]",
+            "meaning": "准则",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "generally distorted values": "the sorting mechanism of society should be profit ... words mattered are efficiency, sales, circulation ... words degraded to the margin have been justice, fairness, accountability (全社会以利润为唯一指挥棒/效率发行量受追捧/正义公平被践踏边缘化 -> 普遍扭曲畸变的价值观)"
+    },
+    "methodologyReview": "事实细节与主旨抽象题。把握第五段对时代信条（collective doctrine）的深刻批判。将‘金钱效率挂帅’与‘公平正义靠边’两相对照，在思想观念层面上高度凝练概括即为 generally distorted values（普遍扭曲的价值观）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "current",
+          "ipa": "[ˈkʌrənt]",
+          "meaning": "当前的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "collective",
+          "ipa": "[kəˈlektɪv]",
+          "meaning": "集体的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "doctrine",
+          "ipa": "[ˈdɒktrɪn]",
+          "meaning": "信条",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Which of the following is suggested in the last paragraph?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The quality of writings is of primary importance.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第六段首句指出报纸办报缺乏对公正与人性的尊重，绝非单纯指写作技巧或文笔质量（quality of writings）应当放在首位。",
+        "vocab": [
+          {
+            "word": "primary",
+            "ipa": "[ˈpraɪməri]",
+            "meaning": "主要的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Moral awareness matters in editing a newspaper.",
+        "isCorrect": true,
+        "analysis": "段落推论题。定位至末段全段：“The purpose of editing the News of the World was not to promote reader understanding, to be fair in what was written or to betray any common humanity. It was to ruin lives in the quest for circulation and impact.” 作者在终篇发出振聋发聩的谴责：《世界新闻报》办报的真正目的从来不是为了追求公正与展现共同人性，而是为攫取发行量和轰动影响力而不惜摧毁无辜他人的生活；主编更是故意不闻不问回避监督。作者对这种践踏公义、良知尽失的办报行径施以最严酷的鞭挞，反向强烈暗示与呼吁：在从事报刊采编新闻工作时，道德良知与伦理责任意识是何等不可或缺、至关重要（Moral awareness matters in editing a newspaper）。",
+        "vocab": [
+          {
+            "word": "Moral",
+            "ipa": "[ˈmɒrəl]",
+            "meaning": "道德（上）的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "editing",
+            "ipa": "",
+            "meaning": "编辑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Common humanity is central to news reporting.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "断章取义与以偏概全。末段第一句提到‘betray any common humanity’只是作者批评报社丧失人性的三个并列维度之一，整段的论述核心始终是围绕‘办报编辑的目的导向与道德意识’展开的。",
+        "vocab": [
+          {
+            "word": "humanity",
+            "ipa": "[hjuːˈmænəti]",
+            "meaning": "人性",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "central",
+            "ipa": "[ˈsentrəl]",
+            "meaning": "对…极为重要",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Journalists need stricter industrial regulations.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "过度推断/无中生有。末段着重从主编的内心操守与道德宗旨层面进行伦理批判，并未落脚到‘需要更严格的行业法规监管（stricter industrial regulations）’这一具体立法建制层面上。",
+        "vocab": [
+          {
+            "word": "Journalists",
+            "ipa": "",
+            "meaning": "记者",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "industrial",
+            "ipa": "[ɪnˈdʌstriəl]",
+            "meaning": "行业的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "regulations",
+            "ipa": "",
+            "meaning": "规章制度",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stricter",
+            "ipa": "",
+            "meaning": "严格的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Moral awareness matters in editing a newspaper": "The purpose of editing the News of the World was not to promote reader understanding, to be fair ... but to ruin lives in the quest for circulation and impact (办报目的不是为了理解与公正而是为了发行量毁灭他人生活 -> 在编辑报纸时道德操守意识至关重要)"
+    },
+    "methodologyReview": "末段主旨与意图推断题。把握正反对比与正言若反的修辞力量。作者痛斥《世界新闻报》‘编辑报纸的目的变成了谋杀人性、追逐发行量’，其立论文旨正是要唤醒报业从业者的道德良知。因此，Moral awareness matters in editing a newspaper 精准契合末段的灵魂旨归。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2014",
+  "exam": "kaoyan",
+  "track": "englishOne",
+  "year": 2014,
+  "title": "2014年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析数据库",
+  "subject": "英语(一)",
+  "articleKeys": [
+    "ky-en1-2014-r-t1",
+    "ky-en1-2014-r-t2",
+    "ky-en1-2014-r-t3",
+    "ky-en1-2014-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2014.js",
+    "year": 2014,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+  }
+}

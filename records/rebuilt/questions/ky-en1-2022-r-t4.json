@@ -1,0 +1,573 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The personal grievance provisions of the ERA are intended to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "punish dubious corporate practices.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】立法宗旨是保护劳动者饭碗，非专门惩罚可疑商业行为。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "improve traditional hiring procedures.",
+        "isCorrect": false,
+        "distractorType": "环节颠倒",
+        "analysis": "【干扰特征: 环节混淆】规范的是解雇辞退环节（dismissals），非招聘入职流程（hiring）。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "exempt employers from certain duties.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】该法案对雇主施加了极严苛的举证和程序义务，绝非免除责任（exempt）。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "protect the rights of ordinary workers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P2-S1 明确阐述该条款的立法宗旨：'Personal grievance procedures were designed to guard the jobs of ordinary workers from unjustified dismissals'（个人申诉程序旨在保护普通工人的工作免遭无理专断解雇）。D选项 protect the rights of ordinary workers（保护普通工人的权益）是 guard the jobs of ordinary workers 的完全等价同义转述。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "designed to guard the jobs of ordinary workers = protect the rights of ordinary workers。",
+      "methodSummary": "立法初衷原句提取：designed to guard the jobs of ordinary workers 转换为 protect rights of ordinary workers。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "personal grievance provisions of ERA",
+        "intended to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "It can be learned from Paragraph 3 that the provisions may",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "hinder business development.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S1 明确揭示该条款对企业的严重危害：'these provisions create difficulties for businesses... constraining firms from firing poorly performing managers is a handbrake on boosting productivity and overall performance'（给企业带来困境，束缚解雇低效高管是提升生产力与业绩的急刹车手刹）。A选项 hinder business development（阻碍商业企业的发展）是对 create difficulties 与 handbrake on boosting performance 最精准的同义概括。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "undermine managers' authority.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】法律反而在过度保护平庸经理人免受解雇，削弱的是董事会和企业主的权威。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "affect the public image of the firms.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及损害企业的公众形象。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "worsen labor-management relations.",
+        "isCorrect": false,
+        "distractorType": "偷换主体层次",
+        "analysis": "【干扰特征: 概念偏差】矛盾发生在高管层与董事会/生产力之间，非普通劳资关系恶化。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "create difficulties for businesses + handbrake on boosting productivity and performance = hinder business development。",
+      "methodSummary": "隐喻提炼法：handbrake on boosting performance 直接转换为 hinder business development。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 3",
+        "provisions may"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "Which of the following measures would the Productivity Commission support?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Imposing reasonable wage restraints.",
+        "isCorrect": false,
+        "distractorType": "偷换因果",
+        "analysis": "【干扰特征: 偷换因果】工资受限是解雇困难导致的恶果，非委员会提倡的政策措施。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Enforcing employment protection laws.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】过度执行雇佣保护法正是导致低效高管无法被淘汰的根源阻碍，委员会对其持批评反思立场。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Limiting the powers of business owners.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】当前正是企业主的解雇权力被过度束缚（constrain business owners），委员会呼吁松绑。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Dismissing poorly performing managers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P4-S2 明确引述生产力委员会的调查结论：限制企业主解雇低效高管（constrain dismissing underperforming managers）遏制了生产力，且委员会明确将'low quality of managerial capabilities as a cause of poor productivity growth'（管理能力低下单列为生产力低下的根本原因）。据此可严密推断出：生产力委员会必然大力支持并提倡允许企业解雇业绩低劣无能的管理人员（Dismissing poorly performing managers），以此扫清提升生产力的最大障碍。D选项精准吻合。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "low quality of managerial capabilities cause of poor productivity + constraint on dismissing underperforming managers = supports Dismissing poorly performing managers。",
+      "methodSummary": "机构立场推断法：抓准将 low managerial capabilities 认定为生产力元凶，直接推导出支持 dismissing poorly performing managers。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Productivity Commission support",
+        "Which measures"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "What might be an effect of ERA’S unjustified dismissal procedures?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Highly paid managers lose their jobs.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】法律程序导致高管极其难以被解雇开除（mediocrity not enough to justify dismissal）。",
+        "refSentences": [
+          "P3-S2",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Employees suffer from salary cuts.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P5-S2 明确阐述该程序对员工造成的直接负面效应：'firms pay staff less because firms carry the burden of the employment arrangement going wrong'（企业向员工支付更低的薪水，因为企业独自承担着雇佣安排出错的沉重包袱）。firms pay staff less 与 Employees suffer from salary cuts（员工遭受降薪/薪酬受到压低克扣）完全同义对应。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Society sees a rise in overall well-being.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】P5-S3 明确指出整个社会承受损害，阻碍了整体福祉（hamper both prosperity and overall well-being）。",
+        "refSentences": [
+          "P5-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Employers need to hire new staff.",
+        "isCorrect": false,
+        "distractorType": "事实相反",
+        "analysis": "【干扰特征: 事实相反】雇主因为开除成本极高而在招聘新员工时变得更加谨慎畏缩（more cautious about hiring new staff）。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "firms pay staff less because carry the burden of employment going wrong = Employees suffer from salary cuts。",
+      "methodSummary": "原句细节直接提取：firms pay staff less 转换为 Employees suffer from salary cuts。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "effect of ERA’S unjustified dismissal procedures"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "It can be inferred that the \"high-income threshold\" in Australia",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "has secured managers' earnings.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】排除在解雇保护之外反而使得高薪管理层更容易被因低效开除，非保障其收入。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "has produced undesired results.",
+        "isCorrect": false,
+        "distractorType": "褒贬颠倒",
+        "analysis": "【干扰特征: 评价相反】作者将澳大利亚模式作为成功化解悖论的先进成熟范例予以推介（deals with the paradox），非产生不良恶果。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "is beneficial to business owners.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P6-S1 明确阐明澳大利亚的高明对策：'Australia deals with the unjustified dismissal paradox by excluding employees earning above a specified high-income threshold from the protection'（澳大利亚通过将高收入员工排除在不当解雇保护之外化解了悖论）。结合前文指出新西兰束缚企业主解雇高管是企业的巨大痛点（handbrake on performance），澳大利亚的这一门槛机制使企业主得以自由灵活地解雇低效高管、卸下法律包袱并提振企业生产力。据此可严密推断出：澳大利亚的高收入门槛对广大企业主而言是极其有利的（beneficial to business owners）。C选项精准契合推理。",
+        "refSentences": [
+          "P3-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "is difficult to put into practice.",
+        "isCorrect": false,
+        "distractorType": "张冠李戴新西兰法案",
+        "analysis": "【干扰特征: 偷换对象】机制笨拙难以落实（unwieldy）的是新西兰被否决的2016年议员法案（P6-S2），非澳大利亚现行运行良好的成熟门槛法规。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P3-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Australia deals with the paradox by excluding high-income employees (frees business owners from handbrake) = is beneficial to business owners。",
+      "methodSummary": "跨国镜鉴推断题：澳大利亚通过 high-income threshold 解决了企业主无法解雇低效高管的痛点，推导出 beneficial to business owners。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "inferred",
+        "\"high-income threshold\" in Australia"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  }
+]

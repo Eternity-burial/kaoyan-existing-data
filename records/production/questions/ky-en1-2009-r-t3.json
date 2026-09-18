@@ -1,0 +1,758 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "The author holds in Paragraph 1 that the importance of education in poor countries",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "is subject to groundless doubts.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】作者本人就在积极质疑教育先行的神话，并指出这种质疑完全有理有据，并非遭受“无端怀疑（groundless doubts）”。",
+        "vocab": [
+          {
+            "word": "subject",
+            "ipa": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+            "meaning": "受…影响",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "groundless",
+            "ipa": "[ˈɡraʊndləs]",
+            "meaning": "无根据的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "has fallen victim of bias.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】第1句提到政客与学者普遍对教育与增长的关系存在误解（misunderstood），但作者批判的是盲目夸大教育作用的教条主义，并非教育本身沦为了偏见的受害者。",
+        "vocab": [
+          {
+            "word": "victim",
+            "ipa": "[ˈvɪktɪm]",
+            "meaning": "牺牲品",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "bias",
+            "ipa": "[ˈbaɪəs]",
+            "meaning": "偏见",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "is conventionally downgraded.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】原文第2句明确指出传统观点是将其列为最高优先要务（highest priorities），即传统上一直在过度拔高，而非贬低或降级（downgraded）。",
+        "vocab": [
+          {
+            "word": "conventionally",
+            "ipa": "[kənˈvenʃənəli]",
+            "meaning": "照惯例",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "downgraded",
+            "ipa": "",
+            "meaning": "低估",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "has been overestimated.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“conventional view that education should be one of the very highest priorities... is wrong”直接同义替换为教育的作用“被严重高估（has been overestimated）”。"
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "Progress in both areas is undoubtedly necessary for the social, political and intellectual development of these and all other societies; however, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong.",
+      "explanation": "【王晶婷六大题型·事实细节题精析】\n题干考查作者在第一段中对贫困国家教育重要性的态度。定位至第1段第2句：“however, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong”（然而，认为教育应当是贫困国家促进经济快速发展的最高优先级之一的传统观点，是完全错误的）。传统观点把教育抬高到“最高优先级（highest priorities）”，而作者断然指出这种看法是错误的（is wrong），即指出在促进穷国短期经济增长方面，教育的作用被普遍过度高估了（has been overestimated）。因此 [D] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "It is stated in Paragraph 1 that the construction of a new educational system",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "challenges economists and politicians.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】第1句指出经济学家与政界人士对二者关系存在误解（misunderstood），并未提出新建教育体系给他们带来了直接挑战。",
+        "vocab": [
+          {
+            "word": "challenges",
+            "ipa": "",
+            "meaning": "挑战",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "politicians",
+            "ipa": "",
+            "meaning": "政治家",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "takes efforts of generations.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“would require two or three generations”完美同义替换“takes efforts of generations（需要几代人的长期努力）”。"
+      },
+      {
+        "key": "C",
+        "text": "demands priority from the government.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】作者在第2句中明确批驳了将其作为政府最高优先级要务的错误观点。",
+        "vocab": [
+          {
+            "word": "demands",
+            "ipa": "/dɪˈmændz/",
+            "meaning": "需要",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "priority",
+            "ipa": "[praɪˈɒrəti]",
+            "meaning": "优先考虑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "requires sufficient labor force.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文中强调的是需要漫长的时间周期和代际积累（two or three generations），而不是需要充足的劳动力人口规模（sufficient labor force）。",
+        "vocab": [
+          {
+            "word": "sufficient",
+            "ipa": "[səˈfɪʃ(ə)nt]",
+            "meaning": "足够的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "labor",
+            "ipa": "[ˈleɪbə(r)]",
+            "meaning": "劳动力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "building new educational systems there and putting enough people through them to improve economic performance would require two or three generations.",
+      "explanation": "【王晶婷六大题型·事实细节题精析】\n题干针对第一段中新建教育体系的特征进行提问。定位至第1段第3句：“building new educational systems there and putting enough people through them to improve economic performance would require two or three generations”（在那些穷国建立新教育体系并培养足够多的人才以改善经济，需要两三代人的漫长时间）。句中 require two or three generations 与选项 [B] takes efforts of generations（需要几代人的漫长付出）构成绝对精准的同义替换。因此 [B] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "stated",
+          "ipa": "[ˈsteɪtɪd]",
+          "meaning": "说明",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "A major difference between the Japanese and U.S. workforces is that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the Japanese workforce is better disciplined.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中全篇都在以汽车装配生产率的数据为基准，完全未讨论两国工人纪律性（disciplined）的差异。",
+        "vocab": [
+          {
+            "word": "disciplined",
+            "ipa": "[ˈdɪsəplɪnd]",
+            "meaning": "遵守纪律的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the Japanese workforce is more productive.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解事实推论】根据日本是汽车组装生产率“global leader”，而接受严密在岗培训后的美国工人达到了其日本同行的“95%”，直接反映出日本劳动力在生产率上相对更高。",
+        "vocab": [
+          {
+            "word": "productive",
+            "ipa": "[prəˈdʌktɪv]",
+            "meaning": "高产的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the U.S. workforce has a better education.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】第2句曾提到美国劳动力一度被讥讽为“poorly educated”（受教育程度低下），选项宣称美国工人受教育更好，完全与文意相反。"
+      },
+      {
+        "key": "D",
+        "text": "the U.S. workforce is more organized.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中并未对两国劳动力的组织严密程度（more organized）进行比较。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "Japan was, and remains, the global leader in automotive-assembly productivity. Yet the research revealed that the U.S. factories of Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterparts—a result of the training that U.S. workers received on the job.",
+      "explanation": "【王晶婷六大题型·事实对比细节题精析】\n题干考查美日两国劳动力之间的主要差异。定位至第2段第3~4句：“Japan was, and remains, the global leader in automotive-assembly productivity. Yet the research revealed that the U.S. factories... achieved about 95 percent of the productivity of their Japanese counterparts”（日本在汽车组装生产率方面一直是全球第一领军者；而日系车企的美国本土工厂达到了其日本本土同行约95%的生产率）。从95%与“global leader”的数据对比清晰可知，日本劳动力在整体生产率上依然略高一筹（the Japanese workforce is more productive）。因此 [B] 为正确答案。",
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "The author quotes the example of our ancestors to show that education emerged",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "when people had enough time.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面诱导/因果浅层化】“有了充足时间”只是生产力提高后的表面现象，作者举例的核心论点是探讨物质生产方式与经济基础（食物获取效率）如何决定了精神与教育的产生。"
+      },
+      {
+        "key": "B",
+        "text": "prior to better ways of finding food.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】原文明确指出是在人类找到更高效食物获取方式“之后”（Only when... was there time），选项却篡改为“在……之前（prior to）”。",
+        "vocab": [
+          {
+            "word": "prior",
+            "ipa": "[ˈpraɪə(r)]",
+            "meaning": "在…以前",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "when people no longer went hungry.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解深刻同义替换】“began to get its food in a more productive way”即生产力进步使食物供给充裕、摆脱饥饿困扰，从而才有了发展教育的物质闲暇。",
+        "vocab": [
+          {
+            "word": "no",
+            "ipa": "[nəʊ]",
+            "meaning": "不再",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "as a result of pressure on government.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】一万年前根本不存在现代政府体系；且第2句明确强调即使在没有政府强制（governments don't force it）的情况下，经济增长也会自发促进教育。",
+        "vocab": [
+          {
+            "word": "result",
+            "ipa": "[rɪˈzʌlt]",
+            "meaning": "作为…的结果",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "pressure",
+            "ipa": "[ˈpreʃə(r)]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "EXEMPLIFICATION",
+    "type": "论据例证题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "After all, that's how education got started. When our ancestors were hunters and gatherers 10,000 years ago, they didn't have time to wonder much about anything besides finding food. Only when humanity began to get its food in a more productive way was there time for other things.",
+      "explanation": "【王晶婷六大题型·论据例证题精析】\n题干问作者引用远古祖先的例子是为了证明教育是在何种条件下诞生的。定位至第4段第3~5句：作者指出教育最初正是这样起步的——一万年前祖先在狩猎采集阶段除了找食物外没有闲暇思考其他事，“Only when humanity began to get its food in a more productive way was there time for other things”（只有当人类能够以更高效的生产方式获取食物时，才终于有时间从事其他事物，包括教育）。以更高效的生产方式获取食物，其核心实质正是解决了基本温饱、使人类不再时刻受饥饿威胁困扰（when people no longer went hungry），从而才孕育出了教育的萌芽。因此 [C] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "quotes",
+          "ipa": "",
+          "meaning": "引用",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "ancestors",
+          "ipa": "",
+          "meaning": "祖先",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "According to the last paragraph, development of education",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "results directly from competitive environments.",
+        "isCorrect": false,
+        "distractorType": "CAUSALITY_INVERSION",
+        "analysis": "【强加因果/断章取义】竞争环境只是驱使祖先去释放生产力潜能，释放潜能提升效率后才能负担教育，竞争环境并非教育发展的“直接原因（directly）”。",
+        "vocab": [
+          {
+            "word": "results",
+            "ipa": "",
+            "meaning": "是…的结果",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "directly",
+            "ipa": "[dəˈrektli; daɪˈrektli]",
+            "meaning": "直接地",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "does not depend on economic performance.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】全文核心论点正是强调教育深度依赖于生产力发展与经济产出，选项说“不依赖经济表现”，彻底违背文章宗旨。",
+        "vocab": [
+          {
+            "word": "depend",
+            "ipa": "[dɪˈpend]",
+            "meaning": "取决于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "economic",
+            "ipa": "[ˌiːkəˈnɒmɪk]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "performance",
+            "ipa": "[pəˈfɔːməns]",
+            "meaning": "表现",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "follows improved productivity.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】对应第5段末句“constraints on improving productivity explain why education isn't developing more quickly”。生产率是前导因，教育发展是后随果（follows improved productivity）。",
+        "vocab": [
+          {
+            "word": "productivity",
+            "ipa": "[ˌprɒdʌkˈtɪvəti]",
+            "meaning": "生产率",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "cannot afford political changes.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】第4句指出广泛的正规教育可能催生政治变革以摆脱贫困陷阱，并非指教育负担不起政治变革。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "When the competitive environment pushed our ancestors to achieve that potential, they could in turn afford more education... On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is.",
+      "explanation": "【王晶婷六大题型·因果细节题精析】\n题干考查最后一段关于教育发展的核心结论。定位至第5段第2句：“they could in turn afford more education”（在发挥生产力潜能后，他们反过来才能负担得起更多教育），以及末句总结：“On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is”（恰恰相反，正是提升生产率面临的种种制约，解释了为什么贫困地区的教育未能更快发展）。这极其明确地阐明了二者的因果先后顺序：必须先提升生产率创造财富，教育才能随之发展；教育的发展滞后是生产率受限的结果。即教育的发展伴随并跟随着生产率的提高而推进（follows improved productivity）。因此 [C] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  }
+]

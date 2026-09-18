@@ -1,0 +1,947 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "Business-method patents have recently aroused concern because of",
+    "stemTranslation": "商业方法专利最近引发广泛关注，是因为______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "their limited value to businesses.",
+        "translation": "它们对企业的商业价值有限。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P1-S2至S4举例说明各大公司竞相获取专利，P3-S2至S3说明成熟企业争相圈地防范对手，足见其商业价值巨大而非有限。",
+        "vocab": [
+          {
+            "word": "limited",
+            "ipa": "[ˈlɪmɪtɪd]",
+            "meaning": "有限的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "their connection with asset allocation.",
+        "translation": "它们与资产配置有关。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/局部细节",
+        "analysis": "【以偏概全】P1-S3 提到美林证券为资产配置申请保护，这仅是成千上万个商业方法中的一个具体案例，并非全行业关注的核心原因。",
+        "vocab": [
+          {
+            "word": "asset",
+            "ipa": "[ˈæset]",
+            "meaning": "资产",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the possible restriction on their granting.",
+        "translation": "对其授予可能施加的限制与收紧。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 明确说明：最高专利法院已准备好 scale back on（缩减/限制）商业方法专利，使知识产权界议论纷纷（abuzz）。scale back on 精准同义对齐 restriction on granting。",
+        "vocab": [
+          {
+            "word": "granting",
+            "ipa": "",
+            "meaning": "授予",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the controversy over their authorization.",
+        "translation": "对其授权所引发的争议。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换时间状态",
+        "analysis": "【偷换概念】P2-S1 提到这类专利十年前一诞生就一直饱受争议（ever since they were first authorized），争议是历史常态，而‘最近引起广泛关注’的直接诱因是法院要限制收紧它。",
+        "vocab": [
+          {
+            "word": "controversy",
+            "ipa": "[ˈkɒntrəvɜːsi]",
+            "meaning": "争议",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": "P2-S1: 'the nation's top patent court appears completely ready to scale back on business-method patents...'",
+    "synonymMapping": [
+      {
+        "textQuote": "P2-S1: scale back on business-method patents",
+        "optionQuote": "C: the possible restriction on their granting.",
+        "semanticEquivalence": "scale back on ↔ restriction; granting ↔ patents have been granted"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "原因细节题解题法则：审清题干时间限定词 recently（最近）。排除十年前一直存在的历史常态（选项D），锁定近期发生的增量动作 scale back on $\\leftrightarrow$ restriction。",
+      "trapPattern": "将历史长效状态偷换为近期突发诱因陷阱。",
+      "reviewChecklist": [
+        "是否关注到了题干的 recently 时间锚点？",
+        "是否识别出 scale back on 与 restriction 的精准对应？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "patents",
+          "ipa": "",
+          "meaning": "专利",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "aroused",
+          "ipa": "",
+          "meaning": "引起",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "concern",
+          "ipa": "[kənˈsɜː(r)n]",
+          "meaning": "关注",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "because",
+          "ipa": "[bɪˈkəz, bɪˈkɒz]",
+          "meaning": "因为",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "Which of the following is true of the Bilski case?",
+    "stemTranslation": "关于比尔斯基案，下列哪项陈述是正确的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Its ruling complies with the court decisions.",
+        "translation": "其裁决符合之前的法院判决。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P4-S2 明确说明法院评估的是要不要 reconsider（重新考虑/推翻）1998年的先例，此案是要打破而非顺从以往判决。",
+        "vocab": [
+          {
+            "word": "complies",
+            "ipa": "",
+            "meaning": "符合",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "court",
+            "ipa": "[kɔːt]",
+            "meaning": "法院",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "It involves a very big business transaction.",
+        "translation": "它涉及一笔极其庞大的商业交易。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念/张冠李戴",
+        "analysis": "【偷换概念】P2-S3 说的是 a very big deal（指这起法律诉讼意义极其重大），被恶意曲解成了商业交易（business transaction）。",
+        "vocab": [
+          {
+            "word": "involves",
+            "ipa": "",
+            "meaning": "涉及",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "transaction",
+            "ipa": "[trænˈzækʃ(ə)n]",
+            "meaning": "交易",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "It has been dismissed by the Federal Circuit.",
+        "translation": "它已经被联邦巡回法院驳回销案。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/直接相悖",
+        "analysis": "【正反颠倒】P4-S2 说明该案正受到极其罕见的重视，动用全体12名法官全庭审理，根本未被驳回。",
+        "vocab": [
+          {
+            "word": "dismissed",
+            "ipa": "",
+            "meaning": "驳回",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦巡回法庭",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "It may change the legal practices in the U.S.",
+        "translation": "它可能会改变美国的法律司法实践惯例。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义推断】P2-S3至S4指出该案‘意义非同小可（a very big deal）’，‘有可能取消一整类专利（eliminate an entire class of patents）’。这必然意味着美国知识产权司法实践惯例的巨大颠覆。",
+        "vocab": [
+          {
+            "word": "legal",
+            "ipa": "[ˈliːɡ(ə)l]",
+            "meaning": "法律的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P2-S3",
+      "P2-S4",
+      "P4-S2"
+    ],
+    "verbatimEvidence": "P2-S3: 'In re Bilski... is a very big deal... has the potential to eliminate an entire class of patents.' P4-S2: 'whether it should reconsider its State Street Bank ruling.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P2-S4: has the potential to eliminate an entire class of patents",
+        "optionQuote": "D: It may change the legal practices in the U.S.",
+        "semanticEquivalence": "has the potential to eliminate an entire class of patents ↔ may change legal practices"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "推断题解题法则：宏观把握诉讼案的历史地位。警惕字面望文生义陷阱——如将比喻‘a big deal’（重大事件）字面对应成‘big transaction’（大交易）。",
+      "trapPattern": "习语字面曲解陷阱（big deal $\rightarrow$ big transaction）。",
+      "reviewChecklist": [
+        "是否避开了 big deal 望文生义选成商业交易的陷阱？",
+        "是否体会到 eliminate a class of patents 对司法惯例的颠覆？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      }
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "The word \"about-face\" (Line 1, Para. 3) most probably means",
+    "stemTranslation": "第3段第1行中的单词“about-face”最有可能的意思是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "loss of goodwill.",
+        "translation": "丧失商业商誉与善意。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】goodwill 属会计商誉或人际善意，偏离司法裁判立场变化的语境。"
+      },
+      {
+        "key": "B",
+        "text": "increase of hostility.",
+        "translation": "敌意的增加。",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "distractorDisplayName": "情感过激/偏离语境",
+        "analysis": "【情感过激】hostility 带有强烈的人身对抗恶意，法院调整判决标准属于法律理性修偏，非情绪化的敌意。"
+      },
+      {
+        "key": "C",
+        "text": "change of attitude.",
+        "translation": "态度的彻底转变（立场的逆转）。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 语境因果推导】P3-S1 后文解释了原因：当年正是联邦巡回法院自己确立批准了此类专利，如今却要亲自下手限制（curbs），这构成了180度向后转的大转变（about-face 即 change of attitude）。",
+        "vocab": [
+          {
+            "word": "attitude",
+            "ipa": "[ˈætɪtjuːd]",
+            "meaning": "态度",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "enhancement of dignity.",
+        "translation": "尊严的提升。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文未讨论法院或法官的尊严问题。",
+        "vocab": [
+          {
+            "word": "dignity",
+            "ipa": "[ˈdɪɡnəti]",
+            "meaning": "尊严",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "VOCAB",
+    "type": "词汇题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": "P3-S1: 'Curbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit itself that introduced such patents...'",
+    "synonymMapping": [
+      {
+        "textQuote": "it was the Federal Circuit itself that introduced such patents... Curbs on claims would be an about-face",
+        "optionQuote": "C: change of attitude.",
+        "semanticEquivalence": "about-face（向后转/立场逆转） ↔ change of attitude"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "词汇题解题法则：由 because 引导的原因状语锁定逻辑对比。当年亲手确立 vs 如今亲自限制 = 自身立场的180度反转（change of attitude）。",
+      "trapPattern": "偏离逻辑语义场的泛泛生词干扰。",
+      "reviewChecklist": [
+        "是否利用 because 从句的逻辑支撑精准推导出立场反转？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "most",
+          "ipa": "[məʊst]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "We learn from the last two paragraphs that business-method patents",
+    "stemTranslation": "从最后两段中我们可以得知，商业方法专利______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "are immune to legal challenges.",
+        "translation": "不受法律挑战的影响（具有法律豁免权）。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】全文正是讨论最高专利法院和最高法院正在全力削减、重审并挑战此类专利，绝非 immune（不受影响/豁免）。",
+        "vocab": [
+          {
+            "word": "immune",
+            "ipa": "[ɪˈmjuːn]",
+            "meaning": "不受…影响的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "legal",
+            "ipa": "[ˈliːɡ(ə)l]",
+            "meaning": "法律的挑战",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "are often unnecessarily issued.",
+        "translation": "往往被毫无必要地批准授予了。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 综合归纳推断】第3段提到连IBM自身都质疑其合法性依据却持有300多项，华尔街公司一边打官司反对一边抢购；第5段最高法院明确指出太多的专利授予了显而易见（obvious）的伪发明。二者共同证实：大量商业方法专利原本根本没有必要批准（unnecessarily issued）。",
+        "vocab": [
+          {
+            "word": "issued",
+            "ipa": "",
+            "meaning": "授予",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "lower the esteem for patent holders.",
+        "translation": "降低了对专利持有人的尊重与崇敬。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念/无中生有",
+        "analysis": "【偷换概念】文章讨论的是专利制度的合法性危机，未提及公众或业界对持有者个人尊重的降低。",
+        "vocab": [
+          {
+            "word": "lower",
+            "ipa": "[ˈləʊə(r)]",
+            "meaning": "降低",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "esteem",
+            "ipa": "[ɪˈstiːm]",
+            "meaning": "尊重",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "patent",
+            "ipa": "[ˈpæt(ə)nt]",
+            "meaning": "专利",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "holders",
+            "ipa": "",
+            "meaning": "持有人",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "increase the incidence of risks.",
+        "translation": "增加了风险的发生概率。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】P4-S1 提到比尔斯基案涉及 hedging risk（规避防范风险的方法），选项曲解为专利本身会增加风险发生率。",
+        "vocab": [
+          {
+            "word": "incidence",
+            "ipa": "[ˈɪnsɪdəns]",
+            "meaning": "发生率",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "risks",
+            "ipa": "",
+            "meaning": "风险",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P3-S4",
+      "P3-S5",
+      "P5-S2"
+    ],
+    "verbatimEvidence": "P3-S4: 'IBM... had been issued more than 300 business-method patents, despite the fact that it questioned the legal basis for granting them.' P5-S2: 'the justices signaled that too many patents were being upheld for \"inventions\" that are obvious.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P3-S4: questioned the legal basis + P5-S2: too many patents were being upheld for 'inventions' that are obvious",
+        "optionQuote": "B: are often unnecessarily issued.",
+        "semanticEquivalence": "questioned legal basis + upheld for obvious inventions ↔ unnecessarily issued"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "跨段综合推断题解题法则：串联企业自相矛盾的防守策略（P3）与最高法对 obvious inventions 的严厉批评（P5），提炼出本质批判——过度泛滥且不必要授权。",
+      "trapPattern": "概念颠倒（immune）与事实嫁接（hedging risk $\rightarrow$ increase risk）。",
+      "reviewChecklist": [
+        "是否读懂了 IBM 边质疑边持有的荒诞现象背后的批判含义？",
+        "是否匹配到了 obvious inventions 与 unnecessarily issued 的对等？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "paragraphs",
+          "ipa": "",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "business-method",
+          "ipa": "",
+          "meaning": "专利",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Which of the following would be the subject of the text?",
+    "stemTranslation": "下列哪一项会是本文的主题？",
+    "options": [
+      {
+        "key": "A",
+        "text": "A looming threat to business-method patents.",
+        "translation": "商业方法专利即将面临的一场巨大威胁。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 全文主旨概括】全文通篇围绕商业方法专利所面临的法律风暴展开：第2段指出法院准备大幅缩减（scale back）甚至取消整类专利；第3段指出这将是180度大转向；第4段指出全庭重审先例；第5段揭示最高法反专利趋势。looming threat 完美概括了这一悬在商业方法专利头顶的达摩克利斯之剑。",
+        "vocab": [
+          {
+            "word": "threat",
+            "ipa": "[θret]",
+            "meaning": "威胁",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "patents",
+            "ipa": "",
+            "meaning": "专利",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Protection for business-method patent holders.",
+        "translation": "对商业方法专利持有人的法律保护。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P5-S1 明确说明最高法正在 narrowed the scope of protections（缩减保护范围），选项声称提供保护，与主旨相反。",
+        "vocab": [
+          {
+            "word": "patent",
+            "ipa": "[ˈpæt(ə)nt]",
+            "meaning": "专利",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "holders",
+            "ipa": "",
+            "meaning": "持有人",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "A legal case regarding business-method patents.",
+        "translation": "一个关于商业方法专利的法律诉讼案例。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/局部细节",
+        "analysis": "【以偏概全】比尔斯基案只是法院用来撬动审查整类专利的切入点案例（vehicle），文章探讨的是整个商业方法专利类别的命运。",
+        "vocab": [
+          {
+            "word": "legal",
+            "ipa": "[ˈliːɡ(ə)l]",
+            "meaning": "法律的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "regarding",
+            "ipa": "[rɪˈɡɑːdɪŋ]",
+            "meaning": "关于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "patents",
+            "ipa": "",
+            "meaning": "专利",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "A prevailing trend against business-method patents.",
+        "translation": "反对商业方法专利的主流既定趋势。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "程度失真/夸大既成事实",
+        "analysis": "【程度失真/夸大】目前比尔斯基案正处于重审之中，最高法也只是刚刚释放收紧信号，文章多次使用 appears ready, has potential, may reconsider 等谨慎词汇，说明大逆转即将发生（looming threat），但尚未成为尘埃落定的‘既定主流潮流’（prevailing trend）。",
+        "vocab": [
+          {
+            "word": "trend",
+            "ipa": "[trend]",
+            "meaning": "趋势",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "patents",
+            "ipa": "",
+            "meaning": "专利",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "prevailing",
+            "ipa": "[prɪˈveɪlɪŋ]",
+            "meaning": "主流的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S4",
+      "P4-S2",
+      "P5-S1"
+    ],
+    "verbatimEvidence": "P2-S1: 'ready to scale back on business-method patents' + P2-S4: 'potential to eliminate an entire class of patents' + P5-S1: 'narrowed the scope of protections for patent holders'",
+    "synonymMapping": [
+      {
+        "textQuote": "scale back on + potential to eliminate + narrowed scope of protections",
+        "optionQuote": "A: A looming threat to business-method patents.",
+        "semanticEquivalence": "scale back / eliminate / narrow protections ↔ looming threat"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "主旨题解题法则：核心概念不可缺失，既成事实与潜在威胁的程度分寸不可混淆。注意辨析 A（即将降临的威胁 looming threat）与 D（已成主流 prevailing trend）的微妙火候差别。",
+      "trapPattern": "局部个案陷阱（选项C）与程度夸大陷阱（选项D）。",
+      "reviewChecklist": [
+        "是否发现比尔斯基案只是论证载体而非全文终极主题？",
+        "是否准确理解了文章大量使用的虚拟与潜能词汇支持 looming threat？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "英语一_2010_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      }
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  }
+]

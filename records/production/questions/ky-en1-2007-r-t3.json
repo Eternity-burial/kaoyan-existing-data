@@ -1,0 +1,787 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "Today's double-income families are at greater financial risk in that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the safety net they used to enjoy has disappeared.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "无中生有/张冠李戴。第2段第4、5句明确指出双职工家庭失去的是家庭内部的备用劳动者降落伞（lost the parachute... a back-up earner），而由失业保险或伤残保险构成的外部安全网（safety net）依然存在，并未“彻底消失”（has disappeared 属于过度绝对化和主观夸大）。",
+        "vocab": [
+          {
+            "word": "disappeared",
+            "ipa": "",
+            "meaning": "消失",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "their chances of being laid off have greatly increased.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。原文虽然提到主要挣钱者如果被解雇（got laid off）会引发危机，但全文从未提及或论证过双职工家庭被解雇的概率有了大幅度上升（have greatly increased 属于凭空捏造）。",
+        "vocab": [
+          {
+            "word": "laid",
+            "ipa": "",
+            "meaning": "解雇",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "they are more vulnerable to changes in family economics.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第2段第3句指出现在的家庭开支已经预算到了双薪状态的极限（budgeted to the limits of their new two-paycheck status），第4句指出他们丧失了备用劳动力构成的缓冲降落伞（lost the parachute），第6句总结指出家庭财富一旦遭遇打击便再也无法补救。这全方位证明了双薪家庭抵御波动的冗余度几乎为零，对家庭经济的任何负面变动都极度脆弱（more vulnerable to changes in family economics），同义替换极其精准。",
+        "vocab": [
+          {
+            "word": "more",
+            "ipa": "[mɔː(r)]",
+            "meaning": "易受…的伤害",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "economics",
+            "ipa": "[ˌiːkəˈnɒmɪks]",
+            "meaning": "经济情况",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "they are deprived of unemployment or disability insurance.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆与事实颠倒。第2段第5句明确指出 'the safety net offered by unemployment insurance or disability insurance' 依然在提供保障，双职工家庭从未被剥夺（deprived of）这两种法定的社会保险福利。",
+        "vocab": [
+          {
+            "word": "deprived",
+            "ipa": "",
+            "meaning": "剥夺",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "unemployment",
+            "ipa": "[ˌʌnɪmˈplɔɪmənt]",
+            "meaning": "失业",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "insurance",
+            "ipa": "[ɪnˈʃʊərəns]",
+            "meaning": "保险",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "budgeted to the limits of two-paycheck status ... lost the parachute": "they are more vulnerable to changes in family economics (家庭开支锁死在双薪极限 + 失去备用收入者降落伞 -> 对家庭经济状况的变动更加脆弱不堪)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "financial",
+          "ipa": "[faɪˈnænʃ(ə)l]",
+          "meaning": "经济的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "risk",
+          "ipa": "[rɪsk]",
+          "meaning": "风险",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "As a result of President Bush's reform, retired people may have _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a higher sense of security.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "反向混淆。改革将原本有政府信用兜底的稳定养老金变成了受股市和利率巨幅波动影响的投资性账户，退休人员面临退休金耗尽的残酷现实（harsh reality），其安全感必然大幅降低，绝不可能获得更高安全感。",
+        "vocab": [
+          {
+            "word": "security",
+            "ipa": "[sɪˈkjʊərəti]",
+            "meaning": "安全",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "less secured payments.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第3段第3句精准定位：'President Bush campaigned to move Social Security to a savings-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns.' 退休人员被迫用大部分甚至全部有保证的固定给付（guaranteed payments）去置换取决于股市波动的款项，其直接后果就是他们拿到手里的款项安全保障度大打折扣，即 'less secured payments'，形成了词性与语义的完美转换。",
+        "vocab": [
+          {
+            "word": "payments",
+            "ipa": "",
+            "meaning": "收入",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "less chance to invest.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。改革的核心正是将社保推向储蓄与投资账户模式，其投资渠道和投资参与度实际上是大大增加了，而非投资机会减少。",
+        "vocab": [
+          {
+            "word": "invest",
+            "ipa": "[ɪnˈvest]",
+            "meaning": "投资",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "a guaranteed future.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。原文指出他们是用 guaranteed payments（有保障的给付）换取了充满未知投资风险（investment returns）的浮动款项，未来变得不可预测且岌岌可危，绝非拥有了有保证的未来。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "trading guaranteed payments for payments depending on investment returns": "less secured payments (用政府保证的固定款项换取取决于投资回报的款项 -> 拥有更少有保障的给付/款项保障度下降)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "reform",
+          "ipa": "[rɪˈfɔːm]",
+          "meaning": "改革",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "According to the author, health-savings plans will _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "help reduce the cost of healthcare.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "主观臆断与反向推论。第3段第5句开篇明确说明 'Both the absolute cost of healthcare and the share of it borne by families have risen'（医疗保健的绝对成本及家庭分担比例都在上升），作者从未指出健康储蓄计划能够降低医疗成本，这只是政客推销该计划的托词，与作者的批判立场完全相反。"
+      },
+      {
+        "key": "B",
+        "text": "popularize among the middle class.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "偷换概念/断章取义。原文是说 'newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers'（正从立法机构蔓延到沃尔玛基层员工），沃尔玛蓝领工人属于工薪底层而非中产阶级核心；且该选项回避了作者对该计划致命财务危害的深刻揭示。"
+      },
+      {
+        "key": "C",
+        "text": "compensate for the reduced pensions.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴。健康储蓄计划（HSA）针对的是家庭未来的医疗保健（future healthcare），与上文探讨的退休养老金（pensions/Social Security）属于不同的制度范畴，根本无法补偿缩水的养老金。",
+        "vocab": [
+          {
+            "word": "compensate",
+            "ipa": "[ˈkɒmpenseɪt]",
+            "meaning": "补偿",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "pensions",
+            "ipa": "",
+            "meaning": "退休金",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "increase the families' investment risk.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第3段第5句破折号后直接指出：健康储蓄计划伴随着 'much higher deductibles and a large new dose of investment risk for families' future healthcare'（高得多的免赔额以及为家庭未来医疗注入的大量新投资风险），与选项 D 'increase the families' investment risk' 形成了近乎字面对应的高保真替换。",
+        "vocab": [
+          {
+            "word": "investment",
+            "ipa": "[ɪnˈvestmənt]",
+            "meaning": "投资",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "risk",
+            "ipa": "[rɪsk]",
+            "meaning": "风险",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "a large new dose of investment risk for families' future healthcare": "increase the families' investment risk (为家庭未来医疗注入大剂量的新投资风险 -> 增加了家庭的投资风险)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "It can be inferred from the last paragraph that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "financial risks tend to outweigh political risks.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "无端比较。最后一段仅以并列递进的语调指出财务后果已经显现、政治后果紧随其后（may not be far behind），从未在程度轻重上论证财务风险大于政治风险。",
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "risks",
+            "ipa": "",
+            "meaning": "风险",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "tend",
+            "ipa": "[tend]",
+            "meaning": "往往",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "the middle class may face greater political challenges.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与主体倒置。中产阶层所承受的是财务风险转嫁（wholesale shift of financial risk）；文末所说的政治后果（political fallout）指的是执政者和政治体系即将面临选民反弹与政治动荡的惩罚，并非指中产阶级自身将面临政治挑战。",
+        "vocab": [
+          {
+            "word": "challenges",
+            "ipa": "",
+            "meaning": "挑战",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "financial problems may bring about political problems.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。最后一段末句以极其对仗警示的句式断言：'The financial fallout has begun, and the political fallout may not be far behind.' fallout 意为严重后果、副作用或附带危机；财务上的危机全面爆发之后，必然直接传导并引爆政治层面的动荡与危机，选项 C 使用谨慎的 may 精准地概括了两者之间的因果演变关系。",
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "bring",
+            "ipa": "[brɪŋ]",
+            "meaning": "引起",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "financial responsibility is an indicator of political status.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "主观臆断与拼凑捏造。最后一段第1句提到了 exercise more financial responsibility（承担更多财务责任），但这只是体制推诿卸责的说辞，全文完全没有提及财务责任是政治地位的指标这一荒谬逻辑。",
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "财政的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "responsibility",
+            "ipa": "[rɪˌspɒnsəˈbɪləti]",
+            "meaning": "责任",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "status",
+            "ipa": "[ˈsteɪtəs]",
+            "meaning": "地位",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "indicator",
+            "ipa": "[ˈɪndɪkeɪtə(r)]",
+            "meaning": "指标",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "The financial fallout has begun, and the political fallout may not be far behind": "financial problems may bring about political problems (财务后果已开始显现，政治余波紧随其后 -> 财务问题可能会引发政治问题)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following is the best title for this text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The Middle Class on the Alert.",
+        "textZh": "提高警惕的中产阶级",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "轻描淡写与偏离主旨。on the alert 意为‘处于警惕防备状态’，带有主动戒备色彩；而文章通篇论证的是中产阶级在经济大风险转移的体制重压下毫无还手之力、随时跌落深渊的绝望境地，该标题严重弱化了文章强烈的危机感。",
+        "vocab": [
+          {
+            "word": "Alert",
+            "ipa": "[əˈlɜːt]",
+            "meaning": "警觉",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "The Middle Class on the Cliff.",
+        "textZh": "身处悬崖边缘的中产阶级",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。贯通全文核心主旨的形象概括。文章第1段开篇即点出任何微小变故（解雇、重病、婚变）都会在数月内将稳固中产打落至赤贫；第2段揭示双薪家庭失去降落伞、预算绷至极限；第3段指出退休与医疗风险全盘转嫁；第4段指出风险重压已临界爆发。中产阶级如同站在万丈深渊的悬崖边缘（on the cliff），稍有风吹草动便会坠崖粉身碎骨，极其精准生动地体现了全文的核心论点与情感色彩。",
+        "vocab": [
+          {
+            "word": "Cliff",
+            "ipa": "[klɪf]",
+            "meaning": "危机",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "The Middle Class in Conflict.",
+        "textZh": "身处冲突中的中产阶级",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。文章核心探讨的是‘风险的转移与经济脆弱性’（risk shift and vulnerability），而非中产阶级内部或与其他阶层之间的直接对抗与冲突（conflict）。",
+        "vocab": [
+          {
+            "word": "Conflict",
+            "ipa": "[ˈkɒnflɪkt]",
+            "meaning": "冲突",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "The Middle Class in Ruins.",
+        "textZh": "陷入废墟之中的中产阶级",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "过度绝对化。文章指出中产阶级正面临空前巨大的财务风险与坠入贫困的巨大危险，正处于危险的悬崖边缘，但尚未达到彻底瓦解、化为废墟（in ruins）的地步，选项过于夸大其词。",
+        "vocab": [
+          {
+            "word": "Ruins",
+            "ipa": "",
+            "meaning": "废墟",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "reduce a family from solidly middle class to newly poor ... wholesale shift of risk ... on the cliff": "The Middle Class on the Cliff (身处悬崖边缘的中产阶级)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "C",
+          "D": "C"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "C",
+          "D": "C"
+        },
+        "source": "英语一_2007_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "C",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  }
+]

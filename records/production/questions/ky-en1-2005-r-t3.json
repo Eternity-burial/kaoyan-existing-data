@@ -1,0 +1,422 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "Researchers have come to believe that dreams",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "can be modified in their courses.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "are susceptible to emotional changes.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 B 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "reflect our innermost desires and fears.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "are a random outcome of neural repairs.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 31 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Researchers",
+        "have",
+        "come"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "By referring to the limbic system, the author intends to show",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "its function in our dreams.",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the mechanism of REM sleep.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the relation of dreams to emotions.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "its difference from the prefrontal cortex.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 D 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 32 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "referring",
+        "limbic",
+        "system"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "The negative feelings generated during the day tend to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "aggravate in our unconscious mind.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 A 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "develop into happy dreams.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "persist till the time we fall asleep.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "show up in dreams early at night.",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "词义句意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 33 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "negative",
+        "feelings",
+        "generated"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "Cartwright seems to suggest that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "waking up in time is essential to the ridding of bad dreams.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "visualizing bad dreams helps bring them under control.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "dreams should be left to their natural progression.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "dreaming may not entirely belong to the unconscious.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 34 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Cartwright",
+        "seems",
+        "suggest"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "What advice might Cartwright give to those who sometimes have bad dreams?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lead your life as usual.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Seek professional help.",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Exercise conscious control.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Avoid anxiety in the daytime.",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 35 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "What",
+        "advice",
+        "might"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  }
+]

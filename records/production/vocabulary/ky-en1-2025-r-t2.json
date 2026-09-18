@@ -1,0 +1,2264 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "scale",
+    "word": "scale",
+    "ipa": "/skeɪl/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "量表；测量等级体系。（常用释义：刻度；规模；比例；等级。）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "decrease",
+    "word": "decrease",
+    "ipa": "dɪˈkriːs",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "v.（使）减少，（使）降低 n.减少，降低",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "crisis",
+    "word": "crisis",
+    "ipa": "ˈkraɪsɪs",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n.危机；关键时刻；转折点 adj.用于处理危机的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "modelling",
+    "word": "modelling",
+    "ipa": "ˈmɒdəlɪŋ",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n.模化；建模 v.模仿；做模型（model 的现在分词形式）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "very",
+    "word": "very",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "adj.恰好的，正是的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "energy",
+    "word": "energy",
+    "ipa": "ˈɛnərdʒi",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n. 能量；精力；活力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "use",
+    "word": "use",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n./v. 使用，用途",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "sustainable",
+    "word": "sustainable",
+    "ipa": "səˈsteɪnəb(ə)l",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "adj.可持续的，持续性的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "unarguable",
+    "word": "unarguable",
+    "ipa": "ʌnˈɑːɡjuəbl",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "adj.[法] 无可争辩的；不可论证的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "measure",
+    "word": "measure",
+    "ipa": "/ˈmeʒə/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "衡量；测量。（常用释义：测量；衡量；尺寸为。）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "pulse",
+    "word": "pulse",
+    "ipa": "pʌls",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "n.脉搏，脉率；律动；脉冲 v.（有节奏地）搏动，跳动；洋溢着，",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "significant",
+    "word": "significant",
+    "ipa": "sɪɡˈnɪfɪkənt",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "adj.重要的；显著的；意味深长的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "energy",
+    "word": "energy",
+    "ipa": "ˈɛnərdʒi",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "n. 能量；精力；活力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "construction",
+    "word": "construction",
+    "ipa": "/kənˈstrʌkʃn/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "建设；建筑业（常用释义：建造；结构；解释）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "operation",
+    "word": "operation",
+    "ipa": "ˌɒpərˈeɪʃən",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "n. 操作；经营；手术",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "according to",
+    "word": "according to",
+    "ipa": "/əˈkɔːdɪŋ tuː/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "根据；按照……的说法（常用释义：用于交代观点来源）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "equally",
+    "word": "equally",
+    "ipa": "ˈiːkwəli",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "adv.相等地；平等地；同样（重要）地",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "unrelenting",
+    "word": "unrelenting",
+    "ipa": "ˌʌnrɪˈlentɪŋ",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "adj.无情的；不屈不挠的；不松懈的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "appetite",
+    "word": "appetite",
+    "ipa": "ˈæpɪtaɪt",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n.食欲，胃口；欲望，爱好",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "information",
+    "word": "information",
+    "ipa": "ɪnfəˈmeɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n. 信息",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "mushrooming",
+    "word": "mushrooming",
+    "ipa": "mʌʃrumiŋ",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "v.迅速增长；呈蘑菇状升腾；（mushroom 的现在分词）n.迅",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "data",
+    "word": "data",
+    "ipa": "/ˈdeɪtə/ or /ˈdɑːtə/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "数据，资料（常用释义：数据；资料）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "around",
+    "word": "around",
+    "ipa": "əˈraʊnd",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "adv.存在着",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "International",
+    "word": "International",
+    "ipa": "ɪntəˈnæʃən(ə)l",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "adj. 国际",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Energy",
+    "word": "Energy",
+    "ipa": "ˈɛnərdʒi",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n. 能量；精力；活力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Agency",
+    "word": "Agency",
+    "ipa": "/ˈeɪdʒənsi/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "机构，尤指资助机构（常用释义：机关；代理处；专门部门）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "consume",
+    "word": "consume",
+    "ipa": "kənˈsʌltənt",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "v. 消耗，耗费（燃",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "about",
+    "word": "about",
+    "ipa": "əˈbaʊt",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "prep.从事于,忙于",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "electricity",
+    "word": "electricity",
+    "ipa": "ɪˌlɛkˈtrɪsɪti",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n. 电；电力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "However",
+    "word": "However",
+    "ipa": "/haʊˈevə/",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "然而、不过（常用释义：无论如何）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "pay",
+    "word": "pay",
+    "ipa": "peɪ",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "n. 工资，报",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "inform",
+    "word": "inform",
+    "ipa": "ɪnˈfɔːm",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "v.通知，告知；检举（~on）；渗透；了解，熟悉；影响",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "decision",
+    "word": "decision",
+    "ipa": "/dɪˈsɪʒən/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "法院裁决、判决（常用释义：决定；决心）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "about",
+    "word": "about",
+    "ipa": "əˈbaʊt",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "prep.从事于,忙于",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "down",
+    "word": "down",
+    "ipa": "daʊn",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "v.使倒下,击倒",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "track",
+    "word": "track",
+    "ipa": "/træk/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "轨迹；路径（常用释义：轨道；小路；痕迹；发展路线）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "amount",
+    "word": "amount",
+    "ipa": "əˈmaʊnt",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "n./v. 金额，数量，",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "dioxide",
+    "word": "dioxide",
+    "ipa": "daɪˈɒksaɪd",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "n. 二氧化物",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "atmosphere",
+    "word": "atmosphere",
+    "ipa": "/ˈætməsfɪə(r)/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "氛围；气氛（常用释义：大气层；环境气氛）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "technological",
+    "word": "technological",
+    "ipa": "ˌteknəˈlɑːdʒɪk(ə)l",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "adj.技术的；科技的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "ultimately",
+    "word": "ultimately",
+    "ipa": "ˈʌltɪmətli",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "adv. 最终；根本上",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "will",
+    "word": "will",
+    "ipa": "/wɪl/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "遗嘱（常用释义：将要；意志；遗嘱）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "safeguard",
+    "word": "safeguard",
+    "ipa": "ˈseɪfɡɑːrd",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "v.保护；保卫 n.保障条款，保护措施",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "case",
+    "word": "case",
+    "ipa": "keɪs",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "n.事例，案",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "work",
+    "word": "work",
+    "ipa": "wɜ:rk",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "n.工作(量);作品;[pl.]工厂 v.工作;运转",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "complex",
+    "word": "complex",
+    "ipa": "/ˈkɒmpleks/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "复杂的，多层次的（常用释义：复杂的；复合的；综合体）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "place",
+    "word": "place",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "v.放置",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "interpretation",
+    "word": "interpretation",
+    "ipa": "ɪnˌtɜːprəˈteɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "n.解释，理解；表演，演奏，艺术处理；口译",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "explanation",
+    "word": "explanation",
+    "ipa": "ˌekspləˈneɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "n.解释，说明；说明性文字；理由，原因",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "will",
+    "word": "will",
+    "ipa": "/wɪl/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "遗嘱（常用释义：将要；意志；遗嘱）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "crucial",
+    "word": "crucial",
+    "ipa": "/ˈkruːʃəl/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "至关重要的、决定性的（常用释义：极其重要的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "humanity",
+    "word": "humanity",
+    "ipa": "/hjuːˈmænəti/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "人类（常用释义：人性；人道）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "impetus",
+    "word": "impetus",
+    "ipa": "ˈɪmpɪtəs",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n.动力，促进；动量，冲力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Millennium",
+    "word": "Millennium",
+    "ipa": "mɪˈleniəm",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n.一千年；千周年纪念日，千禧年（the~）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "celebration",
+    "word": "celebration",
+    "ipa": "selɪˈbreɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n. 庆祝；庆",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "ingenuity",
+    "word": "ingenuity",
+    "ipa": "ˌɪndʒəˈnjuːəti",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n.心灵手巧，聪明才智，独创力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "One",
+    "word": "One",
+    "ipa": "/wʌn/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "其中一个（问题）（常用释义：一；一个人/事物）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Professor",
+    "word": "Professor",
+    "ipa": "prəˈfesə(r)",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n. 教授",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "New",
+    "word": "New",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "adj.新的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "inventor",
+    "word": "inventor",
+    "ipa": "ɪnˈventə(r)",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n.发明者，发明家",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Passivated",
+    "word": "Passivated",
+    "ipa": "ˈpæsɪveɪtɪd",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "adj.钝化的 v.钝化（passivate 的过去分词）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Emitter",
+    "word": "Emitter",
+    "ipa": "ɪˈmɪtə(r)",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n.发射器，发射体",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Rear",
+    "word": "Rear",
+    "ipa": "rɪə(r)",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n.后部，背部（the~）；后方；臀部，屁股 adj.后方的，背部的 v.",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Cell",
+    "word": "Cell",
+    "ipa": "sel",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n.（监狱的）单人牢房；（修",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "invention",
+    "word": "invention",
+    "ipa": "/ɪnˈvenʃən/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "发明；所谓发明成果（常用释义：发明；创造；虚构）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "decrease",
+    "word": "decrease",
+    "ipa": "dɪˈkriːs",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "v.（使）减少，（使）降低 n.减少，降低",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "new",
+    "word": "new",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "adj.新的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "exploit",
+    "word": "exploit",
+    "ipa": "ɪkˈsplɔɪt",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "v.剥削，压榨；利用；运用，发挥；开发，开拓n.壮举",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "renewable",
+    "word": "renewable",
+    "ipa": "rɪˈnjuːəbl",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "adj. 可再生的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "energy",
+    "word": "energy",
+    "ipa": "ˈɛnərdʒi",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n. 能量；精力；活力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "use",
+    "word": "use",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n./v. 使用，用途",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "power",
+    "word": "power",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n. 力量，权力；v.推动，驱动",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "intelligently",
+    "word": "intelligently",
+    "ipa": "ɪnˈtelɪdʒəntli",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "adv.聪明地，明智地",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "intelligence",
+    "word": "intelligence",
+    "ipa": "ɪnˈtɛlɪdʒəns",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n. 智力；情报；理解力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "astonishingly",
+    "word": "astonishingly",
+    "ipa": "əˈstɒnɪʃɪŋli",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "adv.令人惊讶地",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "negative",
+    "word": "negative",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "adj.消极的；负面的；否定的；坏的；有害的；缺乏热情的；含有否定词的；结果",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "Established",
+    "word": "Established",
+    "ipa": "ɪˈstæblɪʃt",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "adj.地位稳固的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "mill",
+    "word": "mill",
+    "ipa": "mɪl",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "n.磨坊，磨粉厂；工厂，制造厂 v.碾碎，磨成粉；（一大群人）闲",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "remote",
+    "word": "remote",
+    "ipa": "rɪˈməʊt",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "adj. 偏远的，偏僻的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "surrounding",
+    "word": "surrounding",
+    "ipa": "səˈraʊndɪŋ",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "adj. 周围的；附近的 n.周围环境（surroundings）v.围绕",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "net-zero",
+    "word": "net-zero",
+    "ipa": "'net 'zɪərəʊ",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "adj. 净零的（指温室气体排放量为零）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "about",
+    "word": "about",
+    "ipa": "əˈbaʊt",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "prep.从事于,忙于",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "sustainable",
+    "word": "sustainable",
+    "ipa": "səˈsteɪnəb(ə)l",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "adj.可持续的，持续性的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "surface": "computing",
+    "word": "computing",
+    "ipa": "kəmˈpjuːtɪŋ",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "n.计算机应用；计算机技术 v.估算，计算（compute 的现",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  }
+]

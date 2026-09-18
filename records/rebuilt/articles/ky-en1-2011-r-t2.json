@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2011-r-t2",
+  "year": 2011,
+  "textNumber": 2,
+  "title": "Top Managers Jump without a Net: The Changing Paradigm of Executive Departure",
+  "chineseTitle": "高管‘无网之跃’：商界离职规则的彻底颠覆与高管流动新常态",
+  "topic": null,
+  "topicDomain": "商业经济与公司治理 (Business & Corporate Governance)",
+  "subTopic": "高管辞职、接班人计划与职业流动观念重塑 (Executive Resignation, Succession Planning & Mobility Paradigm)",
+  "overview": null,
+  "wordCount": 405,
+  "readingTimeEstimate": "6-8 mins",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Adapted from The Wall Street Journal / BusinessWeek (2009-2010)",
+  "paragraphCount": 6,
+  "sentenceCount": 25,
+  "vocabularyCount": 24,
+  "phraseCount": 18,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "华尔街与跨国巨头的‘高管裸辞潮’：接班人危机与无网之跃 (Jump Without a Net)",
+      "subtitle": "从‘被挖角神话’到‘无网跳槽’——2008年次贷危机后企业高管职业生态与规则颠覆",
+      "coreNarrative": "传统英美商业文化中，企业高管流动遵循‘在位挖角’（poached sitting CEOs）与‘原地留守更稳’（safer to stay where you are）的教条。在过去，高管在未找好下一份工作（without a position lined up）时离职，会被外界视为遭到董事会解雇或能力存疑的‘耻辱’（old disgrace）。然而2008年金融危机之后，股东对董事会施加空前压力，严厉审查接班人计划（succession plans）。企业内部二把手（deputy chiefs / No.2 executives）面临晋升天花板，且原地等待容易为危机时期的坏账与决策背锅（cloud reputations）。以美国银行总裁利亚姆·麦基（Liam McGee）为代表的优秀高管开始选择‘无安全网跳跃’（jump without a net）——主动裸辞并公开宣布统领一家企业的野心。这一打破常规的行为不仅迅速赢得了哈特福德等金融巨头的青睐，更彻底扭转了商界的跳槽逻辑：在危机与动荡中，待得太久的人反而伤得最重。",
+      "historicalAndEconomicContext": "2008年金融危机后，美国《多德-弗兰克法案》与股东维权主义兴起，董事会处于聚光灯下。传统‘金色降落伞’与暗箱操作的接班流程受到挑战，企业二号人物若未被相中（don't get the nod），通过公开离职展示自信与独立领导力，反而成为最有效的公关与职业突破路径。",
+      "crossExamLinks": "与2010年Text 2（商业方法专利与商业环境创新）、2010年Text 4（次贷危机与公允价值会计准则）共同构成考研英语‘金融危机后现代公司治理与商业规则重构’系列经典篇章。"
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "商业管理、企业治理与人才市场 (Executive Mobility & Governance)",
+      "coreConceptRoots": [
+        {
+          "root": "execut- / exe-",
+          "meaning": "执行，落实",
+          "examples": "executive (主管/高管), execution (执行), executor (执行者)"
+        },
+        {
+          "root": "vert- / vers-",
+          "meaning": "转向，翻转",
+          "examples": "invert (颠倒/逆转), convert (转化), divert (转移), revert (恢复)"
+        },
+        {
+          "root": "ced- / cess-",
+          "meaning": "走，让步，接续",
+          "examples": "succession (接班/继承), successor (接班人), precede (在...之前)"
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "term": "CEO succession plan",
+          "meaning": "首席执行官接班人计划"
+        },
+        {
+          "term": "headhunter",
+          "meaning": "猎头顾问/猎头机构"
+        },
+        {
+          "term": "make the jump without a net",
+          "meaning": "未找好下家就跳槽/无退路裸辞"
+        },
+        {
+          "term": "sitting CEO",
+          "meaning": "现任首席执行官"
+        },
+        {
+          "term": "between jobs",
+          "meaning": "换工作空档期/待业"
+        }
+      ]
+    }
+  },
+  "rawFields": {
+    "globalId": "2011-Text2"
+  },
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2011_t2.json",
+    "year": 2011,
+    "articleKey": "ky-en1-2011-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:85a11559df90d5fe368f37347b5419485d1eb00b65a702d9a24ecf7775284035"
+  }
+}

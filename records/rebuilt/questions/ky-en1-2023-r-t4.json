@@ -1,0 +1,570 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "According to Paragraph 1, the careers of scientists can be determined by",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "how many citations their works contain.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒引文方向",
+        "analysis": "【干扰特征: 主客方向颠倒】决定声望的是其论文被别人引用的次数（citations attracted），非自己论文中包含了多少参考文献（citations works contain）。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "how many times their papers are cited.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S3 明确交代决定科学家学术生涯的核心指标：'The careers of scientists... depend on the number and prestige of papers... but even more so on the citations attracted by these papers'（科学家的职业生涯更是极其深刻地取决于其论文所吸引累积的被引用次数）。citations attracted by papers 与 how many times their papers are cited（他们的论文被引用的次数）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the prestige of the people they work with.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】文章强调的是论文自身的声誉与被引量（prestige of papers and citations），非合作者的声望。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the status they have in scientific circles.",
+        "isCorrect": false,
+        "distractorType": "因果倒置",
+        "analysis": "【干扰特征: 因果倒置】学术圈地位是论文被引频次所决定的结果，非决定职业生涯的前提动因。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "citations attracted by these papers = how many times their papers are cited（被引用的次数）。",
+      "methodSummary": "主被动引文方向识别：citations attracted 表示被引，直接锁定 how many times their papers are cited。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "careers of scientists can be determined by"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "The support service consultancies tend to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "recommend journals to their clients.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】文章揭露其掠夺性操纵是强推引文，非正常推荐投稿期刊。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "list citation patterns for their clients.",
+        "isCorrect": false,
+        "distractorType": "张冠李戴科研算法",
+        "analysis": "【干扰特征: 偷换主体】开发算法识别引用模式的是正规科研人员（P2-S1），非中介咨询机构。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "ask authors to include extra citations.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S2 明确揭露这些咨询机构的掠夺性黑产行径：'so-called support service consultancies... advise contributors to add a number of citations to their articles'（所谓支持服务咨询机构建议/要求投稿作者在其论文中强行添加大量指定引用）。advise contributors to add a number of citations 与 ask authors to include extra citations（要求作者添加额外的被引文献）完全同义对应。C选项精准吻合。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "advise contributors to cite each other.",
+        "isCorrect": false,
+        "distractorType": "张冠李戴作者圈伙",
+        "analysis": "【干扰特征: 偷换对象】作者互引（groups of authors cite one another）是 P2-S1 描述的传统卡特尔，咨询中介是向作者强推特定指定引文。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "support service consultancies advise contributors to add a number of citations = ask authors to include extra citations。",
+      "methodSummary": "原句细节同义改写：advise contributors to add citations 转换为 ask authors to include extra citations。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "support service consultancies tend to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "The function of the \"milk cow\" journals is to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "boost citation counts for certain authors.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确阐明奶牛期刊的唯一功能本质：'act as milk cows where every single article in an issue may cite a specific paper... lead an article to accrue more than 150 citations'（充当产奶母牛，一期中的每篇论文都强行引用特定论文，让某篇文章当年累积超150次引用）。A选项 boost citation counts for certain authors（为特定作者大幅刷高/提升引文数量）是对其输送引文、疯狂注水功能最精准的概括。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "help scholars publish articles at low cost.",
+        "isCorrect": false,
+        "distractorType": "无中生有美化",
+        "analysis": "【干扰特征: 虚假美化】掠夺性奶牛期刊是牟利造假工具，非帮助学者低成本发表。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "instruct first-time contributors in citation.",
+        "isCorrect": false,
+        "distractorType": "无中生有教学",
+        "analysis": "【干扰特征: 荒谬错误】文章内容与引文毫无逻辑关系，绝非指导新手如何规范引用文献。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "increase the readership of new journals.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】刷的是引文数据（citations），非期刊的真实读者阅读量（readership）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节功能题",
+    "targetSentences": [
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "milk cows where every article cite specific paper and accrue 150 citations = boost citation counts for certain authors。",
+      "methodSummary": "隐喻功能提取题：milk cow 疯狂输送引文数据，直接锁定 boost citation counts for certain authors。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "function of the \"milk cow\" journals"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "What can be learned about Scopus from the last two paragraphs?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It fosters competition among citation providers.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及促进引文提供商之间的竞争。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "It has the capability to identify suspicious citations.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确交代 Scopus 的技术能力：'Scopus itself has all the data necessary to detect this malpractice. Red flags include a large number of citations to an article within the first year'（Scopus 本身完全拥有侦测捕捉这种不端操纵所需的全部数据，其红色预警信号包括首年引文异常暴增）。detect this malpractice（检测捕捉这种不当操纵）与 has the capability to identify suspicious citations（具备识别可疑引用的能力）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "It hinders the growth of \"international\" journals.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】第四段指出 Scopus 收录了大量新型国际期刊（includes high number of new international journals），并未阻碍其增长。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "It is established to prevent citation manipulation.",
+        "isCorrect": false,
+        "distractorType": "偷换成立目的",
+        "analysis": "【干扰特征: 偷换初衷】Scopus 是综合性学术引文文献索引数据库，非专门为了防范引文操纵而创立。",
+        "refSentences": [
+          "P4-S2",
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P4-S2",
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Scopus has all data necessary to detect this malpractice (detect red flags) = It has the capability to identify suspicious citations。",
+      "methodSummary": "原句能力事实对应：has data to detect malpractice 直接转换为 has capability to identify suspicious citations。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "learned about Scopus",
+        "last two paragraphs"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "What should an author do to deal with citation manipulation?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Take legal action.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过于极端】作者建议向期刊举报违规，未呼吁直接采取法律诉讼手段（Take legal action）。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Demand an apology.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及要求对方公开道歉。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Seek professional advice.",
+        "isCorrect": false,
+        "distractorType": "偷换概念甚至适得其反",
+        "analysis": "【干扰特征: 概念偏差】正是某些所谓专业咨询机构在搞鬼操纵（P2-S2），盲目求助专业咨询可能反受其害。",
+        "refSentences": [
+          "P2-S2",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Reveal their misconduct.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S2 明确阐述作者的唯一正确应对指南：'when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal'（当被要求添加不当引用时，切勿顺从，必须坚决向期刊举报该请求）。report the request to the journal（向期刊举报违规请求）与 Reveal their misconduct（揭露曝光他们的学术不端行径）完全同义对应。D选项精准吻合。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节建议题",
+    "targetSentences": [
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "do not oblige and do report the request to the journal = Reveal their misconduct（揭露他们的不端行径）。",
+      "methodSummary": "行动建议同义替换：report to the journal 直接提炼为 Reveal their misconduct。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2023_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "What should an author do",
+        "deal with citation manipulation"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  }
+]

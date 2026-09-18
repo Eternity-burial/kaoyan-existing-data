@@ -1,0 +1,1326 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "When McGee announced his departure, his manner can best be described as being ______.",
+    "stemTranslation": "麦基宣布离职时，他的态度/表现最贴切的描述是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "arrogant.",
+        "translation": "傲慢自大的",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念/感情色彩偏差】文中 McGee 虽公开宣称离职是为了追求当一把手的目标（pursue my goal of running a company），但他只是实事求是直陈抱负，言行坦荡，并无傲慢自大（arrogant）之意。",
+        "vocab": [
+          {
+            "word": "arrogant",
+            "ipa": "[ˈærəɡənt]",
+            "meaning": "自大的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "frank.",
+        "translation": "坦率的，直截了当的",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 同义替换】对应首段关键表述：his explanation was surprisingly straight up... came right out and said...。口语短语 straight up（坦白直接）与 came right out（直言不讳）与形容词 frank 构成精确同义替换。",
+        "vocab": [
+          {
+            "word": "frank",
+            "ipa": "[fræŋk]",
+            "meaning": "坦率的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "self-centered.",
+        "translation": "以自我为中心的",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念/贬义捏造】虽然文中提到公开抱负是“my decision”，但这属于职业规划上的独立自主与果断决断，绝非道德贬义上的自私或以自我为中心（self-centered）。"
+      },
+      {
+        "key": "D",
+        "text": "impulsive.",
+        "translation": "冲动的，轻率的",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒/与事实相悖】首段明确说明麦基公开抱负是深思熟虑的决定（very much my decision），且随后迅速与哈特福德展开接洽并获任命，表明其策略规划周密，绝非一时冲动（impulsive）。",
+        "vocab": [
+          {
+            "word": "impulsive",
+            "ipa": "[ɪmˈpʌlsɪv]",
+            "meaning": "易冲动的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "ATTITUDE",
+    "type": "态度观点题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2",
+      "P1-S3"
+    ],
+    "verbatimEvidence": "his explanation was surprisingly straight up. Rather than cloaking his exit in the usual vague excuses, he came right out and said he was leaving \"to pursue my goal of running a company.\" Broadcasting his ambition was \"very much my decision,\"",
+    "synonymMapping": [
+      {
+        "verbatimText": "surprisingly straight up / came right out",
+        "equivalentOption": "frank"
+      },
+      {
+        "verbatimText": "rather than cloaking his exit in vague excuses",
+        "equivalentOption": "not hiding or sugarcoating his true intentions"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第一段：his explanation was surprisingly straight up. Rather than cloaking his exit in the usual vague excuses, he came right out and said...。straight up = 坦白、直接；came right out = 直言不讳。结合 rather than cloaking（而不是遮遮掩掩），锁定 B 选项 frank。A、C、D 均属对直率态度的无端贬义扭曲。",
+      "coreLesson": "态度题解题要诀：紧抓句中直接定性副词/形容词。straight up 是极为生动地道的小词，只要读懂其‘直率坦荡’之义，即可秒杀贬义干扰项。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "McGee",
+          "ipa": "",
+          "meaning": "[人名]列姆·麦基",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "departed",
+          "ipa": "",
+          "meaning": "离开（文中指“离职”）",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "America",
+          "ipa": "",
+          "meaning": "美国银行",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "president",
+          "ipa": "[ˈprezɪdənt]",
+          "meaning": "直截了当的",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "Rather",
+          "ipa": "[ˈrɑːðə(r)]",
+          "meaning": "不是…(而是)",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "cloaking",
+          "ipa": "",
+          "meaning": "掩饰",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "vague",
+          "ipa": "[veɪɡ]",
+          "meaning": "模糊的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "came",
+          "ipa": "",
+          "meaning": "宣布，声称",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "pursue",
+          "ipa": "[pəˈsjuː]",
+          "meaning": "追求",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "ambition",
+          "ipa": "[æmˈbɪʃn]",
+          "meaning": "雄心",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "announced",
+          "ipa": "",
+          "meaning": "宣布",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "departure",
+          "ipa": "[dɪˈpɑːtʃə(r)]",
+          "meaning": "离职",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "manner",
+          "ipa": "[ˈmænə(r)]",
+          "meaning": "方式",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "described",
+          "ipa": "",
+          "meaning": "描述",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t2.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:85a11559df90d5fe368f37347b5419485d1eb00b65a702d9a24ecf7775284035"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "According to Paragraph 2, senior executives' quitting may be spurred by ______.",
+    "stemTranslation": "根据第二段，高级管理者辞职可能是受到______的驱使。",
+    "options": [
+      {
+        "key": "A",
+        "text": "their expectation of better financial status.",
+        "translation": "他们对更好财务状况的期望",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第二段通篇讨论高管离职是为了寻求 CEO 职位（looking for a CEO post）、实现领导企业的抱负（aspirations），从未提及财务待遇或经济状况（financial status）。",
+        "vocab": [
+          {
+            "word": "expectation",
+            "ipa": "[ˌekspekˈteɪʃ(ə)n]",
+            "meaning": "期望",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "财务的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "status",
+            "ipa": "[ˈsteɪtəs]",
+            "meaning": "状况",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "their need to reflect on their private life.",
+        "translation": "他们反思私人生活的需要",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】第二段首句提到 reflect on what kind of company he wanted to run，反思的是‘想经营什么样的公司’（职业使命与企业愿景），被偷换成了‘私人生活’（private life）。",
+        "vocab": [
+          {
+            "word": "reflect",
+            "ipa": "[rɪˈflekt]",
+            "meaning": "考虑",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "private",
+            "ipa": "[ˈpraɪvət]",
+            "meaning": "私人的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "their strained relations with the boards.",
+        "translation": "他们与董事会的紧张关系",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念/过度推断】文中指出在董事会审查接班计划时 executives who don't get the nod also may wish to move on（未被选中的高管可能想离职另谋出路），未被挑中是竞争常态，并不等于‘与董事会关系紧张’（strained relations）。"
+      },
+      {
+        "key": "D",
+        "text": "their pursuit of new career goals.",
+        "translation": "他们对新职业目标的追求",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 同义上位归纳】对应第二段核心论述：sent a clear message about his aspirations（传达抱负）、looking for a CEO post（寻求CEO职位）、wish to move on（希望谋求新发展）。这些均被高度概括为 pursuit of new career goals（追求新职业目标）。",
+        "vocab": [
+          {
+            "word": "pursuit",
+            "ipa": "[pəˈsjuːt]",
+            "meaning": "追求",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "career",
+            "ipa": "[kəˈrɪə(r)]",
+            "meaning": "职业",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2",
+      "P2-S4",
+      "P2-S5"
+    ],
+    "verbatimEvidence": "It also sent a clear message to the outside world about his aspirations... quit with the explanation that they were looking for a CEO post. As boards scrutinize succession plans in response to shareholder pressure, executives who don't get the nod also may wish to move on.",
+    "synonymMapping": [
+      {
+        "verbatimText": "aspirations / looking for a CEO post / move on",
+        "equivalentOption": "pursuit of new career goals"
+      },
+      {
+        "verbatimText": "spurred by",
+        "equivalentOption": "wishing to move on to pursue goals"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第二段：高管们离职的核心驱动力是想要‘run a company’、‘looking for a CEO post’、展示‘aspirations’。选项 D 将这些具体职位诉求上位归纳为‘new career goals’，完美匹配。C 项将‘未获首肯（don't get the nod）’无端推演为‘关系紧张’，属于典型偷换概念。",
+      "coreLesson": "细节概括题常见命题规律：原文讲具体事件（想当CEO、掌管公司），正确答案往往采用上位抽象词汇（career goals）进行归纳同义替换。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "senior",
+          "ipa": "[ˈsiːniə(r)]",
+          "meaning": "高级的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "executives",
+          "ipa": "",
+          "meaning": "主管",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "quitting",
+          "ipa": "",
+          "meaning": "辞职",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "spurred",
+          "ipa": "",
+          "meaning": "刺激",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t2.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:85a11559df90d5fe368f37347b5419485d1eb00b65a702d9a24ecf7775284035"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "The word \"poached\" (Line 3, Paragraph 4) most probably means ______.",
+    "stemTranslation": "第四段第三行中的单词“poached”最有可能的意思是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "approved of.",
+        "translation": "被批准，被认可",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】approved of 意为‘被赞许/被批准’，脱离了猎头行业从竞争对手挖取在职高管的专业商业语境。",
+        "vocab": [
+          {
+            "word": "approved",
+            "ipa": "",
+            "meaning": "赞成",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "attended to.",
+        "translation": "被照料，被关照",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】attended to 意为‘被关注/被照顾’，无法体现人才招募中主动出击物色的强动态属性。",
+        "vocab": [
+          {
+            "word": "attended",
+            "ipa": "",
+            "meaning": "关注",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "hunted for.",
+        "translation": "被搜寻，被物色猎取（被挖走）",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 语境推断】第四段主语是 headhunters（猎头），其业务核心就是‘hunt’（物色/猎取高管）。poach 本义为‘偷猎’，在此比喻从其他企业主动挖角人才。下文 Dennis Carey 也用‘search’（搜寻）印证了猎聘就是 hunt for。",
+        "vocab": [
+          {
+            "word": "hunted",
+            "ipa": "",
+            "meaning": "搜寻",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "guarded against.",
+        "translation": "被提防，被防范",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】guarded against 意为‘被提防/防范’，与前文‘the most attractive CEO candidates’（最抢手、最具吸引力的候选人）逻辑严重对立。",
+        "vocab": [
+          {
+            "word": "guarded",
+            "ipa": "[ˈɡɑːrdɪd]",
+            "meaning": "防止，防范",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "VOCAB",
+    "type": "词汇题",
+    "targetSentences": [
+      "P4-S2",
+      "P4-S3"
+    ],
+    "verbatimEvidence": "For years executives and headhunters have adhered to the rule that the most attractive CEO candidates are the ones who must be poached. Says Korn/Ferry senior partner Dennis Carey: \"I can't think of a single search I've done where a board has not instructed me to look at sitting CEOs first.\"",
+    "synonymMapping": [
+      {
+        "verbatimText": "poached",
+        "equivalentOption": "hunted for"
+      },
+      {
+        "verbatimText": "headhunters / search done by Korn/Ferry",
+        "equivalentOption": "hunting for sitting talent"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "第四段原文：executives and headhunters have adhered to the rule that the most attractive CEO candidates are the ones who must be poached。上下文线索清晰无比：headhunter（猎头）的核心工作就是‘hunt’。poach 本意偷猎，在此引申为高管挖角，正是 hunted for。切忌望文生义。",
+      "coreLesson": "词汇题解题铁律：词不离句，句不离篇。本题的解题钥匙直接写在上下文的‘headhunter’（猎头）和‘search’（搜寻人才）中，hunt 与 headhunter 词根同一。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t2.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:85a11559df90d5fe368f37347b5419485d1eb00b65a702d9a24ecf7775284035"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "It can be inferred from the last paragraph that ______.",
+    "stemTranslation": "从最后一段可以推断出______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "top performers used to cling to their posts.",
+        "translation": "优秀的管理者过去往往坚守自己的岗位",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 时间逻辑反向推理】尾段明确指出：Many recruiters say the old disgrace is fading（过去的耻辱感正在消退）以及 The traditional rule was it's safer to stay where you are（传统规则是留在原地更安全）。既然传统规则是留守原地且待业曾被视为耻辱，必然能够反向推断出：过去优秀的管理者普遍倾向于紧抱既有岗位不放（used to cling to their posts）。",
+        "vocab": [
+          {
+            "word": "used",
+            "ipa": "[juːst]",
+            "meaning": "过去常常",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "cling",
+            "ipa": "[klɪŋ]",
+            "meaning": "坚守",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "loyalty of top performers is getting out-dated.",
+        "translation": "优秀管理者的忠诚度正在过时",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有/过度推断】文章讨论的是跳槽规则的颠覆（离开原地去追求发展），但从未将留任上升到道德层面的‘忠诚（loyalty）’，更未宣称高管对企业的忠诚度已过时。",
+        "vocab": [
+          {
+            "word": "loyalty",
+            "ipa": "[ˈlɔɪəlti]",
+            "meaning": "忠诚",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "top performers care more about reputations.",
+        "translation": "优秀管理者更加在乎声誉",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴/跨段拼凑】reputation（声誉）出现在第二段尾部（谨慎不让模糊声明损害声誉），尾段通篇未提及 top performers 比以往‘更加在乎’声誉。",
+        "vocab": [
+          {
+            "word": "care",
+            "ipa": "[keə(r)]",
+            "meaning": "关心",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reputations",
+            "ipa": "",
+            "meaning": "名声",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "it's safer to stick to the traditional rules.",
+        "translation": "坚持传统规则更安全",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】尾段猎头明确表示：The traditional rule was it's safer to stay where you are, but that's been fundamentally inverted（传统规则已被彻底颠倒），留在原地太久的人伤得最重。D 项直接与原文观点背道而驰。",
+        "vocab": [
+          {
+            "word": "stick",
+            "ipa": "[stɪk]",
+            "meaning": "坚持；坚守",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2",
+      "P6-S3",
+      "P6-S4"
+    ],
+    "verbatimEvidence": "Many recruiters say the old disgrace is fading for top performers. The financial crisis has made it more acceptable to be between jobs or to leave a bad one. \"The traditional rule was it's safer to stay where you are, but that's been fundamentally inverted,\" says one headhunter. \"The people who've been hurt the worst are those who've stayed too long.\"",
+    "synonymMapping": [
+      {
+        "verbatimText": "The traditional rule was it's safer to stay where you are / old disgrace is fading",
+        "equivalentOption": "top performers used to cling to their posts"
+      },
+      {
+        "verbatimText": "stay where you are",
+        "equivalentOption": "cling to their posts"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "尾段核心句子：The traditional rule was it's safer to stay where you are...。注意过去时态‘was’与‘old disgrace’，这构成了考研极经典的‘今昔对比’。过去认为呆在原地安全（stay where you are），因此过去优秀高管都是坚守岗位（used to cling to their posts），A 项正确。D 项与‘fundamentally inverted’直接相反，必错；B 项 loyalty 属于脑补过度。",
+      "coreLesson": "推理题经典题眼——‘时态对比反推’。当文中出现 The traditional rule was... / old ... is fading 时，通常隐含与过去的对比，考查考生对‘过去范式’的反向推导能力。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "much",
+          "ipa": "[mʌtʃ]",
+          "meaning": "第一次",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "financial",
+          "ipa": "[faɪˈnænʃ(ə)l]",
+          "meaning": "金融的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "lined",
+          "ipa": "",
+          "meaning": "排队（文中指“找好下一份工作”）",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "reflect",
+          "ipa": "[rɪˈflekt]",
+          "meaning": "考虑",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "executives",
+          "ipa": "",
+          "meaning": "执行官",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "McGee",
+          "ipa": "",
+          "meaning": "美国运通公司",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "quit",
+          "ipa": "[kwɪt]",
+          "meaning": "辞职",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "looking",
+          "ipa": "/ˈlʊkɪŋ/",
+          "meaning": "寻找；寻求",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "succession",
+          "ipa": "[səkˈseʃn]",
+          "meaning": "得到认可，被挑中",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "response",
+          "ipa": "[rɪˈspɒns]",
+          "meaning": "作为对…的反应",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "pressure",
+          "ipa": "[ˈpreʃə(r)]",
+          "meaning": "压力",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "shareholder",
+          "ipa": "[ˈʃeəhəʊldə(r)]",
+          "meaning": "股东",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "turbulent",
+          "ipa": "[ˈtɜːbjələnt]",
+          "meaning": "动荡的",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "managers",
+          "ipa": "",
+          "meaning": "使某人对…小心谨慎",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "vague",
+          "ipa": "[veɪɡ]",
+          "meaning": "模糊的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "reputations",
+          "ipa": "",
+          "meaning": "声誉",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "recovery",
+          "ipa": "[rɪˈkʌvəri]",
+          "meaning": "（经济）复苏",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "hold",
+          "ipa": "[həʊld]",
+          "meaning": "确立",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "deputy",
+          "ipa": "[ˈdepjuti]",
+          "meaning": "副的",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "be",
+          "ipa": "[bi]",
+          "meaning": "乐于，愿意",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "turnover",
+          "ipa": "[ˈtɜːnəʊvə(r)]",
+          "meaning": "流动率",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "quarter",
+          "ipa": "[ˈkwɔːtə(r)]",
+          "meaning": "坚持留住",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "economy",
+          "ipa": "[ɪˈkɒnəmi]",
+          "meaning": "经济",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "picks",
+          "ipa": "",
+          "meaning": "恢复，复苏",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "abound",
+          "ipa": "[əˈbaʊnd]",
+          "meaning": "大量存在",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "senior",
+          "ipa": "[ˈsiːniə(r)]",
+          "meaning": "资深的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "look",
+          "ipa": "[lʊk]",
+          "meaning": "寻找；寻求",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "adhered",
+          "ipa": "",
+          "meaning": "坚守",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "attractive",
+          "ipa": "[əˈtræktɪv]",
+          "meaning": "吸引人的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "candidates",
+          "ipa": "",
+          "meaning": "[人名]丹尼斯·凯里",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "think",
+          "ipa": "[θɪŋk]",
+          "meaning": "考虑",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "instructed",
+          "ipa": "",
+          "meaning": "要求",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "landed",
+          "ipa": "",
+          "meaning": "着陆在（文中指找到工作）",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "without",
+          "ipa": "[wɪˈðaʊt]",
+          "meaning": "[人名]艾伦·马拉姆",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "decade",
+          "ipa": "[ˈdekeɪd]",
+          "meaning": "十年",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "commodities",
+          "ipa": "",
+          "meaning": "商品",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "exchange",
+          "ipa": "[ɪksˈtʃeɪndʒ]",
+          "meaning": "交易所",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Willumstad",
+          "ipa": "",
+          "meaning": "[人名]罗伯特·威卢姆斯塔德",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "ambitions",
+          "ipa": "",
+          "meaning": "雄心",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "institution",
+          "ipa": "[ˌɪnstɪˈtjuːʃ(ə)n]",
+          "meaning": "机构",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "fading",
+          "ipa": "",
+          "meaning": "逐渐消失",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Many",
+          "ipa": "[ˈmeni]",
+          "meaning": "金融危机",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "between",
+          "ipa": "[bɪˈtwiːn]",
+          "meaning": "待业",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "aspirations",
+          "ipa": "",
+          "meaning": "抱负",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "post",
+          "ipa": "[pəʊst]",
+          "meaning": "岗位",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "scrutinize",
+          "ipa": "[ˈskruːtənaɪz]",
+          "meaning": "细致审查",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "unconventional",
+          "ipa": "[ˌʌnkənˈvenʃənl]",
+          "meaning": "不因循守旧的",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "poached",
+          "ipa": "",
+          "meaning": "偷猎（文中指“挖墙脚”）",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "disgrace",
+          "ipa": "[dɪsˈɡreɪs]",
+          "meaning": "耻辱",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t2.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:85a11559df90d5fe368f37347b5419485d1eb00b65a702d9a24ecf7775284035"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Which of the following is the best title for the text?",
+    "stemTranslation": "下列哪一项作为本文的标题最为合适？",
+    "options": [
+      {
+        "key": "A",
+        "text": "CEOs: Where to Go?.",
+        "translation": "CEO们：路在何方？",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真",
+        "analysis": "【范围失真/偏离焦点】本文探讨的主角不仅是现有 CEO，更多的是渴望晋升一把手的副职高管（deputy chiefs, No.2 executives）主动裸辞跳槽的潮流，而非探讨 CEO 们的去向迷茫。"
+      },
+      {
+        "key": "B",
+        "text": "CEOs: All the Way Up?.",
+        "translation": "CEO们：步步高升？",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真",
+        "analysis": "【范围失真】All the Way Up 偏向职场一路晋升的常规路线，未能抓住高管裸辞、颠覆传统职业规则的全文冲突点与核心叙事。",
+        "vocab": [
+          {
+            "word": "All",
+            "ipa": "[ɔːl]",
+            "meaning": "步步高升",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Top Managers Jump without a Net.",
+        "translation": "高管跳槽不留后路（无网之跃）",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 核心主旨概括】文章以麦基裸辞为切入点，第三段明确提出 make the jump without a net（无安全网跳槽），尾段总结这一现象彻底颠覆了原地留守更安全的传统规则。C 选项直接提炼全文核心比喻与新常态，完美契合主旨。"
+      },
+      {
+        "key": "D",
+        "text": "The Only Way Out for Top Performers.",
+        "translation": "优秀管理者的唯一出路",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "distractorDisplayName": "绝对化词汇",
+        "analysis": "【绝对化词汇陷阱】选项包含绝对化修饰词 The Only Way Out（唯一出路）。文章虽然指出裸辞跳槽正在成为可接受的趋势且原地等待受害深，但从未断言这是唯一的出路。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S1",
+      "P3-S1",
+      "P4-S1",
+      "P6-S3",
+      "P6-S4"
+    ],
+    "verbatimEvidence": "deputy chiefs may be more willing to make the jump without a net... The decision to quit a senior position to look for a better one is unconventional... \"The traditional rule was it's safer to stay where you are, but that's been fundamentally inverted,\" says one headhunter.",
+    "synonymMapping": [
+      {
+        "verbatimText": "make the jump without a net / leaving without a position lined up",
+        "equivalentOption": "Top Managers Jump without a Net"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "通读全文，从第一段 McGee 在没有下家的情况下离职（leaving without a position lined up），到第三段提炼出‘make the jump without a net’，再到第六段猎头指出传统留守规则被彻底逆转，整篇文章的核心都在讲‘高管不留后路地跳槽（裸辞）’。C 选项直接以文中最形象的原话为题。D 选项带有绝对词‘The Only Way’，果断排除。",
+      "coreLesson": "主旨标题题解题两大利器：一是寻找贯穿全文的高频核心比喻（without a net）；二是敏锐识别绝对化限定词（Only, Must），绝不选过度极端的结论。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t2.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:85a11559df90d5fe368f37347b5419485d1eb00b65a702d9a24ecf7775284035"
+    }
+  }
+]

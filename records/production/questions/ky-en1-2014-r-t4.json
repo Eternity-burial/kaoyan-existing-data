@@ -1,0 +1,871 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "According to Paragraph 1, what is the author’s attitude toward the AAAS’s report?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Critical.",
+        "isCorrect": true,
+        "analysis": "定位至首段第二句：“Regrettably, however, the report's failure to address the true nature of the crisis facing liberal education may cause more harm than good.” 作者在首句客套肯定报告对人文社科重要性的强调（‘deserves praise’）后，立即以‘Regrettably, however’强烈转折，严正指出报告回避通识教育危机本质是致命失败，并将带来‘弊大于利（cause more harm than good）’的后果。首段呈现典型的‘先扬后抑’结构，转折后才是作者的真实立场，故整体态度鲜明地为批判性（Critical）。",
+        "vocab": [
+          {
+            "word": "Critical",
+            "ipa": "[ˈkrɪtɪk(ə)l]",
+            "meaning": "批判的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Appreciative.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全/断章取义。选项仅孤立截取了第一句的客套肯定词‘deserves praise’，完全无视紧随其后以‘Regrettably, however’引出的根本性批判转折。",
+        "vocab": [
+          {
+            "word": "Appreciative",
+            "ipa": "[əˈpriːʃətɪv]",
+            "meaning": "欣赏的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Contemptuous.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "情感色彩过激。作者对报告的批评属于摆事实、讲道理的学术理性审视与教育体制反思，指出其未能触及核心，并未表现出冷嘲热讽或轻蔑鄙视（Contemptuous）。",
+        "vocab": [
+          {
+            "word": "Contemptuous",
+            "ipa": "[kənˈtemptʃuəs]",
+            "meaning": "轻蔑的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Tolerant.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。作者严厉指出报告可能会导致‘弊大于利’并阻碍改革，通篇毫无迁就、容忍或宽容放任的态度。",
+        "vocab": [
+          {
+            "word": "Tolerant",
+            "ipa": "[ˈtɒlərənt]",
+            "meaning": "宽容的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "ATTITUDE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Critical": "failure to address the true nature of the crisis facing liberal education may cause more harm than good (未能直面危机本质可能会弊大于利 -> 批判态度)"
+    },
+    "methodologyReview": "观点态度题。把握论说文首段的‘先扬后抑’脉络。当作者在开篇给予某种肯定，但随后紧跟‘however / regrettably / unfortunately’等强转折词时，转折后所流露出的消极负面定性（cause more harm than good）才是作者真正的核心基调。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "Influential figures in the Congress required that the AAAS report on how to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "safeguard individuals' rights to education.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第二段中完全未涉及保障公民个人受教育权（individuals’ rights to education）的表述。",
+        "vocab": [
+          {
+            "word": "safeguard",
+            "ipa": "[ˈseɪfɡɑːd]",
+            "meaning": "保护",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "define the government's role in education.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。原文提到国会要求明确可由‘federal, state and local governments...’采取的行动，政府只是被建议参与行动的多元主体之一，国会并非要求报告去界定政府在教育中的职能角色。",
+        "vocab": [
+          {
+            "word": "define",
+            "ipa": "[dɪˈfaɪn]",
+            "meaning": "界定",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "retain people's interest in liberal education.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。国会信件的核心诉求是‘maintain national excellence’（保持国家的学术卓越地位），而非留存公众个人的兴趣（interest）。",
+        "vocab": [
+          {
+            "word": "retain",
+            "ipa": "[rɪˈteɪn]",
+            "meaning": "保持",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "liberal",
+            "ipa": "[ˈlɪbərəl]",
+            "meaning": "人文的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "keep a leading position in liberal education.",
+        "isCorrect": true,
+        "analysis": "定位至第二段第一句：“In 2010, leading congressional Democrats and Republicans sent letters to the AAAS asking that it identify actions that could be taken by ... to 'maintain national excellence in humanities and social scientific scholarship and education'.” 题干中 Influential figures in the Congress 对应 leading congressional Democrats and Republicans；required that 对应 asking that；而核心任务 to maintain national excellence in ... education 精准同义替换为 to keep a leading position in liberal education（maintain 替换为 keep，national excellence 替换为 a leading position）。",
+        "vocab": [
+          {
+            "word": "liberal",
+            "ipa": "[ˈlɪbərəl]",
+            "meaning": "文科教育，人文教育",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "keep a leading position in liberal education": "to maintain national excellence in humanities and social scientific scholarship and education (维护国家在人文社科学术与教育领域的卓越领先地位 -> 在人文教育中保持领先)"
+    },
+    "methodologyReview": "事实细节题。考查核心同义替换：maintain = keep，national excellence = a leading position。做题时精准定位题干的国会诉求（asking that it identify actions to...），直接抓取不定式目的状语中的核心实词。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Influential",
+          "ipa": "[ˌɪnfluˈenʃl]",
+          "meaning": "有影响的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Congress",
+          "ipa": "[ˈkɒŋɡres]",
+          "meaning": "国会",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "According to Paragraph 3, the report suggests _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "an exclusive study of American history.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "极端绝对化。原文第三段第二句表达为‘particularly American history and American government’（尤其是美国历史与政治），选项将其篡改为‘exclusive’（排他性的/唯一的专科研究），范围严重扭曲。",
+        "vocab": [
+          {
+            "word": "exclusive",
+            "ipa": "[ɪkˈskluːsɪv]",
+            "meaning": "专门的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "a greater emphasis on theoretical subjects.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第三段中完全未提及‘theoretical subjects’（理论学科）。",
+        "vocab": [
+          {
+            "word": "emphasis",
+            "ipa": "[ˈemfəsɪs]",
+            "meaning": "重视",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "theoretical",
+            "ipa": "[ˌθɪəˈretɪkl]",
+            "meaning": "理论的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the application of emerging technologies.",
+        "isCorrect": true,
+        "analysis": "定位至第三段第二句末尾：“...and encourages the use of new digital technologies.” 报告建议鼓励采用新兴数字技术。命题专家将 use 同义替换为 application（应用），将 new digital technologies 同义替换为 emerging technologies（新兴技术），两者在语意和逻辑上构成完全等价的经典替换。",
+        "vocab": [
+          {
+            "word": "application",
+            "ipa": "[ˌæplɪˈkeɪʃ(ə)n]",
+            "meaning": "应用",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "technologies",
+            "ipa": "",
+            "meaning": "技术",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "emerging",
+            "ipa": "",
+            "meaning": "新兴的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "funding for the study of foreign languages.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴/拼凑嫁接。第三段第三句提到‘increased funding for teachers’（增加对教师的资金扶持），第四句提到‘advocates greater study of foreign languages’（提倡加大外语学习），选项将 funding 移花接木到了 foreign languages 上。",
+        "vocab": [
+          {
+            "word": "funding",
+            "ipa": "[ˈfʌndɪŋ]",
+            "meaning": "为…提供资金，资助",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "foreign",
+            "ipa": "[ˈfɒrən]",
+            "meaning": "外语",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "the application of emerging technologies": "encourages the use of new digital technologies (鼓励使用新兴数字技术 -> 新兴技术的应用)"
+    },
+    "methodologyReview": "事实细节题。命题专家擅长使用‘词性转换与同义词群’设题：use (n./v.) $\\rightarrow$ application (n.)，new digital technologies $\\rightarrow$ emerging technologies。同时要高度警惕选项中‘主谓宾跨句拼凑’（如将资金 funding 嫁接到外语学习上）的常见干扰伎俩。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "The author implies in Paragraph 5 that professors are _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "supportive of free markets.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第五段指出教授们将自由市场（free markets）描绘为超出合理正当学术边界的异类学说，表明他们排斥自由市场，而非支持（supportive）。",
+        "vocab": [
+          {
+            "word": "supportive",
+            "ipa": "[səˈpɔːtɪv]",
+            "meaning": "支持的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "free",
+            "ipa": "[friː]",
+            "meaning": "自由市场",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "biased against classical liberal ideas.",
+        "isCorrect": true,
+        "analysis": "定位至第五段全句：“Today, professors routinely treat the progressive interpretation of history and progressive public policy as the proper subject of study while portraying conservative or classical liberal ideas — such as free markets and self-reliance — as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation.” 教授们把激进观念奉为唯一正统，却将保守或古典自由主义理念（如自由市场与自力更生）描绘为超出正常甚至合法学术探究范畴的异端。将某种学术流派剥夺正当性、拒之门外，深刻暗示了教授们对古典自由主义思想具有根深蒂固的学术偏见（biased against）。",
+        "vocab": [
+          {
+            "word": "biased",
+            "ipa": "[ˈbaɪəst]",
+            "meaning": "对…有偏见",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "classical",
+            "ipa": "[ˈklæsɪk(ə)l]",
+            "meaning": "古典的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "liberal",
+            "ipa": "[ˈlɪbərəl]",
+            "meaning": "人文的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "cautious about intellectual investigation.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。原文是指教授们人为给学术探讨划定政治正确的禁区与藩篱，并非指他们自身在进行学术探究时严谨谨慎（cautious）。",
+        "vocab": [
+          {
+            "word": "cautious",
+            "ipa": "[ˈkɔːʃəs]",
+            "meaning": "对…谨慎",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "知识的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "investigation",
+            "ipa": "[ɪnˌvestɪˈɡeɪʃn]",
+            "meaning": "学术研究",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "conservative about public policy.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第五段明确说明教授们‘routinely treat ... progressive public policy as the proper subject of study’，他们推崇的是激进主义（progressive）政策，反对并排斥保守主义（conservative）。",
+        "vocab": [
+          {
+            "word": "conservative",
+            "ipa": "[kənˈsɜːvətɪv]",
+            "meaning": "保守的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "policy",
+            "ipa": "[ˈpɒləsi]",
+            "meaning": "政策",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "biased against classical liberal ideas": "portraying conservative or classical liberal ideas ... as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation (将保守或古典自由主义理念描绘为超出正当合理的学术研究边界 -> 对古典自由主义思想抱有偏见)"
+    },
+    "methodologyReview": "推理判断题。根据上下文反差进行价值取向推断。教授们把激进观点视为‘proper’（唯一正当），同时把古典自由主义理念贬损为‘falling outside legitimate boundaries’（越界非正统）。这种排斥异己思想的行为，在学术伦理上即等同于 biased against（心怀偏见）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        },
+        "source": "英语一_2014_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "implies",
+          "ipa": "",
+          "meaning": "暗示",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Illiberal Education and \"The Heart of the Matter\".",
+        "isCorrect": true,
+        "analysis": "最佳标题题。文章的核心论述客体是 AAAS 刚刚发布的重磅报告《问题的核心》（The Heart of the Matter）；而作者全篇立论的核心批判焦点与灵魂靶心，正是第四段点明的‘the illiberal nature of liberal education at our leading colleges and universities’（顶尖高校通识自由教育中所存在的非自由、狭隘偏执本质）。标题不仅巧妙双关反讽报告‘从未触及核心’，更是完美地将报告名称与文章主旨观点合二为一，具备最高的概括性与点睛效果。",
+        "vocab": [
+          {
+            "word": "Heart",
+            "ipa": "[hɑːt]",
+            "meaning": "《问题的核心》",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Illiberal",
+            "ipa": "[ɪˈlɪbərəl]",
+            "meaning": "非人文的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "The AAAS's Contribution to Liberal Education.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全且基调相反。文章开篇虽有客套肯定，但全文基调是先扬后抑，核心篇幅和终篇结论都在批判报告回避危机本质将‘弊大于利’、‘阻碍改革’，绝非讴歌其贡献。",
+        "vocab": [
+          {
+            "word": "Contribution",
+            "ipa": "[ˌkɒntrɪˈbjuːʃ(ə)n]",
+            "meaning": "贡献",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Liberal",
+            "ipa": "[ˈlɪbərəl]",
+            "meaning": "文科教育，人文教育",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Ways to Grasp \"The Heart of the Matter\".",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "概念扭曲且偏离主旨。本文是一篇对AAAS报告及其所揭示的大学教育危机的深度批判性社论，绝非提供如何理解该报告的操作方法指南（Ways to Grasp）。",
+        "vocab": [
+          {
+            "word": "Grasp",
+            "ipa": "[ɡrɑːsp]",
+            "meaning": "领会",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Heart",
+            "ipa": "[hɑːt]",
+            "meaning": "《问题的核心》",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Progressive Policy vs. Liberal Education.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "断章取义。激进公共政策（Progressive Policy）只是第五段揭示高校意识形态偏狭的一个佐证案例，绝非贯穿全文的宏观论题。",
+        "vocab": [
+          {
+            "word": "Progressive",
+            "ipa": "[prəˈɡresɪv]",
+            "meaning": "进步的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Policy",
+            "ipa": "[ˈpɒləsi]",
+            "meaning": "政策",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Liberal",
+            "ipa": "[ˈlɪbərəl]",
+            "meaning": "文科教育，人文教育",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Illiberal Education and \"The Heart of the Matter\"": "the illiberal nature of liberal education + \"The Heart of the Matter\" (非自由的人文教育与《问题的核心》报告反思)"
+    },
+    "methodologyReview": "主旨标题题。优质标题需同时满足两大维度：① 论述对象（Subject）：AAAS 报告《The Heart of the Matter》；② 核心论点/态度（Theme & Tone）：通识博雅教育变质为狭隘排他的‘Illiberal Education’。选项B双核俱备，且具有深刻的反讽双关文学意味。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

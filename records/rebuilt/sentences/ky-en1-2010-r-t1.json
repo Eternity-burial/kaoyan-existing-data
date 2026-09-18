@@ -1,0 +1,742 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage.",
+    "translation": "在过去四分之一世纪里英语报纸所发生的全部变迁之中，影响最为深远的或许莫过于其艺术报道在报道范围与思想严肃性上不可阻挡的急剧衰退。",
+    "syntaxAnalysis": {
+      "structureType": "介词短语前置状语 + 定语从句 + 主系表倒装/强调结构",
+      "mainClause": "perhaps the most far-reaching (change) has been the inexorable decline in...",
+      "subordinateClauses": [
+        "前置范围状语: Of all the changes... during the past quarter-century",
+        "定语从句: that have taken place in English-language newspapers 修饰 changes"
+      ],
+      "corePattern": "Of all the... the most... has been... / inexorable decline in"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers.",
+    "translation": "对于当今年龄在40岁以下的大多数普通读者而言，几乎无法想象曾经在大多数大城市的报纸上都能读到高水准艺术评论的时代。",
+    "syntaxAnalysis": {
+      "structureType": "形式主语复合句 + 时间定语从句",
+      "mainClause": "It is difficult to the point of impossibility for sb to imagine a time",
+      "subordinateClauses": [
+        "时间定语从句: when high-quality arts criticism could be found in most big-city newspapers 修饰 a time"
+      ],
+      "corePattern": "It is adj. to the point of impossibility for sb to do sth"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Yet a considerable number of the most significant collections of criticism published in the 20th century consisted in large part of newspaper reviews.",
+    "translation": "然而，20世纪出版的最具学术分量的一批批评文集中，有相当大一部分正是主要由报纸上的专业书评影评构成的。",
+    "syntaxAnalysis": {
+      "structureType": "转折主谓结构 + 后置过去分词短语",
+      "mainClause": "a considerable number of... collections of criticism consisted in large part of newspaper reviews",
+      "subordinateClauses": [
+        "后置定语: published in the 20th century 修饰 collections of criticism"
+      ],
+      "corePattern": "a considerable number of... / consist in large part of...（在很大程度上由……组成）"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies.",
+    "translation": "今天翻阅这些典籍，人们不禁会由衷惊叹：其中那些高深博学的内容当年竟然被认为完全适合刊登在面向大众发行的日常日报之上。",
+    "syntaxAnalysis": {
+      "structureType": "不定式作主语和表语 + 同位语从句",
+      "mainClause": "To read such books today is to marvel at the fact",
+      "subordinateClauses": [
+        "同位语从句: that their learned contents were once deemed suitable for publication in general-circulation dailies 解释 the fact"
+      ],
+      "corePattern": "To do A is to do B / marvel at / deem sb/sth suitable for"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "We are even farther removed from the unfocused newspaper reviews published in England between the turn of the 20th century and the eve of World War II, at a time when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared.",
+    "translation": "至于20世纪初到二战前夕在英国报刊上发表的那些不拘一格、散漫自由的评论，我们离它们就更加遥远了——当时新闻白报纸极其低廉，风格考究优雅的艺术评论被视为其所登载刊物的一种耀眼点缀。",
+    "syntaxAnalysis": {
+      "structureType": "比较表语复合句 + 后置过去分词定语 + 两个定语从句嵌套",
+      "mainClause": "We are even farther removed from the unfocused newspaper reviews",
+      "subordinateClauses": [
+        "后置定语: published in England between the turn of the 20th century and the eve of World War II",
+        "时间定语从句: when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications 修饰 a time",
+        "介词前置定语从句: in which it appeared 修饰 publications"
+      ],
+      "corePattern": "be farther removed from / unfocused reviews / dirt-cheap / considered an ornament to"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "In those far-off days, it was taken for granted that the critics of major papers would write in detail and at length about the events they covered.",
+    "translation": "在那个遥远的年代，主流报纸的评论家会对他们所报道的文化事件写得详尽而充分，人们把这视为理所当然。",
+    "syntaxAnalysis": {
+      "structureType": "形式主语被动句 + 定语从句",
+      "mainClause": "it was taken for granted that the critics of major papers would write...",
+      "subordinateClauses": [
+        "定语从句: (that) they covered 修饰 events"
+      ],
+      "corePattern": "take it for granted that... / in detail and at length"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Theirs was a serious business, and even those reviewers who wore their learning lightly, like George Bernard Shaw and Ernest Newman, could be trusted to know what they were about.",
+    "translation": "他们从事的是一项严肃的事业；即便是像萧伯纳、欧内斯特·纽曼这样举重若轻展现博学造诣的大家，也完全值得信赖并深谙自己笔下的专业内涵。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 + 定语从句 + 宾语从句",
+      "mainClause": "Theirs was a serious business, and even those reviewers could be trusted",
+      "subordinateClauses": [
+        "定语从句: who wore their learning lightly 修饰 reviewers",
+        "宾语从句: to know what they were about（知道自己在做什么/深谙其道）"
+      ],
+      "corePattern": "wear one's learning lightly / know what sb is about"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        22,
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "These men believed in journalism as a calling, and were proud to be published in the daily press.",
+    "translation": "这些文人巨匠将新闻工作视为一种崇高的神圣天职，并以文章能够刊登在日报上为荣。",
+    "syntaxAnalysis": {
+      "structureType": "并列谓语简单句",
+      "mainClause": "These men believed in journalism as a calling, and were proud to be published in the daily press",
+      "subordinateClauses": [],
+      "corePattern": "believe in sth as a calling / be proud to be published"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "\"So few authors have brains enough or literary gift enough to keep their own end up in journalism,\" Newman wrote, \"that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are'.\"",
+    "translation": "纽曼曾写道：“作家当中，头脑才智或文学天赋足以让他们在新闻界撑起一片天、立于不败之地的实在太少，以至于我禁不住把‘新闻业’定义为‘那些无人问津的拙劣作家，用来鄙蔑称呼那些有人阅读的成功作家的轻蔑词汇’。”",
+    "syntaxAnalysis": {
+      "structureType": "直接引语复合句 + so... that... 结果状语从句 + 定语从句",
+      "mainClause": "Newman wrote（插入引述语）",
+      "subordinateClauses": [
+        "结果状语从句: that I am tempted to define 'journalism' as...",
+        "定语从句: who are not read 修饰 writers",
+        "定语从句: who are (read) 修饰 writers"
+      ],
+      "corePattern": "so few... that... / keep one's own end up / be tempted to do / term of contempt applied by A to B"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Unfortunately, these critics are virtually forgotten.",
+    "translation": "令人遗憾的是，这些昔日大师如今已几乎被世人彻底遗忘。",
+    "syntaxAnalysis": {
+      "structureType": "主系表被动结构 + 评注性副词",
+      "mainClause": "Unfortunately, these critics are virtually forgotten",
+      "subordinateClauses": [],
+      "corePattern": "virtually forgotten（几乎被遗忘）"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Neville Cardus, who wrote for the Manchester Guardian from 1917 until shortly before his death in 1975, is now known solely as a writer of essays on the game of cricket.",
+    "translation": "内维尔·卡达斯从1917年起便为《曼彻斯特卫报》撰稿，直到1975年去世前不久才停笔，如今人们却只知道他是一位撰写板球运动随笔的作家。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 + 非限制性定语从句",
+      "mainClause": "Neville Cardus is now known solely as a writer of essays on the game of cricket",
+      "subordinateClauses": [
+        "非限制性定语从句: who wrote for the Manchester Guardian from 1917 until shortly before his death in 1975 修饰 Neville Cardus"
+      ],
+      "corePattern": "be known solely as"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "During his lifetime, though, he was also one of England's foremost classical-music critics, and a stylist so widely admired that his Autobiography (1947) became a best-seller.",
+    "translation": "然而在他生前，他曾是英国最顶尖的古典音乐评论泰斗之一，更是一位文风备受推崇的大师，其1947年出版的《自传》曾荣登全国畅销书榜首。",
+    "syntaxAnalysis": {
+      "structureType": "并列主系表结构 + so... that... 结果从句",
+      "mainClause": "he was also one of England's foremost classical-music critics, and a stylist",
+      "subordinateClauses": [
+        "结果状语从句: so widely admired that his Autobiography became a best-seller 修饰 stylist"
+      ],
+      "corePattern": "one of the foremost critics / so... that..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "He was knighted in 1967, the first music critic to be so honored.",
+    "translation": "他在1967年被英国王室册封为爵士，成为历史上首位获此殊荣的音乐评论家。",
+    "syntaxAnalysis": {
+      "structureType": "主谓被动句 + 同位语短语",
+      "mainClause": "He was knighted in 1967",
+      "subordinateClauses": [
+        "同位语短语: the first music critic to be so honored 修饰主语"
+      ],
+      "corePattern": "be knighted / be so honored"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P4-S5",
+      "pIndex": 4
+    },
+    "text": "Yet only one of his books is now in print, and his vast body of writings on music is unknown save to specialists.",
+    "translation": "然而如今他的著作中仅有一部还在印行，其数量浩瀚的音乐著述除极少数专家外早已无人知晓。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 + 排除介词短语",
+      "mainClause": "Yet only one of his books is now in print, and his vast body of writings is unknown save to specialists",
+      "subordinateClauses": [],
+      "corePattern": "in print（在印行） / unknown save to specialists（除专家外无人知晓）"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Is there any chance that Cardus's criticism will enjoy a revival?",
+    "translation": "卡达斯的严肃音乐评论未来还有重获新生的生机吗？",
+    "syntaxAnalysis": {
+      "structureType": "There be 疑问句 + 同位语从句",
+      "mainClause": "Is there any chance",
+      "subordinateClauses": [
+        "同位语从句: that Cardus's criticism will enjoy a revival 解释 chance"
+      ],
+      "corePattern": "Is there any chance that... / enjoy a revival"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "The prospect seems remote.",
+    "translation": "这种前景似乎极其渺茫。",
+    "syntaxAnalysis": {
+      "structureType": "主系表简单句（短小有力断言）",
+      "mainClause": "The prospect seems remote",
+      "subordinateClauses": [],
+      "corePattern": "prospect seems remote"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "Journalistic tastes had changed long before his death, and postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized.",
+    "translation": "早在卡达斯去世之前，新闻媒介的阅读口味就已经变了，后现代读者对他所擅长的那种词藻华丽繁复的维多利亚—爱德华时代式散文风骨毫无兴趣与需求。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 + 介词前置定语从句",
+      "mainClause": "Journalistic tastes had changed..., and postmodern readers have little use for the prose",
+      "subordinateClauses": [
+        "定语从句: in which he specialized 修饰 prose"
+      ],
+      "corePattern": "have little use for（对……毫无用处/兴趣） / specialize in"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "Moreover, the amateur tradition in music criticism has been in headlong retreat.",
+    "translation": "此外，音乐评论中那种非技术工匠式的通识业余文人传统，也早已在一溃千里、急剧消退。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 介词短语表语",
+      "mainClause": "Moreover, the amateur tradition in music criticism has been in headlong retreat",
+      "subordinateClauses": [],
+      "corePattern": "in headlong retreat（急剧溃退/全线衰亡）"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t1.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:53b9e54ce744ee2ef821daf5cfc7060787a716777f1653d1e5601892c62d5c87"
+    }
+  }
+]

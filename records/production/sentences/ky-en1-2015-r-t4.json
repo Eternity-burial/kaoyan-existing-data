@@ -1,0 +1,452 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Two years ago, Rupert Murdoch's daughter, Elisabeth, spoke of the \"unsettling dearth of integrity across so many of our institutions\".",
+    "translation": "两年前，鲁伯特·默多克的女儿伊丽莎白谈到了“在我们众多社会机构中普遍存在的令人不安的诚信缺失现象”。",
+    "syntaxAnalysis": "简单句。时间状语 Two years ago；主语 Rupert Murdoch's daughter, Elisabeth（同位语）；谓语 spoke of；宾语 the \"unsettling dearth of integrity across so many of our institutions\"。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Integrity had collapsed, she argued, because of a collective acceptance that the only \"sorting mechanism\" in society should be profit and the market.",
+    "translation": "她辩称，诚信正直之所以崩塌，是因为全社会集体默认并接受了这样一种观念：社会中唯一合理有效的分选与筛选机制应当是利润与市场。",
+    "syntaxAnalysis": "复合句。主句 Integrity had collapsed；she argued 为插入语；because of 引导原因短语，其中 acceptance 后跟 that 引导的同位语从句：that the only \"sorting mechanism\" in society should be profit and the market。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "But \"it's us, human beings, we the people who create the society we want, not profit\".",
+    "translation": "然而，“恰恰是我们人类自己，是我们大众人民在创造我们所期盼的社会形态，而不是冷冰冰的利润”。",
+    "syntaxAnalysis": "强调句型：it's us, human beings, we the people who create the society we want, not profit（被强调部分为人称代词 us 及其同位语，后接 who 引导的定语从句，从句内含 we want 省略关系代词的定语从句）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Driving her point home, she continued: \"It's increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom.\"",
+    "translation": "为了进一步把论点阐释得彻底透彻，她接着指出：“日益显而易见的是，在政府、媒体或商业机构内部道德使命与伦理语言的全面缺失，可能成为资本主义与自由体系最为危险的致命威胁。”",
+    "syntaxAnalysis": "复合句。Driving her point home 为现在分词短语作状语（drive one's point home 意为‘透彻阐明观点’）；主干 she continued...；引语内部为形式主语结构：It 为形式主语，is increasingly apparent 为系表结构，that 引导真正的主语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "This same absence of moral purpose was wounding companies such as News International, she thought, making it more likely that it would lose its way as it had with widespread illegal telephone hacking.",
+    "translation": "她认为，正是这种道德宗旨的缺失正在严重侵蚀伤害着诸如新闻国际这样的企业，使之极有可能彻底误入歧途，正如该公司在广泛的非法电话窃听事件中所暴露出的一样。",
+    "syntaxAnalysis": "复合句。主语 This same absence of moral purpose；谓语 was wounding；宾语 companies such as News International；she thought 为插入语；making it more likely that... 为现在分词短语作结果状语（it 为形式宾语，that it would lose its way 为真正宾语从句）；as 引导方式状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "As the hacking trial concludes — finding guilty one ex-editor of the News of the World, Andy Coulson, for conspiring to hack phones, and finding his predecessor, Rebekah Brooks, innocent of the same charge — the wider issue of dearth of integrity still stands.",
+    "translation": "随着这场举世瞩目的电话窃听案审判尘埃落定——《世界新闻报》前主编安迪·库尔森被判串谋窃听电话罪名成立，而他的前任丽贝卡·布鲁克斯却被判免于该项罪责——然而，更广泛维度的诚信缺失问题依然昭然若揭。",
+    "syntaxAnalysis": "复合句。As the hacking trial concludes 为时间状语从句；破折号之间为分词短语作伴随状语（finding guilty one ex-editor... for... and finding his predecessor... innocent of... 为两个并列复合宾语结构）；主句主干 the wider issue of dearth of integrity still stands。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "Journalists are known to have hacked the phones of up to 5,500 people. This is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking.",
+    "translation": "众所周知，该报记者窃听了多达5500人的手机电话。正如2001年被《世界新闻报》雇佣作为窃听专门核心负责人的格伦·穆凯尔所亲口承认的那样，这完全是一场工业化规模的系统性非法窃听。",
+    "syntaxAnalysis": "两个并列句子。第一句主干 Journalists are known to have hacked...；第二句主干 This is hacking on an industrial scale；as was acknowledged by... 为非限制性定语从句；the man hired... to be the point person 为同位语修饰 Glenn Mulcaire。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "Others await trial. This long story still unfolds.",
+    "translation": "其余涉案人员尚在等候司法审讯，这一漫长的丑闻黑幕仍在这片土地上持续发酵展开。",
+    "syntaxAnalysis": "两个短简单句。Others await trial 和 This long story still unfolds。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "In many respects, the dearth of moral purpose frames not only the fact of such widespread phone hacking but the terms on which the trial took place.",
+    "translation": "在诸多层面上，道德使命的严重匮乏不仅构成了如此大规模电话窃听事实的深层背景，更是主导了这场法庭审讯所依凭的话语逻辑。",
+    "syntaxAnalysis": "简单句。In many respects 为状语；主语 the dearth of moral purpose，谓语 frames，并列宾语由 not only the fact of... but the terms... 构成；on which the trial took place 为定语从句修饰 terms。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "One of the astonishing revelations was how little Rebekah Brooks knew of what went on in her newsroom, how little she thought to ask and the fact that she never inquired how the stories arrived.",
+    "translation": "庭审中最为令人震惊的内幕披露之一，便是丽贝卡·布鲁克斯对她掌控的新闻编辑部里所发生的一切竟然如此一无所知，她竟然从未动过念头去询问过问，也从未主动查问过那些独家猛料究竟是通过何种手段获得的。",
+    "syntaxAnalysis": "复合句。主语 One of the astonishing revelations，系动词 was；后接由 and 连接的三个并列从句/名词短语作表语：how little Rebekah Brooks knew of what went on...、how little she thought to ask 以及 the fact that she never inquired how the stories arrived（that 引导同位语从句）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "The core of her successful defence was that she knew nothing.",
+    "translation": "她之所以能够成功抗辩脱罪，其核心依据竟然是宣称自己“从头到尾毫不知情”。",
+    "syntaxAnalysis": "主从复合句。主语 The core of her successful defence；系动词 was；that she knew nothing 为 that 引导的表语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "In today's world, it has become normal that well-paid executives should not be accountable for what happens in the organisations that they run.",
+    "translation": "在当今世界，拿着巨额高薪的企业高管们竟然无需对自己所执掌机构中发生的任何罪责承担责任，这已经变成了一种司空见惯的常态。",
+    "syntaxAnalysis": "主从复合句。it 为形式主语，has become normal 为系表结构；that 引导真正主语从句（should not be accountable for...）；what happens in the organisations 为宾语从句；that they run 为定语从句修饰 organisations。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "Perhaps we should not be so surprised. For a generation, the collective doctrine has been that the sorting mechanism of society should be profit.",
+    "translation": "或许我们根本无需对此感到惊诧。整整一代人以来，全社会的集体信条始终是：整个社会的核心分选与衡量机制应当唯利润马首是瞻。",
+    "syntaxAnalysis": "并列推进结构。第一句 Perhaps we should not be so surprised；第二句主语 the collective doctrine，系动词 has been，后接 that 引导的表语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "The words that have mattered are efficiency, flexibility, shareholder value, business-friendly, wealth generation, sales, impact and, in newspapers, circulation.",
+    "translation": "被奉为圭臬的核心话语永远是效率、灵活性、股东价值、亲商环境、财富创造、销售额、影响力，而在报纸行业，则是发行量。",
+    "syntaxAnalysis": "简单句。主语 The words 后跟 that have mattered 定语从句；系动词 are；后接并列名词短语作表语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Words degraded to the margin have been justice, fairness, tolerance, proportionality and accountability.",
+    "translation": "而被践踏贬黜到边缘冷宫的字眼，则是正义、公平、包容、适度均衡与严格问责。",
+    "syntaxAnalysis": "简单句。主语 Words，degraded to the margin 为过去分词短语作后置定语；系动词 have been；表语为 justice, fairness, tolerance, proportionality and accountability。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "The purpose of editing the News of the World was not to promote reader understanding, to be fair in what was written or to betray any common humanity.",
+    "translation": "编辑出版《世界新闻报》的终极目的，从来都不是为了增进读者的认知理解，不是为了在报道中秉持公正，更不是为了展现任何人类相通的恻隐良知。",
+    "syntaxAnalysis": "简单句。主语 The purpose of editing the News of the World，系动词 was not；三个由 or 连接的不定式短语作并列表语：to promote..., to be fair in what was written, or to betray any common humanity（betray 在此为熟词僻义，意为‘流露/展现’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "It was to ruin lives in the quest for circulation and impact.",
+    "translation": "它的真正目的，纯粹是为了在对发行量与眼球影响力的病态追逐中，肆意摧毁他人的人生与尊严。",
+    "syntaxAnalysis": "简单句。主语 It，系动词 was，表语为不定式短语 to ruin lives；in the quest for circulation and impact 作目的/方式状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "Ms Brooks may or may not have had suspicions about how her journalists got their stories, but she asked no questions, gave no instructions — nor received traceable, recorded answers.",
+    "translation": "布鲁克斯女士对于手下记者究竟是如何搞到那些内幕消息的，或许心存疑窦，又或许毫无疑心；然而关键在于，她从未提出任何质询，从未下达任何规范指令——更从未接收过任何可追溯、有据可查的书面答复。",
+    "syntaxAnalysis": "转折并列复合句。第一个分句 Ms Brooks may or may not have had suspicions about how...；but 连接第二个分句，谓语包含三个并列排比结构：asked no questions, gave no instructions, nor received traceable, recorded answers。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  }
+]

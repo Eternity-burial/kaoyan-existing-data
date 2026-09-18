@@ -1,0 +1,955 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "It is indicated in Paragraphs 1 and 2 that",
+    "stemTranslation": "文章第1段和第2段表明______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "arts criticism has disappeared from big-city newspapers.",
+        "translation": "艺术评论已经从大城市的报纸上消失殆尽了。",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "distractorDisplayName": "绝对化词汇",
+        "analysis": "【绝对化词汇】原文 P1-S1 明确说明是 decline（范围与严肃性急剧衰退），第二段用 could be found 的过去时对比今天，只是大幅减少，并未完全绝迹（disappeared）。绝对化夸大是考研最高频错误特征之一。",
+        "vocab": [
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "评论",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "disappeared",
+            "ipa": "",
+            "meaning": "从…消失",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "English-language newspapers used to carry more arts reviews.",
+        "translation": "英语报纸过去曾经刊登更多的艺术评论。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 指出报纸艺术报道经历了不可阻挡的衰落（inexorable decline in arts coverage），P2-S1 进一步强调过去大城市报刊上随处可见高质量评论，二者综合自然推断出：过去的英语报纸承载刊登了多得多的艺评（used to carry more）。",
+        "vocab": [
+          {
+            "word": "used",
+            "ipa": "[juːst]",
+            "meaning": "过去常常",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "high-quality newspapers retain a large body of readers.",
+        "translation": "高质量报纸依旧留存有庞大的读者群体。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文只字未提当今高质量报纸拥有多少读者规模。",
+        "vocab": [
+          {
+            "word": "retain",
+            "ipa": "[rɪˈteɪn]",
+            "meaning": "留住",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "young readers doubt the suitability of criticism on dailies.",
+        "translation": "年轻读者怀疑在日报上刊登艺术评论是否适宜。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】P2-S3 明确写道今天重读这些书是 marvel at（惊叹于当年博学内容居然能发表在日报上），这是一种赞叹佩服的心理，而非主观上的 doubt（怀疑、质疑）。",
+        "vocab": [
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "评论",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": "P1-S1: 'inexorable decline in the scope and seriousness of their arts coverage.' P2-S1: 'difficult... to imagine a time when high-quality arts criticism could be found in most big-city newspapers.' P2-S2: 'collections of criticism... consisted in large part of newspaper reviews.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P1-S1: decline in arts coverage + P2-S1: high-quality criticism could be found in most big-city newspapers",
+        "optionQuote": "B: English-language newspapers used to carry more arts reviews.",
+        "semanticEquivalence": "inexorable decline in coverage + could be found in most papers ↔ used to carry more"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "推断题解题通则：结合多句综合事实，寻找最保守、最严密的同义改写。绝对化词汇（disappeared）往往是致命陷阱；必须准确区分作者或读者的主观情感动词（marvel at ≠ doubt）。",
+      "trapPattern": "绝对化词汇陷阱与情感态度偷换陷阱。",
+      "reviewChecklist": [
+        "是否识别出 decline（衰落）不等同于 disappeared（绝迹）？",
+        "是否发现 marvel at（惊叹）被偷换成了 doubt（怀疑）？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "indicated",
+          "ipa": "",
+          "meaning": "表明",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Newspaper reviews in England before World War II were characterized by",
+    "stemTranslation": "二战前英国报纸评论的显著特征是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "free themes.",
+        "translation": "自由的主题（主题不拘一格）。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】题干 characterized by 对应原文定语。P3-S1 明确点出：unfocused newspaper reviews published in England...，unfocused 在此语境下指评论选题包罗万象、自由随意、不局限单一话题，精准同义替换为 free themes。",
+        "vocab": [
+          {
+            "word": "themes",
+            "ipa": "",
+            "meaning": "主题",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "casual style.",
+        "translation": "随意的文风风格。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P3-S1 和 P3-S3 明确指明：当时的艺评是 stylish（文笔考究优雅）且 theirs was a serious business（严肃的事业），大师们 write in detail and at length（详尽充分长篇论述），与轻率随便的 casual style 彻底矛盾！",
+        "vocab": [
+          {
+            "word": "casual",
+            "ipa": "[ˈkæʒuəl]",
+            "meaning": "随便的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "elaborate layout.",
+        "translation": "精心的物理版面布局。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】原文中的 ornament 是比喻典雅艺术评论从精神格调上妆点了报纸，并非指报纸物理版面设计复杂（elaborate layout）。",
+        "vocab": [
+          {
+            "word": "elaborate",
+            "ipa": "[ɪˈlæbərət]",
+            "meaning": "精心的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "layout",
+            "ipa": "[ˈleɪaʊt]",
+            "meaning": "布局",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "radical viewpoints.",
+        "translation": "激进的观点。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文只强调评论家博学严谨（serious business, learned contents），完全没有提及他们持有激进观点。",
+        "vocab": [
+          {
+            "word": "radical",
+            "ipa": "[ˈrædɪkl]",
+            "meaning": "激进的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "viewpoints",
+            "ipa": "",
+            "meaning": "观点",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": "P3-S1: 'the unfocused newspaper reviews published in England between the turn of the 20th century and the eve of World War II'",
+    "synonymMapping": [
+      {
+        "textQuote": "P3-S1: unfocused newspaper reviews",
+        "optionQuote": "A: free themes.",
+        "semanticEquivalence": "unfocused（无拘无束的，百花齐放的） ↔ free themes（自由主题）"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "细节题解题通则：精准定位到题干核心修饰词（England before WWII），找出紧密修饰语（unfocused），锁定同义替换。高度警惕将‘严肃文笔’反转为‘随便风格’的正反颠倒陷阱。",
+      "trapPattern": "望文生义与概念反转（把严肃博学偷换为随意轻浮）。",
+      "reviewChecklist": [
+        "是否唯一定位到了 P3-S1 中的 unfocused？",
+        "是否识破了 casual（随意）与 serious business（严肃事业）的直接对立？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "Newspaper",
+          "ipa": "[ˈnjuːzpeɪpə(r)]",
+          "meaning": "有…的(显著)特点",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "Which of the following would Shaw and Newman most probably agree on?",
+    "stemTranslation": "萧伯纳和纽曼最有可能同意下列哪项观点？",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is writers' duty to fulfill journalistic goals.",
+        "translation": "实现新闻目标是作家的责任与义务。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有/强加义务",
+        "analysis": "【无中生有】萧伯纳和纽曼坚信新闻是一种天职神圣使命（calling），但从未道德绑架所有作家，声称所有作家都有‘责任/义务’（duty）去实现新闻目标。",
+        "vocab": [
+          {
+            "word": "fulfill",
+            "ipa": "[fʊlˈfɪl]",
+            "meaning": "实现",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "It is contemptible for writers to be journalists.",
+        "translation": "作家成为新闻记者是为人所轻蔑可鄙的。",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴/反讽误读",
+        "analysis": "【张冠李戴】纽曼原句是辛辣反讽：那些没有读者阅读的拙劣作家出于嫉妒，才把‘新闻界’作为蔑称（term of contempt）攻击有读者的作家。纽曼自己为日报写作倍感自豪（proud），绝非认为可鄙。",
+        "vocab": [
+          {
+            "word": "journalists",
+            "ipa": "",
+            "meaning": "记者",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "contemptible",
+            "ipa": "[kənˈtemptəbl]",
+            "meaning": "让人轻视的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Writers are likely to be tempted into journalism.",
+        "translation": "作家容易被诱惑投身新闻界。",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴/语法误读",
+        "analysis": "【张冠李戴】原文中 I am tempted to define 是指‘纽曼自己忍不住想要下定义’，被诱惑的是纽曼下定义，而不是其他作家被诱惑进新闻界。",
+        "vocab": [
+          {
+            "word": "likely",
+            "ipa": "[ˈlaɪkli]",
+            "meaning": "可能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "be",
+            "ipa": "[bi]",
+            "meaning": "被吸引",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Not all writers are capable of journalistic writing.",
+        "translation": "并非所有的作家都有能力胜任新闻写作。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 经典逻辑同义替换】纽曼名言：'So few authors have brains enough or literary gift enough to keep their own end up in journalism'。So few authors（极少有作家）同义改写为 Not all writers（并非所有作家）；brains or literary gift to keep end up（有才华头脑撑起一片天）完美对齐 are capable of。",
+        "vocab": [
+          {
+            "word": "capable",
+            "ipa": "[ˈkeɪpəb(ə)l]",
+            "meaning": "能够胜任",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P3-S4",
+      "P3-S5"
+    ],
+    "verbatimEvidence": "P3-S5: '\"So few authors have brains enough or literary gift enough to keep their own end up in journalism,\" Newman wrote'",
+    "synonymMapping": [
+      {
+        "textQuote": "So few authors have brains enough or literary gift enough to keep their own end up in journalism",
+        "optionQuote": "D: Not all writers are capable of journalistic writing.",
+        "semanticEquivalence": "So few authors ↔ Not all writers; brains/literary gift enough to keep end up ↔ capable of journalistic writing"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "观点细节题解题法则：定位人物直接引语或观点句。注意考研英语经典逻辑映射：‘极少数（So few）’$\\leftrightarrow$‘并非所有（Not all）’；警惕将说话者反讽攻击对象（writers who are not read）张冠李戴到说话者本人头上。",
+      "trapPattern": "正反颠倒与反讽误读陷阱（误将反讽言论当作作者真意）。",
+      "reviewChecklist": [
+        "是否掌握了 So few $\\leftrightarrow$ Not all 的经典逻辑同义替换？",
+        "是否识别出选项B将纽曼反讽嫉妒者的‘酸葡萄心理’颠倒成了纽曼自己的立场？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "agree",
+          "ipa": "[əˈɡriː]",
+          "meaning": "同意",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "What can be learned about Cardus according to the last two paragraphs?",
+    "stemTranslation": "根据文章最后两段，关于卡达斯我们可以得知什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "His music criticism may not appeal to readers today.",
+        "translation": "他的音乐评论可能对当今读者缺乏吸引力。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P5-S3 明确指明卡达斯评论无法复兴的原因：'postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized'。postmodern readers 对应 readers today；have little use for（不感兴趣/用处寥寥）同义替换为 may not appeal to。",
+        "vocab": [
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "评论",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "appeal",
+            "ipa": "[əˈpiːl]",
+            "meaning": "吸引",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "His reputation as a music critic has long been in dispute.",
+        "translation": "他作为音乐评论家的声誉长期存在争议。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P4-S3 指出他是 foremost critic（顶尖评论家）且自传畅销，P4-S4 进一步说明他被封爵（knighted in 1967），是首位受此殊荣的乐评家，声誉崇高备受公认，绝非‘长期存在争议’。",
+        "vocab": [
+          {
+            "word": "reputation",
+            "ipa": "[ˌrepjuˈteɪʃn]",
+            "meaning": "声誉",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "critic",
+            "ipa": "[ˈkrɪtɪk]",
+            "meaning": "评论家",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "dispute",
+            "ipa": "[dɪˈspjuːt]",
+            "meaning": "争议",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "His style caters largely to modern specialists.",
+        "translation": "他的风格主要在迎合现代专家学者。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念/因果混淆",
+        "analysis": "【偷换概念】P4-S5 说的是 unknown save to specialists（除了专家之外无人知晓，指大众遗忘），但卡达斯写作完全是面向大众的报纸日报，根本不是去迎合（cater to）现代专业学者。",
+        "vocab": [
+          {
+            "word": "caters",
+            "ipa": "",
+            "meaning": "迎合",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "specialists",
+            "ipa": "",
+            "meaning": "专家",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "His writings fail to follow the amateur tradition.",
+        "translation": "他的作品未能遵循业余文人传统。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P5-S4 结尾提到随着卡达斯等老一辈离开，amateur tradition has been in headlong retreat。卡达斯正是业余通识传统的集大成者，选项说他没能遵循，与事实完全颠倒。",
+        "vocab": [
+          {
+            "word": "fail",
+            "ipa": "[feɪl]",
+            "meaning": "未能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "amateur",
+            "ipa": "[ˈæmətə(r)]",
+            "meaning": "业余的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "tradition",
+            "ipa": "[trəˈdɪʃ(ə)n]",
+            "meaning": "传统",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P4-S3",
+      "P4-S5",
+      "P5-S3",
+      "P5-S4"
+    ],
+    "verbatimEvidence": "P5-S3: 'postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized.'",
+    "synonymMapping": [
+      {
+        "textQuote": "postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized",
+        "optionQuote": "A: His music criticism may not appeal to readers today.",
+        "semanticEquivalence": "postmodern readers ↔ readers today; have little use for his prose ↔ his criticism may not appeal to"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "推断题解题通则：锁定最后两段关于卡达斯的终局评价。注意 have little use for 这一经典高级短语的负向情感色彩；严格区分‘除了专家无人知晓（客观现状）’与‘迎合专家（主观意图）’的概念差异。",
+      "trapPattern": "客观现状偷换为主观迎合动机（选项C），以及与原文泰斗地位相悖的‘长期有争议’陷阱（选项B）。",
+      "reviewChecklist": [
+        "是否掌握 have little use for = not appeal to 的同义替换？",
+        "是否分清了 unknown save to specialists 与 cater to specialists 的本质不同？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraphs",
+          "ipa": "",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "What would be the best title for the text?",
+    "stemTranslation": "本文的最佳标题应当是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "Newspapers of the Good Old Days.",
+        "translation": "往昔美好岁月里的报纸。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真/过于宽泛",
+        "analysis": "【过于宽泛】文章核心聚焦于报纸中的‘严肃艺术评论板块’（arts criticism），而非泛泛回忆昔日报纸的一切美好。"
+      },
+      {
+        "key": "B",
+        "text": "The Lost Horizon in Newspapers.",
+        "translation": "报业中消逝的地平线（报纸严肃评论黄金年代的终结）。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 文学隐喻主旨】文章首尾呼应：从第一段 arts coverage 的不可阻挡衰落，到第二段昔日辉煌，第三段大师辈出，第四段大家被世人遗忘，第五段复兴无望、全线退潮。Lost Horizon（消失的地平线）借用文学典故，完美象征了曾经在日常报纸上璀璨辉煌但如今已不可逆消逝的严肃艺术批评文明。",
+        "vocab": [
+          {
+            "word": "Horizon",
+            "ipa": "[həˈraɪz(ə)n]",
+            "meaning": "视野",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Mournful Decline of Journalism.",
+        "translation": "新闻业令人哀伤的衰落。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真/以偏概全",
+        "analysis": "【以偏概全/范围过宽】衰落的仅是报刊中的‘艺术文化深度评论’（arts coverage），而非整个新闻媒体行业（journalism）的整体消亡。",
+        "vocab": [
+          {
+            "word": "Decline",
+            "ipa": "[dɪˈklaɪn]",
+            "meaning": "衰落",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Mournful",
+            "ipa": "[ˈmɔːrnfl]",
+            "meaning": "令人悲哀的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Prominent Critics in Memory.",
+        "translation": "记忆中卓越的名人评论家。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/局限于例证",
+        "analysis": "【以偏概全】萧伯纳、纽曼和卡达斯等人物只是作者论证报业艺术评论兴衰历史的具象论据（supporting examples），并非全文的主题论点。",
+        "vocab": [
+          {
+            "word": "Prominent",
+            "ipa": "[ˈprɒmɪnənt]",
+            "meaning": "杰出的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Critics",
+            "ipa": "",
+            "meaning": "评论家",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨题",
+    "targetSentences": [
+      "P1-S1",
+      "P5-S2",
+      "P5-S4"
+    ],
+    "verbatimEvidence": "P1-S1: 'inexorable decline in the scope and seriousness of their arts coverage.' P5-S4: 'the amateur tradition in music criticism has been in headlong retreat.'",
+    "synonymMapping": [
+      {
+        "textQuote": "inexorable decline in arts coverage + in headlong retreat + virtually forgotten",
+        "optionQuote": "B: The Lost Horizon in Newspapers",
+        "semanticEquivalence": "Lost Horizon（消失的地平线 / 逝去的美好黄金时代） ↔ decline & retreat of serious arts criticism in newspapers"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "主旨标题题解题通则：核心概念不可缺失，范围不可过大亦不可过小。考研英语经常选用带有文学象征隐喻色彩的书卷气标题（如 The Lost Horizon），必须紧扣第一段开宗明义的 decline in arts coverage。",
+      "trapPattern": "范围扩大化陷阱（将艺术评论扩大为整个报业或新闻业）与例证细节陷阱（以个别评论家作为标题）。",
+      "reviewChecklist": [
+        "是否发现选项C把 arts coverage 擅自夸大成了整个 journalism？",
+        "是否理解了 The Lost Horizon 作为象征隐喻完美涵盖了报业严肃评论的消亡？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  }
+]

@@ -1,0 +1,925 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "According to Paragraphs 1 and 2, many young Americans cast doubt on",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the justification of the news-filtering practice.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】P1明确指出千禧一代更青睐让白宫新闻经过传统独立渠道过滤（prefer news to be filtered through other sources），表明他们赞同而非质疑新闻过滤把关机制的正当性。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "people's preference for social media platforms.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【张冠李戴】文中探讨的是年轻人对社交网络发布的新闻真实度表示警惕，而非质疑大众使用社交平台的偏好本身。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "preference",
+            "ipa": "[ˈprefrəns]",
+            "meaning": "偏好",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "social",
+            "ipa": "[ˈsəʊʃ(ə)l]",
+            "meaning": "社交媒体平台",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the administration's ability to handle information.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】年轻人质疑的是总统直接通过个人推特发布未经核实政令的做法，并未泛指整个政府班子处理公文信息的治理能力。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ],
+        "vocab": [
+          {
+            "word": "administration’s",
+            "ipa": "",
+            "meaning": "政府",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "handle",
+            "ipa": "[ˈhænd(ə)l]",
+            "meaning": "处理",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "social media as a reliable source of news.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P1第2句指出千禧一代希望新闻来自其他渠道而非总统社交媒体，P2第2句进一步揭示人们对媒体的不信任感上升、必须提升素养，第4句列举密歇根州推特假新闻泛滥的恶劣现实，说明广大年轻受众对“社交媒体作为可靠新闻信源”打上了大大的问号（cast doubt on social media as a reliable source of news）。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S2",
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "social",
+            "ipa": "[ˈsəʊʃ(ə)l]",
+            "meaning": "社交媒体",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reliable",
+            "ipa": "[rɪˈlaɪəbl]",
+            "meaning": "可靠的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "source",
+            "ipa": "[sɔːs]",
+            "meaning": "来源",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S2",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "prefer news... to be filtered through other sources, not a president's social media platform / distrust toward all media": "cast doubt on social media as a reliable source of news"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraphs",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "doubts",
+          "ipa": "[daʊt]",
+          "meaning": "使人对…产生怀疑",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The phrase \"beef up\" (Line 2, Para. 2) is closest in meaning to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "boast.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【词义混淆】boast 意为吹嘘、自夸，与语境中人们面对假新闻需要提高批判技能的语义完全相悖。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "sharpen",
+            "ipa": "[ˈʃɑːrpən]",
+            "meaning": "增强",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "define.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】define 意为下定义、界定，不能与媒介素养技能形成合乎逻辑的行动搭配。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "define",
+            "ipa": "[dɪˈfaɪn]",
+            "meaning": "界定",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "sharpen.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】在“as distrust has risen toward all media, people may be starting to beef up their media literacy”语境中，面对不信任感上升，公众需要“充实、强化、磨砺提升”自己的媒介认知与辨别技能。sharpen 意为使敏锐、磨炼提升技能，是 beef up（强化/充实）的精准同义表达。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "boast",
+            "ipa": "[bəʊst]",
+            "meaning": "吹嘘",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "share.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面干扰】share 意为分享传播，文中常出现 share news，但此处宾语是 media literacy，不可能意为“分享素养”。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "VOCAB",
+    "type": "词义句意题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "beef up": "sharpen / strengthen"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "phrase",
+          "ipa": "[freɪz]",
+          "meaning": "短语",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "beef",
+          "ipa": "[biːf]",
+          "meaning": "加强",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "According to the Knight Foundation survey, young people",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tend to voice their opinions in cyberspace.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】年轻人在赛博空间发声并非奈特基金会调查的核心发现，该调查聚焦于年轻人如何甄别网络新闻的真伪机制。",
+        "refSentences": [
+          "P3-S2",
+          "P3-S3"
+        ],
+        "vocab": [
+          {
+            "word": "tend",
+            "ipa": "[tend]",
+            "meaning": "趋向",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "cyberspace",
+            "ipa": "[ˈsaɪbəspeɪs]",
+            "meaning": "网络空间",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "voice",
+            "ipa": "[vɔɪs]",
+            "meaning": "表达",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "verify news by referring to diverse sources.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P3第2句指出奈特基金会调查发现很多年轻人依赖“distributed trust”（分布式信任）核实新闻，第3句紧接着具体解释：“They will cross-check sources and look for different perspectives before believing what they read”，即在相信所读内容前，主动交叉比对多元信息源，完全对应 verify news by referring to diverse sources。",
+        "refSentences": [
+          "P3-S2",
+          "P3-S3"
+        ],
+        "vocab": [
+          {
+            "word": "verify",
+            "ipa": "[ˈverɪfaɪ]",
+            "meaning": "核实",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "referring",
+            "ipa": "",
+            "meaning": "查阅",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "diverse",
+            "ipa": "[daɪˈvɜːs]",
+            "meaning": "多种多样的来源",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "have a strong sense of social responsibility.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中未讨论年轻人群体是否具有强烈的社会责任感。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "like to exchange views on \"distributed trust\".",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】distributed trust 是年轻人核实新闻时所采取的去中心化多源验证机制，并非他们热衷于在网络上讨论该学术术语。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "exchange",
+            "ipa": "[ɪksˈtʃeɪndʒ]",
+            "meaning": "交换",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "views",
+            "ipa": "[vjuː]",
+            "meaning": "意见",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "distributed",
+            "ipa": "[dɪˈstrɪbjuːt]",
+            "meaning": "分布式信任",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S2",
+      "P3-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "rely on distributed trust / cross-check sources and look for different perspectives": "verify news by referring to diverse sources"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Knight",
+          "ipa": "[naɪt]",
+          "meaning": "奈特基金会",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "survey",
+          "ipa": "[ˈsɜːveɪ]",
+          "meaning": "调查",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "The Barna survey found that a main cause for the fake news problem is",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "readers' misinterpretation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P5第3句明确说明：“A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is 'reader error,' more so than made-up stories or factual mistakes in reporting”，第4句进一步解释 reader error 即“people often misinterpret news stories or read past their headlines to project their own biases”，说明读者的主观曲解（readers' misinterpretation）是主因。",
+        "refSentences": [
+          "P5-S3",
+          "P5-S4"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "journalists' biased reporting.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【张冠李戴】文中强调主观偏见投射来自受众读者（project their own biases），而非记者的偏颇报道。",
+        "refSentences": [
+          "P5-S3",
+          "P5-S4"
+        ],
+        "vocab": [
+          {
+            "word": "journalists",
+            "ipa": "[ˈdʒɜːnəlɪst]",
+            "meaning": "新闻记者",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "readers' outdated values.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文中P5第1句提到 readers 将新闻作为自身 values and interests 的投射，并未指责其价值观“过时（outdated）”。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S4"
+        ],
+        "vocab": [
+          {
+            "word": "misinterpretation",
+            "ipa": "[ˌmɪsɪntɜːprəˈteɪʃn]",
+            "meaning": "误解",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "journalists' made-up stories.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】文中明确指出“reader error”排在首位，其严重程度超过了记者的凭空捏造（more so than made-up stories），因此编造故事不是巴纳调查强调的核心主因。",
+        "refSentences": [
+          "P5-S3"
+        ],
+        "vocab": [
+          {
+            "word": "journalists",
+            "ipa": "[ˈdʒɜːnəlɪst]",
+            "meaning": "新闻记者",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P5-S3",
+      "P5-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "reader error / misinterpret news stories": "readers' misinterpretation"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "D",
+          "C",
+          "A",
+          "B"
+        ],
+        "letterMapping": {
+          "A": "C"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "survey",
+          "ipa": "[ˈsɜːveɪ]",
+          "meaning": "调查",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "fake",
+          "ipa": "[feɪk]",
+          "meaning": "假的",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A Counteraction Against the Over-tweeting Trend.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】反对总统过度推特只是引出话题的现实引子，不能概括全文对青年群体网络批判性素养觉醒与多源核实行为的深入论述。",
+        "refSentences": [
+          "P1-S1",
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Critical",
+            "ipa": "[ˈkrɪtɪk(ə)l]",
+            "meaning": "批判的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "A Rise in Critical Skills for Sharing News Online.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解主旨概括】文章通篇聚焦于年轻网民在社交网络信息乱象中“批判性思维技能（critical-thinking skills / media literacy / separating fact from fiction）”的提升，从第二段呼吁提升素养、第三段的分布式验证、到尾段高度赞扬年轻人在面对网络推文时展现出的思维自律与审慎怀疑，A Rise in Critical Skills for Sharing News Online 最全面精准地概括了全文主旨核心。",
+        "refSentences": [
+          "P2-S2",
+          "P3-S1",
+          "P5-S5",
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Trend",
+            "ipa": "[trend]",
+            "meaning": "趋势",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Counteraction",
+            "ipa": null,
+            "meaning": "反作用",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "The Accumulation of Mutual Trust on Social Media.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】全文强调全网不信任感上升（distrust has risen），青年建立的是审慎验证机制，而非各方在社交媒体上累积互信。",
+        "refSentences": [
+          "P2-S2",
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Mutual",
+            "ipa": "[ˈmjuːtʃuəl]",
+            "meaning": "相互的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Social",
+            "ipa": "[ˈsəʊʃ(ə)l]",
+            "meaning": "社交媒体",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Accumulation",
+            "ipa": "[əˌkjuːmjəˈleɪʃn]",
+            "meaning": "积聚",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "The Platforms for Projection of Personal Interests.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】个人利益投射仅为第五段分析读者曲解新闻心理机制的局部论据，无法统领整篇倡导批判素养的文章。",
+        "refSentences": [
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Platforms",
+            "ipa": "[ˈplætfɔːm]",
+            "meaning": "平台",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Projection",
+            "ipa": "[prəˈdʒekʃn]",
+            "meaning": "投射（这里指体现）",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P2-S2",
+      "P3-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "beef up media literacy / skillful at separating fact from fiction / thinking skills and healthy skepticism": "A Rise in Critical Skills for Sharing News Online"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "letterMapping": {
+          "B": "A"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  }
+]

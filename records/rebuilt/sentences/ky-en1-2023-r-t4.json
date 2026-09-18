@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Scientific papers are the recordkeepers of progress in research. Each year researchers publish millions of papers in more than 30,000 journals.",
+    "translation": "科学论文是人类科研探索与学术进步最忠实的记录者。每年，全球科研学者在三万多种学术期刊上公开发表数以百万计的研究论文。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal (as reflected by the title's impact factor) and the number of citations a specific paper accumulates.",
+    "translation": "科学共同体通过多种维度来衡量这些论文的学术质量，包括期刊自身的公认档次（具体体现为期刊影响因子）以及某篇具体论文所累积的被引用次数（citations）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "The careers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce, but even more so on the citations attracted by these papers.",
+    "translation": "科学家的个人学术职业生涯（careers of scientists）以及其所属科研机构的声誉，不仅取决于他们所产出论文的数量与声望，更是极其深刻地取决于这些论文被同行引用的频繁程度与引用次数（how many times their papers are cited / citations attracted by papers）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers, have existed for a long time. In 2016, researchers developed an algorithm to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications.",
+    "translation": "期刊、作者与机构三方暗中串通以恶意虚增引文数量的所谓“引用卡特尔”（Citation cartels），在学术界早已由来已久。早在2016年，科研人员就开发出了一种专门识别可疑引用模式的算法，包括不成比例相互引用的作者群伙，以及为了拉抬出版物影响因子而频繁互引的期刊集团联盟。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles.",
+    "translation": "而最近，这种掠夺性学术不端行为又滋生出了全新的表现形式：那些表面上向独立作者和期刊提供语言润色及编辑支持的所谓“学术支持服务咨询机构”（support service consultancies），有时竟公然诱导或强行要求投稿作者在其文章中强行添加大量特定的额外引用文献（ask authors to include extra citations / advise contributors to add citations）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. The birth of predatory journals wasn't far behind.",
+    "translation": "电子数字出版时代的全面降临以及广大作者迫切寻找发文出路的现实需求，直接催生了数以千计的崭新学术期刊；而专门牟利的“掠夺性期刊”的诞生也紧随其后、应运而生。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers. In some instances, there is absolutely no relationship between the content of the article and the citations. The peculiar part is that the journal that the editor is supposedly working for is not profiting at all—it is just providing citations to other journals. Such practices can lead an article to accrue more than 150 citations in the same year that it was published.",
+    "translation": "这些期刊充当着源源不断提供引用的“产奶母牛”（milk cows）——一期刊物中的每一篇论文可能全部都会强行引用某一篇特定论文或某一系列指定论文（boost citation counts for certain authors）。在某些极端荒谬案例中，文章本身的实际学术内容与强加的被引文献之间根本不存在哪怕半点逻辑关联。最诡异的地方在于，编辑名义上效力的这本期刊自身根本捞不到任何直接好处——它纯粹只是在单向为其他期刊或作者疯狂‘供奶式’输送引文！这种恶劣操纵甚至能让某篇特定论文在见刊当年就疯狂暴涨累积超过150次被引用！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "How insidious is this type of citation manipulation? In one example, an individual—acting as author, editor, and consultant—was able to use at least 15 journals as citation providers to articles published by five scientists at three universities.",
+    "translation": "这种引文操纵黑产究竟有多么隐蔽阴险猖獗？在一个触目惊心的真实案例中，某个集作者、编辑与咨询顾问于一身的操盘人，竟然成功利用至少15本学术期刊作为“引文供体”，专门为分布在三所高校的五位科学家所发表的论文疯狂注水刷引用！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "The problem is rampant in Scopus, a citation database, which includes a high number of the new \"international\" journals. In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation.",
+    "translation": "这一毒瘤现象在国际权威引文数据库 Scopus 中极其泛滥猖獗——该数据库收录了海量此类新型所谓“国际期刊”。事实上，只要被 Scopus 数据库收录索引，似乎就成为了被此类引文操纵集团精准锁定的目标衡量标准。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Scopus itself has all the data necessary to detect this malpractice. Red flags include a large number of citations to an article within the first year.",
+    "translation": "Scopus 数据库本身完全坐拥侦测捕捉此类学术不端操纵行为所需的全部关键海量数据（has the capability to identify suspicious citations）。其中的典型危险红色预警信号就包括：某篇论文在发表见刊的第一年内就不可思议地骤增暴涨海量引用！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal.",
+    "translation": "而对于那些渴望洁身自好、远离引文卡特尔泥潭的广大正直学者而言：一旦有任何期刊编辑、审稿人或润色服务机构要求你强行添加不恰当的无关参考文献，切切不可盲从顺从，并且必须坚决向期刊官方实名举报揭露其学术不端行径（do not oblige and do report / Reveal their misconduct）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t4.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:f14fbf7c8a23af990e48dce89e439568cf10aa3bc4f797cbb1d37cb36f9b4a21"
+    }
+  }
+]

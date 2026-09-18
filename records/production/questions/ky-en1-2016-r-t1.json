@@ -1,0 +1,877 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "According to the first paragraph, what would happen in France?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Physical beauty would be redefined.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P1第1句明确指出法国判定其时尚业“has lost an absolute right to define physical beauty for women”，后文说明政府通过立法禁止超瘦模特并封禁暴瘦节食网站，表明法国不再允许时尚界唯我独尊地定义瘦削为美，形体美将被重新界定（Physical beauty would be redefined）。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ],
+        "vocab": [
+          {
+            "word": "Physical",
+            "ipa": "[ˈfɪzɪk(ə)l]",
+            "meaning": "形体的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "New runways would be constructed.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面干扰】P1第2句提到了“runways”（T台走秀跑道），但说的是禁止纸片人在T台上走秀，并非建造新的T台跑道。",
+        "refSentences": [
+          "P1-S2"
+        ],
+        "vocab": [
+          {
+            "word": "constructed",
+            "ipa": "[kənˈstrʌkt]",
+            "meaning": "建造",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Websites about dieting would thrive.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】P1第3句明确说明议会决定“ban websites that incite excessive thinness by promoting extreme dieting”（封禁取缔节食网站），与蓬勃发展（thrive）截然相反。",
+        "refSentences": [
+          "P1-S3"
+        ],
+        "vocab": [
+          {
+            "word": "dieting",
+            "ipa": "[ˈdaɪət]",
+            "meaning": "节食",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "thrive",
+            "ipa": "[θraɪv]",
+            "meaning": "兴盛",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "The fashion industry would decline.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】时尚产业丧失的是定义美的垄断特权（lost an absolute right to define beauty），并不等于时尚产业整体衰退走向衰败（decline）。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "fashion",
+            "ipa": "[ˈfæʃ(ə)n]",
+            "meaning": "时尚",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "decline",
+            "ipa": "[dɪˈklaɪn]",
+            "meaning": "衰落",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "fashion industry has lost an absolute right to define physical beauty for women": "Physical beauty would be redefined"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "The phrase \"impinging on\" (Para. 2) is closest in meaning to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "indicating the state of.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】表明状态与后文保护模特免于饿死（starving themselves to death）的健康拯救语境毫无逻辑关联。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "indicating",
+            "ipa": "[ˈɪndɪkeɪt]",
+            "meaning": "表明",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "state",
+            "ipa": "[steɪt]",
+            "meaning": "状态",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "heightening the value of.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】文中批判极端病态消瘦，不可能意为“提升身心健康价值”。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "heightening",
+            "ipa": "[ˈhaɪtn]",
+            "meaning": "提高",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "losing faith in.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面干扰】对健康失去信心无法与主语 looks（病态外貌长相）形成主谓搭配。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "losing",
+            "ipa": "/ˈluːzɪŋ/",
+            "meaning": "对…失去信心",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "doing harm to.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第二段第2句指出立法动机是“beauty should not be defined by looks that end up impinging on health”（美不应由最终……健康的外表来界定），结合后句提到保护模特免于饿死（starving themselves to death），清晰表明这些纸片人外貌最终严重损害了身体机能，impinging on 即 doing harm to（对……造成实质危害）。",
+        "refSentences": [
+          "P2-S2",
+          "P2-S3"
+        ],
+        "vocab": [
+          {
+            "word": "doing",
+            "ipa": "/ˈduːɪŋ/",
+            "meaning": "损害",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "VOCAB",
+    "type": "词义句意题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "impinging on": "doing harm to"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "phrase",
+          "ipa": "[freɪz]",
+          "meaning": "短语",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "impinging",
+          "ipa": "[ɪm'pɪndʒɪŋ]",
+          "meaning": "冲击，打击",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "Which of the following is true of the fashion industry?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The French measures have already failed.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】第一段仅说明法国立法者初步批准了法案，第四段指出了刑罚依赖的局限，但从未判定该法令“已经彻底失败”。",
+        "refSentences": [
+          "P1-S2",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "New standards are being set in Denmark.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P5第2句指出“In Denmark... it is trying to set voluntary standards for models and fashion images”，P6第1句进一步证实“Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health... The newly revised Danish Fashion Ethical Charter...”，说明丹麦正在确立新的行业自律健康标准，完全吻合 New standards are being set in Denmark。",
+        "refSentences": [
+          "P5-S2",
+          "P6-S1",
+          "P6-S2"
+        ],
+        "vocab": [
+          {
+            "word": "inherent",
+            "ipa": "[ɪnˈherənt]",
+            "meaning": "固有的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Models are no longer under peer pressure.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】P5第2句明确指出丹麦等国的自愿标准恰恰是“rely more on peer pressure for enforcement”（依靠同行压力来实施），而非模特不再承受同行压力。",
+        "refSentences": [
+          "P5-S2"
+        ],
+        "vocab": [
+          {
+            "word": "no",
+            "ipa": "[nəʊ]",
+            "meaning": "不再",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "peer",
+            "ipa": "[pɪə(r)]",
+            "meaning": "同行压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Its inherent problems are getting worse.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】P5第1句提到时尚界清楚自己存在固有问题（has an inherent problem），但后文立即阐述丹麦、美国等国正在出台标准努力改善解决，并未得出问题正在不断恶化失控的结论。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P5-S2",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "trying to set voluntary standards for models / agreed on rules and sanctions": "New standards are being set in Denmark"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "fashion",
+          "ipa": "[ˈfæʃ(ə)n]",
+          "meaning": "时尚",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "A designer is most likely to be rejected by CFW for",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pursuing perfect physical conditions.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】CFW 倡导的是模特健康的身体状态，拒之门外是因为侵害健康，并非因为追求健康的身体状态。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "pursuing",
+            "ipa": "[pəˈsjuː]",
+            "meaning": "追求",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "physical",
+            "ipa": "[ˈfɪzɪk(ə)l]",
+            "meaning": "身体的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "caring too much about models' character.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】第三段鼓励人们注重品格等内在品质，关怀品格是正向提倡的，绝非被拒原因。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "caring",
+            "ipa": "[ˈkerɪŋ]",
+            "meaning": "注意，关注",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "character",
+            "ipa": "[ˈkærəktə(r)]",
+            "meaning": "性格",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "showing little concern for health factors.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P6第1句说明丹麦就涉及模特年龄、健康（health）等特征的规则达成协议，第2句强调承担对理想身材理念的责任，第3句指出宪章的主要执行手段是拒绝违规设计师和模特公司进入哥本哈根时装周（CFW），表明如果设计师漠视模特的健康因素（showing little concern for health factors），就会被 CFW 拒之门外。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "concern",
+            "ipa": "[kənˈsɜː(r)n]",
+            "meaning": "关心",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "factors",
+            "ipa": "[ˈfæktə(r)]",
+            "meaning": "因素",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "setting a high age threshold for models.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】时装周规则设定的是最低年龄底线以保护未成年少女，若设定高年龄门槛不会违规被逐。",
+        "refSentences": [
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "threshold",
+            "ipa": "[ˈθreʃhəʊld]",
+            "meaning": "门槛",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "rules regarding health / deny access to CFW": "rejected by CFW for showing little concern for health factors"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "rejected",
+          "ipa": "[rɪˈdʒekt]",
+          "meaning": "拒绝接受",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Which of the following may be the best title of the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A Challenge to the Fashion Industry's Body Ideals",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解主旨概括】全文通篇围绕如何挑战和扭转时尚界长期推崇的极端病态“纸片人”身材标准展开：首段提出法国剥夺时尚界定义美的垄断权，中段反思法律入刑与丹麦自律宪章（body ideals），尾段总结呼吁依靠道德劝说解决身材观念的滥用（misuse of body ideals）。A Challenge to the Fashion Industry's Body Ideals（向时尚界身材观念发起挑战）最精准全面地概括了整篇文章的核心思想。",
+        "refSentences": [
+          "P1-S1",
+          "P5-S1",
+          "P6-S2",
+          "P7-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Threats",
+            "ipa": "[θret]",
+            "meaning": "威胁",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Fashion",
+            "ipa": "[ˈfæʃ(ə)n]",
+            "meaning": "时尚",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "A Dilemma for the Starving Models in France",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】文章重点探讨的是全社会和全行业对审美标准的规制与重塑，法国受挨饿的模特只是局部论述对象，不能涵盖丹麦自律守则与行业普遍规范。",
+        "refSentences": [
+          "P2-S3",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Just Another Round of Struggle for Beauty",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【贬义消极曲解】文章正面积极评价丹麦等国的自律尝试是最佳路径，并非消极调侃又一轮无用斗争。",
+        "refSentences": [
+          "P7-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Dilemma",
+            "ipa": "[dɪˈlemə]",
+            "meaning": "窘境",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Starving",
+            "ipa": "[stɑːv]",
+            "meaning": "饥饿的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "The Great Threats to the Fashion Industry",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文章探讨的是时尚界的病态审美对社会大众和模特健康构成了危害，而非时尚界本身面临外部巨大生存威胁。",
+        "refSentences": [
+          "P2-S4",
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Challenge",
+            "ipa": "[ˈtʃælɪndʒ]",
+            "meaning": "挑战",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Fashion",
+            "ipa": "[ˈfæʃ(ə)n]",
+            "meaning": "时尚业",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Ideals",
+            "ipa": "[aɪˈdiːəl]",
+            "meaning": "理想",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S1",
+      "P6-S2",
+      "P7-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "define physical beauty / take responsibility for body ideals / misuse of body ideals": "A Challenge to the Fashion Industry's Body Ideals"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  }
+]

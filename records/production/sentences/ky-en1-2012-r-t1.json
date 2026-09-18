@@ -1,0 +1,907 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Come on – Everybody's doing it.",
+    "translation": "来吧——大家都在这么做。",
+    "syntaxAnalysis": {
+      "structureType": "口语祈使句 + 破折号分句",
+      "mainClause": "Come on; Everybody's doing it",
+      "subordinateClauses": [],
+      "corePattern": "Come on / Everybody's doing it"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "That whispered message, half invitation and half forcing, is what most of us think of when we hear the words peer pressure.",
+    "translation": "这种半是邀请、半是逼迫的耳语，正是我们大多数人一听到“同辈压力”这个词时脑海中浮现的画面。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 (同位语修饰主语 + 表语从句 + 时间状语从句)",
+      "mainClause": "That whispered message is what most of us think of",
+      "subordinateClauses": [
+        "插入语/后置同位修饰: half invitation and half forcing",
+        "表语从句: what most of us think of",
+        "时间状语从句: when we hear the words peer pressure"
+      ],
+      "corePattern": "whispered message / think of A when B / peer pressure"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "It usually leads to no good -- drinking, drugs and casual sex.",
+    "translation": "它通常没有好结果——酗酒、吸毒、随便的性关系。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 + 破折号列举同位语",
+      "mainClause": "It usually leads to no good",
+      "subordinateClauses": [
+        "破折号列举解释: drinking, drugs and casual sex"
+      ],
+      "corePattern": "lead to no good / casual sex"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "But in her new book Join The Club, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world.",
+    "translation": "但蒂娜·罗森伯格在新书《加入俱乐部》中主张，通过她所说的“社会疗法”，同辈压力也可以成为一种积极力量；在这种疗法中，组织和官员借助群体动力，帮助个人改善生活，甚至有可能改善世界。",
+    "syntaxAnalysis": {
+      "structureType": "转折复合长难句 (宾语从句 + 介词宾语从句 + 非限制性定语从句)",
+      "mainClause": "Tina Rosenberg contends that peer pressure can also be a positive force",
+      "subordinateClauses": [
+        "宾语从句: that peer pressure can also be a positive force through what she calls the social cure",
+        "介词宾语从句: what she calls the social cure",
+        "非限制性定语从句: in which organizations and officials use the power of group dynamics... (修饰 the social cure)"
+      ],
+      "corePattern": "contend that / positive force / the social cure / group dynamics"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool.",
+    "translation": "罗森伯格曾获普利策奖，她列举了大量社会疗法付诸实践的例子：在南卡罗来纳州，一项由州政府发起、名为“对抗烟雾”的禁烟项目，力图让吸烟变得不再“酷”。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (插入同位语 + 冒号展开举例说明)",
+      "mainClause": "Rosenberg offers a host of examples of the social cure in action",
+      "subordinateClauses": [
+        "同位语: the recipient of a Pulitzer Prize",
+        "后置定语: called Rage Against the Haze (修饰 program)",
+        "不定式目的: to make cigarettes uncool"
+      ],
+      "corePattern": "the recipient of / a host of / in action / state-sponsored / set out to"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "In South Africa, an HIV-prevention initiative known as LoveLife recruits young people to promote safe sex among their peers.",
+    "translation": "在南非，一项名为“关爱生命”的艾滋病预防计划招募年轻人，在同龄人中推广安全性行为。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (过去分词短语作后置定语 + 主谓宾 + 不定式补足语)",
+      "mainClause": "an HIV-prevention initiative recruits young people to promote safe sex among their peers",
+      "subordinateClauses": [
+        "后置定语: known as LoveLife (修饰 initiative)"
+      ],
+      "corePattern": "HIV-prevention initiative / recruit sb to do sth / among their peers"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The idea seems promising, and Rosenberg is a perceptive observer.",
+    "translation": "这一理念看起来颇有前景，罗森伯格本人也是一位目光敏锐的观察者。",
+    "syntaxAnalysis": {
+      "structureType": "并列句 (and连接两个主系表分句)",
+      "mainClause": "The idea seems promising, and Rosenberg is a perceptive observer",
+      "subordinateClauses": [],
+      "corePattern": "seem promising / perceptive observer"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology.",
+    "translation": "她对许多公共卫生宣传活动效果不佳的批评十分准确：这些活动未能利用同辈压力来促进健康习惯，而且显示出其对心理学的理解存在严重缺陷。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 + 冒号解释并列分句",
+      "mainClause": "Her critique of the lameness of many public-health campaigns is spot-on",
+      "subordinateClauses": [
+        "并列分句1: they fail to mobilize peer pressure for healthy habits",
+        "并列分句2: they demonstrate a seriously flawed understanding of psychology"
+      ],
+      "corePattern": "critique of the lameness / spot-on / fail to mobilize / seriously flawed"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "\"Dare to be different, please don't smoke !\" pleads one billboard campaign aimed at reducing smoking among teenagers, —teenagers, who desire nothing more than fitting in.",
+    "translation": "“敢于与众不同，请不要吸烟！”——一项旨在减少青少年吸烟的广告牌运动如此呼吁，可青少年最渴望的恰恰就是融入群体。",
+    "syntaxAnalysis": {
+      "structureType": "倒装直接引语 + 分词后置定语 + 非限制性定语从句",
+      "mainClause": "\"Dare to be different...\" pleads one billboard campaign (完全倒装)",
+      "subordinateClauses": [
+        "后置定语: aimed at reducing smoking among teenagers (修饰 campaign)",
+        "非限制性定语从句: who desire nothing more than fitting in (修饰 teenagers)"
+      ],
+      "corePattern": "Dare to be different / plead / aimed at / desire nothing more than / fit in"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Rosenberg argues convincingly that public health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+    "translation": "罗森伯格令人信服地指出，公共卫生倡导者应向广告商学习，因为后者极其擅长运用同辈压力。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (宾语从句 + 形容词短语作后置定语)",
+      "mainClause": "Rosenberg argues convincingly that...",
+      "subordinateClauses": [
+        "宾语从句: that public health advocates ought to take a page from advertisers",
+        "后置定语: so skilled at applying peer pressure (形容词短语修饰 advertisers，表原因特征)"
+      ],
+      "corePattern": "argue convincingly that / ought to / take a page from / skilled at"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "But on the general effectiveness of the social cure, Rosenberg is less persuasive.",
+    "translation": "但在社会疗法的总体成效问题上，罗森伯格的论证就没那么有说服力了。",
+    "syntaxAnalysis": {
+      "structureType": "转折主系表简单句 (介词状语前置)",
+      "mainClause": "Rosenberg is less persuasive",
+      "subordinateClauses": [
+        "介词状语: on the general effectiveness of the social cure"
+      ],
+      "corePattern": "general effectiveness / less persuasive"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Join The Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+    "translation": "《加入俱乐部》一书充斥着过多无关细节，却没有充分探讨那些使同辈压力如此强大的社会和生物因素。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (并列介词宾语 + 定语从句)",
+      "mainClause": "Join The Club is filled with too much irrelevant detail and not enough exploration...",
+      "subordinateClauses": [
+        "定语从句: that make peer pressure so powerful (修饰 factors)"
+      ],
+      "corePattern": "be filled with / irrelevant detail / not enough exploration of / biological factors"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long.",
+    "translation": "书中所呈现的社会疗法最明显的缺陷是：它的效果既不算好，也维持不了多久。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (方式状语插入 + 表语从句)",
+      "mainClause": "The most glaring flaw of the social cure is that it doesn't work very well for very long",
+      "subordinateClauses": [
+        "插入方式从句: as it's presented here",
+        "表语从句: that it doesn't work very well for very long"
+      ],
+      "corePattern": "glaring flaw / work very well for very long"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "Rage Against the Haze failed once state funding was cut.",
+    "translation": "“对抗烟雾”一旦州政府停止拨款便宣告失败。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (once引导条件/时间状语从句)",
+      "mainClause": "Rage Against the Haze failed",
+      "subordinateClauses": [
+        "时间/条件从句: once state funding was cut"
+      ],
+      "corePattern": "failed once state funding was cut"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P4-S5",
+      "pIndex": 4
+    },
+    "text": "Evidence that the LoveLife program produces lasting changes is limited and mixed.",
+    "translation": "能证明“关爱生命”项目带来持久改变的证据既有限，又不一致。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (同位语从句 + 主系表)",
+      "mainClause": "Evidence is limited and mixed",
+      "subordinateClauses": [
+        "同位语从句: that the LoveLife program produces lasting changes (解释 Evidence)"
+      ],
+      "corePattern": "Evidence that ... is limited and mixed / lasting changes"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "There's no doubt that our peer groups exert enormous influence on our behavior.",
+    "translation": "毫无疑问，我们所处的同龄人群体对我们的行为有着巨大影响。",
+    "syntaxAnalysis": {
+      "structureType": "固定句型 + 同位语从句",
+      "mainClause": "There's no doubt",
+      "subordinateClauses": [
+        "同位语从句: that our peer groups exert enormous influence on our behavior"
+      ],
+      "corePattern": "There's no doubt that / exert enormous influence on"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "An emerging body of research shows that positive health habits —as well as negative ones —spread through networks of friends via social communication.",
+    "translation": "新兴的研究表明，健康的习惯——以及不健康的习惯——都会通过社交往来在朋友网络中传播。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (宾语从句 + 插入比较短语 + 方式状语)",
+      "mainClause": "An emerging body of research shows that positive health habits spread through networks of friends via social communication",
+      "subordinateClauses": [
+        "插入语: as well as negative ones",
+        "宾语从句: that positive health habits spread through networks of friends via social communication"
+      ],
+      "corePattern": "emerging body of research / spread through networks via"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+    "translation": "这是一种潜移默化的同辈压力：我们会不自觉地模仿自己每天看到的行为。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 + 冒号解释从句 + 省略关系代词定语从句",
+      "mainClause": "This is a subtle form of peer pressure",
+      "subordinateClauses": [
+        "冒号后主句: we unconsciously imitate the behavior",
+        "定语从句: (that/which) we see every day (修饰 behavior)"
+      ],
+      "corePattern": "subtle form of / unconsciously imitate"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions.",
+    "translation": "然而，专家和官员在多大程度上能够挑选我们的同龄人群体、并把他们的活动引向良善的方向，就远没有那么确定了。",
+    "syntaxAnalysis": {
+      "structureType": "倒装复合句 (表语置于句首以示强调 + 主语从句后置)",
+      "mainClause": "How successfully experts and bureaucrats can select... and steer... is far less certain (正常语序)",
+      "subordinateClauses": [
+        "主语从句: how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions"
+      ],
+      "corePattern": "Far less certain is how ... / select peer groups / steer in virtuous directions"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "It's like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates.",
+    "translation": "这就好比老师把后排的捣蛋鬼拆开，让他们分别和表现较好的同学同桌。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 (定语从句 + 方式状语)",
+      "mainClause": "It's like the teacher",
+      "subordinateClauses": [
+        "定语从句: who breaks up the troublemakers in the back row by pairing them with better-behaved classmates (修饰 teacher)"
+      ],
+      "corePattern": "break up troublemakers / pair A with B"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "The tactic never really works.",
+    "translation": "这种做法从来就没真正奏效过。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (主谓结构)",
+      "mainClause": "The tactic never really works",
+      "subordinateClauses": [],
+      "corePattern": "tactic never really works"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P6-S4",
+      "pIndex": 6
+    },
+    "text": "And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+    "translation": "这也正是由外部人为设计的社会疗法的问题所在：在现实生活中，就像在学校里一样，我们坚持要自己选择朋友。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 (过去分词后置定语 + 冒号解释 + 比较插入语)",
+      "mainClause": "that's the problem with a social cure engineered from the outside",
+      "subordinateClauses": [
+        "后置定语: engineered from the outside (修饰 social cure)",
+        "冒号后独立分句: in the real world, as in school, we insist on choosing our own friends"
+      ],
+      "corePattern": "the problem with / engineered from the outside / insist on doing"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  }
+]

@@ -1,0 +1,964 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "Robert F. Kennedy is cited because he",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "praised the UK for its GDP.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【张冠李戴】肯尼迪是美国历史人物，其名言是对GDP指标本身的哲学批判，绝非专门赞扬英国的GDP。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "identified GDP with happiness.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】肯尼迪的原话是GDP衡量了一切唯独除了让生命有价值的事物（except that which makes life worthwhile），正是批判其无法代表幸福，而非将其等同于幸福。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "identified",
+            "ipa": "",
+            "meaning": "认为…等同于",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "misinterpreted the role of GDP.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【曲解文意】作者全文都在借肯尼迪之言阐述GDP的局限，肯定其洞察深刻，并未认为他误解了GDP的作用。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2",
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "misinterpreted",
+            "ipa": "[ˌmɪsɪnˈtɜːprət]",
+            "meaning": "误解",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "had a low opinion of GDP.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第1段第1句指出肯尼迪曾说GDP衡量了“一切，除了令人生真正有价值的东西”（measures everything except that which makes life worthwhile），说明他对GDP评价不高（had a low opinion of GDP）。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "opinion",
+            "ipa": "[əˈpɪnjən]",
+            "meaning": "评价",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "measures everything except that which makes life worthwhile": "had a low opinion of GDP"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "Kennedy",
+          "ipa": "",
+          "meaning": "[人名]罗伯特·弗朗西斯·肯尼迪",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "cited",
+          "ipa": "[saɪt]",
+          "meaning": "引用",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "It can be inferred from Paragraph 2 that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "GDP as the measure of success is widely defied in the UK.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义引申】第2段第3~4句指出：从最新指标看，英国GDP增长亮眼、失业率极低，让西方世界艳羡；然而即便有严厉警告脱欧会损害经济前景，仍有超1700万英国民众毅然投票脱离欧盟。这证明在英国民众心中，GDP亮眼并不能代表真正的社会成功与民众满意度，单纯将GDP视作衡量国家成功标准的观念在英国社会遭到了广泛的违抗与挑战（widely defied）。",
+        "refSentences": [
+          "P2-S2",
+          "P2-S3",
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "reluctant",
+            "ipa": "[rɪˈlʌktənt]",
+            "meaning": "不情愿做某事",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "economic",
+            "ipa": "[ˌiːkəˈnɒmɪk]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "pattern",
+            "ipa": "[ˈpæt(ə)n]",
+            "meaning": "模式",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "remold",
+            "ipa": "[ˌriːˈmoʊld]",
+            "meaning": "重塑",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "policymakers in the UK are paying less attention to GDP.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【观点矛盾】文中指出GDP半个世纪以来一直困扰政策制定者，且末段呼吁政策制定者转向福祉，说明英国政界过去并没有放松对GDP的死盯。",
+        "refSentences": [
+          "P2-S1",
+          "P7-S2"
+        ],
+        "vocab": [
+          {
+            "word": "defied",
+            "ipa": "",
+            "meaning": "蔑视",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the UK will contribute less to the world economy.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中仅提及英国经济增速可能放缓，并未推导或陈述英国对世界经济贡献的增减。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "contribute",
+            "ipa": "[kənˈtrɪbjuːt]",
+            "meaning": "做出贡献",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "economy",
+            "ipa": "[ɪˈkɒnəmi]",
+            "meaning": "经济",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the UK is reluctant to remold its economic pattern.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】脱欧公投反映了选民对现状与分配的不满，不能推导出英国政府不愿重塑经济模式。",
+        "refSentences": [
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "paying",
+            "ipa": "[peɪ]",
+            "meaning": "注意",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": "推理判断题",
+    "targetSentences": [
+      "P2-S2",
+      "P2-S3",
+      "P2-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "why did over 17 million people vote for Brexit, despite the warnings about economic prospects": "GDP as the measure of success is widely defied in the UK"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "D",
+          "A",
+          "C",
+          "B"
+        ],
+        "letterMapping": {
+          "A": "B"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "D",
+          "A",
+          "C",
+          "B"
+        ],
+        "letterMapping": {
+          "A": "B"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "D",
+          "A",
+          "C",
+          "B"
+        ],
+        "letterMapping": {
+          "A": "B"
+        }
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "Which of the following is true about the recent annual study?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It excludes GDP as an indicator.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反混淆】第3段第3句明确说“Rather than just focusing on GDP”，即并非‘只’关注GDP，而是结合了40多组其他指标，说明并没有完全排除（excludes）GDP。",
+        "refSentences": [
+          "P3-S3"
+        ],
+        "vocab": [
+          {
+            "word": "sponsored",
+            "ipa": "[ˈspɒnsə(r)]",
+            "meaning": "发起",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "It is sponsored by 163 countries.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【偷换概念】第3段第2句指出研究涵盖了163个国家（Across the 163 countries measured），这些国家是被测量的样本对象，而非出资赞助方（sponsored）。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "excludes",
+            "ipa": "[ɪkˈskluːd]",
+            "meaning": "不包括",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Its criteria are questionable.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【正反颠倒】作者高度赞赏该研究采用40多组多维标准从而得出了更全面综合的评估（more rounded assessment），绝非质疑其标准存疑。",
+        "refSentences": [
+          "P3-S3"
+        ],
+        "vocab": [
+          {
+            "word": "questionable",
+            "ipa": "[ˈkwestʃənəbl]",
+            "meaning": "可疑的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Its results are enlightening.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第3段第1句明确指出该项研究“sheds some light on that question”（给脱欧矛盾提供了清晰解答与启示），并在后文揭示了多维评估的重要性，因此其结果极具启发性（Its results are enlightening）。",
+        "refSentences": [
+          "P3-S1"
+        ],
+        "vocab": [
+          {
+            "word": "enlightening",
+            "ipa": "[ɪnˈlaɪtnɪŋ]",
+            "meaning": "有启发性的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "sheds some light on that question": "Its results are enlightening"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "letterMapping": {
+          "D": "D"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "letterMapping": {
+          "D": "D"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "letterMapping": {
+          "D": "D"
+        }
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "annual",
+          "ipa": "[ˈænjuəl]",
+          "meaning": "年度的",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "In the last two paragraphs, the author suggests that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the UK is preparing for an economic boom.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【观点相反】第7段首句明确提到英国及世界经济增长预测将遭受重创（sharp hit to growth），而非准备迎接经济繁荣（economic boom）。",
+        "refSentences": [
+          "P7-S1"
+        ],
+        "vocab": [
+          {
+            "word": "preparing",
+            "ipa": "[prɪˈpeə(r)]",
+            "meaning": "为.做准备",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "economic",
+            "ipa": "[ˌiːkəˈnɒmɪk]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "boom",
+            "ipa": "[buːm]",
+            "meaning": "激增",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "it is essential to consider factors beyond GDP.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第6段指出GDP不足以衡量经济活动（no longer enough），必须涵盖环境质量与教育成果等构成幸福感的因素；第7段进一步呼吁政策制定者重新将精力聚焦于提升国民福祉而非紧盯GDP数字（refocus efforts on improving well-being rather than simply worrying about GDP figures）。因此作者的核心建议是必须考量超越GDP以外的综合要素（essential to consider factors beyond GDP）。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2",
+          "P7-S2"
+        ],
+        "vocab": [
+          {
+            "word": "economic",
+            "ipa": "[ˌiːkəˈnɒmɪk]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "decline",
+            "ipa": "[dɪˈklaɪn]",
+            "meaning": "减少",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "foreshadows",
+            "ipa": "",
+            "meaning": "预示",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "high GDP foreshadows an economic decline.",
+        "isCorrect": false,
+        "distractorType": "LOGICAL_INVERSION",
+        "analysis": "【强加因果】文章批判高GDP不等于高福祉，但从未得出“高GDP预示着经济衰退”的谬论。",
+        "refSentences": [
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "essential",
+            "ipa": "[ɪˈsenʃl]",
+            "meaning": "必要的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "factors",
+            "ipa": "[ˈfæktə(r)]",
+            "meaning": "因素",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "it requires caution to handle economic issues.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【空泛干扰】作者呼吁的是重塑考核重心（转向well-being），而非泛泛要求“谨慎处理经济问题”。",
+        "refSentences": [
+          "P7-S2"
+        ],
+        "vocab": [
+          {
+            "word": "caution",
+            "ipa": "[ˈkɔːʃn]",
+            "meaning": "谨慎",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "handle",
+            "ipa": "[ˈhænd(ə)l]",
+            "meaning": "处理",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "economic",
+            "ipa": "[ˌiːkəˈnɒmɪk]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "issues",
+            "ipa": "[ˈɪʃuː]",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2",
+      "P7-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "refocus efforts on improving well-being rather than simply worrying about GDP figures": "it is essential to consider factors beyond GDP"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "B": "C"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "B": "C"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "B": "C"
+        }
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "paragraphs",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following is the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Brexit, the UK's Gateway to Well-being",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【曲解文意】脱欧是折射选民不满与GDP缺陷的背景事件，文章甚至指出脱欧导致增长放缓、日常服务可能下滑，绝非通往福祉的大门（Gateway）。",
+        "refSentences": [
+          "P1-S2",
+          "P7-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Inadequate",
+            "ipa": "[ɪnˈædɪkwət]",
+            "meaning": "不足的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Well-being",
+            "ipa": "[ˈwel biːɪŋ]",
+            "meaning": "幸福",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Robert F. Kennedy, a Terminator of GDP",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【以偏概全】肯尼迪只是文章开头借用的名人名言引子，并非全文主角，更未扮演所谓“GDP终结者”。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Global",
+            "ipa": "[ˈɡləʊb(ə)l]",
+            "meaning": "全球的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Economic",
+            "ipa": "[ˌiːkəˈnɒmɪk]",
+            "meaning": "经济的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "High GDP But Inadequate Well-being, a UK Lesson",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解主旨概括】全文通篇剖析GDP光鲜与国民幸福感严重脱节的深层矛盾，重点以英国脱欧与实证研究中转化率垫底为典型案例，并明确指出这是所有富国必须吸取的深刻教训（a lesson that rich countries can learn）。High GDP But Inadequate Well-being, a UK Lesson 精准概括了核心矛盾与关键案例，为最佳标题。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S3",
+          "P3-S2",
+          "P5-S1",
+          "P6-S1",
+          "P7-S2"
+        ],
+        "vocab": [
+          {
+            "word": "Kennedy",
+            "ipa": "",
+            "meaning": "[人名]罗伯特·弗朗西斯·肯尼迪",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "GDP Figures, a Window on Global Economic Health",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【观点相反】全文通篇强调GDP有缺陷（flawed concept / no longer enough），无法真实反映国民健康与福祉，绝非全球经济健康的透视窗口。",
+        "refSentences": [
+          "P2-S2",
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Gateway",
+            "ipa": "",
+            "meaning": "途径",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P2-S3",
+      "P3-S2",
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "UK GDP envy of Western world / poorest performers in converting growth into well-being / a lesson rich countries can learn": "High GDP But Inadequate Well-being, a UK Lesson"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "D",
+          "B",
+          "A"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "D",
+          "B",
+          "A"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "D",
+          "B",
+          "A"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  }
+]

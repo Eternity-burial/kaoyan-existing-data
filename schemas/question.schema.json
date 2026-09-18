@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KaoyanExistingQuestionRecord",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "source",
+    "articleKey",
+    "qIndex",
+    "stem",
+    "options",
+    "officialAnswer",
+    "provenance"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "kaoyan-existing-question-1.0"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["production", "rebuilt"]
+    },
+    "articleKey": {
+      "type": "string",
+      "pattern": "^ky-en1-\\d{4}-r-t\\d+$"
+    },
+    "qIndex": {
+      "type": "integer"
+    },
+    "questionNumber": {
+      "type": ["integer", "null"]
+    },
+    "stem": {
+      "type": "string"
+    },
+    "stemTranslation": {
+      "type": ["string", "null"]
+    },
+    "options": {
+      "type": ["object", "array"]
+    },
+    "officialAnswer": {
+      "type": "string"
+    },
+    "standardType": {
+      "type": ["string", "null"]
+    },
+    "type": {
+      "type": ["string", "null"]
+    },
+    "targetSentences": {
+      "type": ["array", "string", "null"]
+    },
+    "verbatimEvidence": {
+      "type": ["string", "null"]
+    },
+    "synonymMapping": {
+      "type": ["array", "object", "null"]
+    },
+    "methodologyReview": {
+      "type": ["object", "string", "null"]
+    },
+    "paperVariants": {
+      "type": ["object", "array", "null"]
+    },
+    "rawFields": {
+      "type": "object"
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["sourceLayer", "sourceFile", "year", "articleKey", "extractedAt", "contentHash"]
+    }
+  }
+}

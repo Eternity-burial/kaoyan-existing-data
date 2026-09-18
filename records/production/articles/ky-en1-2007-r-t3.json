@@ -1,0 +1,333 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2007-r-t3",
+  "year": 2007,
+  "textNumber": 3,
+  "title": "The Great Risk Shift and the Precarious Middle-Class Family",
+  "chineseTitle": "大风险转移与摇摇欲坠的美国中产家庭",
+  "topic": null,
+  "topicDomain": "经济体制与社会福利",
+  "subTopic": "大风险转移浪潮、双薪家庭防御机制的瓦解、社保与医疗改革对中产阶级的全盘甩锅",
+  "overview": null,
+  "wordCount": 427,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.2/5.0",
+  "sourcePublication": "选自 Jacob S. Hacker 著作《The Great Risk Shift: The Assault on American Jobs, Families, Health Care, and Retirement》节选",
+  "paragraphCount": 4,
+  "sentenceCount": 16,
+  "vocabularyCount": 127,
+  "phraseCount": 54,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "本文节选自耶鲁大学著名政治学与公共政策泰斗雅各布·哈克（Jacob Hacker）的经典名作《大风险转移》（The Great Risk Shift: The Assault on American Jobs, Families, Health Care, and Retirement）。在20世纪战后黄金三十年中，美国建立起由企业与联邦政府共同托底的“企业福利资本主义”社会契约——企业提供确定给付型养老金与全包医疗保险，保障了以制造业工人和单职工家庭为基石的美国中产繁荣。然而20世纪80年代起，新自由主义思潮与全球化竞争席卷全美，企业为了削减成本、政客为了推行所谓的“所有权社会”（Ownership Society），掀起了一场系统性将养老、医疗与失业风险由体制全盘转嫁给普通家庭的残酷浪潮。文章发表时正值小布什总统力推社保私有化与沃尔玛等巨头推广高免赔额健康储蓄计划的激辩关头，作者以极其犀利的笔触宣告了美国中产黄金时代的瓦解与摇摇欲坠的悬崖危机。",
+      "coreDisputeOrTheme": "文章的核心在于揭示美国现代家庭看似繁荣（双职工家庭、双份工资）背后的结构性脆弱与制度性不公：第一，双薪家庭的经济结构性悖论——数百万母亲外出工作虽然看似拉高了家庭名义总收入，但住房、托育、医疗与教育的高昂支出迅速将家庭预算锁死在两份薪水的极致上限，导致家庭彻底丧失了过去男主人失业时母亲可以外出补位的“附加劳动力效应（Added-worker effect）”缓冲垫；第二，体制性风险甩锅——小布什政府推行的社保改革试图用充满股票波动风险的个人储蓄账户替代政府兜底的固定退休金，医疗领域推行自负高额免赔的高风险健康储蓄账户，加之人口寿命延长带来的八倍赡养重负，使得中产家庭成了风险的终极接盘侠；第三，政治预警——作者尖锐警告统治阶层，所谓的“鼓励个人财务担当”实质就是政治与商业精英对中产阶级财务风险的全面大卸包袱（wholesale shift），当经济上的雪崩不可阻挡，中产选民的政治怒火必将掀起巨大的政治海啸。",
+      "keyTerminology": [
+        {
+          "term": "The Great Risk Shift",
+          "explanation": "大风险转移：美国学者雅各布·哈克提出的核心概念，指政府与企业将以往共同承担的经济、医疗与退休风险系统性甩包袱给普通家庭。"
+        },
+        {
+          "term": "Added-Worker Effect",
+          "explanation": "额外劳动力效应/备用劳动者：当家庭主要经济支柱遭遇下岗失业或重病时，原本负责照看家庭的配偶（通常为母亲）迅速投入劳动力市场以平滑家庭消费。"
+        },
+        {
+          "term": "Social Security Privatization",
+          "explanation": "美国社保私有化改革：小布什政府极力推动将确定给付型社会保障金部分转为个人投资股票市场的账户，从而将市场波动风险完全转嫁给退休个体。"
+        },
+        {
+          "term": "Health Savings Accounts (HSA)",
+          "explanation": "健康储蓄账户：一种伴随着极高免赔额（Deductibles）的医疗保险模式，看似税收优惠，实则让家庭独自承担大病前期的巨额自费与投资风险。"
+        }
+      ],
+      "crossExamLinks": [
+        {
+          "year": "2018 Text 3",
+          "theme": "零工经济与社会保障体系的脱节",
+          "relevance": "同样探讨现代社会福利网与企业责任瓦解对劳动者财务安全造成的致命冲击"
+        },
+        {
+          "year": "2014 Text 2",
+          "theme": "社会流动性与中产焦虑",
+          "relevance": "揭示当代资本主义体系下中产阶级脆弱的防御机制与坠落深渊的现实困境"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "社会保障、劳动力经济学与家庭财务风险 (Social Welfare, Labor Economics & Family Finance)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "over- (过度/在……之上)",
+          "examples": [
+            "overburdened (不堪重负的)",
+            "outlive (比……活得更长/把……耗尽)"
+          ]
+        },
+        {
+          "affix": "trans- (转变/转换)",
+          "examples": [
+            "transform (彻底改变)",
+            "trade... for... (用……换取……)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "家庭财务与抗风险机制",
+          "words": [
+            "pink slip",
+            "spouse",
+            "solidly",
+            "budget",
+            "parachute",
+            "setback",
+            "added-worker effect",
+            "weather bad times"
+          ]
+        },
+        {
+          "theme": "社会保障与风险转嫁",
+          "words": [
+            "absorb risk",
+            "outlive retirement money",
+            "guaranteed payments",
+            "deductibles",
+            "wholesale shift",
+            "overburdened"
+          ]
+        },
+        {
+          "theme": "危机爆发与连锁反应",
+          "words": [
+            "fallout",
+            "demographics",
+            "attendant need",
+            "vulnerable",
+            "on the cliff"
+          ]
+        }
+      ]
+    },
+    "nuancesAndConfusions": {
+      "familiarWordUncommonMeanings": [
+        {
+          "word": "fair",
+          "location": "P1 L2",
+          "familiarMeaning": "晴朗的；相当大的",
+          "examMeaning": "公平的；公正的",
+          "contextCollocation": "fair play"
+        },
+        {
+          "word": "stripe",
+          "location": "P2 L2",
+          "familiarMeaning": "条纹",
+          "examMeaning": "类型；派别",
+          "contextCollocation": "critics of all stripes"
+        },
+        {
+          "word": "budget",
+          "location": "P2 L4",
+          "familiarMeaning": "预算",
+          "examMeaning": "安排预算；按预算花到极限",
+          "contextCollocation": "have budgeted to the limits"
+        },
+        {
+          "word": "parachute",
+          "location": "P2 L5",
+          "familiarMeaning": "降落伞",
+          "examMeaning": "保护伞；缓冲机制",
+          "contextCollocation": "lost the parachute"
+        },
+        {
+          "word": "weather",
+          "location": "P2 L9",
+          "familiarMeaning": "天气",
+          "examMeaning": "经受住；渡过",
+          "contextCollocation": "weather bad times"
+        },
+        {
+          "word": "fortune",
+          "location": "P2 L9",
+          "familiarMeaning": "财富；运气",
+          "examMeaning": "境况；命运；兴衰",
+          "contextCollocation": "family fortunes"
+        },
+        {
+          "word": "otherwise",
+          "location": "P2 L10",
+          "familiarMeaning": "否则",
+          "examMeaning": "原本；在其他情况下",
+          "contextCollocation": "otherwise-stay-at-home partner"
+        },
+        {
+          "word": "absorb",
+          "location": "P3 L1",
+          "familiarMeaning": "吸收；理解",
+          "examMeaning": "承担；承受",
+          "contextCollocation": "absorb much more risk"
+        },
+        {
+          "word": "outlive",
+          "location": "P3 L4",
+          "familiarMeaning": "比某人活得久",
+          "examMeaning": "持续时间超过某物；耗尽前仍存活",
+          "contextCollocation": "outlive retirement money"
+        },
+        {
+          "word": "trade",
+          "location": "P3 L6",
+          "familiarMeaning": "贸易；交易",
+          "examMeaning": "用 A 换 B；交换",
+          "contextCollocation": "trading guaranteed payments for..."
+        },
+        {
+          "word": "return",
+          "location": "P3 L7",
+          "familiarMeaning": "返回",
+          "examMeaning": "投资收益；回报",
+          "contextCollocation": "investment returns"
+        },
+        {
+          "word": "picture",
+          "location": "P3 L7",
+          "familiarMeaning": "图画；照片",
+          "examMeaning": "情况；局面",
+          "contextCollocation": "the picture is not any better"
+        },
+        {
+          "word": "deductible",
+          "location": "P3 L10",
+          "familiarMeaning": "可扣除的",
+          "examMeaning": "保险免赔额",
+          "contextCollocation": "much higher deductibles"
+        },
+        {
+          "word": "dose",
+          "location": "P3 L10",
+          "familiarMeaning": "药剂；剂量",
+          "examMeaning": "一份；一定量",
+          "contextCollocation": "a large new dose of risk"
+        },
+        {
+          "word": "odds",
+          "location": "P3 L12",
+          "familiarMeaning": "赔率；奇数（易误）",
+          "examMeaning": "可能性；概率",
+          "contextCollocation": "the odds of having..."
+        },
+        {
+          "word": "attendant",
+          "location": "P3 L12",
+          "familiarMeaning": "服务员；随从",
+          "examMeaning": "伴随的；随之而来的",
+          "contextCollocation": "attendant need"
+        },
+        {
+          "word": "wholesale",
+          "location": "P4 L3",
+          "familiarMeaning": "批发的",
+          "examMeaning": "大规模的；彻底的",
+          "contextCollocation": "wholesale shift"
+        },
+        {
+          "word": "fallout",
+          "location": "P4 L4",
+          "familiarMeaning": "核尘埃",
+          "examMeaning": "负面后果；余波",
+          "contextCollocation": "financial / political fallout"
+        },
+        {
+          "word": "stock",
+          "location": "P3 L3",
+          "familiarMeaning": "库存；储备",
+          "examMeaning": "股票",
+          "contextCollocation": "stock market fluctuation"
+        },
+        {
+          "word": "count on",
+          "location": "P1 L1-L2",
+          "familiarMeaning": "数数；计算",
+          "examMeaning": "依靠；指望",
+          "contextCollocation": "could count on hard work and fair play"
+        },
+        {
+          "word": "reduce",
+          "location": "P1 L4",
+          "familiarMeaning": "减少数量",
+          "examMeaning": "使降级；使陷入某种状态",
+          "contextCollocation": "reduce a family from... to..."
+        },
+        {
+          "word": "campaign",
+          "location": "P3 L5",
+          "familiarMeaning": "竞选；战役",
+          "examMeaning": "努力推动；开展运动",
+          "contextCollocation": "campaigned to move Social Security"
+        },
+        {
+          "word": "exercise",
+          "location": "P4 L2",
+          "familiarMeaning": "锻炼",
+          "examMeaning": "履行；行使；运用",
+          "contextCollocation": "exercise financial responsibility"
+        }
+      ],
+      "confusingWordPairs": [
+        {
+          "pair": "fair play / justice / equality",
+          "analysis": "fair play 强调规则中的公平竞争；justice 偏“正义、公正”；equality 偏“平等”。"
+        },
+        {
+          "pair": "spouse / husband / wife / partner",
+          "analysis": "spouse 是正式统称“配偶”；husband/wife 分别指丈夫/妻子；partner 范围更宽，可指伴侣或合作伙伴。"
+        },
+        {
+          "pair": "debate / discuss / argue",
+          "analysis": "debate 常指围绕争议问题正式讨论；discuss 泛指讨论；argue 更强调争辩或提出理由。"
+        },
+        {
+          "pair": "parachute / safety net / back-up earner",
+          "analysis": "parachute 是比喻性“保护伞”；safety net 是保障机制；back-up earner 是具体的备用收入者。"
+        },
+        {
+          "pair": "lay off / fire / dismiss",
+          "analysis": "lay off 多因经济或组织原因裁员；fire 更口语，表示解雇；dismiss 较正式。"
+        },
+        {
+          "pair": "demographics / demonstrate",
+          "analysis": "demographics 是“人口结构/人口统计因素”；demonstrate 是“证明、展示、示威”，形近但意义无关。"
+        },
+        {
+          "pair": "attendant / attend / attendance / attention",
+          "analysis": "attendant 作形容词是“伴随的”，作名词是“服务员/随从”；attend 是出席或照顾；attendance 是出勤；attention 是注意力。"
+        },
+        {
+          "pair": "return / pension / payment",
+          "analysis": "return 在投资语境中是“收益”；pension 是养老金；payment 是付款或支付款项。"
+        },
+        {
+          "pair": "compensate for / make up for / offset",
+          "analysis": "compensate for 较正式，强调补偿损失；make up for 更常用，强调弥补不足；offset 强调抵消影响。"
+        },
+        {
+          "pair": "indicator / sign / evidence",
+          "analysis": "indicator 偏“指标/显示信号”；sign 更普通，指迹象；evidence 强调证据。"
+        },
+        {
+          "pair": "on the cliff / on the alert / in ruins",
+          "analysis": "on the cliff 比喻处于危险边缘；on the alert 是保持警惕；in ruins 是已经毁坏，程度过重。"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2007.js",
+    "year": 2007,
+    "articleKey": "ky-en1-2007-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+  }
+}

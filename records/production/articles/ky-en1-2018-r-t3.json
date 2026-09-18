@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2018-r-t3",
+  "year": 2018,
+  "textNumber": 3,
+  "title": "NHS and DeepMind: The Battle over Medical Big Data and Privacy",
+  "chineseTitle": "英国国家医疗体系与DeepMind大数据合作及隐私监管困局",
+  "topic": "生命健康与人工智能 / 医疗大数据确权、患者隐私合规与科技巨头数据垄断",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文聚焦于英国国家医疗服务体系（NHS）下属皇家自由医院与谷歌旗下人工智能巨头DeepMind之间关于患者数据共享的激烈风波。英国信息专员伊丽莎白·德纳姆发布严厉裁决，谴责医院在缺乏明确法律基础和充分知情同意的情况下，将160万患者的敏感医疗记录移交给DeepMind。文章深入剖析指出，虽然双方初衷良好且医疗AI潜力巨大，但公众对隐私侵犯的担忧完全合理。更深层次的危机在于：数据本身的价值源于汇聚与机器学习处理，而少数科技巨头正通过垄断核心算法和专有医疗数据，形成类似‘数字封建制’（digital feudalism）的新型垄断格局。文章呼吁建立透明的数据归属与监管框架，确保生命健康革命造福全社会而非沦为科技寡头的私有资本。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 4,
+  "sentenceCount": 21,
+  "vocabularyCount": 30,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 1,
+        "sentenceId": "P1-S1",
+        "english": "Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well.",
+        "chinese": "任何对英国国民医疗服务体系（NHS）与DeepMind之间交易危险性的客观评估，都必须首先承认双方用意良好。",
+        "structureType": "主谓宾复合句 + 多重后置介词定语 + that引导的宾语从句",
+        "mainClause": "Any fair-minded assessment must start by acknowledging...",
+        "modifiers": "of the dangers of the deal between... 为三重递进介词短语作 assessment 的后置定语；by acknowledging... 为方式状语；that both sides mean well 为 that 引导的宾语从句作 acknowledging 的宾语。",
+        "corePattern": "fair-minded assessment（客观公正的评估）；start by doing sth.（以做某事为开端/首先……）；mean well（本意是好的/出于善意）。"
+      },
+      {
+        "sentenceIndex": 3,
+        "sentenceId": "P1-S3",
+        "english": "Its potential in healthcare is enormous, but so is its power to bring about power asymmetry in a private company's favour.",
+        "chinese": "它在医疗健康领域的潜力是巨大的，但它为一家私营公司带来偏向自身的权力不对称的实力同样巨大。",
+        "structureType": "but连接的转折并列句 + so引起的部分倒装句",
+        "mainClause": "Its potential in healthcare is enormous, but so is its power...",
+        "modifiers": "Its potential in healthcare 为前分句主语，is enormous 为系表结构；so is its power 为倒装结构，so 代替表语 enormous；to bring about power asymmetry 为不定式作 power 的后置定语；in a private company's favour 为介词短语作方式状语。",
+        "corePattern": "so + be动词 + 主语（某事物也同样如此）；bring about（引起/导致）；in one's favour（偏向某人/对某人有利）。"
+      },
+      {
+        "sentenceIndex": 4,
+        "sentenceId": "P1-S4",
+        "english": "It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy.",
+        "chinese": "正是在这种背景下，英国信息专员伊丽莎白·德纳姆发布了对NHS下属皇家自由医院信托的严厉裁决：该医院在2015年基于一份含糊的协议将160万名患者的病历移交给了DeepMind，而该协议几乎未曾考虑患者的权利以及他们对隐私的期望。",
+        "structureType": "强调句型（It is... that...） + 同位语 + 限制与非限制性双重定语从句",
+        "mainClause": "It is against that background that the information commissioner has issued her damning verdict...",
+        "modifiers": "It is... that... 强调状语 against that background；Elizabeth Denham 作 commissioner 的同位语；against the Royal Free hospital trust 作 verdict 的后置定语；which handed over... 为非限制性定语从句修饰 hospital trust；handed over... 后面接介词短语 on the basis of a vague agreement；其后 which took far too little account of... 为限制性定语从句修饰 agreement。",
+        "corePattern": "issue a damning verdict against sb.（对某方作出严厉裁决）；hand over records to sb.（向某人移交档案）；take account of（考虑/顾及）。"
+      },
+      {
+        "sentenceIndex": 6,
+        "sentenceId": "P2-S2",
+        "english": "Further arrangements — and there may be many — between the NHS and DeepMind will be carefully scrutinized to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned.",
+        "chinese": "NHS与DeepMind之间进一步的安排——安排可能会有很多——将会受到仔细审查，以确保已经征得了患者的所有必要许可，并且清理了所有不必要的数据。",
+        "structureType": "主谓补复合结构 + 双破折号独立插入句 + to ensure引导的目的状语从句",
+        "mainClause": "Further arrangements between the NHS and DeepMind will be carefully scrutinized...",
+        "modifiers": "there may be many 为插入语表达对合作广泛性的补充；between the NHS and DeepMind 作 arrangements 的后置定语；to ensure that... 为动词不定式引导目的状语；that 引导两个并列宾语从句：all necessary permissions have been asked of patients 与 all unnecessary data has been cleaned。",
+        "corePattern": "scrutinize carefully（仔细审查）；ensure that（确保……）；ask sth. of sb.（向某人要求/征得某物）。"
+      },
+      {
+        "sentenceIndex": 10,
+        "sentenceId": "P2-S6",
+        "english": "That distinction misses the point: what matters about data is not the individual elements of it, but the aggregation and the machine learning; what is valuable is what is done to it.",
+        "chinese": "但这种区分没有抓住要领：数据的关键不在于其独立的个体要素，而在于汇聚与机器学习；有价值的是对数据所进行的处理。",
+        "structureType": "主谓宾复合句 + 冒号同位阐述 + not... but...对偶结构 + 两个what主语从句",
+        "mainClause": "That distinction misses the point: what matters is not A, but B; what is valuable is C.",
+        "modifiers": "That distinction 作主语，misses the point 为谓语短语；冒号后分句展开论述：第一个 what matters about data 为 what 引导的主语从句，表语由 not... but... 结构连接；分号后 what is valuable 为第二个主语从句，what is done to it 为 what 引导的表语从句。",
+        "corePattern": "miss the point（未抓住核心要领）；what matters is not A but B（关键不在于A而在于B）；what is done to it（对它进行了怎样的加工处理）。"
+      },
+      {
+        "sentenceIndex": 14,
+        "sentenceId": "P3-S4",
+        "english": "The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+        "chinese": "在监控经济中，只有与数以百万计的更多数据进行对比时，个人数据才能获得其价值。",
+        "structureType": "主谓宾句型 + only when引导的条件/时间状语从句 + 比较结构",
+        "mainClause": "The data of an individual gains its value...",
+        "modifiers": "of an individual 和 there（在监控经济语境中）作 data 的限定状语；only when 引导限制性状语从句，从句中 it 代指 data，is compared with 为被动谓语；with the data of countless millions more 作比较对象状语。",
+        "corePattern": "gain its value（获得其价值）；only when...（只有在……时才……）；be compared with（与……相比较）。"
+      },
+      {
+        "sentenceIndex": 18,
+        "sentenceId": "P4-S4",
+        "english": "What matters is that they will belong to a private monopoly which developed them using public resources.",
+        "chinese": "关键在于，这些算法将属于一家利用公共资源开发了它们的私营垄断企业。",
+        "structureType": "主系表复合句（what主语从句 + that表语从句 + which定语从句 + 现在分词伴随状语）",
+        "mainClause": "What matters is that they will belong to a private monopoly...",
+        "modifiers": "What matters 为 what 引导的主语从句；that 引导表语从句；which 引导定语从句修饰 private monopoly；using public resources 为现在分词短语作方式/伴随状语修饰 developed。",
+        "corePattern": "What matters is that...（关键问题在于……）；belong to（归属于）；private monopoly（私营垄断集团）。"
+      },
+      {
+        "sentenceIndex": 21,
+        "sentenceId": "P4-S7",
+        "english": "A long struggle will be needed to avoid a future of digital feudalism. Ms Denham's report is a welcome start.",
+        "chinese": "要避免数字封建主义的未来，还需要进行漫长的斗争。德纳姆女士的报告是一个令人欣慰的开端。",
+        "structureType": "被动语态主谓句 + 不定式目的状语 + 主系表承接句",
+        "mainClause": "A long struggle will be needed to avoid a future of digital feudalism.",
+        "modifiers": "will be needed 为被动谓语；to avoid a future of digital feudalism 为动词不定式作目的状语；后句 Ms Denham's report 为主语，is 为系动词，a welcome start 为表语。",
+        "corePattern": "a struggle is needed to do sth.（需要付出长期斗争以做到某事）；digital feudalism（数字封建主义垄断）；a welcome start（令人欢迎的良好开局）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2018.js",
+    "year": 2018,
+    "articleKey": "ky-en1-2018-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+  }
+}

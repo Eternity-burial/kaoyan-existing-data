@@ -1,0 +1,578 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "Romans buried the nails probably for the sake of",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "saving them for future use.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偷换动机】罗马人是败退撤离苏格兰且深埋近两千年，非留作日后自用。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "keeping them from rusting.",
+        "isCorrect": false,
+        "distractorType": "无中生有防锈",
+        "analysis": "【干扰特征: 荒谬错误】深埋泥土砾石中无法防锈，核心目的是防敌人抢夺。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "letting them grow in value.",
+        "isCorrect": false,
+        "distractorType": "无中生有增值",
+        "analysis": "【干扰特征: 商业化偏差】古罗马撤军是纯军事防御考量，非为了铁钉升值囤积居奇。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "hiding them from the locals.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 明确揭示罗马人深埋铁钉的深层目的：'The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians getting their hands on 10 tons of weapons grade iron'（当时撤退仓促，他们不希望当地喀里多尼亚人染指获取这10吨武器级铁原料）。didn't want local Caledonians getting their hands on iron 与 hiding them from locals（向当地人隐匿藏匿这批铁钉）完全同义对应。D选项精准吻合。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节目的题",
+    "targetSentences": [
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "didn't want the local Caledonians getting their hands on iron = hiding them from locals。",
+      "methodSummary": "动机原句直接提取：didn't want locals to get hands on 转换为 hiding from locals。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Romans buried the nails",
+        "for the sake of"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "The example of early 17th-century Virginians is used to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "highlight the thriftiness of early American colonists.",
+        "isCorrect": false,
+        "distractorType": "字面生活偏差",
+        "analysis": "【干扰特征: 概念偏差】烧毁整栋房屋并非为了单纯赞美勤俭节约美德，而是说明铁钉远比房屋贵重。",
+        "refSentences": [
+          "P3-S2",
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "illustrate the high status of blacksmiths in that period.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】P3-S1 强调铁匠的‘手工劳动价值’极高，非铁匠的‘社会政治地位’高。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "contrast the attitudes of different civilisations towards nails.",
+        "isCorrect": false,
+        "distractorType": "无中生有对比",
+        "analysis": "【干扰特征: 概念偏差】未对比不同文明对铁钉态度的差异，重点在于强调铁钉本身的昂贵价值。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "show the preciousness of nail-making technology at that time.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P3-S2 叙述烧房取钉的案例，P3-S3 紧接着点明例证的论证目的：'The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was'（烧毁整座房屋只为回收铁钉，深刻印证了这项表面简单的技术在当年是多么稀缺、昂贵和宝贵）。D选项 show the preciousness of nail-making technology at that time（展现制钉技术在当时的极其珍贵）完全精准吻合论点。",
+        "refSentences": [
+          "P3-S2",
+          "P3-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2",
+      "P3-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "burn down house to reclaim nails underlines how scarce, costly and valuable simple technology was = show the preciousness of nail-making technology at that time。",
+      "methodSummary": "例证题后句论点提取法：抓准 underlines how scarce, costly and valuable technology was 转换为 show preciousness of technology。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "example of early 17th-century Virginians",
+        "used to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "What played the major role in lowering the price of nails after the late 1700s?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Increased productivity.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S2 明确指出降价的最主要功劳来源：'although falling price was driven partly by cheaper iron and energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails'（绝大部分功劳属于制钉商，他们找到了更高效将钢材制成钉子的方法）。more efficient ways（更高效的生产方式）与 Increased productivity（生产率的大幅提高）完全同义对应。A选项精准吻合。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Wider use of new energies.",
+        "isCorrect": false,
+        "distractorType": "次要次级因素",
+        "analysis": "【干扰特征: 次要因素】能源降价仅是部分驱动因素（partly driven），非主要作用（most of the credit）。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Fiercer market competition.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及市场激烈竞争。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Reduced cost of raw materials.",
+        "isCorrect": false,
+        "distractorType": "次要次级因素",
+        "analysis": "【干扰特征: 次要因素】原材料降价（cheaper iron）仅是次要原因（partly），非最核心的主要功臣。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节原因题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "most of credit goes to manufacturers found more efficient ways to turn steel into nails = Increased productivity。",
+      "methodSummary": "主次因素识别法：排除 partly driven 的原料和能源，抓准 most of credit 对应的 Increased productivity。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "major role",
+        "lowering price of nails after late 1700s"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "It can be learned from Paragraph 5 that nails",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "have undergone many technological improvements.",
+        "isCorrect": false,
+        "distractorType": "偷换段落重点",
+        "analysis": "【干扰特征: 偷换重点】第4段讲制造效率提高，第5段重心专讲铁钉产品形态本身两千年来基本未变。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "have remained basically the same since Roman times.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确阐明铁钉的恒定特征：'Sichel studied them because they haven't changed much... Roman nails are still clearly nails'（西歇尔研究铁钉是因为它们没怎么变过，两千年前的罗马铁钉依然清晰可辨就是铁钉）。haven't changed much 与 have remained basically the same since Roman times（自罗马时代以来基本保持不变）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "are less studied than other everyday products.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】铁钉由于两千年来形态恒定，反而最适合被经济学者用来作为跨世纪价格追踪的研究对象。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "are one of the world's most significant inventions.",
+        "isCorrect": false,
+        "distractorType": "夸大修饰",
+        "analysis": "【干扰特征: 过度拔高】文章强调其作为日常廉价物品的研究代表性，非单列其为最伟大发明。",
+        "refSentences": [
+          "P5-S1",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "they haven't changed much... Roman nails are still clearly nails = have remained basically the same since Roman times。",
+      "methodSummary": "原句同义转述：haven't changed much 转换为 remained basically the same。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 5",
+        "nails"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Which of the following best summarizes the last 2 paragraphs?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cheap technologies bring about revolutionary change.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全篇主旨高度提炼】P6-S1 和 P7-S1、P7-S2 明确得出贯穿全篇的核心哲理结论：'it's the cheap technologies that change the world. The Gutenberg printing press transformed civilisation by changing its cost... Solar panels transforming global energy system after becoming cheap'（真正改变世界的是廉价技术；印刷机通过大幅降低成本重塑文明，太阳能板因成本低廉正在重塑全球能源）。A选项 cheap technologies bring about revolutionary change（廉价技术带来革命性巨变）精准、周延且有力地统领了最后两段的全部论述与实证案例。",
+        "refSentences": [
+          "P6-S1",
+          "P7-S1",
+          "P7-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Technological innovation is integral to economic success.",
+        "isCorrect": false,
+        "distractorType": "泛化泛指",
+        "analysis": "【干扰特征: 空泛套话】遗漏了贯穿最后两段最核心的限定词‘廉价’（cheap/cost collapse）。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Technology defines people's understanding of the world.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偏离主旨】文章讨论的是廉价技术重塑人类社会与工业体系，非改变人对世界的哲学认知。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Sophisticated technologies develop from small inventions.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】作者尖锐指出高大上技术（sophisticated technologies）往往只是空有炒作噱头，真正发力的是普及廉价发明。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "主旨总结题",
+    "targetSentences": [
+      "P6-S1",
+      "P7-S1",
+      "P7-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "it's the cheap technologies that change the world + printing press cost collapse + solar panels cheap = cheap technologies bring about revolutionary change。",
+      "methodSummary": "末段主旨升华题：抓准反复强调的核心命题 cheap technologies change the world，直接锁定 A。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "best summarizes the last 2 paragraphs"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  }
+]

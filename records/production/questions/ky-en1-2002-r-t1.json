@@ -1,0 +1,422 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "To make your humor work, you should\\_\\_\\_\\_\\_.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "take advantage of different kinds of audience",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 A 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "make fun of the disorganized people",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "address different problems to different people",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "show sympathy for your listeners",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 21 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "make",
+        "your",
+        "humor"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "The joke about doctors implies that, in the eyes of nurses, they are_____.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "impolite to new arrivals",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "very conscious of their godlike role",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "entitled to some privileges",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "very busy even during lunch hours",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 22 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "joke",
+        "about",
+        "doctors"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "It can be inferred from the text that public services\\_\\_\\_\\_\\_.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "have benefited many people",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 过度推断】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "are the focus of public attention",
+        "isCorrect": false,
+        "distractorType": "绝对化词汇",
+        "analysis": "【干扰特征: 绝对化词汇】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "are an inappropriate subject for humor",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "have often been the laughing stock",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "词义句意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 23 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "inferred",
+        "from",
+        "text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "To achieve the desired result, humorous stories should be delivered_____.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "in well-worded language",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 A 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "as awkwardly as possible",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "in exaggerated statements",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 C 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "as casually as possible",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 以偏概全】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 24 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "achieve",
+        "desired",
+        "result"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "The best title for the text may be_____.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Use Humor Effectively",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】选项 A 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Various Kinds of Humor",
+        "isCorrect": false,
+        "distractorType": "正反混淆",
+        "analysis": "【干扰特征: 正反混淆】选项 B 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Add Humor to Speech",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】选项 C 严格遵循题干定位句的核心事实逻辑，通过同义表达精准契合原文论断。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Different Humor Strategies",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】选项 D 违背原文细节，存在明显的逻辑偏差或概念偷换。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "第 25 题重点考查定位句与选项之间的同义替换精准度，注意排除干扰项的干扰特征。",
+      "methodSummary": "细节题直选与排除法则：抓准题干核心关键词快速定位，对比定位句语义，排除无中生有与偷换概念选项。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "best",
+        "title",
+        "text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  }
+]

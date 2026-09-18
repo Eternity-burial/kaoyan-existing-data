@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2018-r-t1",
+  "year": 2018,
+  "textNumber": 1,
+  "title": "Automation and the Threat to the Middle Class",
+  "chineseTitle": "自动化冲击与中产阶级就业危机及政策应对",
+  "topic": "科技与社会经济 / 机器人与人工智能自动化、中产白领就业替代与公共政策干预",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文深入探讨了机器人与人工智能技术发展对美国中产阶级就业所构成的严重威胁。不同于以往工业革命主要取代体力劳动，现代自动化正大举渗透卡车运输、财务咨询、软件工程等传统白领领域。作者指出，尽管从长远看技术进步可能带来生产力飞跃并创造新工种，但转型期的剧烈阵痛绝不容忽视。作者呼吁政府从教育体制改革（培养创造力与人机协同能力）、激发创业创新活力、调整税制（削减低薪劳工税收并扩大补贴）等四方面积极介入，以避免贫富鸿沟进一步加剧。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 7,
+  "sentenceCount": 26,
+  "vocabularyCount": 39,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 1,
+        "sentenceId": "P1-S1",
+        "english": "Among the annoying challenges facing the middle class is one that will probably go unmentioned in the next presidential campaign: What happens when the robots come for their jobs?",
+        "chinese": "中产阶级面临的恼人挑战中，有一项在下届总统大选中可能完全不被提及：当机器人来抢夺他们的工作时，会发生什么？",
+        "structureType": "介词短语提前引起的完全倒装句 + 定语从句 + 冒号同位阐释",
+        "mainClause": "one is among the annoying challenges...",
+        "modifiers": "Among the annoying challenges 为介词短语提前作表语，其后 facing the middle class 为现在分词短语作后置定语；is 为系动词；one 为主语；that 引导限制性定语从句修饰 one；冒号后为疑问句作同位语，包含 when 引导的时间状语从句。",
+        "corePattern": "Among... is one that...（在……之中有一项……）；come for sth.（前来索取/掠夺某物）。"
+      },
+      {
+        "sentenceIndex": 3,
+        "sentenceId": "P2-S2",
+        "english": "About half of U.S. jobs are at high risk of being automated, according to a University of Oxford study, with the middle class disproportionately squeezed.",
+        "chinese": "牛津大学的一项研究显示，美国大约半数的工作岗位面临被自动化的极高风险，其中中产阶级受到的挤压尤为严重。",
+        "structureType": "主谓宾补复合结构 + 独立介词短语插入 + with复合结构",
+        "mainClause": "About half of U.S. jobs are at high risk of being automated...",
+        "modifiers": "according to... 为介词短语作插入语表明出处；with the middle class disproportionately squeezed 为 with + 名词 + 过去分词构成的伴随独立主格结构，表补充说明伴随状态。",
+        "corePattern": "be at high risk of doing sth.（面临做某事的高风险）；with + sb./sth. + done（随着/伴随着……被……）。"
+      },
+      {
+        "sentenceIndex": 8,
+        "sentenceId": "P3-S3",
+        "english": "The Industrial Revolution didn't go so well for Luddites whose jobs were displaced by mechanized looms, but it eventually raised living standards and created more jobs than it destroyed.",
+        "chinese": "工业革命对那些工作被机械织机所取代的卢德分子来说并不美好，但它最终提高了生活水平，所创造的就业岗位也超过了其摧毁的数量。",
+        "structureType": "but连接的转折并列句 + 定语从句 + 比较从句",
+        "mainClause": "The Industrial Revolution didn't go so well..., but it eventually raised... and created more jobs...",
+        "modifiers": "whose 引导限制性定语从句修饰 Luddites；转折后 it 代指 Industrial Revolution，raised 和 created 为并列谓语；than it destroyed 为 than 引导的比较状语从句。",
+        "corePattern": "go well for sb.（对某人进展顺利/有利）；displace A by B（用B替代A）；more... than...（比起……更多……）。"
+      },
+      {
+        "sentenceIndex": 12,
+        "sentenceId": "P4-S1",
+        "english": "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training.",
+        "chinese": "正如埃里克·布莱恩约弗森和安德鲁·麦卡菲在《第二次机器革命》中所主张的那样，第一步应当是重新审视教育和职业培训。",
+        "structureType": "主系表结构 + as引导的方式/非限制性定语插入从句",
+        "mainClause": "The first step should be rethinking education and job training.",
+        "modifiers": "as... argue in... 为 as 引导的插入语从句，意为“正如……所论证的”；should be 为情态系动词；rethinking 为动名词作表语。",
+        "corePattern": "as sb. argue in...（正如某人在……中所指出的那样）；rethink sth.（反思/重新审视某事物）。"
+      },
+      {
+        "sentenceIndex": 13,
+        "sentenceId": "P4-S2",
+        "english": "Curriculums — from grammar school to college — should evolve to focus less on memorizing facts and more on creativity and complex communication.",
+        "chinese": "从小学到大学的全部课程都应当进行变革，减少对死记硬背事实的关注，更多地聚焦于创造力和复杂沟通能力。",
+        "structureType": "简单句 + 双破折号插入语 + 不定式结果状语配对比结构",
+        "mainClause": "Curriculums should evolve to focus...",
+        "modifiers": "from grammar school to college 为介词短语作插入语修饰 Curriculums；to focus... 为不定式作目的/结果状语；less on... and more on... 为平行对比介词短语，作 focus 的宾语。",
+        "corePattern": "evolve to do sth.（进化/演变以做到某事）；focus less on A and more on B（减少对A的关注，多关注B）。"
+      },
+      {
+        "sentenceIndex": 18,
+        "sentenceId": "P5-S1",
+        "english": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier.",
+        "chinese": "应对自动化的严峻挑战凸显了美国重振其日渐衰退的商业活力的必要性：创办新企业必须变得更加容易。",
+        "structureType": "主谓宾复合句 + 冒号同位解释 + 动名词主语被动语态",
+        "mainClause": "The challenge underlines the need: Starting new companies must be made easier.",
+        "modifiers": "of coping with automation 为介词短语作 challenge 的后置定语；for the U.S. to revive its fading business dynamism 为动词不定式的复合结构修饰 need；冒号后 Starting new companies 为动名词作主语，must be made 为被动谓语，easier 为主语补足语。",
+        "corePattern": "cope with（应对/处理）；underline the need for sb. to do sth.（凸显某人做某事的必要性）；fading dynamism（衰退的活力）。"
+      },
+      {
+        "sentenceIndex": 23,
+        "sentenceId": "P6-S2",
+        "english": "Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded: This would boost incomes, encourage work, reward companies for job creation, and reduce inequality.",
+        "chinese": "低薪劳动的税收需要削减，同时像劳动所得税抵免这样的工资补贴应当扩大：这将提高劳动者收入、鼓励就业、奖励创造岗位的企业，并减少贫富不平等。",
+        "structureType": "and连接的并列复合句 + 冒号引出的四重并列谓语结果句",
+        "mainClause": "Taxes on low-wage labor need to be cut, and wage subsidies should be expanded...",
+        "modifiers": "such as the earned income tax credit 为介词短语作 subsidies 的举例定语；冒号后 This 指代前面的减税增补政策，boost, encourage, reward, reduce 为四个并列谓语动词，for job creation 作原因状语修饰 reward。",
+        "corePattern": "need to be done（需要被做）；reward sb. for sth.（因某事奖励某人）；reduce inequality（减少不平等）。"
+      },
+      {
+        "sentenceIndex": 24,
+        "sentenceId": "P7-S1",
+        "english": "Technology will improve society in ways big and small over the next few years, yet this will be little comfort to those who find their lives and careers upended by automation.",
+        "chinese": "在未来的几年中，科技将在各个或大或小的方面改善社会，但对那些生活和职业被自动化颠覆的人而言，这几乎起不到什么安慰作用。",
+        "structureType": "yet连接的转折并列句 + 定语从句 + 过去分词作宾补",
+        "mainClause": "Technology will improve society..., yet this will be little comfort to those...",
+        "modifiers": "in ways big and small 作方式状语；over the next few years 作时间状语；yet 表转折；little comfort 表示几乎没有安慰；those who 引导定语从句，从句中 find 的宾语为 their lives and careers，upended by automation 为过去分词短语作宾语补足语。",
+        "corePattern": "in ways big and small（在各个大小方面）；be little comfort to sb.（对某人毫无安慰作用）；find sth. upended（发现某事被彻底颠覆）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2018.js",
+    "year": 2018,
+    "articleKey": "ky-en1-2018-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+  }
+}

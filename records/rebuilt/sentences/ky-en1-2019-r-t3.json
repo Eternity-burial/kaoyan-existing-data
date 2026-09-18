@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "This year marks exactly two centuries since the publication of \"Frankenstein; or, The Modern Prometheus,\" by Mary Shelley. Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come.",
+    "translation": "今年恰逢玛丽·雪莱发表《弗兰肯斯坦——或现代普罗米修斯》整整两百年。甚至早在电灯泡被发明出来之前，这位作家就创作出了一部非凡卓绝的科幻先驱之作，提前预示了诸多将在未来前沿科技中浮现的重大伦理拷问。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Today the rapid growth of artificial intelligence (AI) raises fundamental questions: \"What is intelligence, identity, or consciousness? What makes humans humans? \"",
+    "translation": "在今天，人工智能（AI）的飞速狂飙发展再次引发了根本性的终极追问：“究竟何为智能、身份认同或意识？又是什么真正造就了人之所以为人？”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists. Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as \"Westworld\" and \"Humans.\"",
+    "translation": "所谓能够完全模仿人类思考方式的“通用人工智能”（AGI），至今仍让科学家们难以企及。然而人类依然对那些在外貌、举止和反应上酷似人类的类人机器人概念痴迷不已，正如近期在《西部世界》和《真实的人类》等热门科幻美剧中生动描摹的那样。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. \"We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\"",
+    "translation": "斯坦福大学神经科学家戴维·伊格曼指出，人类究竟是如何进行思考的，其机制至今依然过于复杂深奥以至于无法被完全理解，更遑论在机器中予以复制（far too complex to be reproduced / knowledge is too limited to reproduce）。“我们目前所处的现状是：根本没有任何成熟理论能够解释意识究竟是什么，更谈不上如何制造出一台能够达成意识的智能机器。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "But that doesn't mean crucial ethical issues involving AI aren't at hand. The coming use of autonomous vehicles, for example, poses thorny ethical questions.",
+    "translation": "但这绝不意味着涉及人工智能的重大关键伦理问题尚未迫在眉睫。例如，即将投入实际应用的自动驾驶汽车，就提出了极其棘手的尖锐伦理难题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Human drivers sometimes must make split-second decisions. Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment. AI \"vision\" today is not nearly as sophisticated as that of humans. And to anticipate every imaginable driving situation is a difficult programming problem.",
+    "translation": "人类驾驶员有时必须在千钧一发的一刹那做出生死抉择。他们的本能反应往往是瞬间条件反射、过往驾驶经验输入以及耳目所见所闻的极度复杂综合体。当今人工智能的“机器视觉”远远没有人类那样精密老练；而要在代码中提前预判每一种能够想象到的复杂突发驾驶情境，目前仍是一个极其艰巨高深的编程难题（solution is still beyond our capacity）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Whenever decisions are based on masses of data, \"you quickly get into a lot of ethical questions,\" notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI. Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines. Britain is setting up a data ethics center. India released its AI ethics strategy this spring.",
+    "translation": "只要决策是基于海量大数据做出的，“你很快就会陷入大量的伦理难题之中，”正在协助新加坡政府制定人工智能伦理自愿守则的陈杰豪指出。除新加坡外，其他多国政府与跨国科技巨头也正纷纷着手建立各自的伦理准则：英国正在筹建物联网与数据伦理中心，印度也在今年春季正式发布了国家级人工智能伦理战略。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "On June 7 Google pledged not to \"design or deploy AI\" that would cause \"overall harm,\" or to develop AI-directed weapons or use AI for surveillance that would violate international norms. It also pledged not to deploy AI whose use would violate international laws or human rights.",
+    "translation": "6月7日，谷歌公司郑重作出承诺：绝不“设计或部署”可能造成“全面总体伤害”的人工智能，绝不开发由人工智能制导的杀伤性武器，绝不将人工智能用于侵犯国际通行准则的监控活动，并承诺绝不部署任何违反国际法或人权公约的人工智能系统。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "While the statement is vague, it represents one starting point. So does the idea that decisions made by AI systems should be explainable, transparent, and fair.",
+    "translation": "尽管这一官方声明在措辞上仍显含糊笼统，但它无疑代表了一个弥足珍贵的良好开端（represents one starting point / affirmation）；同样具有开创意义的，还有人工智能系统的决策必须具备可解释性、透明度与公平性的核心理念。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity's highest values? Only then will they be useful servants and not Frankenstein's out-of-control monster.",
+    "translation": "换句话说：我们究竟该如何确保智能机器的深度思维能够切实反映人类最崇高核心的道德价值观？唯有做到这一点，它们才能成为造福人类社会的忠诚有益公仆，而不是沦为玛丽·雪莱笔下弗兰肯斯坦创造出的那种彻底失控的反噬怪物！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t3.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:28f4e51c89be9244743ddda418ed73df23e8d3888cfa59d2c6bbec9fce095f68"
+    }
+  }
+]

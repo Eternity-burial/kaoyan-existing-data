@@ -1,0 +1,585 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "The author believes that the bills sponsored by Lewis and Haddad will",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "help little to reduce gender bias.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1、P2-S1 和 P6-S1 明确贯穿作者的核心批判观点：'such policies are an insincere form of virtue-signaling that benefits only the most privileged and does little to help average people... do little to help average women'（此类政策是虚伪的道德标榜，只利好极少数特权阶层，对帮助广大普通女性毫无实质益处）。A选项 help little to reduce gender bias（对减少性别偏见几乎毫无帮助）精准契合作者对法案形式主义与无效性的批判立场。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "pose a threat to the state government.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端夸大】法案由州议员提出，未对州政府构成安全威胁。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "raise women's position in politics.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 赞成者主张】这是发起者的初衷口号，作者批判其仅利好少数特权女性且属自私标榜。",
+        "refSentences": [
+          "P1-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "greatly broaden career options.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】针对的是高层董事会席位（board seats），非广大女性的职业选择。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "virtue-signaling that benefits only privileged and does little to help average people = help little to reduce gender bias。",
+      "methodSummary": "作者批判态度提取：does little to help average people 转换为 help little to reduce bias。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author believes",
+        "bills sponsored by Lewis and Haddad will"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "Which of the following is true of the California measure?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It has irritated private business owners.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 情绪推测】文章重点剖析其违宪法理风险与能力稀释，未详细讨论企业主的愤怒情绪。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "It is welcomed by the Supreme Court.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】最高法院对基于性别的分类深表不以为然（Supreme Court frowns on sex-based classifications）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "It may go against the Constitution.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S1 和 P3-S2 明确阐明加州法案的法律硬伤：'Governor Brown admitted that the law... is probably unconstitutional... violates the constitutional guarantee of equal protection'（州长承认法律很可能违宪，法院极可能裁定其违反宪法平等保护条款）。C选项 It may go against the Constitution（它可能违反宪法）是 is probably unconstitutional 的完全等价同义改写。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "It will settle the prior controversies.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】该法案本身引发了极其巨大的违宪法律争议。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "probably unconstitutional + violates constitutional guarantee of equal protection = may go against the Constitution。",
+      "methodSummary": "原词直接对应：probably unconstitutional 转换为 may go against the Constitution。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "true of the California measure"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "The author mentions the study by Catalyst to illustrate",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the harm from arbitrary board decisions.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偏离论点】未提及董事会武断决策的危害。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the importance of constitutional guarantees.",
+        "isCorrect": false,
+        "distractorType": "跨段混淆",
+        "analysis": "【干扰特征: 跨段混淆】宪法保障是第三段讨论的主题，第四段专讲政府干预的无必要性。",
+        "refSentences": [
+          "P3-S2",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the pressure on women in global corporations.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】数据显示女性董事比例大增54%，展现的是自然良性进展，非压力。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the needlessness of government interventions.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P4-S1 和 P4-S2 紧密相连：'are such government mandates even necessary?... The number of women on corporate boards has been steadily increasing without government interference. According to a study by Catalyst... increased by 54 percent'（政府强制指令有必要吗？女性在没有政府干预下一直在稳步增加，Catalyst 研究显示增长了54%）。引用该数据正是为了证明政府行政干预实属多余毫无必要（the needlessness of government interventions）。D选项精准契合论点。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "increasing without government interference + Catalyst shows 54% increase = the needlessness of government interventions。",
+      "methodSummary": "例证题前句论点提取：抓准 are government mandates even necessary + without government interference 对应的 needlessness of interventions。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "mentions the study by Catalyst to illustrate"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "Norway's adoption of a nationwide corporate gender quota has led to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the underestimation of elite women's role.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】精英女性反而成为被疯狂抢夺身兼数职的“金裙”（scoop up multiple seats）。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the objection to female participation on boards.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及全社会反对女性参与董事会。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the entry of unqualified candidates into the board.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 和 P5-S2 明确指出挪威配额的直接后果：'inevitably lead to less experienced private sector boards. That is exactly what happened when Norway adopted quota... without increasing the pool of qualified women'（必然导致董事会经验欠缺资历不足，这正是挪威发生的事情……在没有扩大胜任合格女性人才储备的情况下拔苗助长）。C选项 the entry of unqualified candidates into the board（资历不合格/欠缺的候选人进入董事会）是对 less experienced 与 without pool of qualified women 最精准的概括。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the growing tension between labor and management.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 罪名混淆】讨论的是董事会高层治理结构，未涉及劳资双方关系紧张。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "less experienced boards + without pool of qualified women = the entry of unqualified candidates into the board。",
+      "methodSummary": "恶果细节对应法：抓准 less experienced 和 without pool of qualified women 对应的 entry of unqualified candidates。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Norway's adoption",
+        "nationwide corporate gender quota",
+        "led to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following can be inferred from the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Women's needs in employment should be considered.",
+        "isCorrect": false,
+        "distractorType": "过于笼统偏离",
+        "analysis": "【干扰特征: 泛指就业】文章聚焦于高管董事会席位分配立法，非普通就业需求。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Feasibility should be a prime concern in policymaking.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨推断】通读全文，作者深刻剖析了强制配额法案的种种致命缺陷：在法理上存在严重的违宪风险（probably unconstitutional / violates equal protection）；在现实执行中由于缺乏合格人才库导致经验资历不足与金裙现象（less experienced / without qualified pool）；在动机上沦为政客自我感觉良好的自私标榜（self-serving virtue-signaling）。据此可深刻严密地推断出作者的核心规范性主张：在政策制定过程中，绝不能仅凭道德口号，而必须将切实可行性与现实制度效果（Feasibility should be a prime concern in policymaking）作为首要核心关切。B选项高度凝练升华全文意旨。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1",
+          "P5-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Everyone should try hard to promote social justice.",
+        "isCorrect": false,
+        "distractorType": "空洞说教",
+        "analysis": "【干扰特征: 口号泛化】作者恰恰在批判以社会正义为名推行形式主义无效配额的做法。",
+        "refSentences": [
+          "P1-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Major social issues should be the focus of legislation.",
+        "isCorrect": false,
+        "distractorType": "偏离主旨",
+        "analysis": "【干扰特征: 偏离文章】文章强调的是立法的审慎、合宪与切实可行性，非空泛讨论立法焦点。",
+        "refSentences": [
+          "P3-S2",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P1-S1",
+      "P3-S1",
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "unconstitutional (P3) + less experienced boards (P5) + self-serving virtue-signaling (P6) = Feasibility should be a prime concern in policymaking（可行性应是决策首要关切）。",
+      "methodSummary": "全文哲理推断题：从形式主义立法的多重失败后果中，反推政策制定必须以可行性（Feasibility）为核心。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "inferred from the text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2017-r-t4",
+  "year": 2017,
+  "textNumber": 4,
+  "title": "The Supreme Court Ruling on McDonnell and Official Favoritism",
+  "chineseTitle": "美最高法院推翻麦克唐纳腐败定罪：公务偏袒与反腐法治的界限",
+  "topic": "法律与政府伦理 / 麦克唐纳受贿案、最高法推翻定罪与公务行为合法界限",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文评述了美国最高法院在麦克唐纳受贿案中作出的罕见一致裁决。最高法院推翻了对弗吉尼亚州前州长麦克唐纳的贪腐定罪，认为初审法官未能向陪审团明确“公务行为”必须涉及具体未决公务决策，而非仅仅收礼后牵线搭桥。尽管最高法院在道德上对麦克唐纳的收礼行为嗤之以鼻，但在法律上严格厘清了选民服务偏袒与刑事受贿的边界。文章指出，这一裁决促使公民与立法机构强化政务公开透明度立法，是防范腐败与公务偏袒斗争中向前迈出的重要一步。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 8,
+  "sentenceCount": 19,
+  "vocabularyCount": 0,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 2,
+        "sentenceId": "P1-S2",
+        "english": "But it did so while holding its nose at the ethics of his conduct, which included accepting gifts such as a Rolex watch and a Ferrari automobile from a company seeking access to government.",
+        "chinese": "不过，最高法院在作出这一裁决的同时，却对他行为背后的道德规范嗤之以鼻；这些行为包括收受一家谋求与政府接触的公司所赠送的劳力士手表、法拉利轿车等礼物。",
+        "structureType": "主谓宾复合句+时间状语分词短语+非限制性定语从句",
+        "mainClause": "But it did so...",
+        "modifiers": "while holding its nose at the ethics of his conduct 作伴随时间状语；which included accepting gifts... 为非限制性定语从句修饰 conduct；from a company 为来源状语；seeking access to government 为现在分词短语作后置定语修饰 company。",
+        "corePattern": "hold one's nose at sth.（对……嗤之以鼻/捏着鼻子容忍）；seek access to（谋求接近/接触某人或机构）。"
+      },
+      {
+        "sentenceIndex": 3,
+        "sentenceId": "P2-S1",
+        "english": "The high court's decision said the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at his \"official acts,\" or the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties.",
+        "chinese": "最高法院的裁决指出，法官在审理麦克唐纳先生的案件中未能告知陪审团必须只考虑他的“公务行为”，也就是这位前州长就与其职责相关的“特定”以及“待定”问题作出的决定。",
+        "structureType": "主谓+省略that的宾语从句+双宾语从句及同位语",
+        "mainClause": "The high court's decision said (that)...",
+        "modifiers": "the judge... failed to tell a jury 为宾语从句；that it must look only at his 'official acts' 为 tell 的直接引语从句；or the former governor's decisions... 为 official acts 的同位语说明；related to his duties 为过去分词短语修饰 issues。",
+        "corePattern": "fail to do sth.（未能做某事）；look only at sth.（只着眼于某事）；issues related to duties（与职责相关的问题）。"
+      },
+      {
+        "sentenceIndex": 4,
+        "sentenceId": "P3-S1",
+        "english": "Merely helping a gift-giver gain access to other officials, unless done with clear intent to pressure those officials, is not corruption, the justices found.",
+        "chinese": "大法官们裁定，如果仅仅是帮助送礼者获得接近其他官员的机会，那么这种行为并不属于贪污腐败，除非带有明确的意图要对那些官员施压。",
+        "structureType": "动名词短语作主语+条件状语从句+主系表主干+插入语",
+        "mainClause": "Merely helping a gift-giver gain access to other officials... is not corruption, the justices found.",
+        "modifiers": "Merely helping a gift-giver gain access... 为动名词短语作主语；unless done with clear intent to pressure those officials 为省略了主语和be动词的条件状语从句；the justices found 为句末插入语。",
+        "corePattern": "gain access to（获得对……的接触机会）；unless done with intent to do（除非带着做……的意图）。"
+      },
+      {
+        "sentenceIndex": 9,
+        "sentenceId": "P5-S3",
+        "english": "\"The basic compact underlying representative government,\" wrote Chief Justice John Roberts for the court, \"assumes that public officials will hear from their constituents and act on their concerns.\"",
+        "chinese": "“代议制政府下的基本契约认为，公职人员要倾听选民的心声，并且要依据选民所关心的问题而行事。”最高法院首席法官约翰·罗伯茨写道。",
+        "structureType": "直接引语主干+现在分词后置定语+宾语从句+插入语",
+        "mainClause": "The basic compact assumes that public officials will hear from their constituents and act on their concerns.",
+        "modifiers": "underlying representative government 为现在分词短语作后置定语修饰 compact；wrote Chief Justice John Roberts for the court 为分割引语的插入语；that 引导 assumes 的宾语从句，从句中包含 hear from 和 act on 两个并列谓语动词短语。",
+        "corePattern": "the compact underlying sth.（潜存于……之下的契约基石）；hear from constituents（倾听选民意见）；act on concerns（根据选民关切采取行动）。"
+      },
+      {
+        "sentenceIndex": 11,
+        "sentenceId": "P6-S2",
+        "english": "Officials must not be allowed to play favorites in providing information or in arranging meetings simply because an individual or group provides a campaign donation or a personal gift.",
+        "chinese": "官员不能仅因为某个人或者团体为其提供了竞选捐助或者个人礼物就在提供信息或安排接见时对他们有所偏袒。",
+        "structureType": "被动语态主句+并列介词短语+原因状语从句",
+        "mainClause": "Officials must not be allowed to play favorites...",
+        "modifiers": "in providing information or in arranging meetings 为两个并列介词短语作领域状语；simply because an individual or group provides... 为原因状语从句。",
+        "corePattern": "be allowed to do（被允许做某事）；play favorites（厚此薄彼/拉偏架/玩弄偏袒）；simply because（仅仅因为）。"
+      },
+      {
+        "sentenceIndex": 12,
+        "sentenceId": "P6-S3",
+        "english": "This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader's source of wealth.",
+        "chinese": "这种形式的廉正需要在公务会面的记录、游说的规则以及每位民选领袖的财富来源信息等政务管理透明化方面拥有落实到位的法律作为配合。",
+        "structureType": "主谓宾复合句+介词短语+such as列举结构",
+        "mainClause": "This type of integrity requires well-enforced laws...",
+        "modifiers": "well-enforced 为复合过去分词作定语；in government transparency 作定语修饰 laws；such as records of..., rules on..., and information about... 为介词短语列举说明法律所涵盖的三个具体维度。",
+        "corePattern": "well-enforced laws（执行有力的法律）；government transparency（政务公开透明）；source of wealth（财富来源）。"
+      },
+      {
+        "sentenceIndex": 16,
+        "sentenceId": "P7-S4",
+        "english": "If connections can be bought, a basic premise of democratic society—that all are equal in treatment by government—is undermined.",
+        "chinese": "如果人际关系可以靠金钱来收买的话，那么民主社会的基本前提——人人都享有政府平等对待的权利——就会遭到破坏。",
+        "structureType": "条件状语从句+主系表被动主句+同位语从句",
+        "mainClause": "a basic premise of democratic society is undermined.",
+        "modifiers": "If connections can be bought 为条件状语从句；that all are equal in treatment by government 为破折号夹入的同位语从句，精确阐释 basic premise 的核心内涵。",
+        "corePattern": "connections can be bought（人脉关系可以被金钱收买）；a basic premise of sth.（……的基本前提）；equal in treatment（在待遇上人人平等）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+    "year": 2017,
+    "articleKey": "ky-en1-2017-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+  }
+}

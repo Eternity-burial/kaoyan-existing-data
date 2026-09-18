@@ -1,0 +1,422 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Aimlessness has hardly been typical of postwar Japan whose productivity and social harmony are the envy of the United States and Europe.",
+    "translation": "漫无目的并不是战后日本的典型特征，日本的生产力和社会和谐令美国和欧洲羡慕不已。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "But increasingly the Japanese are seeing a decline of the traditional work-moral values.",
+    "translation": "但日本人越来越看到传统工作道德价值观的衰落。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Ten years ago young people were hardworking and saw their jobs as their primary reason for being, but now Japan has largely fulfilled its economic needs, and young people don't know where they should go next.",
+    "translation": "十年前，年轻人努力工作，把工作视为生存的首要原因，但现在日本已经基本满足了经济需求，年轻人不知道下一步该去哪里。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "The coming of age of the postwar baby boom and an entry of women into the male-dominated job market have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices involved in climbing Japan's rigid social ladder to good schools and jobs.",
+    "translation": "战后婴儿潮的到来以及女性进入男性主导的就业市场限制了青少年的机会，他们已经开始质疑攀登日本严格的社会阶梯以获得好学校和工作所需的巨大个人牺牲。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States.",
+    "translation": "最近的一项调查发现，只有 24.5% 的日本学生对学校生活完全满意，而美国学生的这一比例为 67.2%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed.",
+    "translation": "此外，对工作表示不满的日本工人比其他 10 个接受调查的国家的工人要多得多。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "While often praised by foreigners for its emphasis on the basics, Japanese education tends to stress test taking and mechanical learning over creativity and self-expression.",
+    "translation": "虽然日本教育因其对基础知识的重视而经常受到外国人的称赞，但日本教育往往强调应试和机械学习，而不是创造力和自我表达。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "\"Those things that do not show up in the test scores—personality, ability, courage or humanity—are completely ignored,\" says Toshiki Kaifu, chairman of the ruling Liberal Democratic Party's education committee.",
+    "translation": "执政的自民党教育委员会主席海部俊树表示，“那些没有在考试成绩中体现出来的东西——个性、能力、勇气或人性——都被完全忽视了。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "\"Frustration against this kind of thing leads kids to drop out and run wild.\" Last year Japan experienced 2,125 incidents of school violence, including 929 assaults on teachers.",
+    "translation": "“对这种事情的沮丧会导致孩子们辍学并疯狂。”去年日本发生了2125起校园暴力事件，其中袭击教师事件929起。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Amid the outcry, many conservative leaders are seeking a return to the pre-war emphasis on moral education.",
+    "translation": "在强烈抗议中，许多保守派领导人正在寻求回归战前对道德教育的重视。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Last year Mitsuo Setoyama, who was then education minister, raised eyebrows when he argued that liberal reforms introduced by the American occupation authorities after World War II had weakened the \"Japanese morality of respect for parents.\" But that may have more to do with Japanese life-styles.",
+    "translation": "去年，时任文部科学省大臣的濑户山光雄辩称，二战后美国占领当局推行的自由主义改革削弱了“日本尊重父母的道德”，这引起了人们的关注。但这可能与日本的生活方式有更多关系。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "\"In Japan,\" says educator Yoko Muro, \"it's never a question of whether you enjoy your job and your life, but only how much you can endure.\" With economic growth has come centralization; fully 76 percent of Japan's 119 million citizens live in cities where community and the extended family have been abandoned in favor of isolated, two-generation households.",
+    "translation": "“在日本，”教育家室罗洋子说，“问题从来不在于你是否喜欢你的工作和生活，而在于你能忍受多少。”随着经济的增长，集中化也随之而来。日本 1.19 亿公民中有 76% 生活在城市，社区和大家庭被抛弃，取而代之的是孤立的两代家庭。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Urban Japanese have long endured lengthy commutes (travels to and from work) and crowded living conditions, but as the old group and family values weaken, the discomfort is beginning to tell.",
+    "translation": "日本城市居民长期以来一直忍受着漫长的通勤（上下班）和拥挤的生活条件，但随着旧群体和家庭价值观的削弱，这种不适开始显现。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "In the past decade, the Japanese divorce rate, while still well below that of the United States, has increased by more than 50 percent, and suicides have increased by nearly one-quarter.",
+    "translation": "过去十年，日本离婚率虽然仍远低于美国，但已增加了 50% 以上，自杀率增加了近四分之一。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  }
+]

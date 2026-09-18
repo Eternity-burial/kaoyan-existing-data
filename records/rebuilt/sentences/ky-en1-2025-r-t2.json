@@ -1,0 +1,392 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "I was shocked to learn recently that some scientists want to scale back their research in an effort to decrease carbon emissions.",
+    "translation": "我最近获悉某些科学家竟然企图通过缩减削减自身的科学研究规模（scale back their research / intention to reduce their research）来降低碳排放，对此我感到极度震惊（expressed great surprise）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The crisis is here, they said, and we need to cut back on our energy-intensive modelling. At the very least, we need to make our energy use far more sustainable.",
+    "translation": "他们声称：气候危机迫在眉睫，我们必须立刻削减自身那些高能耗的计算机模型模拟运算；退一万步讲，我们也必须让自身的能源消耗变得远为更加绿色可持续。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "It is unarguable that our laboratories, scientific instruments, rockets and satellites—the tools we scientists need to measure the planet's pulse—demand significant amounts of energy both in their construction and operation.",
+    "translation": "毋庸置疑，我们的前沿实验室、精密科研仪器、运载火箭与人造卫星——这些我们科学家用来把脉地球跳动节律所不可或缺的利器——在其建造制造与日常运转过程中确实都需要消耗海量的巨大能源（Energy-intensive research work is inevitable）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "And it is equally true that science's unrelenting appetite for information has caused a mushrooming of energy-intensive data centres around the world. According to the International Energy Agency, these buildings now consume about 1 per cent of the world's electricity.",
+    "translation": "同样不可否认的是，科学界对数据的无尽渴求导致全球各地高能耗数据中心如雨后春笋般疯狂涌现。根据国际能源署（IEA）的权威统计，这些建筑设施目前消耗了全球整整约1%的总电力供应。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "However, this is a price we must pay for understanding the world.",
+    "translation": "然而，这恰恰是我们为了深刻认知理解客观世界所必须付出的必要代价！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "How can we inform decision makers about the best ways to bring down carbon emissions if we can't track the amount of carbon dioxide in the atmosphere, where it's coming from and who's producing it? The carbon emissions from technological research are well spent: ultimately this research will safeguard the future of our planet.",
+    "translation": "如果我们甚至无法精准追踪大气中二氧化碳的确切存量、来源路径以及排放责任方，我们又究竟如何向政策制定者提供关于减少碳排放的最佳施策建议？科技研发所产生的碳排放完全是物有所值的崇高投入（well spent）——从根本长远来看，这些科研成果将真正捍卫守护我们整个人类地球的未来命运（carbon emissions are justifiable in the long run）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "It can be hard for scientists to make the case because our work is complex, often takes place behind closed doors and does not always lend itself to easy interpretation or explanation.",
+    "translation": "对于科学家而言，要向外界充分阐明这一道理往往颇具难度，因为我们的工作极其高深复杂，通常在密闭实验室中进行，并不总是容易被通俗解读或向大众解释清楚。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "But demonstrating the efficacy of science will be crucial if we are to solve humanity's greatest challenges.",
+    "translation": "但如果我们真正渴望解决全人类面临的最严峻重大挑战，有力彰显并证明科学探索的巨大效力将是绝对至关重要的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 5
+    },
+    "text": "Recognising the hope that science and engineering can bring was the impetus behind the creation of the Millennium Technology Prize, which is now entering its 20th year as a celebration of human ingenuity.",
+    "translation": "深刻体认科学与工程所能带来的光明希望，正是设立‘千禧年科技奖’的强大初衷动力——如今该奖项已跨入第20个年头，成为颂扬全人类非凡创造智慧的崇高盛典。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "One of the past winners, Professor Martin Green from the University of New South Wales, Australia, is the inventor of the Passivated Emitter and Rear Cell technology which is now found in most of the world's solar panels. Thanks to his invention, we have a real chance to decrease the world's carbon emissions.",
+    "translation": "该奖项的往届得主之一、澳大利亚新南威尔士大学的马丁·格林教授，正是当今全球绝大多数太阳能电池板中广泛应用的“钝化发射极及背部接触”（PERC）太阳能技术的伟大发明者。正是得益于他的这项科学发明，我们今天才真正拥有了大幅降低全球碳排放的切实胜算与丰硕回报（the rewards of scientific endeavours）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Every day, scientists, technologists and engineers are discovering new ways to exploit renewable energy sources and develop techniques not just to use power more intelligently but to power our intelligence.",
+    "translation": "每一天，广大科学家、技术专家与工程师都在不断探寻利用可再生能源的全新途径，并开发先进技术——不仅为了更聪明智能地使用电力，更是为了用清洁能源来赋能我们的人类智慧。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "A great example of this is Europe's largest supercomputer, LUMI in Finland, which is astonishingly carbon negative. Established in an old paper mill, it is powered by a nearby river and its remote heat warms the people who live in the surrounding town of Kajaani.",
+    "translation": "这其中最卓越的典范，莫过于坐落于芬兰的欧洲最大超级计算机 LUMI——它令人惊叹地实现了“负碳排放”（carbon negative）。该超算中心设于一座旧造纸厂内，全部依靠邻近河流的水力清洁能源驱动，而其散发的余热更是直接为周边卡亚尼小镇的居民提供市政供暖（LUMI is a model of sustainability efforts）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "If the world is to meet its net-zero ambitions, we must think hard about how we can deliver sustainable computing and deliver more LUMIs.",
+    "translation": "如果全球真正渴望实现‘净零排放’的宏伟抱负，我们就必须深谋远虑地全力思考：我们该如何打造真正绿色可持续的算力体系，并建造复制出更多像 LUMI 这样卓越非凡的绿色超算中心！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t2.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:89291b255d0093cd5d58329a3d63c56ff0cd2c3b72158496cf228bfff76b7e02"
+    }
+  }
+]

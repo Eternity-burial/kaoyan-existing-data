@@ -1,0 +1,874 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The New York Times is considering ending its print edition partly due to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the increasing online ad sales.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【反向干扰/曲解文意】第二段末句指出纸媒广告额依然远超线上广告（still dwarf their online counterparts），但纸媒收入在持续下滑，并未提及线上广告猛增促使其停印。",
+        "refSentences": [
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "pressure",
+            "ipa": "[ˈpreʃə(r)]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "the pressure from its investors.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【无中生有】第二段列举了放弃纸质版的各种动因，全文均未提及来自“投资者施压”（pressure from investors）。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "complaints",
+            "ipa": "[kəmˈpleɪnt]",
+            "meaning": "抱怨",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the complaints from its readers.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】第四段末句明确指出最忠诚的读者深爱纸媒，若停印反而会让他们极其沮丧愤怒（upset with you），读者从未抱怨纸媒。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the high cost of operation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第二段第2句明确指出：“The infrastructure required to make a physical newspaper — printing presses, delivery trucks — isn't just expensive; it's excessive at a time when online-only competitors don't have the same set of financial constraints.”（制作实体报纸所需的基础设施——印刷机、运输卡车——不仅昂贵，而且在无此类财务束缚的网络对手面前显得沉重过剩），第三段开头再次强调“Overhead may be high”（日常间接运营成本高企）。选项 D 中 the high cost of operation 正是对 infrastructure expensive / excessive 以及 overhead high 的高度综合概括。",
+        "refSentences": [
+          "P2-S2",
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S2",
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "infrastructure expensive / financial constraints / overhead high": "the high cost of operation"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "New",
+          "ipa": "[njuː]",
+          "meaning": "《纽约时报》",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "edition",
+          "ipa": "[ɪˈdɪʃ(ə)n]",
+          "meaning": "版本",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "due",
+          "ipa": "[djuː]",
+          "meaning": "因为",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t4.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6f2e3c516b883d8f97e2f95be28dd29598b7fef6198cb6ca49e877bf91fa3f49"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "Peretti suggests that, in face of the present situation, the Times should",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "make strategic adjustments.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解概括总结】第三段佩雷蒂明确指出仓促停印将是一个错误；第四段他指出：“Figuring out a way to accelerate that transition would make sense for them... but if you discontinue it, you're going to have your most loyal customers really upset with you.”第五段进一步提出他的独到构想：不设定停印年份，而是大幅提价并将纸媒打造成“legacy product”（情怀遗产产品）。佩雷蒂主张的时报应对当前困局的策略，既非盲目停刊，亦非墨守成规，而是进行科学的‘战略调整与模式重塑’（make strategic adjustments）。",
+        "refSentences": [
+          "P3-S1",
+          "P4-S1",
+          "P4-S2",
+          "P5-S5"
+        ],
+        "vocab": [
+          {
+            "word": "make",
+            "ipa": "[meɪk]",
+            "meaning": "作出调整",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "strategic",
+            "ipa": "[strəˈtiːdʒɪk]",
+            "meaning": "作出调整战略性的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "end the print edition for good.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】for good 意为‘永久地’，第三段佩雷蒂明确警告 rushing to eliminate its print edition would be a mistake，第五段明确表示 I wouldn't pick a year to end print，坚决反对永久停印。",
+        "refSentences": [
+          "P3-S1",
+          "P5-S5"
+        ],
+        "vocab": [
+          {
+            "word": "edition",
+            "ipa": "[ɪˈdɪʃ(ə)n]",
+            "meaning": "版本",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "good",
+            "ipa": "[ɡʊd]",
+            "meaning": "永久地，彻底地",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "seek new sources of readership.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【曲解文意】第六段佩雷蒂强调：make it for the people who are already obsessed with it（专为那些早已痴迷于此的人制作），重点在于深耕最忠实的现有死忠读者（most loyal customers），而非开拓新的读者群体。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "sources",
+            "ipa": "[sɔːs]",
+            "meaning": "来源",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "readership",
+            "ipa": "",
+            "meaning": "读者",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "aim for efficient management.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】佩雷蒂探讨的是面对数字化冲击如何重塑纸媒的定价与战略定位，并未建议其致力于内部行政‘高效管理’。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S5"
+        ],
+        "vocab": [
+          {
+            "word": "efficient",
+            "ipa": "[ɪˈfɪʃnt]",
+            "meaning": "高效的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "management",
+            "ipa": "[ˈmænɪdʒmənt]",
+            "meaning": "管理",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "观点细节题",
+    "targetSentences": [
+      "P4-S2",
+      "P5-S5"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "accelerate that transition / raise prices and make it a legacy product": "make strategic adjustments"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "face",
+          "ipa": "[feɪs]",
+          "meaning": "在…面前",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t4.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6f2e3c516b883d8f97e2f95be28dd29598b7fef6198cb6ca49e877bf91fa3f49"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "It can be inferred from Paragraphs 5 and 6 that a \"legacy product\"",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "helps restore the glory of former times.",
+        "isCorrect": false,
+        "distractorType": "ABS_OVERSTATEMENT",
+        "analysis": "【过度引申】第六段第1句指出忠实读者觉得是在维系他们坚信的品质（sustain the quality），但并未达到‘重现昔日辉煌’（restore the glory of former times）的宏大程度。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "is meant for the most loyal customers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解原文逻辑推断】第五段第5句佩雷蒂提出：“raise prices and make it into more of a legacy product.”第六段第1句立即承接阐释该逻辑：“The most loyal customers would still get the product they favor... and they'd feel like they were helping sustain the quality...”，并在第3句总结强调：“In other words, if you're going to make a print product, make it for the people who are already obsessed with it.”从上下文紧密论证可明确推断出：所谓的“传统遗产产品（legacy product）”其核心商业定位就是专为最忠诚、最痴迷的核心拥趸（meant for the most loyal customers）量身打造的。",
+        "refSentences": [
+          "P5-S5",
+          "P6-S1",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "meant",
+            "ipa": "",
+            "meaning": "为…而服务",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "loyal",
+            "ipa": "[ˈlɔɪəl]",
+            "meaning": "忠实的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "will have the cost of printing reduced.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【无中生有/正反颠倒】文中多次强调印刷基础设施成本极其昂贵，佩雷蒂主张的是 raise prices 提高售价来覆盖成本，并非印刷成本会降低。",
+        "refSentences": [
+          "P2-S2",
+          "P5-S5"
+        ],
+        "vocab": [
+          {
+            "word": "restore",
+            "ipa": "[rɪˈstɔː(r)]",
+            "meaning": "恢复",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "glory",
+            "ipa": "[ˈɡlɔːri]",
+            "meaning": "辉煌",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "former",
+            "ipa": "[ˈfɔːmə(r)]",
+            "meaning": "昔日的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "expands the popularity of the paper.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【曲解文意/反向干扰】大幅提价、专供小众痴迷粉的做法走的是高端奢侈品路线，其客观结果必然是受众进一步精准小众化，绝非‘扩大报纸的大众流行度与普及面’。",
+        "refSentences": [
+          "P6-S3",
+          "P6-S4"
+        ],
+        "vocab": [
+          {
+            "word": "expands",
+            "ipa": "[ɪkˈspænd]",
+            "meaning": "扩大",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推理判断题",
+    "targetSentences": [
+      "P5-S5",
+      "P6-S1",
+      "P6-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "make it for people already obsessed with it / most loyal customers would get the product": "is meant for the most loyal customers"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraphs",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "legacy",
+          "ipa": "[ˈleɡəsi]",
+          "meaning": "遗产，此处指传承",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t4.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6f2e3c516b883d8f97e2f95be28dd29598b7fef6198cb6ca49e877bf91fa3f49"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "Peretti believes that, in a changing world,",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "traditional luxuries can stay unaffected.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】第七段第2句指出随着市场和世界改变，正在做的事情会变得不合常理（don't make sense），没有业务能独善其身不受影响。",
+        "refSentences": [
+          "P7-S2"
+        ],
+        "vocab": [
+          {
+            "word": "luxuries",
+            "ipa": "[ˈlʌkʃəri]",
+            "meaning": "奢侈品",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "cautiousness facilitates problem-solving.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】末段第3句佩雷蒂掷地有声地指出：“it's better to be more aggressive than less aggressive.”（采取更具进取侵略性的姿态远比保守退缩明智），与谨慎（cautiousness）相反。",
+        "refSentences": [
+          "P7-S3"
+        ],
+        "vocab": [
+          {
+            "word": "challenges",
+            "ipa": "[ˈtʃælɪndʒ]",
+            "meaning": "挑战",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "aggressiveness better meets challenges.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】文章最后一段佩雷蒂总结道：“when the market changes and the world changes... it's better to be more aggressive than less aggressive.”（当市场改变、世界变革时，采取更加激进进取的态度比畏首畏尾好得多）。选项 C 中 aggressiveness better meets challenges 正是对 better to be more aggressive than less aggressive 的高度同义重述。",
+        "refSentences": [
+          "P7-S2",
+          "P7-S3"
+        ],
+        "vocab": [
+          {
+            "word": "facilitates",
+            "ipa": "[fəˈsɪlɪteɪt]",
+            "meaning": "助于",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "cautiousness",
+            "ipa": "[ˈkɔːʃəsnəs]",
+            "meaning": "谨慎",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "legacy businesses are becoming outdated.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【曲解文意】佩雷蒂认为传统业务虽然面临挑战，但可以通过高定价、溢价情怀重塑为高收益的奢侈品，绝非消极将其全盘贬斥为过时淘汰品。",
+        "refSentences": [
+          "P5-S5",
+          "P6-S2"
+        ],
+        "vocab": [
+          {
+            "word": "legacy",
+            "ipa": "[ˈleɡəsi]",
+            "meaning": "传承",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P7-S2",
+      "P7-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "better to be more aggressive than less aggressive": "aggressiveness better meets challenges"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t4.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6f2e3c516b883d8f97e2f95be28dd29598b7fef6198cb6ca49e877bf91fa3f49"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Which of the following would be the best title of the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Shift to Online Newspapers All at Once",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】文章核心观点明确反对操之过急停印纸媒（rushing to eliminate print edition would be a mistake），反对 All at Once（一蹴而就全盘线上化）。",
+        "refSentences": [
+          "P3-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Luxury",
+            "ipa": "[ˈlʌkʃəri]",
+            "meaning": "奢侈",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Cherish the Newspaper Still in Your Hand",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【感情色彩偏差】第二段开头明确说明要抛开怀旧情怀（Nostalgia aside），本文是站在客观商业战略和传媒生态演进的高度分析，并非抒情式的呼吁大家珍惜手中报纸。",
+        "refSentences": [
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "Fashion",
+            "ipa": "[ˈfæʃ(ə)n]",
+            "meaning": "流行，时兴",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Keep Your Newspapers Forever in Fashion",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文章指出读者不可逆转地流向网络，报纸不再可能成为大众时尚（in fashion），而是转变为昂贵的小众情怀产品。",
+        "refSentences": [
+          "P2-S3",
+          "P5-S5"
+        ],
+        "vocab": [
+          {
+            "word": "Cherish",
+            "ipa": "[ˈtʃerɪʃ]",
+            "meaning": "珍视",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Make Your Print Newspaper a Luxury Good",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解主旨概括】全文通篇围绕传统报业面对数字化冲击时，是否停印以及如何重塑纸媒商业模式展开。文章反驳了仓促关停纸质版的盲目举措，重点推介了将纸质报纸大幅提高价格、升级打造成专门面向忠实拥趸的高溢价情怀型“奢侈品”（legacy product / overpaying / luxury good）的颠覆性商业战略。选项 D Make Your Print Newspaper a Luxury Good 最准确生动、高度契合全文核心思想，堪称最佳标题。",
+        "refSentences": [
+          "P3-S1",
+          "P5-S5",
+          "P6-S2",
+          "P6-S4"
+        ],
+        "vocab": [
+          {
+            "word": "Shift",
+            "ipa": "[ʃɪft]",
+            "meaning": "转向",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "at",
+            "ipa": "[ət]",
+            "meaning": "立刻",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P3-S1",
+      "P5-S5",
+      "P6-S2",
+      "P6-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "raise prices and make it a legacy product / make it for obsessed fans / costs nearly $500": "Make Your Print Newspaper a Luxury Good"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t4.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6f2e3c516b883d8f97e2f95be28dd29598b7fef6198cb6ca49e877bf91fa3f49"
+    }
+  }
+]

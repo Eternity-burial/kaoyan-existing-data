@@ -1,0 +1,579 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "The author suggests that Generation Z should",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "be careful in choosing a college.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】讨论的是要不要读大学的根本价值抉择，非如何选大学选校。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "be diligent at each educational stage.",
+        "isCorrect": false,
+        "distractorType": "空洞说教",
+        "analysis": "【干扰特征: 泛化勤奋】文章讨论的是对高等教育必要性的理性审视，非空泛劝勉勤奋刻苦。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "reassess the necessity of college education.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 和 P3-S1 明确阐明作者给年轻人的核心建议：'worth considering just how the point, purpose and value of a degree has changed... stress that a degree is not for everyone... other options are available'（值得深思学位的宗旨和价值发生了何种转变，强调大学并非适合所有人，存在其他出路）。C选项 reassess the necessity of college education（重新审视大学教育的必要性）是对全文开篇核心主旨最精准的概括。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "postpone their undergraduate application.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 歪曲建议】作者是建议理性权衡其他出路，非建议单纯推迟延迟申请。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "推断建议题",
+    "targetSentences": [
+      "P1-S1",
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "weigh up options + value of degree changed + degree not for everyone = reassess the necessity of college education。",
+      "methodSummary": "主旨建议题定位：抓准 value of degree changed 与 degree is not for everyone 对应的 reassess necessity of college education。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author suggests",
+        "Generation Z should"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t2.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a8d51a00589bf35024c6dda220665db5db5d6b120499ad75f66e7840c6c26cd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The percentage of UK graduates in non-graduate roles reflects",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Millennials' opinions about work.",
+        "isCorrect": false,
+        "distractorType": "主体错位",
+        "analysis": "【干扰特征: 概念错配】千禧一代曾深信好文凭保一生，该数据反映的是客观劳动力市场文凭贬值现实，非主观工作观念。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the shrinking value of a degree.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 和 P2-S2 紧密相连：'As degrees became universal, they became devalued. Education was no longer a secure route... Today, 28 percent of graduates in the UK are in non-graduate roles'（随着文凭普及，学位发生严重贬值，高等教育不再稳妥……如今28%的毕业生在做无需学历的岗位）。28%的数据正是用以直接证明文凭严重贬值、含金量大幅缩水（the shrinking value of a degree）。B选项完全精准吻合。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "public discontent with education.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 情绪泛化】文章强调的是文凭经济回报率的客观下降，非公众对教育的不满情绪。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the desired route of social mobility.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】文中文凭已经不再是阶层上升的稳妥通道（no longer a secure route of social mobility）。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "degrees became universal, they became devalued + 28% in non-graduate roles = the shrinking value of a degree。",
+      "methodSummary": "数据例证论点对应：抓准 28% in non-graduate roles 前句论点 degrees became devalued（文凭贬值）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "percentage of UK graduates in non-graduate roles",
+        "reflects"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t2.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a8d51a00589bf35024c6dda220665db5db5d6b120499ad75f66e7840c6c26cd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "The author considers it a good sign that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Generation Z are seeking to earn a decent degree.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】好文凭神话已经破灭，Z 世代正在从盲目追求文凭的旧思维中清醒过来。",
+        "refSentences": [
+          "P2-S1",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "school leavers are willing to be skilled workers.",
+        "isCorrect": false,
+        "distractorType": "偷换概念主体",
+        "analysis": "【干扰特征: 偷换主体】作者肯定的是雇主看重其忠诚度并取消文凭限制的理性用人观，非中学毕业生的就业意愿。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "employers are taking a realistic attitude to degrees.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 和 P4-S2 明确指出令人欣慰的良好迹象：'Thankfully, there are signs that this is already happening... Employers have long seen the advantages of hiring school leavers... seeing advantages of scrapping a degree requirement for certain roles'（雇主早已发现直接招收中学毕业生的忠诚优势，发现取消某些岗位文凭要求的巨大好处）。C选项 employers are taking a realistic attitude to degrees（雇主正在对大学文凭采取更加务实清醒的理性态度）是对这一转变最精准的概括。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "parents are changing their minds about education.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】家长和老师依然顽固沉溺于文凭思维定式中（parents still set in degree mindset）。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Thankfully... Employers see advantages of hiring school leavers and scrapping degree requirement = employers taking a realistic attitude to degrees。",
+      "methodSummary": "积极信号题提取：抓准 Thankfully 后阐述的雇主破除唯学历论的用人转变（realistic attitude）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author considers it a good sign that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t2.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a8d51a00589bf35024c6dda220665db5db5d6b120499ad75f66e7840c6c26cd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "It is advised in Paragraph 5 that those with one degree should",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "make an early decision on their career.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偏离建议】第五段专讲继续深造提升专门知识，非尽早决定职业。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "attend on-the-job training programs.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】建议的是攻读研究生学位（Postgraduates / have two degrees），非在职培训课程。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "team up with high-paid postgraduates.",
+        "isCorrect": false,
+        "distractorType": "字面荒谬",
+        "analysis": "【干扰特征: 荒谬错误】是建议自己成为高收入的研究生（Postgraduates earn 40% more），非与研究生组队。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "further their studies in a specific field.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确向本科学位持有者给出建议：'In this age of generalists, it pays to have specific knowledge or skills. Postgraduates now earn 40 percent more than graduates. When more and more of us have a degree, it makes sense to have two'（在通才时代唯有专精知识技能才能获利，研究生收入高出40%，拥有两张文凭才合情合理）。D选项 further their studies in a specific field（在特定领域进一步深造/攻读更高学位）完美契合原文要求攻读研究生、获取专门知识的建议。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节建议题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "have specific knowledge or skills + Postgraduates earn 40% more + have two degrees = further their studies in a specific field。",
+      "methodSummary": "建议题核心概念对应：specific knowledge + postgraduates 转换为 further studies in a specific field。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "advised in Paragraph 5",
+        "those with one degree should"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t2.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a8d51a00589bf35024c6dda220665db5db5d6b120499ad75f66e7840c6c26cd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "What can be concluded about Generation Z from the last two paragraphs?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lifelong learning will define them.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨高度升华】P6-S1 和 P7-S1 明确总结 Z 世代的核心本质特征：'they will need to be constantly up-skilling throughout their career to stay employable... work for 17 employers... have five different careers. Education... will be a core part... degree won't define them'（在整个职业生涯中持续技能升级，历经17家雇主与5种职业，持续教育贯穿一生，单张文凭无法定义他们）。A选项 Lifelong learning will define them（终身学习将真正定义他们）以最精炼深刻的哲理概括了最后两段的核心结论。",
+        "refSentences": [
+          "P6-S1",
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "They will make qualified educators.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 职业偏差】未提及成为合格的教育工作者。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Degrees will no longer appeal to them.",
+        "isCorrect": false,
+        "distractorType": "绝对化偏激",
+        "analysis": "【干扰特征: 过于绝对】文凭依然有价值（第5段建议读研），只是不再神圣化且无法单一定义人生。",
+        "refSentences": [
+          "P5-S1",
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "They will have a limited choice of jobs.",
+        "isCorrect": false,
+        "distractorType": "事实完全相反",
+        "analysis": "【干扰特征: 事实相反】他们一生将经历17家雇主和5种截然不同的职业（five different careers），选择极其多元丰富，绝非有限（limited）。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "推断结论题",
+    "targetSentences": [
+      "P6-S1",
+      "P7-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "constantly up-skilling throughout career + Education core part of trajectory + degree won't define them = Lifelong learning will define them。",
+      "methodSummary": "尾段主旨升华题：抓准 constantly up-skilling throughout career 抽象概括为 Lifelong learning。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "concluded about Generation Z",
+        "last two paragraphs"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t2.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a8d51a00589bf35024c6dda220665db5db5d6b120499ad75f66e7840c6c26cd"
+    }
+  }
+]

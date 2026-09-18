@@ -1,0 +1,722 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Science, in practice, depends far less on the experiments it prepares than on the preparedness of the minds of the men who watch the experiments.",
+    "translation": "在实践中，科学更多地取决于观察实验的人的思想准备，而不是它所准备的实验。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Sir Isaac Newton supposedly discovered gravity through the fall of an apple.",
+    "translation": "艾萨克·牛顿爵士据说是通过苹果下落发现了万有引力。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Apples had been falling in many places for centuries and thousands of people had seen them fall.",
+    "translation": "几个世纪以来，许多地方的苹果一直在掉落，成千上万的人亲眼目睹了苹果掉落的过程。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "But Newton for years had been curious about the cause of the orbital motion of the moon and planets.",
+    "translation": "但牛顿多年来一直对月球和行星轨道运动的原因感到好奇。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "What kept them in place?",
+    "translation": "是什么让他们保持原状？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "Why didn't they fall out of the sky?",
+    "translation": "为什么他们没有从天上掉下来？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "The fact that the apple fell down toward the earth and not up into the tree answered the question he had been asking himself about those larger fruits of the heavens, the moon and the planets.",
+    "translation": "苹果落向地面而不是落向树的事实回答了他一直在问自己的关于天空、月亮和行星上那些更大的果实的问题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 8,
+      "ps": "P1-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P1-S8",
+      "pIndex": 1
+    },
+    "text": "How many men would have considered the possibility of an apple falling up into the tree?",
+    "translation": "有多少人会考虑苹果掉到树上的可能性？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Newton did because he was not trying to predict anything.",
+    "translation": "牛顿这样做是因为他并没有试图预测任何事情。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "He was just wondering.",
+    "translation": "他只是想知道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "His mind was ready for the unpredictable.",
+    "translation": "他的头脑已做好应对不可预知的事情的准备。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Unpredictability is part of the essential nature of research.",
+    "translation": "不可预测性是研究本质的一部分。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "If you don't have unpredictable things, you don't have research.",
+    "translation": "如果没有不可预测的事情，就没有研究。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Scientists tend to forget this when writing their cut and dried reports for the technical journals, but history is filled with examples of it.",
+    "translation": "科学家们在为技术期刊撰写简洁的报告时往往会忘记这一点，但历史上充满了这样的例子。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "In talking to some scientists, particularly younger ones, you might gather the impression that they find the \"scientific method\" a substitute for imaginative thought.",
+    "translation": "在与一些科学家，尤其是年轻科学家交谈时，你可能会得到这样的印象：他们发现“科学方法”可以替代想象力。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 8,
+      "ps": "P2-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P2-S8",
+      "pIndex": 2
+    },
+    "text": "I've attended research conferences where a scientist has been asked what he thinks about the advisability of continuing a certain experiment.",
+    "translation": "我参加过一些研究会议，会上一位科学家被问到他对继续进行某项实验的建议有何看法。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The scientist has frowned, looked at the graphs, and said, \"the data are still inconclusive.\" \"We know that,\" the men from the budget office have said, \"but what do you think?",
+    "translation": "科学家皱起了眉头，看了看图表，说道：“数据还没有结论。” “我们知道这一点，”预算办公室的人说，“但是你觉得怎么样？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Is it worthwhile going on?",
+    "translation": "值得继续下去吗？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "What do you think we might expect?\" The scientist has been shocked at having even been asked to speculate.",
+    "translation": "你认为我们会期待什么？”这位科学家甚至对被要求进行推测感到震惊。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "What this amounts to, of course, is that the scientist has become the victim of his own writings.",
+    "translation": "当然，这意味着科学家已经成为他自己著作的受害者。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "He has put forward unquestioned claims so consistently that he not only believes them himself, but has convinced industrial and business management that they are true.",
+    "translation": "他始终如一地提出毫无疑问的主张，以至于他不仅自己相信这些主张，而且还让工业和企业管理层相信这些主张是正确的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "If experiments are planned and carried out according to plan as faithfully as the reports in the science journals indicate, then it is perfectly logical for management to expect research to produce results measurable in dollars and cents.",
+    "translation": "如果实验像科学期刊上的报告那样忠实地按照计划进行计划和实施，那么管理层期望研究产生可以用美元和美分衡量的结果是完全合乎逻辑的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "It is entirely reasonable for auditors to believe that scientists who know exactly where they are going and how they will get there should not be distracted by the necessity of keeping one eye on the cash register while the other eye is on the microscope.",
+    "translation": "审计人员完全有理由相信，那些确切知道自己要去哪里以及如何到达那里的科学家不应该因为一只眼睛盯着收银机而另一只眼睛盯着显微镜而分心。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "Nor, if regularity and conformity to a standard pattern are as desirable to the scientist as the writing of his papers would appear to reflect, is management to be blamed for discriminating against the \"odd balls\" among researchers in favor of more conventional thinkers who \"work well with the team\".",
+    "translation": "如果规律性和符合标准模式对科学家来说就像他的论文所反映的那样，那么管理层也不能被指责歧视研究人员中的“奇怪的球”，而偏爱“与团队合作良好”的更传统的思想家。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  }
+]

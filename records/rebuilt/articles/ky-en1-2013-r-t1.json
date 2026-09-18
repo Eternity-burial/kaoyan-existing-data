@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2013-r-t1",
+  "year": 2013,
+  "textNumber": 1,
+  "title": "Fast Fashion and the Cost of Disposable Chic",
+  "chineseTitle": "快时尚产业链冲击与可持续消费难题",
+  "topic": null,
+  "topicDomain": "商业经济与社会生态",
+  "subTopic": "快时尚模式的扩张、供应链代价与可持续消费困境",
+  "overview": null,
+  "wordCount": 420,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "3.5/5.0",
+  "sourcePublication": "选自 Slate 杂志对 Elizabeth Cline《Overdressed: The Shockingly High Cost of Cheap Fashion》的书评",
+  "paragraphCount": 6,
+  "sentenceCount": 17,
+  "vocabularyCount": 26,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "20世纪末至21世纪初，以Zara、H&M、优衣库为代表的‘快时尚’（Fast Fashion）颠覆了传统时装产业一年两次（春夏/秋冬）发布周期的法则，通过敏捷供应链与大数据预判，将设计到上架周期压缩至两周，并以‘极低价格（dirt-cheap）’刺激消费者将衣物视为一次性消耗品。然而，这一繁荣建立在第三世界低薪代工、巨量自然资源消耗与有毒化学品污染的沉重代价之上。伊丽莎白·克莱恩在其专著《Overdressed》中，深入剖析了这一消费主义神话，指出真正的可持续变革不能仅靠企业象征性的‘环保系列’公关，而取决于公众能否打破被虚荣绑架的过度消费模式。",
+      "coreDisputeOrTheme": "核心争论在于快时尚产业的繁荣与生态代价之间的不可调和性。大众品牌通过廉价与快速更新劫持了消费心理，使衣物从耐用品异化为‘穿一两次就丢弃’的快餐产品。尽管企业偶有环保姿态，但在‘虚荣常态与成本约束’下，缺乏实质动力；唯有消费者承受不起不可持续代价时，绿色消费方能破局。",
+      "keyTerminology": [
+        {
+          "term": "Fast Fashion",
+          "explanation": "快时尚：一种快速将最新秀场潮流转化为大众廉价成衣并高频上新的零售商业模式。"
+        },
+        {
+          "term": "Bargain Bin",
+          "explanation": "特价处理货柜/折价区：商场用于集中清仓甩卖滞销品或打折过季成衣的销售区域。"
+        },
+        {
+          "term": "Top-Down Conception",
+          "explanation": "自上而下的概念：传统时装界由高定时装周引领、逐级传导至大众零售的层级化传播路径。"
+        },
+        {
+          "term": "Turnaround",
+          "explanation": "周转周期：商品从设计生产到入库上架销售的整个流通周期。"
+        },
+        {
+          "term": "Disposable Culture",
+          "explanation": "一次性消费文化：将廉价工业制成品视同易耗垃圾、鼓励快速丢弃并频繁重购的社会消费风气。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "商业经济与时尚环保 (Business Economics & Fashion Ecology)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "in- / non- (否定前缀)",
+          "examples": [
+            "indictment (起诉/谴责)",
+            "non-durable (不耐用的)",
+            "insensitivity (迟钝/无感)"
+          ]
+        },
+        {
+          "affix": "-able (能够...的)",
+          "examples": [
+            "disposable (一次性的/可丢弃的)",
+            "sustainable (可持续的)",
+            "unaffordable (负担不起的)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "商业运作与供应链",
+          "words": [
+            "mass-market",
+            "inventory",
+            "turnaround",
+            "demand",
+            "profit",
+            "low-wage",
+            "in volumes"
+          ]
+        },
+        {
+          "theme": "时尚与消费心理",
+          "words": [
+            "high fashion",
+            "on-trend",
+            "style-conscious",
+            "wardrobe",
+            "seasonal pace",
+            "vanity"
+          ]
+        },
+        {
+          "theme": "生态与社会代价",
+          "words": [
+            "strain",
+            "harmful chemicals",
+            "wasteful",
+            "excess",
+            "curb",
+            "sustainability"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+    "year": 2013,
+    "articleKey": "ky-en1-2013-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+  }
+}

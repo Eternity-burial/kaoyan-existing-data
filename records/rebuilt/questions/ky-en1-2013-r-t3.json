@@ -1,0 +1,820 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "Our vision of the future used to be inspired by _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "our desire for lives of fulfillment.",
+        "isCorrect": false,
+        "distractorType": "CAUSALITY_INVERSION",
+        "analysis": "因果倒置。首段第二句指出：‘Science and technology would cure ... leading to lives of fulfillment’，追求充实完满的生活是科学技术治愈弊病后所‘带来的结果（leading to）’，而非最初激发积极未来愿景的驱动源头。"
+      },
+      {
+        "key": "B",
+        "text": "our faith in science and technology.",
+        "isCorrect": true,
+        "analysis": "定位至首段：“Up until a few decades ago, our visions of the future were largely ... glowingly positive. Science and technology would cure all the ills of humanity ...” 过去几十年前我们对未来的美好憧憬之所以洋溢积极，是因为人们对‘科学技术能够治愈人类一切问题’怀抱极高信任与信仰，our faith in science and technology 正是原文核心驱动因的精准概括。",
+        "vocab": [
+          {
+            "word": "technology",
+            "ipa": "[tekˈnɒlədʒi]",
+            "meaning": "技术",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "faith",
+            "ipa": "[feɪθ]",
+            "meaning": "信心",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "our awareness of potential risks.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "时空混淆与正反颠倒。第二段明确指出，对各种潜在风险（小行星、流感、气候变化）的认识是‘现在（Now）’导致乌托邦幻灭的原因，绝非‘过去（used to be）’激发积极未来愿景的因素。",
+        "vocab": [
+          {
+            "word": "potential",
+            "ipa": "[pəˈtenʃ(ə)l]",
+            "meaning": "潜在的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "risks",
+            "ipa": "",
+            "meaning": "风险",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "our belief in equal opportunity.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。原文首段只提到‘opportunity for all’（为所有人带来机遇），是科技发展带来的人人受益的愿景结果，从未提及人类原本就抱有‘机会均等的政治信念’。",
+        "vocab": [
+          {
+            "word": "belief",
+            "ipa": "[bɪˈliːf]",
+            "meaning": "信念",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "our faith in science and technology": "visions of the future were largely ... glowingly positive. Science and technology would cure all the ills ... (过去对未来的憧憬极其光明，坚信科技能医治人类一切弊病 -> 过去对未来的愿景源于对科学技术的笃定信念)"
+    },
+    "methodologyReview": "首段因果细节题。题干 used to be inspired by 设问‘过去对未来的展望源于什么激励’。原文清晰阐述：过去愿景极度乐观，根源在于坚信科技万能（Science and technology would cure ...）。选项 A 将结果（leading to ...）倒置为动力，选项 C 将当下的风险认知嫁接到过去，均是考研极其经典的干扰陷阱。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "vision",
+          "ipa": "[ˈvɪʒn]",
+          "meaning": "愿景",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "used",
+          "ipa": "[juːst]",
+          "meaning": "曾经",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "be",
+          "ipa": "[bi]",
+          "meaning": "源于",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t3.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e99c30e8ebdfec9ec1bd4595a5e0939c29d3659ff22ae3043ada2d436e56c423"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "The IUCN’s “Red List” suggests that human beings are _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a misplaced race.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与张冠李戴。第三段首句说‘such gloominess is misplaced’，错置的是人们的‘悲观情绪’，而非‘人类这个种族被放错了地方’。",
+        "vocab": [
+          {
+            "word": "species",
+            "ipa": "[ˈspiːʃiːz]",
+            "meaning": "物种",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "a sustained species.",
+        "isCorrect": true,
+        "analysis": "定位至第三段 S8：“Look up Homo sapiens in the 'Red List' ... and you will read: 'Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline.'” 红色名录是评估物种濒危程度的，人类被评为‘Least Concern（无危）’，其依据是人类分布极广、适应力超强、种群持续壮大，没有任何导致种群衰竭的威胁，这直接证明人类物种具备极强的持久生存延续性，即 a sustained species（一个得以长期维系延续的物种）。",
+        "vocab": [
+          {
+            "word": "dominant",
+            "ipa": "[ˈdɒmɪnənt]",
+            "meaning": "主导的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the world's dominant power.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。红名单只从生态演化角度评估种群存活率与灭绝风险，从未下结论称人类是‘统治世界的主导力量’。",
+        "vocab": [
+          {
+            "word": "threat",
+            "ipa": "[θret]",
+            "meaning": "威胁",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "a threat to the environment.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。红名单旨在评定人类自身是否濒危（Least Concern），而非将人类视作‘对自然环境的破坏性威胁’。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "a sustained species": "Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing ... (被列为无危物种，分布极广、适应力强、数量递增 -> 具有高度可持续延续生存能力的物种)"
+    },
+    "methodologyReview": "事实细节题。解题关键在于准确理解生物学权威名录评定术语‘Least Concern’及其理由‘widely distributed, adaptable, currently increasing’。这些证据全方位支撑人类的生命力能够持久延续（sustained / sustainable）。选项 D 则是拿上一句修饰情绪的词汇（misplaced gloominess）进行移花接木的恶劣偷换。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "suggests",
+          "ipa": "",
+          "meaning": "红色名录，灭绝危险很大的物种的…",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "human",
+          "ipa": "[ˈhjuːmən]",
+          "meaning": "人类",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t3.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e99c30e8ebdfec9ec1bd4595a5e0939c29d3659ff22ae3043ada2d436e56c423"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "Which of the following is true according to Paragraph 5?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The interest in science fiction is on the rise.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第五段提到近期技术前景‘best left to science fiction writers ... to explore’，只是建议将近期可能性的探索交给科幻小说家，并未说明大众对科幻的兴趣正在上升。",
+        "vocab": [
+          {
+            "word": "science",
+            "ipa": "[ˈsaɪəns]",
+            "meaning": "科幻小说",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "on",
+            "ipa": "[ɒn]",
+            "meaning": "在上涨",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Arc helps limit the scope of futurological studies.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有与曲解事实。推出新出版物《Arc》是为了探讨近期未来的各种可能性，绝非‘限制未来学研究的范围’。",
+        "vocab": [
+          {
+            "word": "scope",
+            "ipa": "[skəʊp]",
+            "meaning": "范围",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Technology offers solutions to social problems.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "断章取义。第五段强调技术演进及其引发的社会后果极其错综复杂（social consequences is dazzlingly complicated），绝未表达技术已经提供了解决社会问题的成熟方案。",
+        "vocab": [
+          {
+            "word": "Technology",
+            "ipa": "[tekˈnɒlədʒi]",
+            "meaning": "技术",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "solutions",
+            "ipa": "",
+            "meaning": "解决办法",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Our immediate future is hard to conceive.",
+        "isCorrect": true,
+        "analysis": "定位至第五段 S12-S13：“it may be easier to think about such lengthy timescales than about the more immediate future. The potential evolution of today's technology, and its social consequences, is dazzlingly complicated ...” 思考深层远期未来反而比思考‘更为切近的近期未来（immediate future）’更容易，原因正是当下技术演变与其社会后果‘dazzlingly complicated’（极其令人眼花缭乱、扑朔迷离）。因此，我们的近期未来难以预见和构想（hard to conceive），与文意完全契合。",
+        "vocab": [
+          {
+            "word": "conceive",
+            "ipa": "[kənˈsiːv]",
+            "meaning": "设想",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Our immediate future is hard to conceive": "The potential evolution of today's technology, and its social consequences, is dazzlingly complicated ... (当今技术的潜在演进及其社会后果极其错综复杂 -> 我们的近期未来极难准确预见构想)"
+    },
+    "methodologyReview": "段落正误推断题。考查对对比句‘easier to think about lengthy timescales than about immediate future’及因果解释‘dazzlingly complicated’的深入理解。复杂到只能留给科幻作家天马行空，正是因为 immediate future 缺乏确定规律、极难被理性构想（hard to conceive）。conceive 准确同义转换了 think about 与 explore possibilities。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t3.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e99c30e8ebdfec9ec1bd4595a5e0939c29d3659ff22ae3043ada2d436e56c423"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "To ensure the future of mankind, it is crucial to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "draw on our experience from the past.",
+        "isCorrect": true,
+        "analysis": "定位至第六段 S16：“As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts ...” 原文开宗明义指出‘过去掌握着通向未来的钥匙’，通过识别塑造地球与人类历史的长期大规律，我们才能做出有根据的预测并规避风险；结合第七段汲取知识以减少威胁，确保人类未来延续的关键正在于从过去吸取历史经验与演化规律（draw on our experience from the past）。",
+        "vocab": [
+          {
+            "word": "adopt",
+            "ipa": "[əˈdɒpt]",
+            "meaning": "树立",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "optimistic",
+            "ipa": "[ˌɒptɪˈmɪstɪk]",
+            "meaning": "积极的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "view",
+            "ipa": "[vjuː]",
+            "meaning": "观点",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "adopt an optimistic view of the world.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "以偏概全与逻辑倒置。作者指出长远视角会使悲观论调显得像短暂风潮，但这是一种理性分析的结果，并非为了确保人类未来而主观去‘树立一种乐观世界观’（作者在第七段还特意指出 future is not all rosy）。",
+        "vocab": [
+          {
+            "word": "draw",
+            "ipa": "[drɔː]",
+            "meaning": "从…中汲取…",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "explore our planet's abundant resources.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文章通篇未涉及勘探或开采地球丰富资源的内容。",
+        "vocab": [
+          {
+            "word": "explore",
+            "ipa": "[ɪkˈsplɔː(r)]",
+            "meaning": "勘探",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "our",
+            "ipa": "[ɑː(r)]",
+            "meaning": "地球",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "abundant",
+            "ipa": "[əˈbʌndənt]",
+            "meaning": "丰富的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "resources",
+            "ipa": "",
+            "meaning": "资源",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "curb our ambition to reshape history.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。原文强调的是学习认识历史长期规律（patterns shaping the history），从未提及‘抑制重塑历史的野心’。",
+        "vocab": [
+          {
+            "word": "curb",
+            "ipa": "[kɜːb]",
+            "meaning": "抑制",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "ambition",
+            "ipa": "[æmˈbɪʃn]",
+            "meaning": "野心",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "draw on our experience from the past": "the past holds the key to the future: we have now identified enough of the long-term patterns ... (过去掌握通往未来的钥匙：探明塑造历史的长期规律 -> 从过去的历史经验规律中汲取借鉴)"
+    },
+    "methodologyReview": "主旨细节题。精准锚定第六段的核心哲理句‘the past holds the key to the future’（过去掌握着通向未来的钥匙）。考研经典短语转换：the past holds the key 改写为 draw on our experience from the past（借鉴汲取过去的经验）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "ensure",
+          "ipa": "[ɪnˈʃʊə(r)]",
+          "meaning": "确保",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "mankind",
+          "ipa": "[mænˈkaɪnd]",
+          "meaning": "人类",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "crucial",
+          "ipa": "[ˈkruːʃ(ə)l]",
+          "meaning": "关键性的",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t3.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e99c30e8ebdfec9ec1bd4595a5e0939c29d3659ff22ae3043ada2d436e56c423"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Uncertainty about Our Future.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "反向干扰与基调相悖。全文通篇在强调‘there is a surprising amount that we can say with considerable assurance’（有许多走向我们能极其笃定地言说），文章的落脚点是长远视角的‘确定性与乐观前途’，而非沉溺于未来的不确定性。",
+        "vocab": [
+          {
+            "word": "Prospects",
+            "ipa": "",
+            "meaning": "前景",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Mankind",
+            "ipa": "[mænˈkaɪnd]",
+            "meaning": "人类",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Evolution of the Human Species.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。物种演化与化石记录只是作者用以论证人类长期生存能力的生物学论据，文章主题着眼于对未来前景的展望与信心，而非科普人类进化史。",
+        "vocab": [
+          {
+            "word": "Technology",
+            "ipa": "[tekˈnɒlədʒi]",
+            "meaning": "技术",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Humanity",
+            "ipa": "[hjuːˈmænəti]",
+            "meaning": "人类",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "The Ever-bright Prospects of Mankind.",
+        "isCorrect": true,
+        "analysis": "全文主旨大意题。文章开篇梳理对未来由极度乐观到末日悲观的转变，第3段明确亮出核心论点：‘such gloominess is misplaced’（这种悲观情绪完全是错置的）；随后以化石记录、红名单无危评级、长远规律预测层层论证，指出当下的悲观仅是‘a passing fad’（短暂风潮），人类拥有规避灾难、改善命运的强大智慧与延续能力。全文核心立意在于打破末日短视恐慌，讴歌人类在漫长未来中的光明持久前景，故 The Ever-bright Prospects of Mankind（人类历久弥坚的光明前景）为绝佳标题。",
+        "vocab": [
+          {
+            "word": "Evolution",
+            "ipa": "[ˌiːvəˈluːʃ(ə)n]",
+            "meaning": "进化",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Species",
+            "ipa": "[ˈspiːʃiːz]",
+            "meaning": "物种",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Science, Technology and Humanity.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "空泛笼统。‘科学、技术与人类’是一个极其宽泛的宏大标签，未能涵盖文章探讨‘深层未来’、驳斥末日悲观情绪、论证人类种群延续性的核心论点。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "The Ever-bright Prospects of Mankind": "本文立足百万年演化与深层未来大视角，论证人类绝非走向末日，具有极佳生存延续机会，前景依然长远乐观光明"
+    },
+    "methodologyReview": "全文标题概括题。做主旨标题题需牢牢把握‘论点论据的有机统一’与‘作者基调’。作者核心观点是驳斥末日悲观（gloominess is misplaced），证明人类前景乐观（excellent chance of surviving, passing fad, improve the lot）。选项 A 准确提炼了文章的主基调与宏大前景（Ever-bright Prospects）；选项 D 反向颠倒，选项 B、C 范围失当。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t3.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e99c30e8ebdfec9ec1bd4595a5e0939c29d3659ff22ae3043ada2d436e56c423"
+    }
+  }
+]

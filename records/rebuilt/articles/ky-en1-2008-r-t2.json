@@ -1,0 +1,372 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2008-r-t2",
+  "year": 2008,
+  "textNumber": 2,
+  "title": "Scientific Journal Publishing and the Rise of Open Access",
+  "chineseTitle": "学术期刊出版机制与开放获取浪潮的崛起",
+  "topic": null,
+  "topicDomain": "知识经济与学术传播",
+  "subTopic": "传统学术出版的暴利模式、OECD报告的冲击、开放获取三种商业新模式的崛起与同行评审制度的重塑",
+  "overview": null,
+  "wordCount": 425,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "3.9/5.0",
+  "sourcePublication": "选自《The Economist》(英国《经济学人》杂志) 科技与商业专栏特稿",
+  "paragraphCount": 4,
+  "sentenceCount": 24,
+  "vocabularyCount": 113,
+  "phraseCount": 72,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "本文选自世界顶尖政经期刊《经济学人》（The Economist）科学商业专栏深度特稿。20世纪末，全球学术出版业形成了被学术界痛斥为‘三重剥削’的荒谬垄断体制：爱思唯尔（Elsevier）、斯普林格（Springer）等跨国出版巨头凭借对《自然》、《柳叶刀》、《细胞》等顶尖学术期刊版权的垄断，将纳税人出资、大学学者免费撰写并由学者免费提供同行审稿的科学论文装入高筑的‘付费墙（Paywall）’，再以每年数百至数千万美元的天价数据库订阅费反向捆绑倾销给大学图书馆。这导致全球科研人员与公众被严重阻隔在人类公共知识殿堂之外。伴随互联网的兴起以及OECD关于知识经济传播回报的重磅报告，全球学术界与国家科研基金会掀起了波澜壮阔的‘开放获取运动’（Open Access Movement），深刻瓦解了出版巨头的垄断神话。",
+      "coreDisputeOrTheme": "文章的核心议题围绕“学术知识公共属性与商业出版垄断模式的冲突”展开：第一，传统闭门造车与付费墙模式的瓦解——传统流程（投稿、盲审、转让版权、读者订阅）限制了纳税人投资科研的回报率，互联网技术与政府出资机构的严正质询让科学成果免费共享成为不可逆转的现实；第二，出版巨头利益受挫——OECD报告直指学术出版是年均百亿美元的暴利机器，开放获取的浪潮让那些坐收暴利的商业出版商读起来‘心情无比沉重（makes heavy reading）’；第三，三种颠覆性商业新模式的崛起——‘大交易（Big Deal，一揽子高校打包授权）’、‘开放获取出版（Open-Access Publishing，作者/资助单位支付版面费APC，读者完全免费）’以及‘机构知识库（Institutional Repositories）’等，正在彻底重塑从同行评审到学术成果分发的整个古老体制。",
+      "keyTerminology": [
+        {
+          "term": "Open Access (OA)",
+          "explanation": "开放获取：指科研成果在互联网上免费、永久、免受绝大多数版权限制供全人类自由检索、阅读、下载与传播的现代学术出版模式。"
+        },
+        {
+          "term": "Author-Pays Model (APC)",
+          "explanation": "作者付费模式/论文处理费：开放获取期刊的核心商业模式，由论文作者或其背后的科研基金、雇主单位在论文录用时支付出版成本，读者端完全免费开放。"
+        },
+        {
+          "term": "Big Deal & Site-Licensing",
+          "explanation": "大交易与整站许可协议：商业出版巨头将旗下数百种期刊打包打包倾销给大学图书馆系统的一揽子长期订阅协议。"
+        },
+        {
+          "term": "Institutional Repositories",
+          "explanation": "机构知识库/预印本档案库：由大学、科研院所自主出资建立的用于存储、沉淀与开放本校学者科研成果的免费数字档案系统（如 arXiv、大学OA文库）。"
+        }
+      ],
+      "crossExamLinks": [
+        {
+          "year": "2015 Text 3",
+          "theme": "科研可复制性危机与《科学》杂志强化审查",
+          "relevance": "同样探讨现代科研体制、学术成果发表机制以及学术共同体内部的制度化重塑"
+        },
+        {
+          "year": "2012 Text 4",
+          "theme": "美国最高法院对公有领域知识产权的判决",
+          "relevance": "探讨公共知识传播、版权垄断与公众获取自由之间的法律与商业边界博弈"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "学术出版、开放获取与知识经济学 (Academic Publishing, Open Access & Knowledge Economics)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "sub- (在……之下/向下)",
+          "examples": [
+            "subscribe (订阅/赞同)",
+            "submit (提交/顺从)"
+          ]
+        },
+        {
+          "affix": "re- (再/回)",
+          "examples": [
+            "repository (知识库/贮存库)",
+            "review (评审/回顾)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "传统期刊出版流程",
+          "words": [
+            "straightforward",
+            "affiliation",
+            "peer review",
+            "decline",
+            "copyright",
+            "rest with",
+            "subscribe to"
+          ]
+        },
+        {
+          "theme": "商业出版与暴利模式",
+          "words": [
+            "commercial publishers",
+            "funding agencies",
+            "handsome profits",
+            "heavy reading",
+            "big business",
+            "specializing"
+          ]
+        },
+        {
+          "theme": "开放获取与新兴模式",
+          "words": [
+            "ready access",
+            "wide distribution",
+            "big deal",
+            "site-licensing",
+            "open-access publishing",
+            "repositories",
+            "hybrids"
+          ]
+        }
+      ]
+    },
+    "nuancesAndConfusions": {
+      "familiarWordUncommonMeanings": [
+        {
+          "word": "peer",
+          "location": "P1 L3",
+          "familiarMeaning": "同龄人、同等地位者",
+          "examMeaning": "学术同行、同领域研究人员",
+          "contextCollocation": "send it to their peers for review"
+        },
+        {
+          "word": "decline",
+          "location": "P1 L5",
+          "familiarMeaning": "下降、衰退",
+          "examMeaning": "拒绝、不接受论文",
+          "contextCollocation": "accept the paper ... or decline it"
+        },
+        {
+          "word": "rest with",
+          "location": "P1 L5",
+          "familiarMeaning": "rest＝休息",
+          "examMeaning": "归属于；责任或决定权在于",
+          "contextCollocation": "Copyright rested with the journal publisher."
+        },
+        {
+          "word": "issue",
+          "location": "P2 L4",
+          "familiarMeaning": "问题、议题、期号",
+          "examMeaning": "正式发布、公布",
+          "contextCollocation": "issued a report"
+        },
+        {
+          "word": "handsome",
+          "location": "P2 L7",
+          "familiarMeaning": "英俊的",
+          "examMeaning": "数额可观的、丰厚的",
+          "contextCollocation": "handsome profits"
+        },
+        {
+          "word": "some + 数字",
+          "location": "P3 L6；P4 L1",
+          "familiarMeaning": "一些",
+          "examMeaning": "大约、约有",
+          "contextCollocation": "some 16,000 journals；some 75%"
+        },
+        {
+          "word": "the big deal",
+          "location": "P4 L3",
+          "familiarMeaning": "大事、重要人物",
+          "examMeaning": "学术期刊一揽子捆绑订阅模式",
+          "contextCollocation": "the so-called big deal"
+        },
+        {
+          "word": "title",
+          "location": "P4 L4",
+          "familiarMeaning": "标题、书名、头衔",
+          "examMeaning": "一种具体期刊或出版物",
+          "contextCollocation": "online journal titles"
+        },
+        {
+          "word": "support",
+          "location": "P4 L8",
+          "familiarMeaning": "支持观点；支撑重量",
+          "examMeaning": "资助、维持、运营",
+          "contextCollocation": "support institutional repositories"
+        },
+        {
+          "word": "channel",
+          "location": "Q30 C",
+          "familiarMeaning": "频道；海峡",
+          "examMeaning": "传播或出版的渠道、途径",
+          "contextCollocation": "a new channel for publication"
+        },
+        {
+          "word": "render",
+          "location": "Q30 D",
+          "familiarMeaning": "呈现、翻译、给予",
+          "examMeaning": "使……成为某种状态",
+          "contextCollocation": "Publication is rendered easier..."
+        },
+        {
+          "word": "core",
+          "location": "P3 L3",
+          "familiarMeaning": "果核；中心部分",
+          "examMeaning": "核心的、主要的",
+          "contextCollocation": "the core scientific publishing market"
+        },
+        {
+          "word": "site",
+          "location": "P4 L5",
+          "familiarMeaning": "地点；网站",
+          "examMeaning": "机构许可所覆盖的场所或单位",
+          "contextCollocation": "site-licensing agreements"
+        },
+        {
+          "word": "question",
+          "location": "P2 L1-L2",
+          "familiarMeaning": "问题；提问",
+          "examMeaning": "质疑、怀疑",
+          "contextCollocation": "questioning why commercial publishers..."
+        },
+        {
+          "word": "heavy",
+          "location": "P2 L6",
+          "familiarMeaning": "重量大的",
+          "examMeaning": "内容沉重、令人不快或难以接受",
+          "contextCollocation": "makes heavy reading for publishers"
+        },
+        {
+          "word": "signal",
+          "location": "P2 L8",
+          "familiarMeaning": "信号",
+          "examMeaning": "表明、预示",
+          "contextCollocation": "signals a change in..."
+        },
+        {
+          "word": "return",
+          "location": "P3 L1",
+          "familiarMeaning": "返回；归还",
+          "examMeaning": "投资回报、收益",
+          "contextCollocation": "the return on the public investment"
+        },
+        {
+          "word": "ready",
+          "location": "P3 L2",
+          "familiarMeaning": "准备好的",
+          "examMeaning": "容易获得的、便捷的",
+          "contextCollocation": "ready access"
+        },
+        {
+          "word": "big business",
+          "location": "P3 L2",
+          "familiarMeaning": "大企业",
+          "examMeaning": "规模庞大、利润可观的行业",
+          "contextCollocation": "It is big business."
+        },
+        {
+          "word": "where",
+          "location": "P4 L3-L4；P4 L9",
+          "familiarMeaning": "在哪里",
+          "examMeaning": "在这种模式或情况下",
+          "contextCollocation": "the big deal, where...；delayed open-access, where..."
+        },
+        {
+          "word": "pose",
+          "location": "Q30 A",
+          "familiarMeaning": "摆姿势",
+          "examMeaning": "造成、构成",
+          "contextCollocation": "pose a threat to publishers"
+        }
+      ],
+      "confusingWordPairs": [
+        {
+          "pair": "peer / colleague / counterpart",
+          "analysis": "peer 强调同龄、同等地位或同行；colleague 指同一单位或职业的同事；counterpart 指不同组织中职能、地位相对应的人。"
+        },
+        {
+          "pair": "decline / reject / refuse",
+          "analysis": "decline 较委婉，可接 invitation/offer，也可表示下降；reject 明确拒绝方案、论文或观点；refuse 常指拒绝做某事或拒绝给予，常用 refuse to do。"
+        },
+        {
+          "pair": "issue / publish / release",
+          "analysis": "issue 强调机构正式发布报告、命令或声明；publish 强调出版、发表作品；release 强调向公众公布信息或产品，语体较宽。"
+        },
+        {
+          "pair": "commercial / economic / economical",
+          "analysis": "commercial＝商业性的、营利性的；economic＝经济的；economical＝节约的、经济实惠的。"
+        },
+        {
+          "pair": "access / accessible",
+          "analysis": "access 是名词或动词，常用 access to sth / access sth；accessible 是形容词，常用 be accessible to sb。"
+        },
+        {
+          "pair": "consequence / result / effect",
+          "analysis": "consequence 强调由某事造成的重要后果，常含负面色彩；result 中性，侧重最终结果；effect 侧重影响或作用。"
+        },
+        {
+          "pair": "profit / revenue / benefit",
+          "analysis": "profit＝收入扣除成本后的利润；revenue＝总收入、营业收入；benefit＝一般意义上的好处或受益。"
+        },
+        {
+          "pair": "estimate / assess / evaluate",
+          "analysis": "estimate 估算数量、价值；assess 评估状况、风险或能力；evaluate 系统判断质量、价值或效果。"
+        },
+        {
+          "pair": "scholarly / academic",
+          "analysis": "scholarly 强调具有学术研究性质或学者风格；academic 范围更广，可指学校的、学术的、理论性的。"
+        },
+        {
+          "pair": "title / headline / name",
+          "analysis": "title 可指作品名称、头衔，本文还指一种期刊；headline 专指新闻标题；name 是最一般的名称。"
+        },
+        {
+          "pair": "archive / repository",
+          "analysis": "archive 强调长期保存的档案集合；repository 强调集中存储、管理和检索信息的系统或场所。"
+        },
+        {
+          "pair": "mode / model / means",
+          "analysis": "mode＝方式、状态或运行模式；model＝模型、范式、商业模式；means＝实现目的的手段，单复数同形。"
+        },
+        {
+          "pair": "render / make / cause",
+          "analysis": "render + O + C 较正式，意为使成为；make + O + C 最常用；cause 通常接名词或 cause sb/sth to do，强调造成结果。"
+        },
+        {
+          "pair": "economic / economical / economy / economics",
+          "analysis": "economic 经济的；economical 节约的、实惠的；economy 经济、节约；economics 经济学。"
+        },
+        {
+          "pair": "journal / magazine / newspaper",
+          "analysis": "journal 在本文指学术期刊；magazine 多为面向大众的杂志；newspaper 是报纸。"
+        },
+        {
+          "pair": "site / website / venue",
+          "analysis": "site 可指地点、场所或网站；website 专指网站；venue 指活动、会议举行地点。"
+        },
+        {
+          "pair": "used to / would",
+          "analysis": "used to 可表示过去反复动作或过去状态；would 在叙事中表示过去反复动作，通常不单独表示状态。"
+        },
+        {
+          "pair": "in part / partly / partially",
+          "analysis": "三者均可表示“部分地”；in part 较正式、常作插入语；partly 最常用；partially 也可指不完整地、局部地。"
+        },
+        {
+          "pair": "return / profit / benefit",
+          "analysis": "return 强调投入后的回报；profit 强调财务净利润；benefit 强调广义好处。"
+        },
+        {
+          "pair": "distribution / dissemination",
+          "analysis": "distribution 可指分配、分布或传播；dissemination 更正式，专指信息、思想的广泛传播。"
+        },
+        {
+          "pair": "open-access publishing / open-access archive / delayed open-access",
+          "analysis": "open-access publishing 是出版收费与开放模式；open-access archive 是公开存储论文的资料库；delayed open-access 是先限时订阅、后免费公开。"
+        },
+        {
+          "pair": "significant / important / crucial",
+          "analysis": "important 最一般；significant 强调意义重大或影响明显；crucial 强调决定性、至关重要。"
+        },
+        {
+          "pair": "facilitate / promote / accelerate",
+          "analysis": "facilitate 使过程更容易；promote 促进、推动发展；accelerate 加速进程，强调速度。"
+        },
+        {
+          "pair": "such as / for example",
+          "analysis": "such as 后直接接例子，嵌入句中；for example 可独立作插入语，后可接完整句。"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+    "year": 2008,
+    "articleKey": "ky-en1-2008-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+  }
+}

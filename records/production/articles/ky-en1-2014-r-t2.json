@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2014-r-t2",
+  "year": 2014,
+  "textNumber": 2,
+  "title": "Sky-High Legal Costs, Law School Debt, and the Need for Professional Reform",
+  "chineseTitle": "美国高昂法律服务成本、法学院债务困境与行业自由化改革",
+  "topic": null,
+  "topicDomain": "商业法律与职业教育",
+  "subTopic": "美国法律服务溢价成因、法学院学生债务沉疴与律所股权准入改革",
+  "overview": null,
+  "wordCount": 418,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自 The Economist《The law firm: A less restrictive practice》",
+  "paragraphCount": 6,
+  "sentenceCount": 24,
+  "vocabularyCount": 76,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "在美国，律师是引发社会敌意和当事人抱怨最多的职业群体之一。经济危机前十年间，美国法律服务费用涨幅达到通货膨胀的两倍，顶级律师的暴利吸引了大量学生涌入法学院。然而，绝大多数毕业生无法进入顶级律所，反而沦为靠琐屑碰瓷诉讼（nuisance lawsuits）谋生的‘诉棍’，致使侵权法体系成为社会噩梦。究其深层原因：一是门槛过高且昂贵的法律教育模式（4年无关本科+3年高价法学院+昂贵律考培训），导致毕业生背负高达10万美元以上的沉重债务山；二是美国律师协会（ABA）与各州监管机构推行的‘行会垄断式（Guild-like）’所有权结构，严格禁止非执业律师参股律所，排斥现代科技与职业管理。作者呼吁美国效仿英国与澳大利亚，打破行会壁垒，推进法律执业的自由化改革。",
+      "coreDisputeOrTheme": "核心争论在于‘行会自我保护’与‘市场竞争效率’的激烈博弈。各州保守监管机构打着‘隔离商业逐利压力、维系职业伦理’的旗号，誓死维护垄断；而作者与改革派力证：正是这种封建行会式的体制锁死了技术应用与资本注入，导致法律服务价格高昂、服务低下。放宽学制年限（允许本科法学或两年后考律考）并引入非律师参股，才是降低法律门槛、惠及社会公众的破局良方。",
+      "keyTerminology": [
+        {
+          "term": "Nuisance Lawsuit",
+          "explanation": "妨害诉讼/恶意缠诉：指原告明知缺乏坚实法理依据，但利用诉讼成本高昂敲诈被告庭外和解的投机性骚扰诉讼。"
+        },
+        {
+          "term": "Tort System",
+          "explanation": "民事侵权体系：美国民法中用于救济因过失、侵害行为遭受人身或财产损害的诉讼赔偿法律机制。"
+        },
+        {
+          "term": "American Bar Association (ABA)",
+          "explanation": "美国律师协会：制定美国法学院认证标准、司法考试准入规则与职业伦理道德准则的全国性行业自治机构。"
+        },
+        {
+          "term": "Guild-like Structure",
+          "explanation": "行会式所有权结构：源自中世纪手工业行会的排他垄断体制，律所仅限本行会员合伙持有，严禁外行资本介入。"
+        },
+        {
+          "term": "Liberalizing Legal Profession",
+          "explanation": "法律行业自由化改革：打破律师排他所有权壁垒，允许外部资本投资并雇佣职业经理人管理律所的现代化改革。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "法律服务与职业准入 (Legal Profession & Industry Deregulation)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "liber- (自由)",
+          "examples": [
+            "liberalize (放宽限制/自由化)",
+            "liberalization (自由化改革)"
+          ]
+        },
+        {
+          "affix": "-like (像...一样的)",
+          "examples": [
+            "guild-like (行会式的/封建垄断式的)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "法律诉讼与行业弊病",
+          "words": [
+            "hostility",
+            "grounds for complaint",
+            "nuisance-lawsuit",
+            "tort system",
+            "costly nightmare"
+          ]
+        },
+        {
+          "theme": "教育成本与学生债务",
+          "words": [
+            "excessive costs",
+            "undergraduate degree",
+            "debt mountain",
+            "authorized",
+            "stern exam"
+          ]
+        },
+        {
+          "theme": "垄断体制与市场改革",
+          "words": [
+            "guild-like",
+            "restrictive",
+            "opponents",
+            "outsiders",
+            "liberalizing",
+            "efficiency"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2014.js",
+    "year": 2014,
+    "articleKey": "ky-en1-2014-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+  }
+}

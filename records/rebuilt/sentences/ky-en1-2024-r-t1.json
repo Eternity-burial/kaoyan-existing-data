@@ -1,0 +1,392 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Nearly 2000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.",
+    "translation": "大约两千年前，当古罗马军团开始撤离苏格兰时，他们留下了一批奇特的宝藏：整整10吨铁钉，数量接近惊人的一百万枚。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.",
+    "translation": "这处浩大的铁钉窖藏于1960年被考古发现，深埋在一个深达四米、上方覆盖着整整两米厚砾石的隐秘深坑之中。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians getting their hands on 10 tons of weapons grade iron. The Romans buried the nails so deep that they would not be discovered for almost two millennia.",
+    "translation": "罗马人究竟为何要深埋这一百万枚铁钉？最合情合理的解释是：当时撤退行动极其仓促紧急，而他们绝不希望当地的喀里多尼亚土著人染指获取这10吨宝贵的武器级优质铁原料（hiding them from locals / didn't want local Caledonians getting their hands on iron）。罗马人将铁钉埋得如此之深，以至于在长达近两千年的漫长岁月里都未曾被世人发觉。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Later civilizations would value the skilled blacksmith's labour in a nail even more than the raw material.",
+    "translation": "后来的诸多人类文明对一枚铁钉中熟练铁匠所倾注的手工劳动价值，甚至看得比铁原料本身还要珍贵得多。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate. This was an attempt to recover the valuable nails, which could be reused after sifting the ashes.",
+    "translation": "正如萝玛·阿格拉瓦尔在其令人赞叹的新作《螺母与螺栓》中所阐述的那样：17世纪初的弗吉尼亚早期殖民者在计划搬迁定居点时，有时甚至会故意纵火将自己的整座房屋付之一炬——这完全是为了回收那些价值连城的宝贵铁钉，在灰烬中筛出铁钉后便能重新循环利用。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.",
+    "translation": "一个人竟然会仅仅为了回收铁钉而不惜烧毁一整栋房屋，这种不可思议的做法深刻印证了这项表面看似简单的制钉技术在当年是多么罕见稀缺、成本高昂且弥足珍贵（show the preciousness of nail-making technology at that time）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper.",
+    "translation": "正如经济学家丹尼尔·西歇尔在一篇学术论文中所指出的那样，从18世纪末到20世纪中叶，铁钉的实际价格足足暴跌了整整90%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.",
+    "translation": "根据西歇尔的深入分析，尽管铁钉价格暴跌部分得益于铁原料降价和能源成本下降，但绝大部分功劳都要归功于制钉制造商们——他们找到了将钢材高效加工转化为铁钉的更先进、更高效的生产工艺（more efficient ways / Increased productivity）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Nails themselves have changed over the years. But Sichel studied them because they haven't changed much. Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails.",
+    "translation": "铁钉本身随岁月流逝当然发生过演变；但西歇尔之所以深入研究铁钉，恰恰是因为它们在本质上并没有发生太大的改变（haven't changed much / remained basically the same since Roman times）。罗马时代的油灯和双轮战车与当今的 LED 灯带和超级跑车天差地别，但两千年前的罗马铁钉却依然清晰可辨就是不折不扣的铁钉。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.",
+    "translation": "试图去追踪自1695年以来跑车的价格演变显然荒谬绝伦，但对跨越数百上千年的铁钉提出同样的价格追问却完全合情合理。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "I make no apology for being obsessed by a particular feature of everyday objects: their price. I am an economist, after all. After writing two books about the history of inventions, one thing I've learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it's the cheap technologies that change the world.",
+    "translation": "我毫不掩饰自己对日常物品一个极其特殊特征的由衷痴迷——那就是它们的价格。毕竟，我是一名经济学者。在撰写了两部关于人类发明史的专著之后，我所领悟到的最深刻真谛便是：尽管那些令人着迷的精密复杂高精尖技术（sophisticated technologies）独揽了世间所有的舆论炒作与光环；然而，真正带来翻天覆地革命性变革、深刻改变整个人类世界的，恰恰是那些成本极其低廉的廉价技术（cheap technologies change the world / bring about revolutionary change）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost—and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often overlooked technology called paper.",
+    "translation": "古腾堡印刷机之所以彻底重塑了人类文明，绝非因为改变了文字书写的本质属性，而是由于根本性地大幅颠覆降低了书写知识的传播成本——而且，若非得益于一种常被忽视的‘造纸术’技术使得纸张承载成本同步发生断崖式暴跌，印刷机本不可能取得如此辉煌的伟业。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P7-S2",
+      "pIndex": 7
+    },
+    "text": "Solar panels had a few niche uses until they became cheap; now they are transforming the global energy system.",
+    "translation": "太阳能电池板在过去数十年里一直局限于极少数利基小众用途，直到其制造成本变得极其低廉亲民；而如今，它们正在以排山倒海之势全面重塑整个全球能源体系！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t1.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:328cf0cf5024eaf6be1d80997e225b21d71f6c8bbc7abb1e67f2e4c9162ed5e6"
+    }
+  }
+]

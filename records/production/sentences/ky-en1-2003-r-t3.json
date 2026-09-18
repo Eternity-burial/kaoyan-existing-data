@@ -1,0 +1,602 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "In recent years, railroads have been combining with each other, merging into supersystems, causing heightened concerns about monopoly.",
+    "translation": "近年来，铁路相互结合，合并成超级系统，引发了人们对垄断的担忧。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "As recently as 1995, the top four railroads accounted for under 70 percent of the total ton-miles moved by rails.",
+    "translation": "就在 1995 年，四大铁路的运输量还不到铁路运输总吨英里的 70%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Next year, after a series of mergers is completed, just four railroads will control well over 90 percent of all the freight moved by major rail carriers.",
+    "translation": "明年，一系列合并完成后，仅四家铁路公司就将控制主要铁路运输公司运输量的 90% 以上。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Supporters of the new supersystems argue that these mergers will allow for substantial cost reductions and better coordinated service.",
+    "translation": "新超级系统的支持者认为，这些合并将大幅降低成本并提供更好的协调服务。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Any threat of monopoly, they argue, is removed by fierce competition from trucks.",
+    "translation": "他们认为，卡车的激烈竞争可以消除任何垄断威胁。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "But many shippers complain that for heavy bulk commodities traveling long distances, such as coal, chemicals, and grain, trucking is too costly and the railroads therefore have them by the throat.",
+    "translation": "但许多托运人抱怨说，对于长途运输的大宗商品，如煤炭、化学品和谷物，卡车运输成本太高，因此被铁路扼住了喉咙。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The vast consolidation within the rail industry means that most shippers are served by only one rail company.",
+    "translation": "铁路行业内的大规模整合意味着大多数托运人仅由一家铁路公司提供服务。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Railroads typically charge such \"captive\" shippers 20 to 30 percent more than they do when another railroad is competing for the business.",
+    "translation": "铁路公司向此类“专属”托运人收取的费用通常比其他铁路公司竞争该业务时高出 20% 至 30%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Shippers who feel they are being overcharged have the right to appeal to the federal government's Surface Transportation Board for rate relief, but the process is expensive, time consuming, and will work only in truly extreme cases.",
+    "translation": "认为自己被多收费用的托运人有权向联邦政府的地面运输委员会请求减免费率，但这一过程既昂贵又耗时，而且只有在真正极端的情况下才有效。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Railroads justify rate discrimination against captive shippers on the grounds that in the long run it reduces everyone's cost.",
+    "translation": "铁路公司证明对自营托运人实行费率歧视是合理的，因为从长远来看，这会降低每个人的成本。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "If railroads charged all customers the same average rate, they argue, shippers who have the option of switching to trucks or other forms of transportation would do so, leaving remaining customers to shoulder the cost of keeping up the line.",
+    "translation": "他们认为，如果铁路对所有客户收取相同的平均费率，那么可以选择改用卡车或其他运输方式的托运人就会这样做，而剩下的客户则需要承担维持线路的成本。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "It's a theory to which many economists subscribe, but in practice it often leaves railroads in the position of determining which companies will flourish and which will fail.",
+    "translation": "这是许多经济学家都认同的理论，但在实践中，它常常让铁路公司处于决定哪些公司将蓬勃发展、哪些公司将失败的位置。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "\"Do we really want railroads to be the arbiters of who wins and who loses in the marketplace?\" asks Martin Bercovici, a Washington lawyer who frequently represents shippers.",
+    "translation": "“我们真的希望铁路成为市场上谁赢谁输的仲裁者吗？”经常代表托运人的华盛顿律师马丁·贝尔科维奇问道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Many captive shippers also worry they will soon be hit with a round of huge rate increases.",
+    "translation": "许多自保托运人还担心他们很快就会受到一轮大幅费率上涨的打击。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "The railroad industry as a whole, despite its brightening fortunes, still does not earn enough to cover the cost of the capital it must invest to keep up with its surging traffic.",
+    "translation": "整个铁路行业，尽管其财富不断增加，但收入仍然不足以支付其必须投资的资本成本，以跟上激增的运输量。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Yet railroads continue to borrow billions to acquire one another, with Wall Street cheering them on.",
+    "translation": "然而，铁路公司继续借贷数十亿美元相互收购，华尔街为它们喝彩。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Consider the $10.2 billion bid by Norfolk Southern and CSX to acquire Conrail this year.",
+    "translation": "考虑一下今年诺福克南方铁路公司和 CSX 出价 102 亿美元收购联合铁路公司的情况。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction.",
+    "translation": "联合铁路公司 1996 年的铁路运营净收入仅为 4.27 亿美元，不到交易持有成本的一半。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "Who's going to pay for the rest of the bill?",
+    "translation": "谁来支付账单的其余部分？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2003-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "Many captive shippers fear that they will, as Norfolk Southern and CSX increase their grip on the market.",
+    "translation": "随着诺福克南方航空和 CSX 加强对市场的控制，许多自保托运人担心他们会这么做。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2003.js",
+      "year": 2003,
+      "articleKey": "ky-en1-2003-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a4339c3b4ac2fe21fe76d277d97c136c52427a0f0fc6fec1c55b87962e29485c"
+    }
+  }
+]

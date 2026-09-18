@@ -1,0 +1,890 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "The Supreme Court will work out whether, during an arrest, it is legitimate to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "search for suspects' mobile phones without a warrant.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。原文第一段说的是搜查手机‘内部的内容’（search the contents of a mobile phone），而非寻找或搜查嫌疑人的‘手机这一实物本身’（search for suspects' mobile phones）。",
+        "vocab": [
+          {
+            "word": "prevent",
+            "ipa": "[prɪˈvent]",
+            "meaning": "阻止，防止",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "suspects",
+            "ipa": "",
+            "meaning": "嫌疑犯",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "deleting",
+            "ipa": "",
+            "meaning": "删除",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "check suspects' phone contents without being authorized.",
+        "isCorrect": true,
+        "analysis": "定位至第一段第二句：“The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest.” 题干中 The Supreme Court will work out whether it is legitimate 对应 consider whether police can...；check suspects' phone contents 同义替换 search the contents of a mobile phone；without being authorized（未获司法授权）同义替换 without a warrant（未持搜查令）。选项C完全契合原文核心案由。",
+        "vocab": [
+          {
+            "word": "search",
+            "ipa": "[sɜːtʃ]",
+            "meaning": "搜寻，寻找",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "suspects",
+            "ipa": "",
+            "meaning": "嫌疑犯",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "mobile",
+            "ipa": "[ˈməʊbaɪl]",
+            "meaning": "手机",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "warrant",
+            "ipa": "[ˈwɒrənt]",
+            "meaning": "执行令",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "prevent suspects from deleting their phone contents.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "张冠李戴。第六段提到警方可以采取措施防止数据被删除（ensure that phone data are not erased），但这并非最高法院在第一段中需要裁定合法性（legitimate）的核心案由。",
+        "vocab": [
+          {
+            "word": "check",
+            "ipa": "[tʃek]",
+            "meaning": "嫌疑人",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "prohibit suspects from using their mobile phones.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。全文探讨的是警方调取手机数据是否需要搜查令，从未讨论是否应禁止嫌疑人使用手机。",
+        "vocab": [
+          {
+            "word": "prohibit",
+            "ipa": "[prəˈhɪbɪt]",
+            "meaning": "禁止",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "suspects",
+            "ipa": "",
+            "meaning": "嫌疑人",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "mobile",
+            "ipa": "[ˈməʊbaɪl]",
+            "meaning": "手机",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "check suspects' phone contents without being authorized": "search the contents of a mobile phone without a warrant during an arrest (在逮捕期间无搜查令搜查手机内容 -> 未经授权检查嫌犯手机内容)"
+    },
+    "methodologyReview": "事实细节题。考查核心术语转换：search the contents of a mobile phone $\\rightarrow$ check suspects' phone contents；without a warrant $\\rightarrow$ without being authorized（未获司法令状授权）。注意B选项故意将 search the contents（搜查内容）偷换为 search for mobile phones（搜寻手机本身）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Supreme",
+          "ipa": "[suːˈpriːm; sjuːˈpriːm]",
+          "meaning": "最高法院",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "work",
+          "ipa": "[wɜːk]",
+          "meaning": "确定",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "arrest",
+          "ipa": "[əˈrest]",
+          "meaning": "逮捕",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "legitimate",
+          "ipa": "[lɪˈdʒɪtɪmət]",
+          "meaning": "合法的",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The author's attitude toward California's argument is one of _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tolerance.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。作者明确要求‘discarding’（丢弃），毫无容忍迁就之意。"
+      },
+      {
+        "key": "B",
+        "text": "indifference.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。作者专辟整篇社论进行严正驳斥，态度鲜明坚定，绝非漠不关心（indifference）。"
+      },
+      {
+        "key": "C",
+        "text": "disapproval.",
+        "isCorrect": true,
+        "analysis": "观点态度题。作者在全文多处使用极为鲜明的贬义色彩词抨击加州政府的论点：第三段首句指出“The court would be recklessly modest if it followed California's advice”（若听从加州建议法院将是鲁莽愚蠢的谦逊）；第四段首句呼吁“discarding California's lame argument”（彻底摒弃加州站不住脚的论调）；第七段首句再次强调“the justices should not swallow California's argument whole”（大法官们绝不应全盘轻信加州的论点）。这些强烈的否定性评价表明作者对加州论点持坚定的反对与不赞同态度（disapproval）。",
+        "vocab": [
+          {
+            "word": "tolerance",
+            "ipa": "[ˈtɒlərəns]",
+            "meaning": "宽容",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "cautiousness.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "主客观混淆。加州政府自身声称面对新技术法官应当‘谨慎克制’，作者恰恰批判这种所谓的谨慎是‘recklessly modest’，作者自身的态度是坚决反对（disapproval）。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "ATTITUDE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "disapproval": "recklessly modest ... discarding California's lame argument ... should not swallow California's argument whole (鲁莽自谦/摒弃其站不住脚的论点/不可全盘盲从加州 -> 不赞成/反对立场)"
+    },
+    "methodologyReview": "观点态度题。锁定作者在评价该对象时使用的带有感情色彩的核心修饰语：recklessly modest（鲁莽自谦）、lame argument（拙劣站不住脚的论点）、should not swallow whole（不应盲信全吞）。由此可秒杀锁定正确态度为 disapproval（反对/不认同）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "argument",
+          "ipa": "[ˈɑːɡjumənt]",
+          "meaning": "观点",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "The author believes that exploring one's phone contents is comparable to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "getting into one's residence.",
+        "isCorrect": true,
+        "analysis": "定位至第四段第三句：“But exploring one's smartphone is more like entering his or her home.” 题干中 exploring one's phone contents 对应 exploring one's smartphone；is comparable to（相当于/类似于）对应 is more like；getting into one's residence（步入某人的居所住宅）精准同义替换 entering his or her home。作者以此强调搜查手机对个人私密领域的侵入性极其严重，等同于搜查民宅。",
+        "vocab": [
+          {
+            "word": "going",
+            "ipa": "",
+            "meaning": "搜查",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "handling one's historical records.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "断章取义。第四段第四句提到手机内包含有阅读史、财务史、病历等各种历史记录，这是手机内存储的数据属性，并非作者用来类比搜查手机行为的喻体。",
+        "vocab": [
+          {
+            "word": "handling",
+            "ipa": "",
+            "meaning": "处理，应付",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "historical",
+            "ipa": "[hɪˈstɒrɪk(ə)l]",
+            "meaning": "历史的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "scanning one's correspondences.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。通信记录仅是手机存储的多项个人隐私之一，并非整体类比对象。",
+        "vocab": [
+          {
+            "word": "scanning",
+            "ipa": "",
+            "meaning": "浏览",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "correspondences",
+            "ipa": "",
+            "meaning": "通信联系",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "going through one's wallet.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。加州政府声称翻看手机类似于翻查钱包（going through a suspect's purse/wallet），作者在第四段首句就明确斥责这是‘lame argument’（站不住脚的荒谬论点），作者断然否定了这一类比。",
+        "vocab": [
+          {
+            "word": "getting",
+            "ipa": "",
+            "meaning": "进入",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "residence",
+            "ipa": "[ˈrezɪdəns]",
+            "meaning": "住所",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "getting into one's residence": "entering his or her home (进入他或她的家中 -> 步入某人的住所)"
+    },
+    "methodologyReview": "事实细节题。考查核心同义替换：is comparable to $\\rightarrow$ is more like；getting into one's residence $\\rightarrow$ entering his or her home。注意A选项为加州政府提出的被作者猛烈批判的反面类比，极具迷惑性，必须分清‘加州主张’与‘作者主张’。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "英语一_2015_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "exploring",
+          "ipa": "",
+          "meaning": "搜查",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "comparable",
+          "ipa": "[ˈkɒmpərəb(ə)l]",
+          "meaning": "相当于",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "In Paragraphs 5 and 6, the author shows his concern that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "principles are hard to be clearly expressed.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。第六段首句说的是“stating that principle doesn't ease the challenge of line-drawing”（陈述该原则并不能化解划定司法界限的难题），原则本身是清晰的，难的是划定实践边界，并非‘原则难以表达’。",
+        "vocab": [
+          {
+            "word": "principles",
+            "ipa": "",
+            "meaning": "原则",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "the court is giving police less room for action.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反相反。第六段末句提到法院可能希望“allow room for police to cite situations where they are entitled to more freedom”（给警方更多行动自由），选项反向说成‘给警察越来越少的行动空间’。",
+        "vocab": [
+          {
+            "word": "court",
+            "ipa": "[kɔːt]",
+            "meaning": "法院",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "phones are used to store sensitive information.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "因果与关注点倒置。第五段第二句指出在手机上存储敏感信息是现代生活的必然需求（a requirement of normal life），作者对此并不感到忧虑，作者真正担忧的是在此背景下公民的隐私权缺乏有效保障。",
+        "vocab": [
+          {
+            "word": "sensitive",
+            "ipa": "[ˈsensətɪv]",
+            "meaning": "敏感的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "citizens' privacy is not effectively protected.",
+        "isCorrect": true,
+        "analysis": "第五、六段核心语意综合概括：第五段指出现代人必然把敏感信息存入智能手机，公民有权期待这些私密文件受到宪法保护；第六段紧接着指出司法划线极为艰难，警方在各种紧急例外和裁量自由下极易冲垮第四修正案防线。作者通篇都在表达在数字化常态下，公民宪法隐私权面临被执法公权力肆意侵蚀、未能得到切实有效保护的深层忧虑（citizens' privacy is not effectively protected）。",
+        "vocab": [
+          {
+            "word": "privacy",
+            "ipa": "[ˈprɪvəsi]",
+            "meaning": "隐私",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "citizens' privacy is not effectively protected": "keeping sensitive information ... Citizens still have a right to expect private documents to remain private ... line-drawing (公民必须在手机存敏感信息但司法划线困难、第四修正案保护面临侵蚀风险 -> 公民隐私未获有效保护)"
+    },
+    "methodologyReview": "段落主旨细节题。把握段落深层逻辑意图。第五段确立权利诉求（公民有权期待隐私得到宪法保护），第六段揭示实务危机（执法机关极易绕开搜查令导致隐私保护形同虚设）。两者结合，作者的核心关切与担忧即为公民数字隐私在技术爆炸时代‘缺乏有效制度保护’。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段；段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "concern",
+          "ipa": "[kənˈsɜː(r)n]",
+          "meaning": "担忧",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Orin Kerr's comparison is quoted to indicate that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the Constitution should be implemented flexibly.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。引用该类比是为了论证面对颠覆性技术必须对宪法条款进行‘重新阐释与创新适用’，而非笼统模糊地主张宪法实施‘应具有灵活性（implemented flexibly）’。",
+        "vocab": [
+          {
+            "word": "Constitution",
+            "ipa": "[ˌkɒnstɪˈtjuːʃ(ə)n]",
+            "meaning": "宪法",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "implemented",
+            "ipa": "",
+            "meaning": "实行",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "new technology requires reinterpretation of the Constitution.",
+        "isCorrect": true,
+        "analysis": "例证题解法：例子论证的是其前方的核心论点。定位至第七段第二句：“New, disruptive technology sometimes demands novel applications of the Constitution's protections.” 随后引述奥林·克尔将21世纪的数字信息比作20世纪的汽车——当年法官必须为汽车确立新规则，如今必须厘清第四修正案如何适用于数字信息。new technology 对应 new, disruptive technology；requires 对应 demands；reinterpretation of the Constitution（对宪法进行重新诠释）精准同义替换 novel applications of the Constitution's protections 及 sort out how the Fourth Amendment applies to digital information。",
+        "vocab": [
+          {
+            "word": "principles",
+            "ipa": "",
+            "meaning": "原则",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Constitution",
+            "ipa": "[ˌkɒnstɪˈtjuːʃ(ə)n]",
+            "meaning": "宪法",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "altered",
+            "ipa": "",
+            "meaning": "改变",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "California's argument violates principles of the Constitution.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "断章取义。克尔教授的类比紧承第七段第二句宏观论点展开，旨在说明技术变革如何倒逼宪法解释创新，其论证重心在于阐明法官当前面临的历史使命，而非仅仅证明加州违宪。",
+        "vocab": [
+          {
+            "word": "argument",
+            "ipa": "[ˈɑːɡjumənt]",
+            "meaning": "观点",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "violates",
+            "ipa": "",
+            "meaning": "违背",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "principles",
+            "ipa": "",
+            "meaning": "原则",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Constitution",
+            "ipa": "[ˌkɒnstɪˈtjuːʃ(ə)n]",
+            "meaning": "宪法",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "principles of the Constitution should never be altered.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有且偏离主旨。文本探讨的是将宪法原则延伸适用到数字领域，并未在讨论宪法原则本身是否‘永不可更改’。",
+        "vocab": [
+          {
+            "word": "technology",
+            "ipa": "[tekˈnɒlədʒi]",
+            "meaning": "科技",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Constitution",
+            "ipa": "[ˌkɒnstɪˈtjuːʃ(ə)n]",
+            "meaning": "宪法",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reinterpretation",
+            "ipa": "[ˌriːɪnˌtɜːrprəˈteɪʃn]",
+            "meaning": "重新解释",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "EXEMPLIFICATION",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "new technology requires reinterpretation of the Constitution": "New, disruptive technology sometimes demands novel applications of the Constitution's protections ... specify novel rules then; must sort out how the Fourth Amendment applies to digital information now (颠覆性新技术要求对宪法保护进行创新应用 -> 新技术要求对宪法进行重新诠释)"
+    },
+    "methodologyReview": "例证题（Exemplification）。核心解题铁律：‘论点在论据前’。奥林·克尔的类比在第七段第3句，其论证的中心主题句正是第2句：“New, disruptive technology sometimes demands novel applications of the Constitution's protections.” 匹配选项D中的 new technology requires reinterpretation of the Constitution，实现对主旨句的完美同义对应。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2015_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Orin",
+          "ipa": "",
+          "meaning": "[人名]奥林·克尔",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "comparison",
+          "ipa": "[kəmˈpærɪs(ə)n]",
+          "meaning": "类比",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "quoted",
+          "ipa": "",
+          "meaning": "引用",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "indicate",
+          "ipa": "[ˈɪndɪkeɪt]",
+          "meaning": "说明",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Scientific publishing has long been a licence to print money. Scientists need journals in which to publish their research, so they will supply the articles without monetary reward.",
+    "translation": "长期以来，科学学术出版一直是一门不折不扣、坐地收钱的“印钞执照”（licence to print money）暴利生意。科学家为了发表自身的研究成果离不开学术期刊，因此他们会无偿自愿供稿而无需任何金钱报酬（content acquisition costs nothing）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Other scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge.",
+    "translation": "其他科学家同样无偿免费承担着极其专业繁重的同行评审（peer review）工作，因为在学术共同体中，这是确立学术声誉地位以及推动科学知识生产的核心关键要素。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "With the content of papers secured for free, the publisher needs only find a market for its journal. Until this century, university libraries were not very price sensitive. Scientific publishers routinely report profit margins approaching 40% on their operations at a time when the rest of the publishing industry is in an existential crisis.",
+    "translation": "既然论文内容完全免费到手，出版商唯一需要操心的就只是为旗下期刊寻找买家市场。直到本世纪初，各大大学图书馆对订阅价格都并不格外敏感（thrived on university libraries）。当整个出版行业的其他领域普遍深陷生死存亡的生存危机时，学术出版巨头却家常便饭般地交出营业利润率逼近40%的惊人暴利财报。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The Dutch giant Elsevier, which claims to publish 25% of the scientific papers produced in the world, made profits of more than £900m last year, while UK universities alone spent more than £210m in 2016 to enable researchers to access their own publicly funded research; both figures seem to rise unstoppably despite increasingly desperate efforts to change them.",
+    "translation": "声称出版了全球25%科研论文的荷兰出版巨头爱思唯尔（Elsevier），去年狂揽超过9亿英镑的巨额利润；而仅在2016年，英国各大学就累计耗费了逾2.1亿英镑的巨资，仅仅是为了让本国研究人员能够重新查阅由公共财政资金资助的科研论文成果；尽管各方竭尽全力试图扭转这一荒谬局面，但这两项数据似乎仍在不可阻挡地节节攀升。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015.",
+    "translation": "针对这种垄断暴利最剧烈、且彻底违法的反弹，便是2012年创立的“科学海盗湾”（Sci-Hub）的横空出世——它宛如一台面向全球学术论文的巨型超级复印机，如今宣称能够提供自2015年以来发表的每一篇付费墙（paywalled）锁定的论文全文。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "The success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants.",
+    "translation": "Sci-Hub 依赖于研究人员主动转自分享他们通过合法途径获取的文献副本，它的巨大成功深刻表明：现行的合法出版生态系统在广大科研用户心中已彻底丧失了合法正当性，必须予以大刀阔斧的全面改造，方能造福所有参与各方（shows deep concern / must be transformed）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "In Britain the move towards open access publishing has been driven by funding bodies. In some ways it has been very successful. More than half of all British scientific research is now published under open access terms: either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release.",
+    "translation": "在英国，转向“开放获取”（Open Access）出版的浪潮主要由科研资助机构强力推动。在某些方面它取得了显著成效：目前超过一半的英国科研成果都是基于开放获取条款发表的——要么从发表那一刻起即完全免费开放，要么设置一年或更长时间的付费墙缓冲期，以便出版商在论文公开发布前仍能充分赚取丰厚利润（allow publishers some room to make money）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Yet the new system has not yet worked out any cheaper for the universities. Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article.",
+    "translation": "然而，这套新体制至今丝毫未能让大学的开销变得哪怕便宜一点点。面对要求向读者免费开放产品的呼声，出版商的应对策略竟然是向论文作者本人强行收取所谓覆盖“论文准备排版成本”的高额版面费。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "These range from around £500 to $5,000, and apparently the work gets more expensive the more that publishers do it. A report last year pointed out that the costs both of subscriptions and of these \"article preparation costs\" had been steadily rising at a rate above inflation.",
+    "translation": "这些费用从每篇约500英镑到高达5000美元不等，而且显而易见的是，出版商经手的论文越多，要价就越发昂贵。去年的一份权威报告指出：学术订阅费以及这种巧立名目的“论文加工费”，一直在以远超通货膨胀率的速度持续飞涨。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places. In both cases, we need a rebalancing of power.",
+    "translation": "在某种程度上，学术科学出版的商业模式与社交互联网平台的经济形态如出一辙：广大劳动者无偿免费奉献劳动成果以期换取声誉地位的虚幻希望，而掌控市场平台的极少数寡头巨头企业却在此过程中攫取着难以想象的滔天暴利（The few feed on the many）。在这两种场景下，我们都迫切需要实现权力的深刻再平衡！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2019-r-t3",
+  "year": 2019,
+  "textNumber": 3,
+  "title": "Frankenstein's Bicentennial and the Ethical Governance of AI",
+  "chineseTitle": "《弗兰肯斯坦》诞生两百年与人工智能伦理规约",
+  "topic": "科技伦理与哲学反思 / 人工智能伦理困境、自动驾驶电车难题与科技向善准则",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文以玛丽·雪莱发表《弗兰肯斯坦》两百周年为切入点，探讨了当今人工智能飞速发展所引发的深刻伦理拷问。尽管人类意识机制过于复杂以至于机器目前无法复制，但紧迫的现实伦理难题已近在眼前——如自动驾驶汽车在瞬时突发情境下的编程抉择仍超出现有能力。文章介绍了多国政府确立 AI 伦理准则的新动向，并对谷歌承诺不将 AI 用于武器和监控等伤害人类的表态给予了正面肯定，大声疾呼必须确保机器思维契合人类崇高价值，使其成为忠诚公仆而非失控反噬怪物。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 10,
+  "vocabularyCount": 93,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2019.js",
+    "year": 2019,
+    "articleKey": "ky-en1-2019-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+  }
+}

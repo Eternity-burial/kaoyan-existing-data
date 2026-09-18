@@ -1,0 +1,392 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "If ambition is to be well regarded, the rewards of ambition—wealth, distinction, control over one's destiny—must be deemed worthy of the sacrifices made on ambition's behalf.",
+    "translation": "如果要充分尊重野心，那么野心的回报——财富、声望、对自己命运的控制——就必须被认为值得为野心而做出的牺牲。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "If the tradition of ambition is to have vitality, it must be widely shared; and it especially must be highly regarded by people who are themselves admired, the educated not least among them.",
+    "translation": "志向传统要具有生命力，就必须广泛传播；尤其是那些本身就受到钦佩的人，尤其是受过教育的人，必须高度重视它。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "In an odd way, however, it is the educated who have claimed to have given up on ambition as an ideal. What is odd is that they have perhaps most benefited from ambition—if not always their own then that of their parents and grandparents.",
+    "translation": "然而，奇怪的是，正是那些受过教育的人声称已经放弃了将野心作为理想的目标。奇怪的是，他们或许从野心中获益最多——如果不是他们自己的野心，那么也是他们父母和祖父母的野心。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "There is a heavy note of hypocrisy in this, a case of closing the barn door after the horses have escaped—with the educated themselves riding on them.",
+    "translation": "这其中有浓浓的虚伪色彩，就像是在马匹逃走后关上谷仓门——受过教育的人自己骑在马匹上。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Certainly people do not seem less interested in success and its signs now than formerly.",
+    "translation": "当然，现在人们对成功及其标志的兴趣似乎并不比以前减弱。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago.",
+    "translation": "避暑别墅、欧洲旅行、宝马——地点、地名和品牌可能会改变，但今天对这些物品的需求似乎并不比十年前或两年前少。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought pushing, acquisitive and vulgar.",
+    "translation": "所发生的情况是，人们无法像以前那样轻松、公开地完全承认自己的梦想，以免被认为是咄咄逼人、贪婪且粗俗。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Instead, we are treated to fine hypocritical spectacles, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating participatory democracy in all phases of life, whose own children are enrolled in private schools.",
+    "translation": "相反，我们看到的是精美的虚伪奇观，这些奇观现在似乎比以往任何时候都更加充足：对美国唯物主义的批评者拥有南安普敦的避暑别墅；在三星级餐厅用餐的激进书籍出版商；这位记者提倡人生各个阶段的参与式民主，他自己的孩子就读于私立学校。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "For such people and many more perhaps not so exceptional, the proper formulation is, \"Succeed at all costs but avoid appearing ambitious.\" The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive.",
+    "translation": "对于这样的人以及更多可能不那么特殊的人来说，正确的表述是“不惜一切代价取得成功，但避免显得雄心勃勃”。对野心的攻击是多方面的，而且来自不同的角度。其公设辩护人数量很少且不起眼，但他们也并非毫无吸引力。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "As a result, the support for ambition as a healthy impulse, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States.",
+    "translation": "因此，在年轻人心目中，对雄心作为一种健康的冲动、一种值得钦佩和固定的品质的支持可能比以往任何时候都低。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "This does not mean that ambition is at an end, that people no longer feel its stirrings and promptings, but only that, no longer openly honored, it is less openly professed.",
+    "translation": "这并不意味着野心已经结束，人们不再感受到它的激动和推动，而只是意味着它不再被公开尊重，也不再那么公开宣称。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Consequences follow from this, of course, some of which are that ambition is driven underground, or made sly.",
+    "translation": "当然，随之而来的后果是，野心被驱入地下，或者变得狡猾。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2000-r-t5",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.",
+    "translation": "那么，事情的现状就是这样：左边是愤怒的批评者，右边是愚蠢的支持者，而中间的是，像往常一样，大多数认真的人试图在生活中继续前进。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2000.js",
+      "year": 2000,
+      "articleKey": "ky-en1-2000-r-t5",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f9a5388ad11097f9557bbf5154a5917cfd6524a94745a49b350362d9a74b695"
+    }
+  }
+]

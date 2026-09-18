@@ -1,0 +1,632 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The world is going through the biggest wave of mergers and acquisitions ever witnessed.",
+    "translation": "世界正在经历有史以来最大规模的并购浪潮。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The process sweeps from hyperactive America to Europe and reaches the emerging countries with unsurpassed might.",
+    "translation": "这一进程从极度活跃的美国席卷到欧洲，并以无与伦比的力量影响到新兴国家。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Many in these countries are looking at this process and worrying: \"Won't the wave of business concentration turn into an uncontrollable anti-competitive force?\" There's no question that the big are getting bigger and more powerful.",
+    "translation": "这些国家的许多人都在关注这一过程并担心：“企业集中化浪潮会不会变成一股无法控制的反竞争力量？”毫无疑问，大公司正在变得越来越大、越来越强大。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Multinational corporations accounted for less than 20% of international trade in 1982.",
+    "translation": "1982年，跨国公司占国际贸易的比例还不到20%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Today the figure is more than 25% and growing rapidly.",
+    "translation": "如今，这一数字已超过 25%，并且还在快速增长。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment.",
+    "translation": "在开放和欢迎外国投资的经济体中，国际子公司在生产中占据快速增长的部分。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms.",
+    "translation": "例如，在阿根廷，经过 20 世纪 90 年代初的改革，跨国公司占 200 家最大企业工业生产的比例从 43% 增加到近 70%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.",
+    "translation": "这种现象引起了人们对小型经济公司、民族商人的作用以及世界经济最终稳定的严重担忧。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "I believe that the most important forces behind the massive M&A wave are the same that underlie the globalization process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers' demands.",
+    "translation": "我相信，大规模并购浪潮背后最重要的推动力与全球化进程的推动力是一样的：运输和通讯成本的下降、贸易和投资壁垒的降低以及市场的扩大，需要扩大经营规模来满足客户的需求。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "All these are beneficial, not detrimental, to consumers.",
+    "translation": "所有这些对于消费者来说都是有益的，而不是有害的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "As productivity grows, the world's wealth increases.",
+    "translation": "随着生产力的提高，世界财富也随之增加。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Examples of benefits or costs of the current concentration wave are scanty.",
+    "translation": "当前集中浪潮的好处或成本的例子很少。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the Standard Oil trust was broken up.",
+    "translation": "然而，很难想象今天几家石油公司的合并可能会重新造成近一个世纪前美国标准石油托拉斯解散时所担心的同样的竞争威胁。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "The mergers of telecom companies, such as WorldCom, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress.",
+    "translation": "世通等电信公司的合并似乎几乎没有给消费者带来更高的价格或减缓技术进步的步伐。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "On the contrary, the price of communications is coming down fast.",
+    "translation": "相反，通信价格正在快速下降。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "In cars, too, concentration is increasing-witness Daimler and Chrysler, Renault and Nissan—but it does not appear that consumers are being hurt.",
+    "translation": "在汽车领域，集中度也在不断提高——戴姆勒和克莱斯勒、雷诺和日产就是例证——但消费者似乎并未受到伤害。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Yet the fact remains that the merger movement must be watched.",
+    "translation": "但事实仍然是，合并动向必须受到关注。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "A few weeks ago, Alan Greenspan warned against the megamergers in the banking industry.",
+    "translation": "几周前，艾伦·格林斯潘对银行业的大型合并发出警告。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Who is going to supervise, regulate and operate as a lender of last resort with the gigantic banks that are being created?",
+    "translation": "谁将作为最后贷款人对正在创建的大型银行进行监督、监管和运营？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition?",
+    "translation": "当一个国家对公平竞争的侵权行为过于严格时，跨国公司是否会将生产从一个地方转移到另一个地方？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "And should one country take upon itself the role of \"defending competition\" on issues that affect many other nations, as in the U.S. vs. Microsoft case ?",
+    "translation": "一个国家是否应该在影响许多其他国家的问题上承担起“捍卫竞争”的角色，就像美国诉微软案一样？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  }
+]

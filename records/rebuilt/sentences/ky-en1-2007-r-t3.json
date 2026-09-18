@@ -1,0 +1,402 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "During the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realities.",
+    "translation": "在过去的一代人时间里，曾经依靠勤奋工作和公平竞争就能维持自身财务安全的美国中产阶级家庭，如今已被经济风险和新的现实彻底改变。",
+    "syntaxAnalysis": "主从复合句。During the past generation 为时间状语；主句主语为 the American middle-class family；that once could count on hard work and fair play to keep itself financially secure 为定语从句修饰 family（从句中包含 count on sb/sth to do sth 结构）；has been transformed 为主句谓语动词，现在完成时的被动语态；by economic risk and new realities 为介词短语作方式状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Now a pink slip, a bad diagnosis, or a disappearing spouse can reduce a family from solidly middle class to newly poor in a few months.",
+    "translation": "如今，一张解雇通知书、一份坏的疾病诊断书、或者一位离家不顾的配偶，就能在短短几个月内让一个稳固的中产家庭沦落为新近致贫的底层。",
+    "syntaxAnalysis": "并列主语简单句。a pink slip, a bad diagnosis, or a disappearing spouse 为三个并列的名词短语作主语；can reduce 为谓语；a family 为宾语；from solidly middle class to newly poor 为固定介词搭配 reduce... from A to B（将……从A降低为B）；in a few months 为时间状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "In just one generation, millions of mothers have gone to work, transforming basic family economics.",
+    "translation": "仅在短短一代人时间里，数以百万计的母亲走上工作岗位，彻底重塑了家庭基本经济结构。",
+    "syntaxAnalysis": "简单句 + 现在分词短语作伴随/结果状语。millions of mothers 作主语；have gone to work 为主句谓语；transforming basic family economics 为现在分词短语作结果状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Scholars, policymakers, and critics of all stripes have debated the social implications of these changes, but few have looked at the side effect: family risk has risen as well.",
+    "translation": "各流派的学者、政策制定者以及批评家们就这些改变的社会影响展开了激烈争论，但极少有人注意到其副作用：家庭承受的风险也随之水涨船高。",
+    "syntaxAnalysis": "转折并列复合句。前一分句主语为 Scholars, policymakers, and critics of all stripes，谓语为 have debated，宾语为 the social implications of these changes；but 引导转折分句，few 作主语，have looked at 为谓语，冒号后 family risk has risen as well 为同位语从句解释 side effect。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Today's families have budgeted to the limits of their new two-paycheck status.",
+    "translation": "如今的家庭已经将开支预算安排到了双薪地位的极限。",
+    "syntaxAnalysis": "主谓宾简单句。Today's families 作主语；have budgeted 为现在完成时谓语；to the limits of their new two-paycheck status 为介词短语状语表示程度。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "As a result, they have lost the parachute they once had in times of financial setback—a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick.",
+    "translation": "其结果是，他们彻底失去了以往在遭遇财务挫折时所拥有的‘降落伞’——即一位后备收入者（通常是母亲），一旦家庭主力挣钱者遭遇下岗或重病，她便能够进入劳动力市场挑起大梁。",
+    "syntaxAnalysis": "主从复合句。As a result 作状语；they have lost the parachute 为主干；they once had in times of financial setback 为省略 that 的定语从句修饰 parachute；破折号后 a back-up earner 为同位语解释 parachute；who 引导定语从句修饰 earner；if 引导从句内部的条件状语从句，含 got laid off or fell sick 并列谓语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "This \"added-worker effect\" could support the safety net offered by unemployment insurance or disability insurance to help families weather bad times.",
+    "translation": "这种‘额外劳动力效应’本可以有效补充失业保险或伤残保险所提供的安全网，协助家庭渡过经济难关。",
+    "syntaxAnalysis": "主谓宾补结构。This \"added-worker effect\" 作主语；could support 作谓语；the safety net 为宾语；offered by unemployment insurance or disability insurance 为过去分词短语作后置定语修饰 net；动词不定式短语 to help families weather bad times 作目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "But today, a disruption to family fortunes can no longer be made up with extra income from an otherwise-stay-at-home partner.",
+    "translation": "然而在今天，家庭经济财富所遭受的打击，已经无法再通过原本留守在家的配偶外出赚取额外收入来进行弥补。",
+    "syntaxAnalysis": "被动语态简单句。But today 为时间状语；a disruption to family fortunes 为主语；can no longer be made up 为情态动词被动谓语；with extra income... 为方式介词状语；otherwise-stay-at-home 为复合形容词修饰 partner。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "During the same period, families have been asked to absorb much more risk in their retirement income.",
+    "translation": "在同一时期，家庭还被要求在退休养老收入方面承担多得多的风险。",
+    "syntaxAnalysis": "被动语态简单句。During the same period 为时间状语；families 作主语；have been asked 为现在完成时被动谓语；动词不定式 to absorb much more risk in their retirement income 作主语补足语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money.",
+    "translation": "钢铁工人、航空公司雇员，以及如今汽车产业的从业人员，正纷纷加入数以百万计的家庭行列，他们不得不为利率波动、股市震荡以及‘退休金花光而人尚在世’的残酷现实而忧心忡忡。",
+    "syntaxAnalysis": "复合句。Steelworkers, airline employees, and now those in the auto industry 为并列主语；are joining 为谓语；millions of families 为宾语；who 引导定语从句修饰 families；从句中 worry about 后并列接三个宾语：interest rates, stock market fluctuation, 以及 the harsh reality；that they may outlive their retirement money 为同位语从句解释 reality。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "For much of the past year, President Bush campaigned to move Social Security to a savings-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns.",
+    "translation": "在过去一年的大部分时间里，布什总统大张旗鼓地竞选推动将社会保障金转变为储蓄账户模式，使退休人员用大部分甚至全部有政府保证的固定给付，去换取取决于市场投资回报的款项。",
+    "syntaxAnalysis": "复合句。President Bush 作主语；campaigned 为谓语；to move Social Security to a savings-account model 为不定式短语作目的状语；with 复合结构：retirees 为逻辑主语，trading... for... 为现在分词短语作伴随状语（其中 depending on investment returns 为现在分词作后置定语修饰 payments）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "For younger families, the picture is not any better.",
+    "translation": "对于更年轻的家庭而言，前景也丝毫没有好到哪里去。",
+    "syntaxAnalysis": "主系表结构简单句。For younger families 为对象状语；the picture 作主语；is 为系动词；not any better 为表语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Both the absolute cost of healthcare and the share of it borne by families have risen—and newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers, with much higher deductibles and a large new dose of investment risk for families' future healthcare.",
+    "translation": "医疗保健的绝对成本以及由家庭承担的份额双双攀升——新风靡的‘健康储蓄计划’正从立法大厅一路蔓延到沃尔玛员工之中，伴随而来的是极高的免赔额，以及为家庭未来医疗注入的一剂大剂量的新投资风险。",
+    "syntaxAnalysis": "并列复合句。破折号前主语为 Both the absolute cost... and the share of it borne by families（borne by families 为过去分词作后置定语），谓语为 have risen；破折号后并列句主语为 health-savings plans，谓语为 are spreading，with 复合结构作伴随状语引出 high deductibles 和 investment risk。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "Even demographics are working against the middle class family, as the odds of having a weak elderly parent—and all the attendant need for physical and financial assistance—have jumped eightfold in just one generation.",
+    "translation": "甚至连人口统计学趋势都在与中产家庭作对，因为家中有体弱年迈父母——以及随之而来的对身体照料和经济资助的全部需求——的概率在短短一代人时间里飙升了八倍。",
+    "syntaxAnalysis": "主从复合句。Even demographics are working against the middle class family 为主句；as 引导原因状语从句；从句主干为 the odds... have jumped eightfold；of having a weak elderly parent 为后置定语修饰 odds；破折号之间 and all the attendant need... 为插入补充说明成分。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "From the middle-class family perspective, much of this, understandably, looks far less like an opportunity to exercise more financial responsibility, and a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders.",
+    "translation": "从中产家庭的视角来看，可以理解的是，这一切完全谈不上是展现更多财务担当的契机，而更像是在以惊人的速度，将所有的财务风险全盘甩给他们早已不堪重负的双肩。",
+    "syntaxAnalysis": "复合结构长难句。From the middle-class family perspective 为视角状语；much of this 作主语；understandably 为插入副词；looks 为谓语动词；far less like A and a good deal more like B 构成平行对比表语结构：A 为 an opportunity to exercise...；B 为 a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "The financial fallout has begun, and the political fallout may not be far behind.",
+    "translation": "财务上的严重后果已经开始显现，而政治上的余波震荡恐怕也为期不远了。",
+    "syntaxAnalysis": "and 连接的两个平行对仗分句。前一分句 The financial fallout has begun；后一分句 the political fallout may not be far behind（以富有警示意义的隐喻宣告政治危机的迫近）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t3.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0f8b03308bc6098f3100dbd074f931cf4a14934a6f50e65bd7f15bb55c0776f"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2017",
+  "exam": "kaoyan",
+  "track": "englishOne",
+  "year": 2017,
+  "title": "2017年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析数据库",
+  "subject": "英语(一)",
+  "articleKeys": [
+    "ky-en1-2017-r-t1",
+    "ky-en1-2017-r-t2",
+    "ky-en1-2017-r-t3",
+    "ky-en1-2017-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2017.js",
+    "year": 2017,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+  }
+}

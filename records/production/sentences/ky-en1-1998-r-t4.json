@@ -1,0 +1,572 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Emerging from the 1980 census is the picture of a nation developing more and more regional competition, as population growth in the Northeast and Midwest reaches a near standstill.",
+    "translation": "1980 年的人口普查显示，随着东北部和中西部的人口增长几近停滞，国家的区域竞争日益激烈。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "This development—and its strong implications for US politics and economy in years ahead—has enthroned the South as America's most densely populated region for the first time in the history of the nation's head counting.",
+    "translation": "这一发展及其对未来几年美国政治和经济的强烈影响使南方在美国人口统计史上首次成为美国人口最稠密的地区。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Altogether, the US population rose in the 1970s by 23.2 million people—numerically the third-largest growth ever recorded in a single decade.",
+    "translation": "20 世纪 70 年代，美国人口总共增加了 2320 万人，这是有记录以来十年内第三大增长。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Even so, that gain adds up to only 11.4 percent, lowest in American annual records except for the Depression years.",
+    "translation": "即便如此，这一增幅加起来也只有 11.4%，是除大萧条时期之外美国年度记录中最低的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Americans have been migrating south and west in larger numbers since World War II, and the pattern still prevails.",
+    "translation": "自第二次世界大战以来，大量美国人向南部和西部移民，而且这种模式仍然盛行。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "Three sun-belt states—Florida, Texas and California—together had nearly 10 million more people in 1980 than a decade earlier.",
+    "translation": "佛罗里达州、德克萨斯州和加利福尼亚州这三个阳光地带州 1980 年的人口比十年前增加了近 1000 万。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Among large cities, San Diego moved from 14th to 8th and San Antonio from 15th to 10th -- with Cleveland and Washington.",
+    "translation": "在大城市中，圣地亚哥从第 14 位上升到第 8 位，圣安东尼奥从第 15 位上升到第 10 位——与克利夫兰和华盛顿一起。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "C., dropping out of the top 10.",
+    "translation": "C.跌出前10名。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Not all that shift can be attributed to the movement out of the snow belt, census officials say.",
+    "translation": "人口普查官员表示，并非所有的变化都可以归因于雪带的迁移。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Nonstop waves of immigrants played a role, too—and so did bigger crops of babies as yesterday's \"baby boom\" generation reached its child bearing years.",
+    "translation": "源源不断的移民浪潮也发挥了作用，随着昨天的“婴儿潮”一代到达生育年龄，婴儿数量的增加也发挥了作用。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Moreover, demographers see the continuing shift south and west as joined by a related but newer phenomenon: More and more, Americans apparently are looking not just for places with more jobs but with fewer people, too.",
+    "translation": "此外，人口统计学家认为，向南和向西的持续转移伴随着一个相关但更新的现象：越来越多的美国人显然不仅在寻找就业机会更多的地方，而且还在寻找人口更少的地方。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Some instances: ■ Regionally, the Rocky Mountain states reported the most rapid growth rate—37.1 percent since 1970 in a vast area with only 5 percent of the US population. ■ Among states, Nevada and Arizona grew fastest of all: 63.5 and 53.1 percent respectively.",
+    "translation": "一些实例： ■ 从地区来看，落基山脉各州的增长率最高，自 1970 年以来增长率为 37.1%，而该地区幅员辽阔，人口仅占美国人口的 5%。 ■ 在各州中，内华达州和亚利桑那州增长最快：分别为 63.5% 和 53.1%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Except for Florida and Texas, the top 10 in rate of growth is composed of Western states with 7.5 million people—about 9 per square mile.",
+    "translation": "除佛罗里达州和得克萨斯州外，增长率排名前 10 位的都是拥有 750 万人口的西部州，即每平方英里约 9 人。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The flight from overcrowdedness affects the migration from snow belt to more bearable climates.",
+    "translation": "逃离过度拥挤会影响从雪带向气候更适宜的迁移。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Nowhere do 1980 census statistics dramatize more the American search for spacious living than in the Far West.",
+    "translation": "1980 年的人口普查统计数据最能体现美国人对宽敞生活的追求，而远西部地区则最为突出。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "There, California added 3.7 million to its population in the 1970s, more than any other state.",
+    "translation": "20 世纪 70 年代，加利福尼亚州的人口增加了 370 万，比任何其他州都多。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "In that decade, however, large numbers also migrated from California, mostly to other parts of the West.",
+    "translation": "然而，在那十年里，也有大量人口从加利福尼亚州迁徙到西部其他地区。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Often they chose—and still are choosing—somewhat colder climates such as Oregon, Idaho and Alaska in order to escape smog, crime and other plagues of urbanization in the Golden State.",
+    "translation": "他们经常选择——并且仍然选择——气候稍冷的俄勒冈州、爱达荷州和阿拉斯加，以逃避金州的雾霾、犯罪和其他城市化瘟疫。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1998-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "As a result, California's growth rate dropped during the 1970s, to 18.5 percent—little more than two thirds the 1960s' growth figure and considerably below that of other Western states.",
+    "translation": "结果，加利福尼亚州的增长率在 20 世纪 70 年代下降至 18.5%，仅略高于 1960 年代增长率的三分之二，并且大大低于其他西部州。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1998.js",
+      "year": 1998,
+      "articleKey": "ky-en1-1998-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+    }
+  }
+]

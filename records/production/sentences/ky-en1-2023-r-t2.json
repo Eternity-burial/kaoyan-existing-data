@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Communities throughout New England have been attempting to regulate short-term rentals since sites like Airbnb took off in the 2010s.",
+    "translation": "自2010年代爱彼迎（Airbnb）等短租网站迅猛崛起以来，整个新英格兰地区的众多社区便一直在竭力尝试对短期租赁行为实施严格规范与监管。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market.",
+    "translation": "如今，伴随着创历史新高的天价房价以及处于历史绝对最低位的极其匮乏的可售房源库存（historically low inventory / housing supply at a very low level），推行此类监管的紧迫性愈发凸显——尤其是那些深感忧虑的人们生怕开发商会大举杀入市场，成片疯狂收购刚需民宅，转手在短租市场上大肆牟取暴利。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "In New Hampshire, where the rental vacancy rate has dropped below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market.",
+    "translation": "在新罕布什尔州，租赁住房空置率已触目惊心地暴跌至1%以下；住房权益倡导者深感恐惧：肆意泛滥且缺乏监管的短租将给本已极度紧绷脆弱的住房市场施加更为致命的挤压重压。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The state Legislature recently voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals.",
+    "translation": "该州议会最近断然投票否决了一项法案——该法案原本企图将地方城镇立法限制短租的行为定性为违法（即原本企图放任短租自由不受地方管制/allow a free short-term rental market）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "\"We are at a crisis level on the supply of rental housing,\" said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast.",
+    "translation": "“我们在租赁住房的供应方面已经彻底陷入了灾难性的危机水准，”大海岸劳动力住房联盟执行总监尼克·泰勒焦急呼吁道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Without enough affordable housing in southern New Hampshire towns, \"employers are having a hard time attracting employees, and workers are having a hard time finding a place to live,\" Taylor said.",
+    "translation": "如果在新罕布什尔州南部各城镇没有充足的可负担经济平价住房（affordable housing），“企业雇主将极难招募吸引到急需的员工，而广大工人们也根本找不到任何可以安身立命的居所（more likely to support an increase in affordable housing），”泰勒表示。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtors. \"A lot of workers are servicing the tourist industry, and the tourism industry is serviced by those people coming in short term,\" Castle said, \"and so it's a cyclical effect.\"",
+    "translation": "然而，当地房地产经纪人协会首席执行官瑞安·卡斯尔针锋相对地指出，短租同样为大量外来游客提供了不可或缺的住宿支持。“大量本地劳工都在为蓬勃发展的旅游业服务，而旅游业本身又依赖于这些短期涌入的游客来支撑维系，”卡斯尔表示，“因此这完全是一个相互依存的良性循环效应。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Short-term rentals themselves are not the crux of the issue, said Keren Horn, an expert on affordable housing policy. \"I think individuals being able to rent out their second home is a good thing. If it's their vacation home anyway, and it's just empty, why can't you make money off it?\" Horn said.",
+    "translation": "可负担住房政策权威专家凯伦·霍恩指出，短租本身并非问题的根本死结症结所在。“我认为普通个人能够把自己的第二套闲置住房出租完全是一件大好事。如果那本来就是他们的度假屋且常年空置，为什么不能借此赚点额外收入呢？”霍恩表示。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Issues arise, however, when developers attempt to create large-scale short-term rental facilities—de facto hotels—to bypass taxes and regulations. \"I think the question is, shouldn't a developer who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?\" Horn said.",
+    "translation": "然而，真正的致命问题在于：当投机开发商企图通过打造大规模短租设施——即实质上的“事实酒店”（de facto hotels）——来肆意规避绕开合法税收与监管法规时，乱象便丛生而起（necessity to stop developers from evading taxes）。“我认为核心问题在于：一个明明在干着盖酒店勾当、却巧妙将其伪装成普通民宅以避税的开发商，难道不应当像正规酒店一样接受同等标准的严密监管和征税吗？”霍恩质问道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. The bill requires every rental host to register with the state, mandates they carry insurance, and opens the potential for local taxes on top of a new state levy. Boston took things even further, requiring renters to register with the city's Inspectional Services Department.",
+    "translation": "2018年底，马萨诸塞州州长查理·贝克正式签署了一项法案以遏制那些潜在的短租投资客买家。该法案强制要求每一位短租房东必须向州政府实名登记备案，强制要求其购买特定保险，并在全新州级税收之上为地方政府加征市政税打开了大门。波士顿市更是将监管推向极致，强制要求所有出租方必须向市检查服务局登记备案。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2023-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "Horn said similar registration requirements could benefit struggling cities and towns, but \"if we want to make a change in the housing market, the main one is we have to build a lot more.\"",
+    "translation": "霍恩客观评价道，类似的强制登记备案要求固然能够让苦苦挣扎的城镇受益，但“如果我们真正渴望彻底扭转并改变当今这病态的住房市场，最根本的核心关键在于我们必须开足马力建造海量的新住房（登记要求是不充分的解决方案 / an inadequate solution / must build a lot more）！”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2023.js",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+    }
+  }
+]

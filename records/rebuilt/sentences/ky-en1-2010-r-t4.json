@@ -1,0 +1,488 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Bankers have been blaming themselves for their troubles in public.",
+    "translation": "银行家们在公开场合一直把自身的困境归咎于自身的操作失误。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 现在完成进行时",
+      "mainClause": "Bankers have been blaming themselves for their troubles in public",
+      "subordinateClauses": [],
+      "corePattern": "blame sb for sth / in public"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Behind the scenes, they have been pointing the finger at accounting rules.",
+    "translation": "但在幕后私底下，他们却把矛头直指严苛的会计准则。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 介词状语前置",
+      "mainClause": "they have been pointing the finger at accounting rules",
+      "subordinateClauses": [],
+      "corePattern": "behind the scenes / point the finger at"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Unfortunately, banks' lobbying now seems to be working.",
+    "translation": "令人遗憾的是，银行界的大规模政治游说如今似乎正在奏效。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 + 不定式进行时",
+      "mainClause": "banks' lobbying now seems to be working",
+      "subordinateClauses": [],
+      "corePattern": "seem to be working"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The details may be technical, but the message was clear: standard-setters are under political pressure.",
+    "translation": "具体的会计细则或许极其晦涩专业，但其释放的信号却极其清晰：会计准则制定者正承受着来自政界高层的巨大政治压力。",
+    "syntaxAnalysis": {
+      "structureType": "转折并列句 + 冒号同位解释",
+      "mainClause": "The details may be technical, but the message was clear",
+      "subordinateClauses": [
+        "同位解释: standard-setters are under political pressure"
+      ],
+      "corePattern": "the message was clear / under political pressure"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37,
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "After a bruising encounter with Congress, America's Financial Accounting Standards Board (FASB) relaxed its rules on fair-value accounting.",
+    "translation": "在与美国国会经历了一番激烈而痛苦的正面交锋之后，美国财务会计准则委员会（FASB）最终妥协，放宽了其关于公允价值会计计量的严厉规则。",
+    "syntaxAnalysis": {
+      "structureType": "时间状语前置 + 主谓宾简单句",
+      "mainClause": "FASB relaxed its rules on fair-value accounting",
+      "subordinateClauses": [
+        "介词时间短语: After a bruising encounter with Congress"
+      ],
+      "corePattern": "bruising encounter / relax rules on fair-value accounting"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36,
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "These gave banks more freedom to use models to value illiquid assets and delayed a requirement to recognize long-term asset losses through earnings.",
+    "translation": "这些改动赋予了银行更大的自由度去使用内部自建模型来估算缺乏流动性的资产价值，并推迟了要求银行在当期收益中确认长期资产亏损的硬性规定。",
+    "syntaxAnalysis": {
+      "structureType": "并列谓语简单句",
+      "mainClause": "These gave banks more freedom... and delayed a requirement...",
+      "subordinateClauses": [],
+      "corePattern": "give sb freedom to do / illiquid assets / recognize losses through earnings"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36,
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "European ministers instantly demanded that the International Accounting Standards Board (IASB) follow suit.",
+    "translation": "欧洲各国财长部长随即勒令国际会计准则理事会（IASB）必须立即如法炮制、亦步亦趋。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 虚拟语气宾语从句（demand that sb do）",
+      "mainClause": "European ministers instantly demanded that...",
+      "subordinateClauses": [
+        "宾语从句虚拟语气: that the IASB (should) follow suit"
+      ],
+      "corePattern": "demand that sb follow suit（如法炮制/亦步亦趋）"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Charlie McCreevy, the internal-market commissioner, warned that European banks would be at a competitive disadvantage if standard-setters acted independently.",
+    "translation": "欧盟内部市场专员查理·麦克里维严厉警告称，如果会计准则制定者特立独行、自行其是，欧洲的各大银行将陷入极不平等的恶性竞争劣势。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 宾语从句 + 条件状语从句",
+      "mainClause": "Charlie McCreevy warned that...",
+      "subordinateClauses": [
+        "宾语从句: that European banks would be at a competitive disadvantage...",
+        "条件状语从句: if standard-setters acted independently"
+      ],
+      "corePattern": "at a competitive disadvantage / act independently"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "It was banks that were on the wrong planet, with accounts that vastly overstated the value of their toxic assets.",
+    "translation": "真正活在虚幻的‘另一个星球上’不食人间烟火的其实正是银行自己——它们的账簿上极度严重地高估虚标了自身持有的巨额有毒资产的真实价值。",
+    "syntaxAnalysis": {
+      "structureType": "强调句型 + 伴随状语 + 定语从句",
+      "mainClause": "It was banks that were on the wrong planet",
+      "subordinateClauses": [
+        "定语从句: that vastly overstated the value of their toxic assets 修饰 accounts"
+      ],
+      "corePattern": "on the wrong planet / vastly overstate the value / toxic assets"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "The rule change was a capitulation to political forces and distorted the financial reality.",
+    "translation": "准则的倒退修改是一场对政治权贵势力的彻头彻尾的屈服投降，它严重扭曲了最基本的金融现实。",
+    "syntaxAnalysis": {
+      "structureType": "并列系表/谓宾简单句",
+      "mainClause": "The rule change was a capitulation to political forces and distorted the financial reality",
+      "subordinateClauses": [],
+      "corePattern": "capitulation to / distort financial reality"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37,
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "To get the system working again, losses must be recognized and dealt with.",
+    "translation": "若要让整个金融体系重新恢复健康运转，就必须坦白承认并果断处置这些真实亏损。",
+    "syntaxAnalysis": {
+      "structureType": "目的状语前置 + 主谓被动句",
+      "mainClause": "losses must be recognized and dealt with",
+      "subordinateClauses": [
+        "不定式目的短语: To get the system working again"
+      ],
+      "corePattern": "get sth working / losses must be recognized"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "Delaying the day of reckoning by fudging the rules will only prolong the crisis and damage market transparency.",
+    "translation": "通过篡改歪曲会计规则来推迟最终的清算之日，只会进一步延长危机的痛苦周期，并彻底摧毁金融市场赖以生存的透明度。",
+    "syntaxAnalysis": {
+      "structureType": "动名词短语作主语 + 方式介词短语 + 并列谓语",
+      "mainClause": "Delaying the day of reckoning will only prolong the crisis and damage market transparency",
+      "subordinateClauses": [],
+      "corePattern": "day of reckoning（清算之日/算账之日） / fudge the rules（篡改歪曲规则） / prolong the crisis"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        39,
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+    }
+  }
+]

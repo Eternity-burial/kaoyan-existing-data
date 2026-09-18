@@ -1,0 +1,452 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "For the past several years, the Sunday newspaper supplement Parade has featured a column called \"Ask Marilyn.\"",
+    "translation": "在过去的几年里，周日报纸副刊《大观》一直开辟着一个名为“问问玛丽莲”的专栏。",
+    "syntaxAnalysis": "主谓宾简单句。the Sunday newspaper supplement Parade 作主语；has featured 为谓语；a column 为宾语；called \"Ask Marilyn\" 为过去分词短语作后置定语修饰 column。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "People are invited to query Marilyn Vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228—the highest score ever recorded.",
+    "translation": "读者被邀请向玛丽莲·沃斯·萨万特提问，她10岁时的智力测试显示其心智水平相当于大约23岁的成年人；这使她获得了228的智商——这是有记录以来的最高得分。",
+    "syntaxAnalysis": "复合句。People are invited to query Marilyn Vos Savant 为主句；who 引导非限制性定语从句修饰 Savant；分号后 that 引导并列句，that 指代前面的测试表现；破折号后 the highest score ever recorded 为同位语解释 228。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "IQ tests ask you to complete verbal and visual analogies, to envision paper after it has been folded and cut, and to deduce numerical sequences, among other similar tasks.",
+    "translation": "智商测试要求受试者完成词语和视觉图形类比，设想纸张折叠和剪切后的形状，并推断数字序列规律，此外还有其他类似任务。",
+    "syntaxAnalysis": "主谓宾补结构。IQ tests 为主语；ask 为谓语；you 为宾语；包含三个由 and 连接的并列动词不定式短语作宾补（to complete..., to envision..., and to deduce...）；after it has been folded and cut 为时间状语从句修饰 envision；among other similar tasks 为介词短语作状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "So it is a bit confusing when Vos Savant fields such queries from the average Joe (whose IQ is 100) as, What's the difference between love and fondness? Or what is the nature of luck and coincidence?",
+    "translation": "因此，当沃斯·萨万特应对来自智商为100的普通大众提出的诸如“爱和喜欢有何区别？”或者“运气和巧合的本质是什么？”这类问题时，这着实让人感到有些困惑不解。",
+    "syntaxAnalysis": "主从复合句。it 为形式主语，is 为系动词，a bit confusing 为表语；when 引导时间/情境状语从句作实际主语；whose IQ is 100 为定语从句修饰 the average Joe；such... as... 引入具体的读者提问。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "It's not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.",
+    "translation": "在脑海中想象物体的能力以及推算数字模式的能力，究竟如何能让一个人具备回答那些连最优秀的诗人和哲学家都无法参透的问题的资格，这一点完全不言自明（实际上令人难以信服）。",
+    "syntaxAnalysis": "主从复合句。It 为形式主语，is not obvious 为主句表语；how 引导主语从句；从句主语为 the capacity（后接两个并列动词不定式短语作后置定语）；suits 为谓语；one 为宾语；to answer questions... 为宾补；that have eluded... 为定语从句修饰 questions。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Clearly, intelligence encompasses more than a score on a test.",
+    "translation": "显而易见，智力所涵盖的内涵远远超出了一次测试所给出的分数。",
+    "syntaxAnalysis": "主谓宾简单句。副词 Clearly 作评注性状语；intelligence 作主语；encompasses 作谓语；more than a score on a test 作宾语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Just what does it mean to be smart?",
+    "translation": "所谓“聪明”，究竟意味着什么？",
+    "syntaxAnalysis": "特殊疑问句。what 作 mean 的宾语；it 作形式主语；to be smart 为动词不定式短语作真正主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "How much of intelligence can be specified, and how much can we learn about it from neurology, genetics, computer science and other fields?",
+    "translation": "智力在多大程度上可以被精确界定？我们又能从神经学、遗传学、计算机科学以及其他学科领域中探知关于智力的多少奥秘？",
+    "syntaxAnalysis": "并列特殊疑问句。由 and 连接两个分句：前一分句使用被动语态 can be specified；后一分句使用主动语态 can we learn about it...，from... 为来源状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be.",
+    "translation": "尽管如今智商测试的施测频率已远不如从前，但人类界定智力的核心标志似乎依然是智商分数。",
+    "syntaxAnalysis": "主从复合句。主句为主系表结构 The defining term... seems to be the IQ score；even though 引导让步状语从句，从句中包含 as... as they used to be 的同级比较与省略结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "The test comes primarily in two forms: the Stanford-Binet Intelligence Scale and the Wechsler Intelligence Scales (both come in adult and children's version).",
+    "translation": "这种测试主要有两种形式：斯坦福-比奈智力量表和韦克斯勒智力量表（两者均有成人版和儿童版）。",
+    "syntaxAnalysis": "简单句。The test 为主语；comes in two forms 为谓语结构；冒号后为两个量表名称作同位语；括号内为独立补充说明分句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Generally costing several hundred dollars, they are usually given only by psychologists, although variations of them populate bookstores and the World Wide Web.",
+    "translation": "这些正规测试通常花费数百美元，往往仅由专业心理学家主持施测，尽管其各种变体版本已经遍布书店和互联网。",
+    "syntaxAnalysis": "复合句。Generally costing several hundred dollars 为现在分词短语作原因/让步状语；they are usually given... 为被动语态主句；although 引导让步状语从句，从句主干为 variations... populate...",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Superhigh scores like Vos Savant's are no longer possible, because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100.",
+    "translation": "像沃斯·萨万特那样超高的智商分数如今已不可能再出现，因为现在的计分是基于同龄人群体的统计人口正态分布，而不再仅仅是将心理年龄除以实足年龄再乘以100。",
+    "syntaxAnalysis": "因果复合句。Superhigh scores... are no longer possible 为主句；because 引导原因状语从句；从句核心结构为 scoring is now based on A rather than B；rather than 连接并列介词宾语短语 dividing... and multiplying...",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Other standardized tests, such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE), capture the main aspects of IQ tests.",
+    "translation": "其他标准化测试，例如学术能力评估测试（SAT）和研究生入学资格考试（GRE），也都涵盖了智商测试的主要维度。",
+    "syntaxAnalysis": "主谓宾结构。主语 Other standardized tests；such as 结构为插入列举成分；谓语 capture；宾语 the main aspects of IQ tests。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Such standardized tests may not assess all the important elements necessary to succeed in school and in life, argues Robert J. Sternberg.",
+    "translation": "罗伯特·J·斯滕伯格认为，此类标准化考试未必能评估出在学业和人生中取得成功所需的全部关键要素。",
+    "syntaxAnalysis": "引语复合倒装句。前部为直接陈述分句，necessary to succeed in school and in life 为形容词短语作后置定语修饰 elements；后部 argues Robert J. Sternberg 为主谓倒装引述句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "In his article \"How Intelligent Is Intelligence Testing?\", Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success.",
+    "translation": "斯滕伯格在其发表的文章《智力测试到底有多聪明？》中指出，传统测试最擅长衡量分析和言语技能，却未能测量创造力与实践智慧——而这些要素对于解决现实问题和获取人生成功同样至关重要。",
+    "syntaxAnalysis": "主从复合句。In his article... 为介词短语状语；Sternberg notes 为主谓；that 引导宾语从句；从句中 best assess... but fail to measure... 为并列谓语；末尾 components... 为同位语修饰 creativity and practical knowledge。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Moreover, IQ tests do not necessarily predict so well once populations or situations change.",
+    "translation": "此外，一旦受试人群或所处情境发生变化，智商测试的预测效果也未必依然良好。",
+    "syntaxAnalysis": "递进复合句。Moreover 为递进副词；IQ tests do not necessarily predict so well 为主句；once 引导条件/时间状语从句（意为‘一旦’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Research has found that IQ predicted leadership skills when the tests were given under low-stress conditions, but under high-stress conditions, IQ was negatively correlated with leadership—that is, it predicted the opposite.",
+    "translation": "研究发现，当测试在低压力环境下进行时，智商能有效预测个体的领导力；但在高压力环境下，智商与领导力却呈负相关——也就是说，它预测出的反而是相反的结果。",
+    "syntaxAnalysis": "主从复合句。Research has found 为主句；that 引导宾语从句；宾语从句由 but 连接两个分句，分别由 when 引导时间条件从句与 under high-stress conditions 介词短语形成鲜明对照；破折号后 that is, it predicted the opposite 为解释分句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it's knowing when to guess or what questions to skip.",
+    "translation": "任何苦战熬过SAT考试的人都能证明，应试技巧同样起着重要作用——无论是懂得何时该猜测答案，还是该跳过哪些难题。",
+    "syntaxAnalysis": "主从复合句。Anyone 为主句主语，who has toiled through SAT 为定语从句修饰 Anyone；will testify 为主句谓语；that 引导宾语从句；whether 引导让步状语从句，从句主语为 it，表语为 knowing when to guess or what questions to skip（疑问词+不定式短语）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  }
+]

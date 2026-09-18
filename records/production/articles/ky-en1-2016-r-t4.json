@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2016-r-t4",
+  "year": 2016,
+  "textNumber": 4,
+  "title": "The Transition of The New York Times and the Future of Print as a Luxury Good",
+  "chineseTitle": "《纽约时报》纸媒停刊之争与印刷品“奢侈品化”转型策略",
+  "topic": "媒介生态与商业模式创新 / 纸媒黄昏、网络媒体冲击、《纽约时报》停刊讨论与传统印刷品“奢侈品化”溢价重塑",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文探讨了数字传媒浪潮下传统报刊的生死存亡与商业模式演进。面对高昂的印刷物流运营成本及读者不可逆的线上迁移，《纽约时报》等严肃大报屡屡传出将彻底停印纸质版的风声。然而，BuzzFeed 创始人乔纳·佩雷蒂（Jonah Peretti）提出了截然不同的颠覆性战略：报社绝不应仓促停刊，激怒并流失最忠诚的受众；相反，应当大幅提高印刷版定价，将其打造成一种具有情感归属与身份认同的“小众传统奢侈品”（legacy product）。文章指出，在瞬息万变的技术转型期，企业既要积极推进数字化，更应敢于采取激进且具有战略眼光的重塑策略。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 7,
+  "sentenceCount": 21,
+  "vocabularyCount": 31,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 1,
+        "sentenceId": "P1-S1",
+        "english": "There will eventually come a day when The New York Times ceases to publish stories on newsprint.",
+        "chinese": "终有一天，《纽约时报》将彻底停止在新闻纸上刊登报道。",
+        "structureType": "完全倒装句（There will come a day...） + when引导的限制性定语从句",
+        "mainClause": "There will eventually come a day...",
+        "modifiers": "eventually 为时间副词修饰谓语动词 come；a day 为实际主语，置于谓语之后形成倒装；when 引导定语从句修饰先行词 a day；The New York Times 为从句主语，ceases 为谓语，to publish stories 为动名词/不定式宾语；on newsprint 为介词短语修饰 publish。",
+        "corePattern": "there comes a day when...（终将迎来……的一天）；cease to do sth.（停止做某事）；on newsprint（在新闻纸上印行）。"
+      },
+      {
+        "sentenceIndex": 4,
+        "sentenceId": "P2-S2",
+        "english": "The infrastructure required to make a physical newspaper — printing presses, delivery trucks — isn't just expensive; it's excessive at a time when online-only competitors don't have the same set of financial constraints.",
+        "chinese": "制作一份实体报纸所需的基础设施——大型印刷机、运输卡车——不仅极其昂贵；在纯线上竞争对手完全没有这套财务枷锁的当下，它更是显得沉重而过剩。",
+        "structureType": "分号连接的并列复合句 + 过去分词短语作定语 + 破折号同位语 + when引导的时间定语从句",
+        "mainClause": "The infrastructure isn't just expensive; it's excessive...",
+        "modifiers": "required to make a physical newspaper 为过去分词短语作 infrastructure 的后置定语；双破折号间 printing presses, delivery trucks 为基础设施的具体列举同位语；分号后 it 指代 infrastructure；at a time 为时间介词短语；when 引导定语从句修饰 time，从句主语为 online-only competitors，谓语为 don't have，宾语为 the same set of financial constraints。",
+        "corePattern": "infrastructure required to do sth.（从事某活动所需的基础设施）；not just A, it is B（不仅是A，更是B）；at a time when...（在……的时代/时期）；financial constraints（财务束缚/资金枷锁）。"
+      },
+      {
+        "sentenceIndex": 7,
+        "sentenceId": "P3-S1",
+        "english": "Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake, says BuzzFeed CEO Jonah Peretti.",
+        "chinese": "BuzzFeed 首席执行官乔纳·佩雷蒂指出：虽然间接运营成本高企且发行量持续走低，但仓促彻底终结纸质版将是一个严重的战略失误。",
+        "structureType": "转折复合句 + 动名词短语作主语 + 直接引语倒装句",
+        "mainClause": "Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake...",
+        "modifiers": "Overhead may be high 为第一分句，and 连接 circulation [may be] lower（省略助动词和系动词）；but 连接转折分句；rushing to eliminate its print edition 为动名词短语作主语；would be a mistake 为谓语和表语；says BuzzFeed CEO Jonah Peretti 为引语主谓倒装。",
+        "corePattern": "overhead costs（企业日常间接运营成本）；circulation numbers（报刊发行量）；rush to do sth.（仓促行事/急于做某事）；eliminate print edition（停印纸质版）。"
+      },
+      {
+        "sentenceIndex": 9,
+        "sentenceId": "P4-S2",
+        "english": "\"Figuring out a way to accelerate that transition would make sense for them,\" he said, \"but if you discontinue it, you're going to have your most loyal customers really upset with you.\"",
+        "chinese": "“探索出一种加速这种战略转型的方式对他们而言合情合理，”他说，“但如果你简单粗暴地直接停印，你将会让你最忠诚的核心客户群体感到极度沮丧和愤怒。”",
+        "structureType": "动名词短语作主语 + but转折复合句 + if条件状语从句 + have sb. doing/adj.使役结构",
+        "mainClause": "Figuring out a way to accelerate that transition would make sense for them, but you're going to have your most loyal customers really upset with you.",
+        "modifiers": "Figuring out a way 为动名词短语作主语；to accelerate that transition 为不定式作 way 的后置定语；would make sense 为谓语和表语；for them 为介词短语；but 连接转折主从复合句；if you discontinue it 为条件状语从句；you're going to have 为从句主句，have 为使役动词，your most loyal customers 为宾语，really upset with you 为形容词短语作宾补。",
+        "corePattern": "figure out a way to do sth.（找出做某事的途径）；accelerate transition（加速业务转型）；make sense（合情合理/行得通）；discontinue a service（终止/停办业务）；have sb. upset（使某人感到沮丧愤怒）。"
+      },
+      {
+        "sentenceIndex": 14,
+        "sentenceId": "P5-S5",
+        "english": "\"I wouldn't pick a year to end print,\" he said. \"I would raise prices and make it into more of a legacy product.\"",
+        "chinese": "“我不会设定一个具体的年份去终结纸媒，”他说。“我会持续提高价格，将其打造成一种具有尊贵情怀认同的‘传统遗存产品’（legacy product）。”",
+        "structureType": "并列谓语简单句（虚拟/假设语调 would） + make A into B 结构",
+        "mainClause": "I wouldn't pick a year to end print... I would raise prices and make it into more of a legacy product.",
+        "modifiers": "I wouldn't pick a year 为第一句，to end print 为动词不定式作后置定语修饰 year；第二句中 would raise prices 和 [would] make it into... 为并列谓语；into more of a legacy product 中 more of 表程度倾向，legacy product 为核心术语。",
+        "corePattern": "pick a year to do sth.（选定某一年去完成某事）；raise prices（提高售价）；make A into B（把A改造成B）；legacy product（传统包袱产品/情怀遗产高价产品）。"
+      },
+      {
+        "sentenceIndex": 15,
+        "sentenceId": "P6-S1",
+        "english": "The most loyal customers would still get the product they favor, the idea goes, and they'd feel like they were helping sustain the quality of something they believe in.",
+        "chinese": "这一构想的逻辑在于：最忠诚的用户依然能够获得他们挚爱的纸媒产品，并且他们会觉得自己是在出资守护某种他们所坚信的崇高品质。",
+        "structureType": "and连接的并列复合句 + 插入语（the idea goes） + 定语从句 + feel like宾语从句",
+        "mainClause": "The most loyal customers would still get the product... and they'd feel like they were helping sustain the quality...",
+        "modifiers": "they favor 为省略 that 的限制性定语从句修饰 the product；the idea goes 为插入语，表示‘按这种思路/逻辑来说’；and 连接第二分句；feel like 后面接省略 that 的宾语从句；they were helping sustain 为进行时谓语；the quality of something 为宾语；they believe in 为限制性定语从句修饰 something。",
+        "corePattern": "the idea goes（这种设想的逻辑是）；feel like doing sth. / feel like that...（感觉自己正在……）；sustain the quality of sth.（维系某事物的卓越品质）；something one believes in（自己所坚信的信条/事物）。"
+      },
+      {
+        "sentenceIndex": 16,
+        "sentenceId": "P6-S2",
+        "english": "\"So if you're overpaying for print, you could feel like you were helping,\" Peretti said. \"Then increase it at a higher rate each year and essentially try to generate additional revenue.\"",
+        "chinese": "“因此，如果你为纸版支付了溢价超额费用，你会觉得自己在参与一项支持事业，”佩雷蒂说，“然后每年以更高的幅度提价，从根本上尝试创造额外的净收益。”",
+        "structureType": "条件状语从句 + 主谓复合句 + 祈使句并列（increase... and try to generate...）",
+        "mainClause": "you could feel like you were helping... Then increase it and essentially try to generate additional revenue.",
+        "modifiers": "if you're overpaying for print 为条件状语从句；you could feel like... 为主句；第二句为并列祈使动词短语；at a higher rate 为方式状语；each year 为时间频度状语；essentially 为副词修饰 try；to generate additional revenue 为不定式作目的状语。",
+        "corePattern": "overpay for sth.（为某物支付高昂溢价）；feel like one is helping（感觉自己是在出资扶持）；increase at a higher rate（以更高的年增长率提价）；generate additional revenue（创造额外的营业收入）。"
+      },
+      {
+        "sentenceIndex": 20,
+        "sentenceId": "P7-S2",
+        "english": "\"But we're going to have questions like that where we have things we're doing that don't make sense when the market changes and the world changes.\"",
+        "chinese": "“但在未来，随着市场变革与世界演进，当我们正在做的事情变得不再合乎常理时，我们同样将面临类似的抉择质问。”",
+        "structureType": "复杂多层嵌套主从复合句（where从句 + 省略that定语从句 + that定语从句 + when时间状语从句）",
+        "mainClause": "we're going to have questions like that...",
+        "modifiers": "like that 为介词短语修饰 questions；where 引导定语从句修饰抽象情境 questions；we have things 为从句核心；we're doing 为省略关系代词的定语从句修饰 things；that don't make sense 为第二个定语从句修饰 things；when the market changes and the world changes 为时间状语从句修饰 don't make sense。",
+        "corePattern": "have questions like that（面临类似的尖锐提问）；things don't make sense（事情变得不合逻辑/行不通）；when the market changes（当客观市场发生剧烈变化时）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2016.js",
+    "year": 2016,
+    "articleKey": "ky-en1-2016-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+  }
+}

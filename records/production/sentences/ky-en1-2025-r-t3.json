@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Ever since taking on Netflix Inc. at its own game, old Hollywood has struggled to turn a profit in streaming, with the likes of Disney+, Peacock and Paramount+ losing billions of dollars each year, sparking concerns on Wall Street that the services will never be as profitable as cable once was.",
+    "translation": "自从在流媒体赛道上与奈飞公司（Netflix）展开正面交锋以来，好莱坞传统电影制片厂巨头便一直在流媒体盈利泥潭中艰难苦苦挣扎——迪士尼+（Disney+）、孔雀（Peacock）以及派拉蒙+（Paramount+）等流媒体平台每年狂亏数十亿美元，引发了华尔街的深切忧虑：这些流媒体业务恐怕永远无法重现昔日有线电视时代的丰厚暴利。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "But the age of streaming has been a boon for some unintended winners: pirates that use software to rip a film or television show in seconds from legitimate online video platforms and host the titles on their own illegitimate services, which rake in about $2 billion annually from ads and subscriptions.",
+    "translation": "然而，流媒体时代的全面降临却成为了一批意想不到的真正赢家的巨大横财摇钱树：数字盗版黑产犯罪分子利用破解软件在几秒钟内便能从正规在线视频平台抓取扒下整部电影或电视剧集，并将其架设在自己的非法盗播网站上——这些非法盗版平台每年单凭广告和会员订阅就能疯狂敛财吸金约20亿美元（legitimate streaming services are confronted with a real threat）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "With no video production costs, illegal streaming sites have achieved profit margins approaching 90%, according to the Motion Picture Association (MPA), a trade group representing Hollywood studios that's working to crack down on the thousands of illegal platforms that have cropped up in recent years.",
+    "translation": "代表好莱坞各大制片厂的行业组织“美国电影协会”（MPA）指出，由于无需承担任何高昂的影视制作成本，非法盗版流媒体网站的利润率竟然惊人地逼近90%；该协会目前正竭尽全力严厉打击近年来如雨后春笋般疯狂冒出的数千个非法盗播平台。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Initially the rise of legitimate online businesses such as Netflix actually helped curb digital piracy, which had largely been based on file uploads.",
+    "translation": "起初，诸如奈飞等正规合法在线流媒体商业平台的强势崛起，实际上曾发挥了积极作用，有力协助遏制打击了当年主要基于文件上传共享的传统数字盗版行径（streamers like Netflix played a part in the fight against illegal file-sharing）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "But now piracy involving illegal streaming services as well as file-sharing costs the US economy about $30 billion in lost revenue a year and some 250,000 jobs, estimates the US Chamber of Commerce's Global Innovation Policy Center. The global impact is about $71 billion annually.",
+    "translation": "但据美国商会全球创新政策中心权威估算，如今涵盖非法流媒体盗播以及文件共享在内的新型数字盗版，每年给美国经济造成了高达约300亿美元的巨额收入损失，并直接导致约25万个就业岗位彻底蒸发消失（emphasized economic harm from illegal streaming）；其在全球范围内造成的年度经济破坏更是高达约710亿美元之巨！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "\"The people who are stealing our movies and our television shows and operating piracy sites are not mom and pop operations,\" says Charlie Rivkin, chief executive officer of the MPA. \"This is organized crime.\"",
+    "translation": "“那些大肆偷窃我们电影和电视剧集、运营盗版网站的幕后黑手，绝非什么小打小闹的家庭作坊式经营，”美国电影协会首席执行官查理·里夫金严正指出，“这完全是彻头彻尾的跨国有组织犯罪黑产！”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Rivkin joined the MPA in 2017 after the organization failed five years earlier to build consensus between Hollywood and Silicon Valley to win passage of legislation in Congress aimed at stopping online piracy.",
+    "translation": "里夫金于2017年出掌美国电影协会；此前五年，该组织曾因未能成功在好莱坞与硅谷科技巨头之间建立起立法共识（failed to build consensus between Hollywood and Silicon Valley / was denied cooperation by Silicon Valley），导致旨在遏制网络盗版的国会关键法案最终惨遭流产搁浅。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "In 2017 the association formed the Alliance for Creativity and Entertainment (ACE), an enforcement task force of about 100 detectives circling the globe to help local authorities arrest streaming pirates.",
+    "translation": "2017年，该协会正式牵头组建了“创意与娱乐联盟”（ACE）——这是一支由约100名资深侦探组成的跨国执法特遣队，常年穿梭奔波于全球各地，协助多国地方执法当局全力缉捕流媒体盗版主犯。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "ACE says it's helped shrink the number of illegal streaming services in North America to 126, from more than 1,400 in 2018, aided in part by the MPA's support for a 2020 federal law that made large-scale streaming of copyrighted material a serious crime.",
+    "translation": "ACE 宣布，他们已成功协助将北美的非法流媒体盗播网站数量从2018年的1400多家大幅压缩削减至目前的126家；这一战果部分得益于美国电影协会所鼎力支持的2020年联邦法律——该法已正式将大规模盗播受版权保护影视作品的行为定性为严重的联邦重罪。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Consulting firm Parks Associates predicts that legitimate US streaming services' cumulative loss from piracy since 2022 will reach $113 billion in the next two years.",
+    "translation": "权威咨询机构 Parks Associates 警示预测：自2022年以来，美国正规合法流媒体平台因数字盗版所遭受的累计经济损失，在未来两年内将触目惊心地达到整整1130亿美元之巨！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "\"While there is some optimism that emerging countermeasures and best practices may see piracy begin to plateau by 2027, there is no consensus among stakeholders as to when it may begin to decline,\" says analyst Steve Hawley.",
+    "translation": "“尽管业界存在一定的乐观预期，认为新兴的反制手段与行业最佳实践或许能让盗版蔓延态势在2027年左右迎来平台期；但在盗版何时才会真正开始出现拐点下降消退这一核心问题上，各方利益相关者之间根本尚未达成任何共识（digital piracy is unlikely to diminish in the near future），”行业资深分析师史蒂夫·霍利指出。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  }
+]

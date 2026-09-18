@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2012-r-t4",
+  "year": 2012,
+  "textNumber": 4,
+  "title": "The Thriving of Public-Sector Unions: Sheltered Privileges and the Crisis of Meritocracy",
+  "chineseTitle": "公共部门工会的畸形繁荣：特权庇护与绩优体制的消解",
+  "topic": null,
+  "topicDomain": "公共治理、劳资博弈与政经体制 (Public Administration, Labor Unions & Political Economy)",
+  "subTopic": "英美公共部门工会崛起、后置薪酬与养老金黑洞、教育改革阻力及平均主义困境 (Public-Sector Unionism & Civil Service Reform)",
+  "overview": null,
+  "wordCount": 396,
+  "readingTimeEstimate": "6-8 mins",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Adapted from The Economist: 'The public-sector union dilemma' (2011)",
+  "paragraphCount": 7,
+  "sentenceCount": 26,
+  "vocabularyCount": 67,
+  "phraseCount": 17,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "从蓝领工人自卫到公务员特权集团：公共部门工会的治理困局",
+      "subtitle": "不受制约的停工特权、政客的‘期票许诺’与对绩优改革的顽固抵抗",
+      "coreNarrative": "20世纪中叶，以吉米·霍法（Jimmy Hoffa）领导的卡车司机工会（Teamsters）为代表的传统私营工会主导了美国劳工运动；而到了21世纪，公共部门公务员工会实现了历史性逆转，其成员比例与绝对规模已全面压倒私营部门。作者深入剖析了公共部门工会畸形繁荣的三大动因：第一，公共服务天然垄断，其罢工停摆几乎不受惩罚；第二，成员普遍受过良好教育；第三，深度捆绑并主导中左翼政治（如英国工党与美国民主党）。然而在地方州一级，工会掌控巨额财政预算，政客为拉拢选票频频将薪酬‘后置’（backloaded），以微弱的眼前工资涨幅换取极其丰厚的未来退休金负债。在学校等公共机构，工会拼死抗拒特许学校与绩效工资（merit pay），庇护劣质教师。最终，文章引用哈佛学者约翰·唐纳修的论断指出，西方公务员系统平均主义文化庇护了安于平庸的‘躺平者’（stay put），却惩罚了业绩出众者，正成为美国国家治理能力的深重隐患。",
+      "historicalAndEconomicContext": "反映了2010至2011年前后以威斯康星州‘沃克法案’（Wisconsin Act 10）为代表的美国两党关于公共工会集体谈判权（collective bargaining）的惨烈博弈。面对次贷危机后沉重的州政府财政赤字与公共养老金缺口，共和党保守派州长强势削减公务员工会特权，引发了全美劳资关系与公共财政可持续性的长期大辩论。",
+      "crossExamLinks": "与2005年Text 4（公务员任命与行政效率）、2007年Text 3（中产阶级经济脆弱性）、2014年Text 3（企业高管薪酬失衡）相映成趣，共同构成‘社会阶层、福利制度、薪酬激励与公共政策’的核心考题群。"
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "公共行政、工会运动与劳资政治 (Labor Politics & Public Administration)",
+      "coreConceptRoots": [
+        {
+          "root": "un- / uni-",
+          "meaning": "单一，结合为一",
+          "examples": "union (工会/联合), unionize (成立工会/加入工会), unionist (工会会员), uniform (统一的)"
+        },
+        {
+          "root": "merit-",
+          "meaning": "价值，功绩，长处",
+          "examples": "merit pay (绩效工资), meritocracy (精英管理/绩优制), meritorious (值得称赞的)"
+        },
+        {
+          "root": "serv-",
+          "meaning": "服务，服侍",
+          "examples": "civil servant (公务员), public service (公共服务), subservient (屈从的)"
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "term": "civil servants",
+          "meaning": "公务员/文职官员"
+        },
+        {
+          "term": "public-sector unions",
+          "meaning": "公共部门工会"
+        },
+        {
+          "term": "in one's prime",
+          "meaning": "处于全盛时期/巅峰状态"
+        },
+        {
+          "term": "backload pay deals",
+          "meaning": "将薪酬待遇后置（推延至未来福利与养老金）"
+        },
+        {
+          "term": "merit pay",
+          "meaning": "按绩效付酬/绩效工资"
+        },
+        {
+          "term": "stay put",
+          "meaning": "安于现状/留在原地不动（躺平）"
+        },
+        {
+          "term": "high achievers",
+          "meaning": "业绩出众者/杰出人才"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2012.js",
+    "year": 2012,
+    "articleKey": "ky-en1-2012-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+  }
+}

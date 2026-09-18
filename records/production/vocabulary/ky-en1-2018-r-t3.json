@@ -1,0 +1,782 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "assessment",
+    "word": "assessment",
+    "ipa": "/əˈsesmənt/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "评估，评价",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "acknowledging",
+    "word": "acknowledging",
+    "ipa": "/əkˈnɒlɪdʒɪŋ/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "承认，认可",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "fair-minded",
+    "word": "fair-minded",
+    "ipa": "/ˌfeə ˈmaɪndɪd/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "公正公平的，不偏不倚的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "mean well",
+    "word": "mean well",
+    "ipa": "/miːn wel/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "本意是好的，出发点用心良苦",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "asymmetry",
+    "word": "asymmetry",
+    "ipa": "/eɪˈsɪmətri/",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "不对称，失衡",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "bring about",
+    "word": "bring about",
+    "ipa": "/brɪŋ əˈbaʊt/",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "引起，导致，产生",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "commissioner",
+    "word": "commissioner",
+    "ipa": "/kəˈmɪʃənə(r)/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "专员，特派员，委员",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "damning",
+    "word": "damning",
+    "ipa": "/ˈdæmɪŋ/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "严厉谴责的，确凿毁灭性的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "verdict",
+    "word": "verdict",
+    "ipa": "/ˈvɜːdɪkt/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "裁决，裁定，判定",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "vague",
+    "word": "vague",
+    "ipa": "/veɪɡ/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "含糊的，不明确的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "trust",
+    "word": "trust",
+    "ipa": "/trʌst/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "托拉斯；（英国国民医疗体系的）医院信托联合体",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "scrutinized",
+    "word": "scrutinized",
+    "ipa": "/ˈskruːtənaɪzd/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "受到仔细审查，严密审视",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "consent",
+    "word": "consent",
+    "ipa": "/kənˈsent/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "知情同意，赞同",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "informed consent",
+    "word": "informed consent",
+    "ipa": "/ɪnˈfɔːmd kənˈsent/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "知情同意权（医疗与隐私法核心原则）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "controller",
+    "word": "controller",
+    "ipa": "/kənˈtrəʊlə(r)/",
+    "pos": null,
+    "sourceLocation": "P2-S5",
+    "contextMeaning": "数据控制者（拥有数据主权法定义务方）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "processor",
+    "word": "processor",
+    "ipa": "/ˈprəʊsesə(r)/",
+    "pos": null,
+    "sourceLocation": "P2-S5",
+    "contextMeaning": "数据处理者（受托进行技术运算方）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "distinction",
+    "word": "distinction",
+    "ipa": "/dɪˈstɪŋkʃn/",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "区分，区别，差别",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "aggregation",
+    "word": "aggregation",
+    "ipa": "/ˌæɡrɪˈɡeɪʃn/",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "聚合，汇聚整合",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "identifiable",
+    "word": "identifiable",
+    "ipa": "/aɪˌdentɪˈfaɪəbl/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "可识别的，能确认身份的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "surveillance",
+    "word": "surveillance",
+    "ipa": "/sɜːˈveɪləns/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "监视，监控",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "countless",
+    "word": "countless",
+    "ipa": "/ˈkaʊntləs/",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "无数的，数不胜数的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "curb",
+    "word": "curb",
+    "ipa": "/kɜːb/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "遏制，约束，限制",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "maladapted",
+    "word": "maladapted",
+    "ipa": "/ˌmæləˈdæptɪd/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "不适应的，水土不服的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "algorithms",
+    "word": "algorithms",
+    "ipa": "/ˈælɡərɪðəmz/",
+    "pos": null,
+    "sourceLocation": "P4-S3",
+    "contextMeaning": "算法程序",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "monopoly",
+    "word": "monopoly",
+    "ipa": "/məˈnɒpəli/",
+    "pos": null,
+    "sourceLocation": "P4-S4",
+    "contextMeaning": "垄断，垄断巨头企业",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "belong to",
+    "word": "belong to",
+    "ipa": "/bɪˈlɒŋ tuː/",
+    "pos": null,
+    "sourceLocation": "P4-S4",
+    "contextMeaning": "归属于，属于……所有",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "pharma",
+    "word": "pharma",
+    "ipa": "/ˈfɑːmə/",
+    "pos": null,
+    "sourceLocation": "P4-S5",
+    "contextMeaning": "制药公司，制药巨头",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "gigantic",
+    "word": "gigantic",
+    "ipa": "/dʒaɪˈɡæntɪk/",
+    "pos": null,
+    "sourceLocation": "P4-S6",
+    "contextMeaning": "巨大的，极其庞大的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "feudalism",
+    "word": "feudalism",
+    "ipa": "/ˈfjuːdəlɪzəm/",
+    "pos": null,
+    "sourceLocation": "P4-S7",
+    "contextMeaning": "封建主义，封建制度",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t3",
+    "surface": "digital",
+    "word": "digital",
+    "ipa": "/ˈdɪdʒɪtl/",
+    "pos": null,
+    "sourceLocation": "P4-S7",
+    "contextMeaning": "数字的，数字时代的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  }
+]

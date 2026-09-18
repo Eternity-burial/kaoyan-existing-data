@@ -1,0 +1,919 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "It can be learned from the first paragraph that ______.",
+    "stemTranslation": "从第一段中可以得知______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "Teamsters still have a large body of members.",
+        "translation": "卡车司机工会目前仍拥有大量会员",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第一段仅提及霍法所领导的卡车司机工会在1960年处于全盛时期（in their prime in 1960），并未提及该具体工会今天的会员规模。",
+        "vocab": [
+          {
+            "word": "large",
+            "ipa": "[lɑːdʒ]",
+            "meaning": "一群，大量",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Jimmy Hoffa used to work as a civil servant.",
+        "translation": "吉米·霍法曾经是一名公务员",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】首句使用虚拟语气指出“如果霍法今天还活着，他很可能会代表公务员”，恰恰说明霍法活着时领导的是卡车司机工会（传统私营工会），绝非公务员。",
+        "vocab": [
+          {
+            "word": "Jimmy",
+            "ipa": "",
+            "meaning": "[人名]吉米·霍法",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "used",
+            "ipa": "[juːst]",
+            "meaning": "曾经",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "civil",
+            "ipa": "[ˈsɪv(ə)l]",
+            "meaning": "公务员",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "unions have enlarged their public-sector membership.",
+        "translation": "工会扩大了其在公共部门的会员规模",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 段落宏观数据同义归纳】对应第一段数据链条：美国政府雇员入会比例从1960年的1/10跃升至如今的36%；2009年公共部门工会总人数超越私营部门；英国公共部门更有超半数员工加入工会。所有数据都指向一个事实：工会在公共部门的会员基础实现了大幅扩张（enlarged their public-sector membership）。",
+        "vocab": [
+          {
+            "word": "unions",
+            "ipa": "",
+            "meaning": "工会",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "enlarged",
+            "ipa": "",
+            "meaning": "增大",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the government has improved its relationship with unionists.",
+        "translation": "政府改善了与工会成员的关系",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第一段完全是客观的数据统计与历史对比，全篇未论及政府与工会之间的关系是否改善。",
+        "vocab": [
+          {
+            "word": "relationship",
+            "ipa": "[rɪˈleɪʃnʃɪp]",
+            "meaning": "关系",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P1-S2",
+      "P1-S3",
+      "P1-S4"
+    ],
+    "verbatimEvidence": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do. In 2009 the number of unionists in America's public sector passed that of their fellow members in the private sector. In Britain, more than half of public sector workers but only about 15% of private sector ones are unionized.",
+    "synonymMapping": [
+      {
+        "verbatimText": "1960 only 1/10 now 36% / number in public sector passed private sector",
+        "equivalentOption": "unions have enlarged their public-sector membership"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "第一段精解：通篇都在对比数据：1960年1/10加入工会，现在36%加入；2009年公共部门工会人数历史性超过私营部门；英国公共部门超半数入会。三个例证归结为同一个核心事实：公共部门的工会规模大幅壮大（enlarged their public-sector membership）。B 选项张冠李戴；A 选项脑补事实。",
+      "coreLesson": "首段推断题法门：抓取段落‘论据矩阵’共同服务的核心论点。连串递增的百分比与超过（passed）正是 membership 扩大（enlarged）的标准信号。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "Which of the following is true of Paragraph 2?",
+    "stemTranslation": "下列关于第二段的表述哪一项是正确的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Public-sector unions are prudent in taking actions.",
+        "translation": "公共部门工会在采取行动时极为谨慎",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】文中指出工会可以随意让公共事务停摆（shut things down）而无需承受什么后果，这种有恃无恐的表现绝非谨慎（prudent）。",
+        "vocab": [
+          {
+            "word": "unions",
+            "ipa": "",
+            "meaning": "工会",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "prudent",
+            "ipa": "[ˈpruːd(ə)nt]",
+            "meaning": "谨慎的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "taking",
+            "ipa": "",
+            "meaning": "采取行动",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Education is required for public-sector union membership.",
+        "translation": "加入公共部门工会需要具备一定教育学历要求",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】第二段指出工会成员中‘四分之一拥有大学学位’（受教育程度高），但这只是客观现状，并非工会会员资格的‘强制门槛要求’（required）。",
+        "vocab": [
+          {
+            "word": "union",
+            "ipa": "[ˈjuːniən]",
+            "meaning": "工会",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Labor Party has long been fighting against public-sector unions.",
+        "translation": "英国工党长期以来一直在同公共部门工会作斗争",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】文中第7句明确指出工党长期以来与工会运动紧密相联（associated with trade unionism），现任领袖更是仰赖工会选票上台，与 fighting against（作斗争）完全颠倒。",
+        "vocab": [
+          {
+            "word": "Labor",
+            "ipa": "[ˈleɪbə(r)]",
+            "meaning": "工党",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "fighting",
+            "ipa": "",
+            "meaning": "与…作斗争",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "unions",
+            "ipa": "",
+            "meaning": "工会",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Public-sector unions seldom get in trouble for their actions.",
+        "translation": "公共部门工会很少因其行动而陷入麻烦/招致恶果",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 习语同义精准替换】对应第二段第2句：First, they can shut things down without suffering much in the way of consequences。without suffering much in the way of consequences（在后果方面几乎不必承受什么代价）被完美同义替换为日常高频短语 seldom get in trouble for their actions（很少因自身举动惹上麻烦）。",
+        "vocab": [
+          {
+            "word": "unions",
+            "ipa": "",
+            "meaning": "工会",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "get",
+            "ipa": "[ɡet]",
+            "meaning": "惹麻烦",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节判断题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": "First, they can shut things down without suffering much in the way of consequences.",
+    "synonymMapping": [
+      {
+        "verbatimText": "without suffering much in the way of consequences",
+        "equivalentOption": "seldom get in trouble for their actions"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "第二段列举三大原因：①可以关停事务而不必承担后果；②成员普遍受过良好教育；③主导左翼政治。对应选项：D 项‘seldom get in trouble’直接等价于‘without suffering much consequences’。A 项 prudent 反向扭曲；B 项把‘四分之一有学历’偷换为‘必须有学历’；C 项把 associated with 反向写成 fighting against。",
+      "coreLesson": "细节正误题套路：正确项往往来自文中的原汁原味同义改写（without suffering consequences -> seldom get in trouble），错误选项则频繁使用‘正反颠倒’与‘无中生有乱加限制条件’。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "It can be learned from Paragraph 4 that the income in the state sector is ______.",
+    "stemTranslation": "从第四段可以得知，公共部门的收入______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "illegally secured.",
+        "translation": "非法获取的",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】政客与工会的薪酬协议是通过政治博弈合法签订的，作者批评其制度不合理，但从未定性为‘非法（illegally）’。",
+        "vocab": [
+          {
+            "word": "secured",
+            "ipa": "",
+            "meaning": "获得",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "indirectly augmented.",
+        "translation": "被间接地增加了",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 政治修辞与经济实质洞察】对应第四段第2、3句：真正实惠来自福利；政客将协议‘后置’（backloaded），虽保持账面工资微幅上涨（modest pay increases），但暗中大幅增加休假福利，尤其是本就极其丰厚的退休养老金。通过向未来推延高额退休待遇这种暗箱与迂回手法，工会员工的实际收入被实质性、间接地极大地增强放大了（indirectly augmented）。",
+        "vocab": [
+          {
+            "word": "augmented",
+            "ipa": "",
+            "meaning": "增加",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "indirectly",
+            "ipa": "[ˌɪndəˈrektli; ˌɪndaɪˈrektli]",
+            "meaning": "间接地",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "excessively increased.",
+        "translation": "被过度激增",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/概念扭曲",
+        "analysis": "【正反颠倒/概念扭曲】文中明确说明直接工资增长是适度温和的（keeping the pay increases modest），并非表面上的过度暴增；过度增加的是隐性养老金。",
+        "vocab": [
+          {
+            "word": "excessively",
+            "ipa": "[ɪkˈsesɪvli]",
+            "meaning": "过度地",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "fairly adjusted.",
+        "translation": "得到公平合理的调整",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】作者通篇批判政客为了选票慷纳税人之慨转嫁未来债务，充满贬义，绝非公平合理（fairly）。",
+        "vocab": [
+          {
+            "word": "adjusted",
+            "ipa": "",
+            "meaning": "调整",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P4-S2",
+      "P4-S3"
+    ],
+    "verbatimEvidence": "But the real gains come in benefits and work practices. Politicians have repeatedly \"backloaded\" public sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.",
+    "synonymMapping": [
+      {
+        "verbatimText": "backloaded pay deals / keeping pay increases modest but adding to holidays and pensions",
+        "equivalentOption": "indirectly augmented"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第四段。关键词‘backloaded’（后置的）。具体运作方式：表面上工资涨幅很小（modest），但背地里猛加假期和极其丰厚的天价养老金（generous pensions）。这种不在明面上涨直接工资、而在退休福利上大做文章的手段，就是典型的‘间接增加收入’（indirectly augmented）。augment = 增强/扩大，AR 即 Augmented Reality。B 选项神级同义抽象！",
+      "coreLesson": "透过现象看本质：考研英语对带有引号的专业术语（\"backloaded\"）极度敏感，其下文伴随状语（keeping... modest but adding to...）是对术语的解构，选项将其内涵抽象为‘indirectly augmented’。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "state",
+          "ipa": "[steɪt]",
+          "meaning": "公共部门",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "The example of the unions in Wisconsin shows that unions ______.",
+    "stemTranslation": "威斯康星州工会的例子表明工会______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "often run against the current political system.",
+        "translation": "往往与现行政体制度相违背",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/范围夸大",
+        "analysis": "【以偏概全/范围夸大】工会反对的是削减其集体谈判权与福利的某项具体改革法案，第二段更说明其主导中左翼政治，绝非反体制反抗整个政治制度（political system）。",
+        "vocab": [
+          {
+            "word": "run",
+            "ipa": "[rʌn]",
+            "meaning": "违背",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "current",
+            "ipa": "[ˈkʌrənt]",
+            "meaning": "现行的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "can change people's political attitudes.",
+        "translation": "能够改变人们的政治态度",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】文中指出工会动员的是本来就支持自己的数千名拥趸（supporters），并未改变其他公众的政治态度。",
+        "vocab": [
+          {
+            "word": "attitudes",
+            "ipa": "",
+            "meaning": "态度",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "may be a barrier to public-sector reforms.",
+        "translation": "可能会成为公共部门改革的障碍",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 论点论据关系精准锁定】例证题寻根溯源。威斯康星工会集会抗议州长出现在第六段第2句，其前承第五段总论点‘Reform has been vigorously opposed’（改革遭到猛烈反对），以及第六段首句‘政客开始出手整顿限制（clamp down）’。工会动员数千人对抗改革派州长，正是为了证明工会已经沦为阻挠公共部门推进体制改革的巨大绊脚石与阻碍（a barrier to reforms）。",
+        "vocab": [
+          {
+            "word": "barrier",
+            "ipa": "[ˈbæriə(r)]",
+            "meaning": "障碍",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reforms",
+            "ipa": "/rɪˈfɔːrmz/",
+            "meaning": "改革",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "are dominant in the government.",
+        "translation": "在政府中居于统治主导地位",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】文中说工会主导中左翼政党政治（dominate left-of-centre politics），而非直接支配整个政府（government）。",
+        "vocab": [
+          {
+            "word": "dominant",
+            "ipa": "[ˈdɒmɪnənt]",
+            "meaning": "主导的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "EXEMPLIFICATION",
+    "type": "例证题",
+    "targetSentences": [
+      "P5-S1",
+      "P6-S1",
+      "P6-S2"
+    ],
+    "verbatimEvidence": "Reform has been vigorously opposed... As the cost to everyone else has become clearer, politicians have begun to clamp down. In Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.",
+    "synonymMapping": [
+      {
+        "verbatimText": "Reform vigorously opposed / politicians clamp down -> unions rallied against governor",
+        "equivalentOption": "may be a barrier to public-sector reforms"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "例证题黄金定律：例子本身不重要，找例子服务的前文论点。威斯康星州工会大集会反对硬派州长斯科特·沃克，往前看：第五段首句‘Reform has been vigorously opposed’（改革受到强烈抵制），第六段首句‘政客开始出手压制’。整个逻辑链一目了然：工会顽抗改革，因而成为改革的巨大阻碍（barrier to public-sector reforms）。C 项精准命中。",
+      "coreLesson": "例证题解题口诀：问‘Example shows what’，跳过例子细节，向上锁定主题句与首句论点句。Reform vigorously opposed -> barrier to reforms。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "unions",
+          "ipa": "",
+          "meaning": "工会",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "John Donahue's attitude towards the public-sector system is one of ______.",
+    "stemTranslation": "约翰·唐纳修对公共部门体制的态度是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "disapproval.",
+        "translation": "不赞同，批判反对",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 情感态度词精准判定】对应第七段第1、3句：唐纳修尖锐指出西方公务员文化规范只适合混日子安于现状的平庸之辈（suit those who want to stay put），而对业绩出众者非常不利（is bad for high achievers）；尾句更总结这种不奖励拔尖人才的体制对美国而言是更严重的问题（a much bigger problem）。字里行间充斥着对现行体制的严厉批评与彻底否定，精准对应态度词 disapproval（不赞成、反对）。",
+        "vocab": [
+          {
+            "word": "disapproval",
+            "ipa": "[ˌdɪsəˈpruːv(ə)l]",
+            "meaning": "不赞成",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "appreciation.",
+        "translation": "欣赏，赞赏",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】文中是严词痛陈体制弊端，毫无赞赏之意。",
+        "vocab": [
+          {
+            "word": "appreciation",
+            "ipa": "[əˌpriːʃiˈeɪʃn]",
+            "meaning": "欣赏",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "tolerance.",
+        "translation": "宽容，容忍",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】学者指出这是严重国家危机并疾呼变革，态度鲜明激烈，并非无可奈何的默许容忍。",
+        "vocab": [
+          {
+            "word": "tolerance",
+            "ipa": "[ˈtɒlərəns]",
+            "meaning": "容忍",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "indifference.",
+        "translation": "漠不关心，冷漠",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】考研英语阅读中，文章作者或重要学者对核心论题必然持有鲜明观点，‘冷漠漠然’（indifference）属于绝对陪跑干扰项。",
+        "vocab": [
+          {
+            "word": "indifference",
+            "ipa": "[ɪnˈdɪfrəns]",
+            "meaning": "漠不关心",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P7-S1",
+      "P7-S3"
+    ],
+    "verbatimEvidence": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers... but a public sector system that does not reward high achievers may be a much bigger problem for America.",
+    "synonymMapping": [
+      {
+        "verbatimText": "bad for high achievers / a much bigger problem for America",
+        "equivalentOption": "disapproval"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "尾段态度题：抓取唐纳修的评价定性词汇。‘bad for high achievers’（对杰出人才不利），‘a much bigger problem’（是一个大得多的严重问题）。这清清楚楚是对公共部门制度的批评与不满。disapproval（不赞同、反对）一击必中。B 欣赏正反颠倒；C 容忍与 D 冷漠均违背严谨论辩的情感基调。",
+      "coreLesson": "态度题秒杀法则：寻找正负向色彩强烈的定性形容词（bad, bigger problem）。当定调明确为负向批判时，在选项中锁定 disapproval / critical 等经典批评词。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Donahue's",
+          "ipa": "",
+          "meaning": "[人名]约翰·唐纳修",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  }
+]

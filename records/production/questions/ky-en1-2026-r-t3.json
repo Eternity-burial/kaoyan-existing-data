@@ -1,0 +1,393 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "What can be learnt about wireless from Reith?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It was accessible to everyone.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 明确引述里斯爵士的名言：'a gift to all the people... there is always enough for others... the genius and the fool, the wealthy and the poor listen simultaneously'（馈赠给所有人的礼物，无论穷人富人、天才愚人都能在同一时刻同时收听）。gift to all people / listen simultaneously 与 It was accessible to everyone（它向每个人都完全平等开放/人人皆可收听获取）完全同义对应。A选项完全精准吻合。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "It improved interpersonal relations.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】里斯说终结心灵孤独（end isolation of spirit），但第三段漫画指出戴耳机导致人们无法当面交谈，非改善了人际关系。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "It was a miracle of human ingenuity.",
+        "isCorrect": false,
+        "distractorType": "过度拔高套话",
+        "analysis": "【干扰特征: 空泛套话】里斯核心强调的是其面向全社会的无门槛普惠共享性，非赞叹技术奇迹。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "It led to a new era of isolating culture.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】里斯认为广播终结了精神孤独（end isolation），绝非开启了隔离文化的新时代。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "gift to all people + genius and fool, wealthy and poor listen simultaneously = It was accessible to everyone。",
+      "methodSummary": "先驱引语信息提取：gift to all people / rich and poor simultaneously 转换为 accessible to everyone。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "learnt about wireless from Reith"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "What is the theme of the exhibition at the Bodleian in Oxford?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The impact of radio on its early audience.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 明确交代该展览的核心展陈主题：'an exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939... audience research by Winifred Gill'（记录了1922至1939年间广播如何改变了大众的日常生活，调阅了书信日记和受众田野调查）。how radio changed everyday life 与 The impact of radio on its early audience（广播对其早期受众群体的深远影响）完全同义对应。A选项精准吻合。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The role of radio in public music education.",
+        "isCorrect": false,
+        "distractorType": "以偏概全局部细节",
+        "analysis": "【干扰特征: 局部细节】音乐口哨只是第3段受众生活中的一个生动细节，展览涵盖政治、社会、生活各领域。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "The innovation process of radio technology.",
+        "isCorrect": false,
+        "distractorType": "偷换重点为技术演进",
+        "analysis": "【干扰特征: 偷换重点】展览聚焦于‘社会受众生活反响’（societal impact on audience），非展示工程技术层面的研发创新流程。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The eminent pioneers in radio broadcasting.",
+        "isCorrect": false,
+        "distractorType": "偷换主体为先驱人物",
+        "analysis": "【干扰特征: 概念偏差】展览关注的是千千万万普通平民受众的生活变迁，非广播杰出先驱人物传记。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节主旨题",
+    "targetSentences": [
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "records how radio changed everyday life 1922-1939 based on audience research = The impact of radio on its early audience。",
+      "methodSummary": "展览主题题眼提取：how radio changed everyday life 转换为 impact of radio on early audience。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "theme of the exhibition at the Bodleian in Oxford"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "It is indicated in Paragraph 4 that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the research on radio used to be inadequate.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】作者高度赞扬30年代详实严谨的受众研究（Thirties research），资料非常丰富。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the charm of radio remains in the digital age.",
+        "isCorrect": false,
+        "distractorType": "跨段正反颠倒",
+        "analysis": "【干扰特征: 事实相反】第5段首句明确指出广播这种充满意外收获的魅力在数字时代正在消退退潮（serendipity is ebbing）。",
+        "refSentences": [
+          "P4-S2",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "radio listeners could make unexpected gains.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S2 明确阐述传统广播带给听众的独特魅力：'linear speech broadcasting brought the gift of serendipity, random enlivening... startlingly educated by an unpretentious programme'（线性语言广播带来了偶得意外收获的礼物，随机点亮生活，让人意外受到知识启迪）。gift of serendipity（意外机缘之礼 / 意外发现好东西的运气）与 radio listeners could make unexpected gains（广播听众能够获得意想不到的意外收获）完全同义对应。C选项完全精准吻合。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "radio shows have changed little over the years.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及广播节目形式多年未变，重点在于线性广播带给人的偶得意外收获。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "linear speech broadcasting brought the gift of serendipity = radio listeners could make unexpected gains。",
+      "methodSummary": "核心词汇同义改写：gift of serendipity 转换为 unexpected gains。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "indicated in Paragraph 4"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "The expression \"talking on the brush handle\" in Paragraph 3 refers to the act of",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "making a loud noise.",
+        "isCorrect": false,
+        "distractorType": "字面望文生义",
+        "analysis": "【干扰特征: 字面偏差】主妇倚靠扫把是在邻里闲谈，非制造巨大噪音。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "having a casual chat.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 语境语义推断】P3-S1 中一位妇女回忆无线电给生活带来的改变：'fewer street fights... but also less stopping and \"talking on the brush handle\"'（街头打架变少了，但停下脚步靠在扫帚上闲聊也变少了）。在日常市井生活中，主妇做家务扫地时停下手中的扫帚与经过的邻里靠在扫帚柄上拉家常，是典型的日常非正式闲聊社交。talking on the brush handle 即精准指代 having a casual chat（随性闲聊/拉家常）。B选项精准吻合。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "starting a trivial quarrel.",
+        "isCorrect": false,
+        "distractorType": "混淆前文斗殴",
+        "analysis": "【干扰特征: 概念混淆】前文已提到 street fights（街头争吵打架）变少了，后文 but 承接的是邻里温馨闲聊互动也减少了。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "humming a popular song.",
+        "isCorrect": false,
+        "distractorType": "混淆工人口哨",
+        "analysis": "【干扰特征: 张冠李戴】哼唱歌曲对应的是工人们 whistle new tunes，非主妇靠扫帚闲聊。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "词义指代题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "less stopping and \"talking on the brush handle\" = having a casual chat（闲聊拉家常）。",
+      "methodSummary": "语境习语推断法：结合主妇扫地停下动作的市井生活场景，直接锁定 having a casual chat。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "talking on the brush handle",
+        "refers to the act of"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "In the last paragraph, the author intends to express the opinion that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "technology should be aimed at benefiting humans.",
+        "isCorrect": false,
+        "distractorType": "空泛套话",
+        "analysis": "【干扰特征: 过于宽泛】未切中作者对个性化算法导致‘意外惊喜消退、陷入同温层偏狭’的具体深刻反思。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "actions should be taken to revive the art of listening.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】戴耳机听播客依然在倾听，问题在于收听内容过于自我封闭狭隘，非恢复倾听艺术。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "adolescents should form healthy social media habits.",
+        "isCorrect": false,
+        "distractorType": "偷换主体为青少年",
+        "analysis": "【干扰特征: 偷换主体】文章反思面向全社会所有智能手机用户，非特指青少年（adolescents）。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "people should adopt a sensible attitude to innovations.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 深刻主旨提炼】P5-S1 深刻对比了传统广播的意外包容与现代智能算法的自我封闭：'infinite choice encourages us to shrink into niche interests and sympathetic beliefs'（看似无限的选择却促使我们退缩到狭隘的小众兴趣和单一偏狭信念中）。作者通过这一清醒批判警醒世人：面对技术创新与算法定制，切不可盲目沉溺，而应当采取理性、明智且辩证审慎的态度（people should adopt a sensible attitude to innovations），主动打破信息同温层与认知茧房。D选项精准、周严且深刻地提炼了末段观点。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "篇章观点态度题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "infinite choice causes us to shrink into niche interests and sympathetic beliefs -> need critical reflection = people should adopt a sensible attitude to innovations。",
+      "methodSummary": "批判性反思提炼：对算法定制导致茧房的批判，提炼为 adopt a sensible attitude to innovations。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "last paragraph",
+        "author intends to express the opinion that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  }
+]

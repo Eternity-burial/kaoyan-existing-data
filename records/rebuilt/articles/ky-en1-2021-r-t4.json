@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2021-r-t4",
+  "year": 2021,
+  "textNumber": 4,
+  "title": "Net Neutrality Wars: FCC Deregulation and Congressional Action",
+  "chineseTitle": "美国网络中立性（Net Neutrality）法律争端与国会立法迫切性",
+  "topic": "互联网法治与电信监管 / 宽带运营商偏袒自营业务、FCC 废除网络中立与国会立法破局",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文深入探讨了美国围绕“网络中立性”展开的激烈法律争端。从宽带早期起，公众便担忧运营商滥用垄断地位偏袒自营关联网站打压竞争对手（如 AT&T 偏袒自营视频打压奈飞），从而催生了对网络中立规则的强烈诉求。然而在共和党主导下，FCC 采取了极端的反监管立场废除网络中立规则并自我放弃监管权。联邦上诉法院维持了去监管命令，但米莱特法官尖锐批评判决脱离现代宽带技术现实，法院允许各州立法引发了加州与司法部的新一轮缠斗。文章大声疾呼国会必须果断采取立法行动，明确授权 FCC 确立规则以切实保障网络中立与开放创新。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 12,
+  "vocabularyCount": 0,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2021_t4.json",
+    "year": 2021,
+    "articleKey": "ky-en1-2021-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:0921124f7ad49477d62e4b6f8a27e1e64d6661ef0d5f082b191b09980c081c18"
+  }
+}

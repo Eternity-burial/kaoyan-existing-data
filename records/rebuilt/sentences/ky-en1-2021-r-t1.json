@@ -1,0 +1,362 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "How can the train operators possibly justify yet another increase to rail passenger fares?",
+    "translation": "铁路运营商究竟凭什么能够为又一轮铁路客运票价上涨给出正当合理的解释？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise.",
+    "translation": "这已经演变为一场令人沮丧却雷打不动的残酷年度惯例：每年一月，搭乘火车的出行成本都会水涨船高，给那些别无选择、只能依赖铁路网络上下班通勤或出行的广大民众强加了沉重的额外负担。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation.",
+    "translation": "今年平均2.7%的票价涨幅，即便比去年略微低了那么一点点，但依然远远高于官方消费者价格指数（CPI）所衡量的通胀水平（remains an unreasonable measure）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Successive governments have permitted such increases on the grounds that the cost of investing in and running the rail network should be borne by those who use it, rather than the general taxpayer.",
+    "translation": "历届英国政府之所以默许此类票价连年上涨，其堂而皇之的理由是：投资与运营铁路网络的庞大成本应当由其实际使用者（those who use it / rail travelers）来承担，而非转嫁给全体普通纳税人。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Why, the argument goes, should a car-driving pensioner from Lincolnshire have to subsidise the daily commute of a stockbroker from Surrey?",
+    "translation": "这种辩解声称：凭什么要让一位来自林肯郡、日常开汽车出行的退休老人，去补贴一位来自萨里郡、天天坐火车通勤的股票经纪人（stockbroker / stands for rail travelers）呢？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Equally, there is a sense that the travails of commuters in the South East, many of whom will face among the biggest rises, have received too much attention compared to those who must endure the relatively poor infrastructure of the Midlands and the North.",
+    "translation": "同样，社会上还普遍存在一种看法：相比于英格兰中部和北部那些不得不忍受相对落后基础设施的苦难民众，东南部那些面临最高票价涨幅的通勤者的辛酸似乎受到了过度的关切聚焦。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "However, over the past 12 months, those commuters have also experienced some of the worst rail strikes in years.",
+    "translation": "然而，在过去的整整12个月里，那些通勤族同样经受了近年来最为惨烈的铁路工人大罢工。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "It is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel.",
+    "translation": "铁路运营商在媒体上大肆吹嘘鼓吹他们为铁路网所做的种种改进固然无可厚非；然而，广大乘客为了出行掏出了如此高昂的真金白银（substantial sums），理所应当有权享受到最起码的基本合格水准服务（failed to provide an adequate service）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "The responsibility for the latest wave of strikes rests on the unions. However, there is a strong case that those who have been worst affected by industrial action should receive compensation for the disruption they have suffered.",
+    "translation": "最新一轮罢工的直接责任固然在于工会；然而，有极其充分的法理依据表明，那些遭受罢工停运重创影响最深的乘客，理应为其所遭受的出行混乱获得经济赔偿。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The Government has pledged to change the law to introduce a minimum service requirement so that, even when strikes occur, services can continue to operate. This should form part of a wider package of measures to address the long-running problems on Britain's railways.",
+    "translation": "英国政府已郑重承诺将修改法律以引入法定“最低服务要求”，确保哪怕在发生罢工时铁路服务仍能维持基本运转。这理应构成解决英国铁路长期积弊的一揽子更广泛综合措施的重要组成部分。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must also endure cramped, unreliable services, punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently.",
+    "translation": "诚然，铁路系统确实需要更多资金投入；但如果广大乘客在掏钱的同时还必须无休止地忍受拥挤不堪、极不可靠的服务，以及因时刻表变动或维修调度无能而造成的经常性混乱，那么他们绝不可能情愿无限期地承受更高票价（Ever-rising Fares Aren't Sustainable）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "The threat of nationalisation may have been seen off for now, but it will return with a vengeance if the justified anger of passengers is not addressed in short order.",
+    "translation": "铁路‘国有化’（nationalisation / a change of ownership）的呼声与威胁或许在当下暂时被击退平息；但若乘客的正当满腔怒火无法在短期内得到切实化解，这一重归国有化的浪潮必将以排山倒海般的复仇之势卷土重来！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  }
+]

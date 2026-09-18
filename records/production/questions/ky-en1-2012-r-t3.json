@@ -1,0 +1,933 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "According to the first paragraph, the process of discovery is characterized by its ______.",
+    "stemTranslation": "根据第一段，科学发现的过程具有______的特征。",
+    "options": [
+      {
+        "key": "A",
+        "text": "uncertainty and complexity.",
+        "translation": "不确定性与复杂性",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 形容词与抽象名词严密同义对齐】对应第一段第2句：But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route。形容词 ambiguous（模棱两可的、不明确的）精准对齐抽象名词 uncertainty；complicated（复杂的）精准对齐 complexity。"
+      },
+      {
+        "key": "B",
+        "text": "misconception and deceptiveness.",
+        "translation": "错误观念与欺骗性",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】第一段尾句指出‘产生误解、错误和自我欺骗的机会大量存在’（Opportunities for misinterpretation... abound），这些是科研中的‘潜在风险/可能犯的错误’，绝非科学发现过程本身的‘本质特征’，选项偷换了修饰主体。",
+        "vocab": [
+          {
+            "word": "misconception",
+            "ipa": "[ˌmɪskənˈsepʃn]",
+            "meaning": "错误认识",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "deceptiveness",
+            "ipa": null,
+            "meaning": "虚伪，欺骗性",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "logicality and objectivity.",
+        "translation": "逻辑性与客观性",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】首句提出‘客观研究者运用科学方法收集事实’是理想化图景（idealized version），但第2、3句转折指出在现实中研究者无法逃避主观经历背景。因此逻辑与客观是理想而非实际发现过程的特征。",
+        "vocab": [
+          {
+            "word": "logicality",
+            "ipa": "[ˌlɒdʒɪˈkælɪti]",
+            "meaning": "逻辑性",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "objectivity",
+            "ipa": "[ˌɒbdʒekˈtɪvəti]",
+            "meaning": "客观性",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "systematicness and regularity.",
+        "translation": "系统性与规律性",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】文中明确指出科研发现走的是‘模糊曲折的路线’（ambiguous and complicated route），具有非线性特征，与系统性、规律性完全背道而驰。",
+        "vocab": [
+          {
+            "word": "regularity",
+            "ipa": "[ˌreɡjuˈlærəti]",
+            "meaning": "常规性",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S2"
+    ],
+    "verbatimEvidence": "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route.",
+    "synonymMapping": [
+      {
+        "verbatimText": "ambiguous and complicated",
+        "equivalentOption": "uncertainty and complexity"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第一段第2句：But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route。题干中 the process of discovery 对应日常科研实践中 discovery follows a route。词性转换：ambiguous -> uncertainty；complicated -> complexity。直击考点，秒选 A。B 项把尾句的 opportunities 脑补成特征，属于典型过度推论干扰。",
+      "coreLesson": "细节题审题抓破折/转折：首段首句常常抛出‘理想化/传统观点’充当靶子，But 之后的句子才是作者真正论述现实特性的考点句。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "process",
+          "ipa": "[prəˈses; ˈprəʊses]",
+          "meaning": "流程",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "characterized",
+          "ipa": "",
+          "meaning": "以…为特征",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "It can be inferred from Paragraph 2 that the credibility process requires ______.",
+    "stemTranslation": "从第二段可以推断出，“可信度形成过程”需要______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "strict inspection.",
+        "translation": "严格的检查",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全",
+        "analysis": "【以偏概全】原文强调的是‘集体的审视与接受’（collective scrutiny and acceptance），重点在于共同体的群体性；仅说‘严格检查’忽略了接纳（acceptance）与共同体互动转化（transformation）的核心意涵。",
+        "vocab": [
+          {
+            "word": "inspection",
+            "ipa": "[ɪnˈspekʃ(ə)n]",
+            "meaning": "审查",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "shared efforts.",
+        "translation": "共同的努力",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 抽象概括同义替换】对应第二段第3、4句：把个人发现变成公认成熟发现，需要‘collective scrutiny and acceptance’（集体的审阅与接纳），使个人的此时此地变成‘共同体（community）的任何人、任何地方、任何时候’。collective 与 community 均指向全群体的 shared，而审查与接纳即共同努力的过程（efforts）。"
+      },
+      {
+        "key": "C",
+        "text": "individual wisdom.",
+        "translation": "个人的智慧",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】第二段明确强调个人的主张（individual researcher's me, here, now）只是原始假说，必须经过群体升华，作者批判的正是不依赖群体的单一孤立个体认知。",
+        "vocab": [
+          {
+            "word": "individual",
+            "ipa": "[ˌɪndɪˈvɪdʒuəl]",
+            "meaning": "个人的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "wisdom",
+            "ipa": "[ˈwɪzdəm]",
+            "meaning": "智慧",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "persistent innovation.",
+        "translation": "持续的创新",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第二段通篇阐释从原始主张到成熟发现的社会化确立机制，未提及持续创新。",
+        "vocab": [
+          {
+            "word": "innovation",
+            "ipa": "[ˌɪnəˈveɪʃ(ə)n]",
+            "meaning": "创新",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "persistent",
+            "ipa": "[pəˈsɪstənt]",
+            "meaning": "不屈不挠的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P2-S3",
+      "P2-S4"
+    ],
+    "verbatimEvidence": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery. This is the credibility process, through which the individual researcher's me, here, now becomes the community's anyone, anywhere, anytime.",
+    "synonymMapping": [
+      {
+        "verbatimText": "collective scrutiny and acceptance / community",
+        "equivalentOption": "shared efforts"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第二段第3句：it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery。核心替换公式：collective = shared；scrutiny and acceptance = efforts。B 选项‘shared efforts’（共同努力）是对集体审视与接纳的上位凝练。A 项 inspection 漏掉了 collective 的灵魂修饰词，C 项个体智慧与集体完全对立。",
+      "coreLesson": "抽象同义替换的高阶模式：‘collective + 两个具体动作名词’常被高度概括为‘shared efforts’。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "process",
+          "ipa": "[prəˈses; ˈprəʊses]",
+          "meaning": "进程",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "credibility",
+          "ipa": "[ˌkredəˈbɪləti]",
+          "meaning": "可信度（此处指取得可信度）",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "Paragraph 3 shows that a discovery claim becomes credible after it ______.",
+    "stemTranslation": "第三段表明，一项发现主张在______之后才能变得可信。",
+    "options": [
+      {
+        "key": "A",
+        "text": "has attracted the attention of the general public.",
+        "translation": "吸引了广大公众的注意力",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】第三段第3句中提到公众最后接收新发现及技术，是科学主张被认可后的流通阶段，而非使其变得可信（credible）的原因。",
+        "vocab": [
+          {
+            "word": "attracted",
+            "ipa": "",
+            "meaning": "吸引",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "has been examined by the scientific community.",
+        "translation": "经受了科学共同体的审视检验",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 上位总结归纳替换】对应第三段第3、4句：在科学社群这一复杂结构中，编辑审稿把关、同行科学家检验利用，共有与对立信念在社群中激烈碰撞互动（works its way through the community），最终将其转化为 credible discovery。整个社会化检验过程被高度提炼概括为 has been examined by the scientific community。",
+        "vocab": [
+          {
+            "word": "community",
+            "ipa": "[kəˈmjuːnəti]",
+            "meaning": "（由同国籍、同宗教等构成的）界",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "has received recognition from editors and reviewers.",
+        "translation": "获得了编辑和审稿人的认可",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全",
+        "analysis": "【以偏概全】编辑和审稿人只是通过控制发表充当看门人（gatekeepers），发表只是第一步，发表后还必须经受同行科学家的验证与交锋，仅凭编辑认可远不足以成为公认的可信发现。",
+        "vocab": [
+          {
+            "word": "recognition",
+            "ipa": "[ˌrekəɡˈnɪʃn]",
+            "meaning": "认可",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "editors",
+            "ipa": "",
+            "meaning": "编辑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "has been frequently quoted by peer scientists.",
+        "translation": "被同行科学家频繁引用",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文说其他科学家利用新发现服务于自身目的（use the new finding to suit their own purposes），全篇未出现‘频繁引用’（frequently quoted）的字眼。",
+        "vocab": [
+          {
+            "word": "quoted",
+            "ipa": "",
+            "meaning": "引用",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "peer",
+            "ipa": "[pɪə(r)]",
+            "meaning": "同行",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S3",
+      "P3-S4"
+    ],
+    "verbatimEvidence": "As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.",
+    "synonymMapping": [
+      {
+        "verbatimText": "works its way through the community ... interaction and confrontation",
+        "equivalentOption": "has been examined by the scientific community"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第三段第4句尾部：transforms an individual's discovery claim into the community's credible discovery。何时变成 credible？前文条件状语：As a discovery claim works its way through the community, the interaction and confrontation... 这整套机制就是科学共同体的综合检验（examined by the scientific community）。C 选项把 gatekeepers 这一初期发表环节当成终局，以偏概全。",
+      "coreLesson": "主谓宾与状语从句对应关系：题干问‘becomes credible after...’，对应原文‘...transforms into credible discovery’；其触发条件即主句前面的 As... 时间状语从句。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "claim",
+          "ipa": "[kleɪm]",
+          "meaning": "声明",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "Albert Szent-Györgyi would most likely agree that ______.",
+    "stemTranslation": "阿尔伯特·圣捷尔吉最有可能赞同______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "scientific claims will survive challenges.",
+        "translation": "科学主张必将在挑战中存活下来",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】第四段第5句指出任何发现都将始终面临挑战并‘可能被修改或推翻’（potential modification or refutation），并未保证其必然存活。",
+        "vocab": [
+          {
+            "word": "claims",
+            "ipa": "",
+            "meaning": "声明",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "survive",
+            "ipa": "[səˈvaɪv]",
+            "meaning": "经受住",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "challenges",
+            "ipa": "",
+            "meaning": "质疑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "discoveries today inspire future research.",
+        "translation": "今天的发现将启发未来的研究",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】圣捷尔吉的名言聚焦于做出发现时的独特思维状态，而非讨论发现对后世研究的启发性。",
+        "vocab": [
+          {
+            "word": "inspire",
+            "ipa": "[ɪnˈspaɪə(r)]",
+            "meaning": "激发",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "efforts to make discoveries are justified.",
+        "translation": "为做出发现所付出的努力是完全正当的",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】名言探讨认知与心智特征，未对科学家的探索努力做道德或价值正当性辩护。",
+        "vocab": [
+          {
+            "word": "justified",
+            "ipa": "",
+            "meaning": "合理的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "scientific work calls for a critical mind.",
+        "translation": "科学工作需要具备批判性心智",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 名言深层涵义哲学抽象转述】对应第四段第7句：圣捷尔吉将科学发现定义为‘看到每个人都看到的，想到没有人想到的’（seeing what everybody has seen and thinking what nobody has thought）。敢于且能够‘想到别人所未想’，正是对现有通说（prevailing knowledge）的质疑与反思，生动阐明科学研究需要摆脱人云亦云的思维定势，具备独立审辨与反思的批判性心智（a critical mind）。",
+        "vocab": [
+          {
+            "word": "calls",
+            "ipa": "",
+            "meaning": "需要",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "critical",
+            "ipa": "[ˈkrɪtɪk(ə)l]",
+            "meaning": "批判的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "观点态度与细节推断题",
+    "targetSentences": [
+      "P4-S7"
+    ],
+    "verbatimEvidence": "Nobel Laureate and physiologist Albert Szent-Györgyi once described discovery as \"seeing what everybody has seen and thinking what nobody has thought.\"",
+    "synonymMapping": [
+      {
+        "verbatimText": "thinking what nobody has thought",
+        "equivalentOption": "scientific work calls for a critical mind"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第四段第7句。名言题解析：‘seeing what everybody has seen and thinking what nobody has thought’。人人都能看到是感官事实，但唯独你能想到别人没想过的，这就是 critical mind（批判性思维/审辨式思维）。calls for 对应需要；a critical mind 完美凝练了敢于打破常规认知的科学探索精神。",
+      "coreLesson": "名言引用题解法：勿停留在字面修辞（看与想），要穿透到其指涉的认知品质。thinking what nobody else has thought 永远是批判性思维（critical thinking/mind）最经典的哲学注脚。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Albert",
+          "ipa": "",
+          "meaning": "[人名]Albert",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following would be the best title of the text?",
+    "stemTranslation": "下列哪项作为本文的最佳标题最合适？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Novelty as an Engine of Scientific Development.",
+        "translation": "新颖性：科学发展的引擎",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全",
+        "analysis": "【以偏概全】新颖性（novelty）仅是第四段提出的第二个悖论，且文中指出新颖性往往引发怀疑而非一帆风顺的引擎，偏离了全文探讨可信度如何建构的主轴。",
+        "vocab": [
+          {
+            "word": "Novelty",
+            "ipa": "[ˈnɒv(ə)lti]",
+            "meaning": "新颖",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Engine",
+            "ipa": "[ˈendʒɪn]",
+            "meaning": "引擎",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Collective Scrutiny in Scientific Discovery.",
+        "translation": "科学发现中的集体审视",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全",
+        "analysis": "【以偏概全】集体审视（Collective Scrutiny）只是第二、三段提到可信度形成的一个重要步骤，未能涵盖从原始科学到心智公地的完整演变（Evolution）以及全文的核心主题词 credibility。",
+        "vocab": [
+          {
+            "word": "Collective",
+            "ipa": "[kəˈlektɪv]",
+            "meaning": "集体的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Scrutiny",
+            "ipa": "[ˈskruːtəni]",
+            "meaning": "认真彻底的审查",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Evolution of Credibility in Doing Science.",
+        "translation": "从事科学研究中可信度的演化进程",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 全篇主旨与高频核心概念凝练】文章全篇贯穿两条核心逻辑线：一为核心对象 credibility（可信度），二为主干脉络 process / transform（演化进程 Evolution）。从第二段引出 credibility process，第三段详述转化机制，第四段剖析演变悖论，到尾段升华心智公地，全篇都在解答‘一个最初不成熟的科学主张，如何一步步演变成公认的可信真理’。Evolution of Credibility in Doing Science 准确、宏观且全面地统摄全篇。",
+        "vocab": [
+          {
+            "word": "Evolution",
+            "ipa": "[ˌiːvəˈluːʃ(ə)n]",
+            "meaning": "发展",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Challenge to Credibility at the Gate to Science.",
+        "translation": "科学大门处对可信度的挑战",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全",
+        "analysis": "【以偏概全】‘科学大门的挑战’仅对应第三段编辑审稿把关（gatekeepers）或第四段的质疑反驳，属于局部的消极防守视角，遗漏了同行接纳、共同体互动及理性建构的广阔主旨。",
+        "vocab": [
+          {
+            "word": "Challenge",
+            "ipa": "[ˈtʃælɪndʒ]",
+            "meaning": "质疑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P2-S4",
+      "P3-S4",
+      "P4-S1",
+      "P5-S1"
+    ],
+    "verbatimEvidence": "This is the credibility process... transforms an individual's discovery claim into the community's credible discovery... Two paradoxes exist throughout this credibility process... In the end, credibility \"happens\" to a discovery claim -- a process that corresponds to what philosopher Annette Baier has described as the commons of the mind.",
+    "synonymMapping": [
+      {
+        "verbatimText": "credibility process / transforms discovery claim into credible discovery",
+        "equivalentOption": "Evolution of Credibility in Doing Science"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "全篇主旨题串联法：抓取全文最高频的中心词。第二段：credibility process；第三段：transforms into credible discovery；第四段：throughout this credibility process；第五段：credibility 'happens'。核心论题必然包含 credibility！再看行文逻辑：从 protoscience 到 mature discovery，这是一个动态演化过程（Evolution / process）。C 选项‘Evolution of Credibility in Doing Science’天衣无缝。",
+      "coreLesson": "最佳标题法：抓准‘核心论题词 + 逻辑动态词’。当选项中只有一个准确囊括全文高频关键词（Credibility）并精准定性全篇论证过程（Evolution）时，该选项即为铁定标答。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  }
+]

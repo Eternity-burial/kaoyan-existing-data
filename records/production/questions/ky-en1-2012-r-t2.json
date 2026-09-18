@@ -1,0 +1,1002 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "The phrase \"reneging on\" (Line 3, Para. 1) is closest in meaning to ______.",
+    "stemTranslation": "短语“reneging on”（第一段第3行）在意思上最接近______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "condemning.",
+        "translation": "谴责，声讨",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】condemn 意为在道德或法律上严正指责他人。文中是安特吉公司背弃自己的承诺，激起公众的愤怒，而非该公司去“谴责承诺”。",
+        "vocab": [
+          {
+            "word": "condemning",
+            "ipa": "",
+            "meaning": "谴责",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "reaffirming.",
+        "translation": "重申，再次确认",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】reaffirm 意为再次确认、坚守誓言。原文后文指出公司跑到联邦法庭起诉违宪（done precisely what it had long promised it would not），是赤裸裸的违背承诺，与重申截然相反。",
+        "vocab": [
+          {
+            "word": "reaffirming",
+            "ipa": "",
+            "meaning": "重申",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "dishonoring.",
+        "translation": "违背，不履行（承诺/契约）",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 动词精准同义替换】renege on 意为“食言、违背、不履行”。dishonor 在商务与法律英语中专指“违背（诺言）、拒付（票据）、不履行（契约）”，与 renege on 构成严密同义对齐。",
+        "vocab": [
+          {
+            "word": "dishonoring",
+            "ipa": "",
+            "meaning": "不履行，违背",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "securing.",
+        "translation": "获得，确保",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】securing 意为“保卫、确保、获得”，代入上下文完全逻辑不通。",
+        "vocab": [
+          {
+            "word": "securing",
+            "ipa": "",
+            "meaning": "获得，得到",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "VOCAB",
+    "type": "词汇语义题",
+    "targetSentences": [
+      "P1-S2"
+    ],
+    "verbatimEvidence": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations.",
+    "synonymMapping": [
+      {
+        "verbatimText": "reneging on a longstanding commitment",
+        "equivalentOption": "dishonoring"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第一段第2句。上下文逻辑推导法：由前文 provoked justified outrage（激起了合情合理的愤怒）以及第二段首句 done precisely what it had long promised it would not（恰恰做了它长期承诺不做的事）可知，reneging on 必然表示负面的‘出尔反尔、违背承诺’。C 项 dishonor 词根为 honor（信守荣誉/履约），加 dis- 否定前缀即‘不履约、违背’，一锤定音。",
+      "coreLesson": "词汇题解法精髓：利用上下文强烈的感情色彩修饰词（justified outrage）与承上启下的逻辑代词/副词（Instead...）反向锁定义项。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "phrase",
+          "ipa": "[freɪz]",
+          "meaning": "短语",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "reneging",
+          "ipa": "",
+          "meaning": "违背…",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "By entering into the 2002 agreement, Entergy intended to ______.",
+    "stemTranslation": "通过达成2002年的协议，安特吉公司意在______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "obtain protection from Vermont regulators.",
+        "translation": "获得佛蒙特监管机构的保护",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】原文是 agreed to seek permission from state regulators（同意向监管机构申请许可），将监管者的“许可/审批”（permission）偷换为提供“保护”（protection）。",
+        "vocab": [
+          {
+            "word": "obtain",
+            "ipa": "[əbˈteɪn]",
+            "meaning": "获得",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "regulators",
+            "ipa": "",
+            "meaning": "监管机构",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "seek favor from the federal legislature.",
+        "translation": "寻求联邦立法机构的青睐支持",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】文中2002年和2006年博弈的主体是州监管机构（state regulators）与州议会（Vermont legislature），而非联邦立法机构（federal legislature）。",
+        "vocab": [
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "favor",
+            "ipa": "[ˈfeɪvə(r)]",
+            "meaning": "支持",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "legislature",
+            "ipa": "[ˈledʒɪslətʃə(r)]",
+            "meaning": "立法机关",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "acquire an extension of its business license.",
+        "translation": "获取其营业执照的延期",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴/时序倒置",
+        "analysis": "【时序混乱/主次倒置】牌照延期（extension of the plant's license）是2006年州政府追加的立法要求；且在2002年，公司达成协议是作为完成收购的前置妥协条件，其根本意图是完成收购，延期只是未来需要面对的附加申请程序。",
+        "vocab": [
+          {
+            "word": "acquire",
+            "ipa": "[əˈkwaɪə(r)]",
+            "meaning": "获得",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "extension",
+            "ipa": "[ɪkˈstenʃ(ə)n]",
+            "meaning": "延期",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "get permission to purchase a power plant.",
+        "translation": "获得收购一座核电站的许可",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 因果关系逆向溯源】对应第三段第1、2句：当年该公司收购了老旧反应堆，而“作为收购获得州政府批准的条件（As a condition of receiving state approval for the sale），该公司同意…”。由此推知，安特吉签署2002年协议的目的就是为了满足州政府审批条件，从而获准买下这座电站（get permission to purchase a power plant）。",
+        "vocab": [
+          {
+            "word": "get",
+            "ipa": "[ɡet]",
+            "meaning": "得到许可",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "purchase",
+            "ipa": "[ˈpɜːtʃəs]",
+            "meaning": "购买",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "power",
+            "ipa": "[ˈpaʊə(r)]",
+            "meaning": "发电厂",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "plant",
+            "ipa": "[plɑːnt]",
+            "meaning": "发电厂",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": "The conflict has been surfacing since 2002, when the corporation bought Vermont's only nuclear power plant, an aging reactor in Vernon. As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+    "synonymMapping": [
+      {
+        "verbatimText": "bought Vermont's only nuclear power plant / receiving state approval for the sale",
+        "equivalentOption": "get permission to purchase a power plant"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第三段第1、2句。关键句型解析：As a condition of A (receiving state approval for the sale), the company did B (agreed to seek permission...)。题干问安特吉做 B 的目的（intended to），根据因果目的倒置关系，做 B 的前提和目的是为了促成 A（得到销售批准以收购电厂）。D 选项中 permission 对应 approval，purchase 对应 sale/bought，核反应堆即 power plant，同义替换精准严密。",
+      "coreLesson": "细节目的题陷阱：切勿将‘让步所答应履行的附带条件’误当成‘主体追求的根本目的’。理清‘为了促成购电厂获批（目的），因而签署协议承诺后续按期申请运营许可（手段）’。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "entering",
+          "ipa": "",
+          "meaning": "签订（协议），达成",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "intended",
+          "ipa": "[ɪnˈtendɪd]",
+          "meaning": "想要，打算",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "According to Paragraph 4, Entergy seems to have problems with its ______.",
+    "stemTranslation": "根据第四段，安特吉公司似乎在______方面存在问题。",
+    "options": [
+      {
+        "key": "A",
+        "text": "managerial practices.",
+        "translation": "管理实践",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 词性转换同义替换】对应第四段第2句：一连串安全事故引发了对 Vermont Yankee's safety 以及 Entergy's management（安特吉管理水平）的严重质疑，特别是其在地下管道问题上发表误导性陈述。management 被同义转换为形容词+名词 managerial practices（管理实践）。",
+        "vocab": [
+          {
+            "word": "managerial",
+            "ipa": "[ˌmænəˈdʒɪriəl]",
+            "meaning": "管理的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "technical innovativeness.",
+        "translation": "技术创新性",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文提及的是年久失修的老反应堆（aging reactor）和设备坍塌、管道泄漏事故，全篇未论及“技术创新”。",
+        "vocab": [
+          {
+            "word": "innovativeness",
+            "ipa": "",
+            "meaning": "创新性",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "financial goals.",
+        "translation": "财务目标",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第四段聚焦安全生产与信息披露造假，并未提及公司的财务报表或利润目标。",
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "财务的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "business vision.",
+        "translation": "商业愿景",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】问题在于日常运行的失范、撒谎与管理不善，并非宏观层面的商业长远眼光与愿景。",
+        "vocab": [
+          {
+            "word": "vision",
+            "ipa": "[ˈvɪʒn]",
+            "meaning": "构想，展望",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P4-S2"
+    ],
+    "verbatimEvidence": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee's safety and Entergy's management -- especially after the company made misleading statements about the pipe.",
+    "synonymMapping": [
+      {
+        "verbatimText": "raised serious questions about ... Entergy's management",
+        "equivalentOption": "managerial practices"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第四段第2句：raised serious questions about both Vermont Yankee's safety and Entergy's management。核心考点同义替换：management -> managerial practices。管理中发生的冷却塔倒塌、漏水瞒报撒谎，均属于 management practice（管理实践）层面的严重缺陷。",
+      "coreLesson": "同根词与同义改写：考研英语极喜好将原文单纯名词（如 management）替换为‘形容词+抽象名词’（managerial practices / managerial competence）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2012_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "seems",
+          "ipa": "",
+          "meaning": "似乎",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "have",
+          "ipa": "[həv]",
+          "meaning": "在…方面有问题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "In the author's view, the Vermont case will test ______.",
+    "stemTranslation": "在作者看来，佛蒙特州一案将检验______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "Entergy's capacity to fulfill all its promises.",
+        "translation": "安特吉公司履行其所有承诺的能力",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】诉讼检验的是宪法层面州权管辖的边界，而非检验安特吉公司个人能力；而且安特吉已经公然食言，无需再检验所谓履约能力。",
+        "vocab": [
+          {
+            "word": "capacity",
+            "ipa": "[kəˈpæsəti]",
+            "meaning": "能力",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "fulfill",
+            "ipa": "[fʊlˈfɪl]",
+            "meaning": "履行",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the nature of states' patchwork regulations.",
+        "translation": "各州拼凑式监管法规的本质",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】拼凑式监管法规（patchwork regulations）是第五段第3句提到的公众普遍担忧的后果，而非该起诉讼要检验的对象。",
+        "vocab": [
+          {
+            "word": "states",
+            "ipa": "",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "regulations",
+            "ipa": "",
+            "meaning": "规章制度",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "patchwork",
+            "ipa": "/ˈpætʃwɜːk/",
+            "meaning": "拼缝的，“补丁”般的规章制度",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the federal authority over nuclear issues.",
+        "translation": "联邦在核能问题上的权威",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "偏离主旨/以偏概全",
+        "analysis": "【偏离主旨/以偏概全】第五段让步句表明最高法院早已认定各州拥有部分监管权，因此该案要检验的不是联邦本就拥有的权威，而是各州的权力能够延伸到何种边界。",
+        "vocab": [
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "authority",
+            "ipa": "[ɔːˈθɒrəti]",
+            "meaning": "权威",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "nuclear",
+            "ipa": "[ˈnjuːkliə(r)]",
+            "meaning": "核能的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "issues",
+            "ipa": "",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "the limits of states' power over nuclear issues.",
+        "translation": "各州在核能问题上权力的边界",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 宾语从句精准抽象同义替换】对应第五段第2句：legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend。those powers 承接前句指代 states' regulatory authority over nuclear power（各州对核能的监管权）；从句 how far ... extend（延伸多远）被高度精炼概括为名词 the limits（界限、边界）。",
+        "vocab": [
+          {
+            "word": "states",
+            "ipa": "",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "nuclear",
+            "ipa": "[ˈnjuːkliə(r)]",
+            "meaning": "核能的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "issues",
+            "ipa": "",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P5-S2"
+    ],
+    "verbatimEvidence": "whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend.",
+    "synonymMapping": [
+      {
+        "verbatimText": "precedent-setting test of how far those powers extend",
+        "equivalentOption": "test the limits of states' power over nuclear issues"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第五段第2句：...offer a precedent-setting test of how far those powers extend。解析：test 的宾语是 how far those powers extend。those powers 指代上句 states' regulatory authority over nuclear power；how far extend（能走多远/延伸到哪里）正是 limits（权限范围、界限）的通俗表达。D 选项‘the limits of states' power over nuclear issues’实现了概念的完美闭环。",
+      "coreLesson": "抽象同义替换：英文中‘疑问词 + 谓语动词’从句（how far powers extend）在选项中极常被同义提炼为‘the limits / extent / boundary of + 核心名词’。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "author's",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "view",
+          "ipa": "[vjuː]",
+          "meaning": "观点",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "case",
+          "ipa": "[keɪs]",
+          "meaning": "案件",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "It can be inferred from the last paragraph that ______.",
+    "stemTranslation": "从最后一段可以推断出______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "Entergy's business elsewhere might be affected.",
+        "translation": "安特吉公司在其他地方的业务可能会受到波及",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 合理跨句逻辑推断】第六段指出公司在佛蒙特失信应承担后果（there should be consequences）；随后指出该公司在美国还运营着另外11座反应堆（包括麻省普利茅斯的朝圣者核电站），正申请延期运营20年；最后作者警示联邦核管会（NRC）在审批该申请时牢记安特吉的承诺一文不值。由此必然推知：安特吉在佛蒙特的失信恶行将直接影响NRC对其其他核电站执照延期的审批，即其在别处的核电业务很可能受损（might be affected）。",
+        "vocab": [
+          {
+            "word": "elsewhere",
+            "ipa": "[ˌelsˈweə(r)]",
+            "meaning": "别处",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "affected",
+            "ipa": "",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "the authority of the NRC will be defied.",
+        "translation": "联邦核管会（NRC）的权威将会遭到藐视",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】文中作者是将希望寄托于 NRC，呼吁 NRC 严格履职把关，没有任何信息表明 NRC 的权威会被抗拒挑衅。",
+        "vocab": [
+          {
+            "word": "authority",
+            "ipa": "[ɔːˈθɒrəti]",
+            "meaning": "权威",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "defied",
+            "ipa": "",
+            "meaning": "挑衅",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Entergy will withdraw its Plymouth application.",
+        "translation": "安特吉公司将会撤回其在普利茅斯的申请",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】文中指出该公司正处心积虑谋求朝圣者核电站再开20年（applied for federal permission to keep it open for another 20 years），丝毫没有主动撤回之意。",
+        "vocab": [
+          {
+            "word": "withdraw",
+            "ipa": "[wɪðˈdrɔː; wɪθˈdrɔː]",
+            "meaning": "撤回",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "application",
+            "ipa": "[ˌæplɪˈkeɪʃ(ə)n]",
+            "meaning": "申请",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Vermont's reputation might be damaged.",
+        "translation": "佛蒙特州的名誉可能会受到损害",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴/偷换主体",
+        "analysis": "【张冠李戴/偷换主体】第六段首句明确指出是 its reputation in Vermont is already so damaged，代词 its 指代的是 Entergy 公司，受损的是安特吉在佛蒙特州的名声，而非佛蒙特州本身的名声。",
+        "vocab": [
+          {
+            "word": "reputation",
+            "ipa": "[ˌrepjuˈteɪʃn]",
+            "meaning": "声誉",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2",
+      "P6-S4",
+      "P6-S5",
+      "P6-S6"
+    ],
+    "verbatimEvidence": "But there should be consequences. Permission to run a nuclear plant is a public trust. Entergy runs 11 other reactors in the United States, including Pilgrim Nuclear station in Plymouth. Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years. But as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+    "synonymMapping": [
+      {
+        "verbatimText": "Entergy runs 11 other reactors ... keep in mind what promises from Entergy are worth",
+        "equivalentOption": "Entergy's business elsewhere might be affected"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第六段整体脉络。尾段层层递进：①公司在佛蒙特名声败光，但不应逃脱惩罚（consequences）；②核电运营是公共信托；③公司在其他地方还有11座反应堆在运营（包括普利茅斯）；④NRC 在审批其20年延期申请时必须掂量其承诺的价值。结论呼之欲出：佛蒙特的丑行必将让其在其他地区的执照申请受挫，选项 A 命中靶心。D 项属于极高频的代词指代张冠李戴陷阱（its reputation 是公司的声誉）。",
+      "coreLesson": "尾段推断题法则：串联全文逻辑落脚点。作者在收尾处提及‘另外11座反应堆’决非闲笔，正是为了论证失信后果的延展性，预示公司‘别处的业务’（business elsewhere）将遭到反噬。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  }
+]

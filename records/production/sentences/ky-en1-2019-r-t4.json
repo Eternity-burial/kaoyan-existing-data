@@ -1,0 +1,362 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.",
+    "translation": "根据美国联邦最高法院周四做出的一项里程碑裁决，各州将有权强制更多人在进行网上购物时缴纳消费税；尽管这一判决将让广大网购消费者的钱包有所缩水（lighter wallets / make more online shoppers pay sales tax），但对各州政府而言却是一场重大的财政胜利。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The Supreme Court's opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually. The decisions made it more difficult for states to collect sales tax on certain online purchases.",
+    "translation": "最高法院周四的判词正式推翻了两项长达数十年之久的旧判例——各州政府一直强烈控诉这些旧判例导致其每年蒙受数十亿美元的巨额税收流失（considered unfavorable by states）。这些陈旧判例使得各州对特定的跨州在线网络购物征收消费税变得极其困难重重。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state.",
+    "translation": "被最高法院推翻的那些旧案曾裁定：如果一家企业将顾客购买的商品邮寄运送至该企业并没有设立仓库或办公室等“实体存在”（physical presence）的州，该企业就无需代该州向顾客征收消费税。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Customers were generally responsible for paying the sales tax to the state themselves if they weren't charged it, but most didn't realize they owed it and few paid.",
+    "translation": "如果在结账时未被商家扣税，顾客在法律上理论上理应自行向州政府申报缴纳该笔消费税；但绝大多数消费者根本没有意识到自己欠税，极少有人会主动掏钱补缴。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Justice Anthony Kennedy wrote that the previous decisions were flawed. \"Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,\" he wrote in an opinion joined by four other justices.",
+    "translation": "安东尼·肯尼迪大法官在判词中明确指出先前的旧判例存在根本性硬伤。“随着年份推移，‘实体存在规则’已经愈发严重脱离当下的经济现实，并给各州造成了极其惨重的财政收入损失，”他在由其他四位大法官联名签署的多数判决意见书中写道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Kennedy wrote that the rule \"limited states' ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.\"",
+    "translation": "肯尼迪大法官进一步写道，该规则“不仅极大地限制了各州追求长期经济繁荣的自主治理能力，而且根本性地阻碍了市场参与者在公平竞技场上开展平等公正的竞争（harmed fair market competition）。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 5
+    },
+    "text": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already. Now, rivals will be charging sales tax where they hadn't before.",
+    "translation": "这项裁决对于在全美众多州均设有门店的大型连锁巨头企业（big chains）而言无疑是一场重大胜利，因为它们此前在线上销售时通常已经依法代扣代缴消费税。而如今，它们那些纯线上的竞争对手将不得不在以往逃税的区域一律依法征税（most likely to welcome the ruling）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 5
+    },
+    "text": "Big chains have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to. Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don't have to.",
+    "translation": "大型连锁店之所以此前一直在全美各地征收消费税，是因为无论商品运往哪个州，它们通常在该州都拥有实体零售门店。凭借庞大仓储物流网络，亚马逊自营商品同样在每个开征消费税的州据实收税，尽管入驻该平台的第三方小卖家此前无需照此办理。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outside those states. Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven't been collecting sales tax nationwide.",
+    "translation": "在此之前，许多仅在单一州或少数几个州拥有实体网点的电商卖家，在将商品发往这些州以外的地址时，一直能够规避代征消费税。使用 eBay 和 Etsy 等为中小卖家提供交易平台的商家，此前同样未在全美范围内代收消费税。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state's sales tax from customers and send it to the state.",
+    "translation": "而根据周四的这项新裁决，各州完全有权立法强制要求州外电商卖家在交易时向当地顾客代扣本州消费税，并如数上缴给州财政。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses. The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones. Those retailers may face headaches complying with various state sales tax laws.",
+    "translation": "实体零售行业协会对该裁决大加赞赏，称其为实体本地商家与线上电商拉平了公平竞争的跑道。然而零售业分析师尼尔·桑德斯指出，真正的输家则是那些纯线上零售商，尤其是中小型网店，这些卖家可能在应对各州纷繁复杂的消费税法规合规流程上面临巨大头疼难题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P7-S2",
+      "pIndex": 7
+    },
+    "text": "The Small Business & Entrepreneurship Council advocacy group said in a statement, \"Small businesses and internet entrepreneurs are not well served at all by this decision.\"",
+    "translation": "美国小型企业与创业委员会在声明中明确指出：“这项裁决对广大中小型企业与互联网创业者而言，绝对没有任何好处可言。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  }
+]

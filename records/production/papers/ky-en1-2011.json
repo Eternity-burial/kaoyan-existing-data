@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2011",
+  "exam": "kaoyan",
+  "track": "englishOne",
+  "year": 2011,
+  "title": "2011年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析数据库",
+  "subject": "英语(一)",
+  "articleKeys": [
+    "ky-en1-2011-r-t1",
+    "ky-en1-2011-r-t2",
+    "ky-en1-2011-r-t3",
+    "ky-en1-2011-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2011.js",
+    "year": 2011,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+  }
+}

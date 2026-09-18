@@ -1,0 +1,392 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2009-r-t4",
+  "year": 2009,
+  "textNumber": 4,
+  "title": "Intellectual Earnestness vs. Common Settlers in Early New England",
+  "chineseTitle": "新英格兰早期的思想求索与平民图景：从精英清教神学到世俗平民的真实生态",
+  "topic": null,
+  "topicDomain": "美国早期文化史与思想史",
+  "subTopic": "马萨诸塞湾殖民地精英的清教知识追求、旧大陆传统在新环境下的调试、普通民众的迷信色彩与世俗谋生诉求",
+  "overview": null,
+  "wordCount": 395,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 5,
+  "sentenceCount": 17,
+  "vocabularyCount": 166,
+  "phraseCount": 60,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {
+    "year": 2009,
+    "textIndex": 4,
+    "source": "选自 The New England Mind (《新英格兰心智》) 殖民地思想文化史论",
+    "backgroundKnowledge": {
+      "puritanGreatMigrationAndBayColony": "清教大迁徙与马萨诸塞湾殖民地的精英神学：1630年，在英国国王查理一世强化国教专制与迫害清教徒的背景下，约翰·温思罗普率领约1000名清教徒扬帆横渡大西洋建立马萨诸塞湾殖民地，开启了长达十余年的‘大迁徙’（Great Migration）。与普利茅斯早期的贫苦‘朝圣先辈’不同，马萨诸塞湾的领袖多为毕业于剑桥大学、牛津大学的博学绅士和精英神职人员，他们在荒野中创立哈佛大学，旨在建立一座照亮基督教世界的‘山巅之城’（A City upon a Hill）。",
+      "theNewEnglandMindIntellectualHistoriography": "新英格兰心智史学范式与派瑞·米勒学派：20世纪中叶，哈佛学者派瑞·米勒（Perry Miller）出版了划时代的《十七世纪新英格兰心智》（The New England Mind），将早期清教神学描绘为一个逻辑严密、高度思辨、极富理智追求的哲学体系，主导了美国思想史数十年的研究。然而后来的微观社会史学者指出，米勒学派的研究过度偏重于少数神学院精英留下的布道文和著作，严重忽视了占人口绝大多数的无声平民。",
+      "socialRealityAndFolkSuperstition": "殖民地平民的多元现实与民间信仰：在浩瀚的历史档案中，绝大多数普通定居者并非沉迷于深奥加尔文神学思辨的教徒，而是忙于开拓拓荒、与严寒饥荒搏斗的手工业者、佃农、仆从和渔民。他们的精神世界呈现出深厚的民间前现代杂质，如占星术、征兆占卜（Bibliomancy，即随意翻阅圣经寻找天启）、巫术信仰（后来诱发塞勒姆审巫案）等；沿海居民更是为了丰厚的鳕鱼贸易而来，展现出美洲殖民地极其复杂、多元而世俗的社会生态。"
+    },
+    "wordFamilyCapsules": [
+      {
+        "root": "lect / leg (收集/阅读/挑选)",
+        "meaning": "表示收集、阅读、挑选与理智",
+        "words": [
+          {
+            "word": "intellect",
+            "pos": "n.",
+            "meaning": "智力，理解力，知识分子"
+          },
+          {
+            "word": "intellectual",
+            "pos": "adj./n.",
+            "meaning": "智力的，脑力的；知识分子"
+          },
+          {
+            "word": "intellectualize",
+            "pos": "v.",
+            "meaning": "使理性化，使具有智力或学术特征"
+          },
+          {
+            "word": "neglect",
+            "pos": "v./n.",
+            "meaning": "忽视，忽视，疏忽"
+          }
+        ]
+      },
+      {
+        "root": "occupy / cap (抓住/占据)",
+        "meaning": "表示抓取、占据与全神贯注",
+        "words": [
+          {
+            "word": "occupy",
+            "pos": "v.",
+            "meaning": "占据，占用，使忙碌"
+          },
+          {
+            "word": "preoccupy",
+            "pos": "v.",
+            "meaning": "使全神贯注，使迷恋"
+          },
+          {
+            "word": "preoccupation",
+            "pos": "n.",
+            "meaning": "全神贯注，核心关注点，萦绕心头的事"
+          },
+          {
+            "word": "occupation",
+            "pos": "n.",
+            "meaning": "职业，占领，消遣"
+          }
+        ]
+      },
+      {
+        "root": "settle (坐下/安定/解决)",
+        "meaning": "表示定居、安顿与解决",
+        "words": [
+          {
+            "word": "settle",
+            "pos": "v.",
+            "meaning": "定居；解决；决定；安顿"
+          },
+          {
+            "word": "settler",
+            "pos": "n.",
+            "meaning": "定居者，移民"
+          },
+          {
+            "word": "settlement",
+            "pos": "n.",
+            "meaning": "定居点；协议，结算"
+          }
+        ]
+      },
+      {
+        "root": "earnest (热心/真挚)",
+        "meaning": "表示热忱、认真与严肃求索",
+        "words": [
+          {
+            "word": "earnest",
+            "pos": "adj./n.",
+            "meaning": "认真的，真诚的，热切的；定金"
+          },
+          {
+            "word": "earnestly",
+            "pos": "adv.",
+            "meaning": "认真地，热切地，诚挚地"
+          },
+          {
+            "word": "earnestness",
+            "pos": "n.",
+            "meaning": "认真，热切，诚挚，严肃"
+          }
+        ]
+      }
+    ],
+    "nuances": [
+      {
+        "word": "minister",
+        "location": "P1 L2",
+        "familiarMeaning": "部长；大臣",
+        "examMeaning": "牧师；神职人员",
+        "contextCollocation": "ministers and political leaders"
+      },
+      {
+        "word": "standard",
+        "location": "P1 L3",
+        "familiarMeaning": "标准的；标准",
+        "examMeaning": "通行的；公认权威的",
+        "contextCollocation": "the standard history"
+      },
+      {
+        "word": "pursuit",
+        "location": "P1 L4",
+        "familiarMeaning": "追求；追赶",
+        "examMeaning": "活动；事业；学术追求",
+        "contextCollocation": "intellectual pursuits"
+      },
+      {
+        "word": "church",
+        "location": "P2 L2",
+        "familiarMeaning": "教堂",
+        "examMeaning": "教会；教会制度",
+        "contextCollocation": "ideas about the church"
+      },
+      {
+        "word": "original",
+        "location": "P2 L4",
+        "familiarMeaning": "原创的；原来的",
+        "examMeaning": "最初的；早期的",
+        "contextCollocation": "the original Puritans"
+      },
+      {
+        "word": "carrier",
+        "location": "P2 L4",
+        "familiarMeaning": "运载者；载体",
+        "examMeaning": "文化承载者；传播者",
+        "contextCollocation": "carriers of European culture"
+      },
+      {
+        "word": "episode",
+        "location": "P2 L6",
+        "familiarMeaning": "电视剧的一集",
+        "examMeaning": "历史事件；历史插曲",
+        "contextCollocation": "important episodes"
+      },
+      {
+        "word": "learned",
+        "location": "P3 L2",
+        "familiarMeaning": "learn 的过去式/过去分词",
+        "examMeaning": "博学的（读 /ˈlɜːnɪd/）",
+        "contextCollocation": "learned ministers"
+      },
+      {
+        "word": "audience",
+        "location": "P3 L6",
+        "familiarMeaning": "观众；听众",
+        "examMeaning": "读者群；受众",
+        "contextCollocation": "New World and Old World audiences"
+      },
+      {
+        "word": "literary",
+        "location": "P4 L2",
+        "familiarMeaning": "文学的",
+        "examMeaning": "文字的；书面创作的",
+        "contextCollocation": "literary compositions"
+      },
+      {
+        "word": "composition",
+        "location": "P4 L2-L3",
+        "familiarMeaning": "构成；作文",
+        "examMeaning": "作品；文章",
+        "contextCollocation": "literary compositions"
+      },
+      {
+        "word": "sign",
+        "location": "P4 L6",
+        "familiarMeaning": "标志；符号",
+        "examMeaning": "征兆；预兆",
+        "contextCollocation": "filled with signs"
+      },
+      {
+        "word": "wonder",
+        "location": "P4 L10",
+        "familiarMeaning": "感到惊奇；奇迹",
+        "examMeaning": "想知道；不禁疑惑",
+        "contextCollocation": "One wonders what ..."
+      },
+      {
+        "word": "end",
+        "location": "P5 L3",
+        "familiarMeaning": "末端；结束",
+        "examMeaning": "目的；目标",
+        "contextCollocation": "Our main end was ..."
+      },
+      {
+        "word": "enjoy",
+        "location": "Q36 D",
+        "familiarMeaning": "享受；喜欢",
+        "examMeaning": "享有；拥有良好条件",
+        "contextCollocation": "enjoyed a liberal environment"
+      },
+      {
+        "word": "suggest",
+        "location": "Q37 题干",
+        "familiarMeaning": "建议",
+        "examMeaning": "暗示；表明",
+        "contextCollocation": "It is suggested that ..."
+      },
+      {
+        "word": "scene",
+        "location": "P2 L5",
+        "familiarMeaning": "场景；景色",
+        "examMeaning": "事件发生地；现场",
+        "contextCollocation": "were the scenes of ..."
+      },
+      {
+        "word": "quality",
+        "location": "P4 L4",
+        "familiarMeaning": "质量",
+        "examMeaning": "性质；特征；色彩",
+        "contextCollocation": "a superstitious quality"
+      },
+      {
+        "word": "account",
+        "location": "P4 L5",
+        "familiarMeaning": "账户",
+        "examMeaning": "记述；说明",
+        "contextCollocation": "an account of his reasons"
+      },
+      {
+        "word": "settle",
+        "location": "P4 L8",
+        "familiarMeaning": "定居",
+        "examMeaning": "决定；解决",
+        "contextCollocation": "settle his fate"
+      },
+      {
+        "word": "hold",
+        "location": "Q36 题干",
+        "familiarMeaning": "拿着；保持",
+        "examMeaning": "认为；持有观点",
+        "contextCollocation": "The author holds that ..."
+      }
+    ],
+    "confusions": [
+      {
+        "pair": "【红】minister / clergyman / priest",
+        "analysis": "minister：新教牧师，也可指部长；clergyman：男性神职人员的统称；priest：天主教、东正教等传统中的司祭/神父。"
+      },
+      {
+        "pair": "【红】standard / normal / ordinary",
+        "analysis": "standard：公认规范、权威版本；normal：符合常态；ordinary：普通、不特别。本文 standard history 指通行权威叙述。"
+      },
+      {
+        "pair": "【红】pursuit / endeavor / effort",
+        "analysis": "pursuit：长期追求或从事的活动；endeavor：正式语体中的努力/事业；effort：具体一次或持续的努力。"
+      },
+      {
+        "pair": "【红】distinctive / distinct / distinguished",
+        "analysis": "distinctive：有鲜明特征；distinct：清楚不同、分开的；distinguished：杰出的、著名的。"
+      },
+      {
+        "pair": "【红】neglect / ignore / overlook",
+        "analysis": "neglect：未给予应有关注，常含疏忽；ignore：主动不理会；overlook：未注意到，也可指俯瞰。"
+      },
+      {
+        "pair": "【红】original / innovative",
+        "analysis": "original：最初的/原创的；innovative：创新的。本文 original Puritans 指早期清教徒，不是“富有创造力”。"
+      },
+      {
+        "pair": "【红】learned / learnt",
+        "analysis": "learned /ˈlɜːnɪd/ 作形容词意为“博学的”；learned/learnt 作为 learn 的过去式、过去分词通常单音节读法。"
+      },
+      {
+        "pair": "【红】audience / readership",
+        "analysis": "audience：广义受众，可含听众、观众、读者；readership：专指某出版物的读者群。"
+      },
+      {
+        "pair": "【红】emigrate / immigrate / migrate",
+        "analysis": "emigrate from：从某国迁出；immigrate to：移入某国；migrate：迁移的总称，可用于人或动物。"
+      },
+      {
+        "pair": "【红】sign / signal / symbol",
+        "analysis": "sign：迹象、征兆；signal：传递信息的信号；symbol：代表抽象意义的象征物。"
+      },
+      {
+        "pair": "【红】frustrated / frustrating / frustration",
+        "analysis": "frustrated：人感到受挫；frustrating：事物令人受挫；frustration：挫败感或造成受挫的处境。"
+      },
+      {
+        "pair": "【红】decisive / decided / decision",
+        "analysis": "decisive：决定性的或果断的；decided：明确的、显著的；decision：决定。"
+      },
+      {
+        "pair": "【红】slight / slim / minor",
+        "analysis": "slight：程度轻微；slim：数量/机会很小或身材苗条；minor：相对次要。"
+      },
+      {
+        "pair": "【红】commitment / promise / obligation",
+        "analysis": "commitment：长期投入或承诺；promise：明确答应；obligation：义务、责任，常含必须履行。"
+      },
+      {
+        "pair": "【红】confront / face / encounter",
+        "analysis": "confront：直面并处理，语气较强；face：面对事实或处境；encounter：偶然遇到问题或人。"
+      },
+      {
+        "pair": "【红】mock / tease / ridicule",
+        "analysis": "mock：嘲弄观点或人，也可模仿取笑；tease：较轻的逗弄；ridicule：公开奚落，贬义更强。"
+      },
+      {
+        "pair": "【红】hold / think / argue",
+        "analysis": "hold that：正式地持有观点；think that：一般认为；argue that：通过论证提出主张。"
+      },
+      {
+        "pair": "【红】comparatively / relatively",
+        "analysis": "comparatively：暗含与另一对象比较；relatively：相对于某一标准而言，使用更宽泛。"
+      },
+      {
+        "pair": "【红】engage in / participate in",
+        "analysis": "engage in：从事或长期投入；participate in：参加某项活动/项目；be engaged to：与某人订婚。"
+      },
+      {
+        "pair": "【红】illusory / imaginary / imaginative",
+        "analysis": "illusory：看似真实、实则虚假；imaginary：想象出来、不存在；imaginative：富有想象力的。"
+      },
+      {
+        "pair": "【绿】civility / civilization",
+        "analysis": "civility：礼貌、文明教养；civilization：文明社会、文明发展阶段。"
+      },
+      {
+        "pair": "【绿】journey / travel / trip",
+        "analysis": "journey：一段较长行程，也可作动词；travel：旅行的泛称；trip：一次往返或短途旅行。"
+      },
+      {
+        "pair": "【紫】adjust / adapt / adopt",
+        "analysis": "adjust：作局部调整以适应；adapt：改变自身以适应环境；adopt：采用、收养。"
+      },
+      {
+        "pair": "【紫】besides / except / except for",
+        "analysis": "besides：除……之外还有；except：排除某人/物；except for：整体成立，仅排除局部例外。"
+      },
+      {
+        "pair": "【紫】be obsessed with / be committed to / be interested in",
+        "analysis": "obsessed：过度痴迷，常含负面；committed：坚定投入；interested：感兴趣，中性。"
+      },
+      {
+        "pair": "【紫】influence / affect",
+        "analysis": "influence：常指潜移默化地影响思想和行为；affect：更强调对状态或结果产生直接影响。"
+      }
+    ]
+  },
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2009.js",
+    "year": 2009,
+    "articleKey": "ky-en1-2009-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+  }
+}

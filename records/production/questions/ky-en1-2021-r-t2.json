@@ -1,0 +1,580 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "According to the first two paragraphs, CCT programs aim to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "improve local education systems.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局部条件】要求儿童上学是发放补助的前提条件，非旨在改革教育系统本身。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "lower deforestation rates.",
+        "isCorrect": false,
+        "distractorType": "无心插柳的意外效应",
+        "analysis": "【干扰特征: 意外副效应混淆主旨】降低森林砍伐率是后来意外发现的附加环境红利，设计 CCT 时的原始初衷并未考量环保（P3-S1: don't consider effects on environment）。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "help poor families get better off.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 和 P2-S2 明确指出 CCT 项目的设计宗旨：'gives money to its poorest residents... designed to reduce inequality and break the cycle of poverty... substantially reduce severe growth problems among children'（向最贫困家庭发放现金，旨在缩小不平等并打破贫困恶性循环）。B选项 help poor families get better off（帮助贫困家庭改善经济状况与生活条件）是对 reduce inequality and break cycle of poverty 最全面贴切的同义概括。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "facilitate health care reform.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局部条件】定期医疗体检只是获得补贴的约束条件之一，非整个 CCT 计划的终极主旨。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节目的题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "reduce inequality and break cycle of poverty = help poor families get better off。",
+      "methodSummary": "项目初衷提取：抓准 designed to 后的动词短语（reduce inequality / break cycle of poverty）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "英语一_2021_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "first two paragraphs",
+        "CCT programs aim to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The study based on an area in Mexico is cited to show that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "economic growth tends to cause environmental degradation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P4-S1 和 P4-S2 紧密相连：P4-S1 指出传统理论假设'economic growth can be correlated with environmental degradation'（经济增长与环境恶化相关）；P4-S2 紧随其后指出'The only previous study analyzing causality, based on an area in Mexico... supported the traditional view'（此前唯一一项基于墨西哥的因果研究，恰恰支持了这一传统观点：拿到钱后伐林养牛）。引用墨西哥案例正是为了证明经济增长往往会导致环境恶化。D选项原词完全精准对应论点。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "cattle rearing has been a major means of livelihood for the poor.",
+        "isCorrect": false,
+        "distractorType": "次要生活细节",
+        "analysis": "【干扰特征: 局部细节】养牛只是村民毁林的具体用途行为，非引用该研究旨在论证的宏观理论论点。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "CCT programs have helped preserve traditional lifestyles.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及保护传统生活方式。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "antipoverty efforts require the participation of local farmers.",
+        "isCorrect": false,
+        "distractorType": "偏离论点",
+        "analysis": "【干扰特征: 偏离论证主线】墨西哥案例是用来说明收入提高与环境破坏的传统对立假设。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "economic growth correlated with environmental degradation + Mexico study supported traditional view = economic growth tends to cause environmental degradation。",
+      "methodSummary": "例证题前句论点锁定法：抓准 supported the traditional view 指向前句 economic growth correlated with environmental degradation。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "study based on an area in Mexico",
+        "cited to show that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "In his study about Indonesia, Ferraro intends to find out",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "its acceptance level of CCTs.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偷换概念】印尼早已全面推行 CCT，研究目的非测试接受度。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "its annual rate of poverty alleviation.",
+        "isCorrect": false,
+        "distractorType": "偏离核心变量",
+        "analysis": "【干扰特征: 偏离环保变量】减贫效果已知，研究的核心研究问题是扶贫对森林砍伐率的实际影响。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the role of its forests in climate change.",
+        "isCorrect": false,
+        "distractorType": "无中生有夸大",
+        "analysis": "【干扰特征: 泛化宏观】研究聚焦于特定扶贫政策对森林砍伐的具体因果效应，非泛论森林在气候变化中的整体角色。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the relation of CCTs to its forest loss.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确阐述费拉罗的研究初衷与核心假设：'Ferraro wanted to see if Indonesia's poverty-alleviation program was affecting deforestation'（费拉罗试图探究印尼的反贫困扶贫项目是否正在对森林砍伐产生实际影响）。C选项 the relation of CCTs to its forest loss（CCT 扶贫项目与其森林流失砍伐之间的关联）是 affecting deforestation 的完全等价同义改写。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节目的题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "see if poverty-alleviation program was affecting deforestation = the relation of CCTs to its forest loss。",
+      "methodSummary": "研究目的直接对应：wanted to see if poverty program affecting deforestation 转换为 relation of CCTs to forest loss。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "英语一_2021_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "study about Indonesia",
+        "Ferraro intends to find out"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "According to Ferraro, the CCT program in Indonesia is most valuable in that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "it will benefit other Asian countries.",
+        "isCorrect": false,
+        "distractorType": "不确定推测",
+        "analysis": "【干扰特征: 充满不确定性】迁移至其他亚洲国家尚属推测（anybody's guess），非最核心确定的价值。",
+        "refSentences": [
+          "P8-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "it will reduce regional inequality.",
+        "isCorrect": false,
+        "distractorType": "常规设计目标",
+        "analysis": "【干扰特征: 常规社会目标】缩小不平等是所有 CCT 的基本属性，费拉罗强调其最具突破性的独特价值在于打破传统偏见实现了环境保护。",
+        "refSentences": [
+          "P2-S2",
+          "P8-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "it can boost grain production.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】水稻种植是机理分析中的背景，非项目最核心的生态价值体现。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "it can protect the environment.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P8-S2 明确阐述费拉罗对该研究最重大价值的盖棺定论：'the study shows that what's good for people may also be good for the environment. Even if this program didn't reduce poverty... the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs'（该研究表明利好民生的扶贫同样利好生态环境，单凭避免毁林减少碳排放的生态价值就已超过全部项目成本）。C选项 it can protect the environment（它能够保护生态环境）精准提炼了这一最大科研与现实价值。",
+        "refSentences": [
+          "P8-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P8-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "what's good for people may also be good for environment + value of avoided deforestation exceeds program costs = it can protect the environment。",
+      "methodSummary": "价值定性题提取：抓准 good for environment 与 value of avoided deforestation 对应的 it can protect the environment。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "英语一_2021_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "According to Ferraro",
+        "CCT program in Indonesia is most valuable in that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "What is the text centered on?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The debates over a program.",
+        "isCorrect": false,
+        "distractorType": "概念偏差",
+        "analysis": "【干扰特征: 偏离实证主线】文章是基于卫星遥感大数据的扎实实证研究，非各方对该项目展开争论辩驳（debates）。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The effects of a program.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨概括】全文通篇以印尼的“有条件现金转移”（CCT）社会扶贫项目（a program）为唯一核心研讨对象，全面深入剖析了该项目所产生的多重深远实际效应（The effects）：一方面产生了显著的减贫与改善儿童健康效应（P2），另一方面更为关键的是产生了使印尼热带雨林砍伐率大幅下降30%、实现扶贫与生态双赢的意外环境保护重大效应（P5-8）。A选项 The effects of a program（一个项目的多重效应）以高度精炼、客观周延的概括统摄全篇全部段落内容，为主旨最佳选项。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S2",
+          "P5-S1",
+          "P6-S1",
+          "P8-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "The transferability of a study.",
+        "isCorrect": false,
+        "distractorType": "末段次要细节",
+        "analysis": "【干扰特征: 次要结尾探讨】可推广性仅在第8段首句简短讨论，未能统领全文核心。",
+        "refSentences": [
+          "P8-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The process of a study.",
+        "isCorrect": false,
+        "distractorType": "以偏概全方法论",
+        "analysis": "【干扰特征: 局限于研究方法】研究过程仅在第6段简要提及，文章重心在于展示 CCT 项目所带来的各项实质减贫与环保效应结果。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S2",
+      "P5-S1",
+      "P6-S1",
+      "P8-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "CCT program's antipoverty effects + 30% deforestation reduction effects = The effects of a program（一个项目的多重效应）。",
+      "methodSummary": "主旨中心题概括法：识别文章核心实体（CCT program）与核心探讨维度（effects on poverty and environment）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "英语一_2021_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "What is the text centered on"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  }
+]

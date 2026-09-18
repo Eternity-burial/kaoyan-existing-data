@@ -1,0 +1,846 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "The author views Milton Friedman's statement about CSR with",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "uncertainty.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【曲解态度】作者并非处于拿捏不准的‘犹豫不决’状态，而是态度明确地用最新的实证严谨研究来质疑反驳弗里德曼观点的绝对性。",
+        "refSentences": [
+          "P1-S3",
+          "P1-S4"
+        ],
+        "vocab": [
+          {
+            "word": "tolerance",
+            "ipa": "[ˈtɒlərəns]",
+            "meaning": "宽容",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "skepticism.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解态度概括】首段第1-2句引述弗里德曼观点（企业唯一社会责任是增加利润）；第3句作者立即用转折词 But 表达质疑：“But even if you accept Friedman's premise... things may not be absolutely clear-cut.”（即使你接受他的前提，事情也绝非一清二楚），并在第4句提出新研究表明CSR能在诉讼危机中带来货币价值。作者通过使用 even if（哪怕/即使退一步讲）、may not be absolutely clear-cut（绝非毫无争议）、New research suggests... 等审慎反驳语言，表明对弗里德曼断言持怀疑与反思态度（skepticism）。",
+        "refSentences": [
+          "P1-S3",
+          "P1-S4"
+        ],
+        "vocab": [
+          {
+            "word": "skepticism",
+            "ipa": "[ˈskeptɪsɪzəm]",
+            "meaning": "怀疑",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "approval.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】弗里德曼主张CSR是浪费股东资金，而作者全文都在论述CSR能带来实质性货币减免回报，绝非赞同（approval）。",
+        "refSentences": [
+          "P1-S3",
+          "P1-S4"
+        ],
+        "vocab": [
+          {
+            "word": "approval",
+            "ipa": "[əˈpruːv(ə)l]",
+            "meaning": "认同",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "tolerance.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】tolerance（宽容/容忍）通常用于对不良行为的容忍，与学术上用实证数据提出质疑反驳的语境不符。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P1-S3",
+      "P1-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "even if you accept Friedman's premise... things may not be absolutely clear-cut": "views Milton Friedman's statement with skepticism"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "views",
+          "ipa": "[vjuː]",
+          "meaning": "以…（态度）看待…",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Milton",
+          "ipa": "",
+          "meaning": "[人名]米尔顿·弗里德曼",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "statement",
+          "ipa": "[ˈsteɪtmənt]",
+          "meaning": "表述",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "According to Paragraph 2, CSR helps a company by",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "guarding it against malpractices.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【曲解文意】第二段讨论的是CSR如何通过三种途径为企业创造商业增值，并没有提到CSR能防止企业内部发生不端违法行为（guarding it against malpractices）。",
+        "refSentences": [
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "guarding",
+            "ipa": "['ga:diŋ]",
+            "meaning": "防范",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "malpractices",
+            "ipa": "[ˌmælˈpræktɪs]",
+            "meaning": "渎职",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "protecting it from being defamed.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【无中生有】defamed 意为‘遭到诽谤抹黑’，第二段完全未提及防范外界恶意诽谤。",
+        "refSentences": [
+          "P2-S5"
+        ],
+        "vocab": [
+          {
+            "word": "protecting",
+            "ipa": "/prəˈtektɪŋ/",
+            "meaning": "使…免于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "defamed",
+            "ipa": "",
+            "meaning": "诽谤",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "winning trust from consumers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第二段第3句指出：“consumers may take CSR spending as a signal that a company's products are of high quality”（消费者将CSR视为高品质信号）；第4句指出顾客乐于购买其产品以间接捐款；第5句指出：“through a more diffuse halo effect whereby its good deeds earn it greater consideration from consumers and others.”（通过光环效应，行善义举让其从消费者等处赢得更多的关照与好感）。这三条机制共同说明CSR能够使企业赢得消费者的青睐与信任（winning trust from consumers）。",
+        "refSentences": [
+          "P2-S3",
+          "P2-S4",
+          "P2-S5"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "raising the quality of its products.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【偷换概念/字面陷阱】第3句只提到消费者将CSR视作产品高品质的‘信号’（signal），并不等同于CSR实际上‘提高了’产品的物理质量本身。",
+        "refSentences": [
+          "P2-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S3",
+      "P2-S4",
+      "P2-S5"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "signal of high quality / earn greater consideration from consumers": "winning trust from consumers"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "The expression \"more lenient\" (Para. 4) is closest in meaning to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "less controversial.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】controversial 意为‘有争议的’，less controversial 意为争议较少的，与法律判决惩戒轻重无关。",
+        "refSentences": [
+          "P4-S1"
+        ],
+        "vocab": [
+          {
+            "word": "controversial",
+            "ipa": "[ˌkɒntrəˈvɜːʃ(ə)l]",
+            "meaning": "有争议的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "more lasting.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】lasting 意为‘持久的’，惩罚更持久反而意味着判刑更重，不符文意。",
+        "refSentences": [
+          "P4-S1"
+        ],
+        "vocab": [
+          {
+            "word": "effective",
+            "ipa": "[ɪˈfektɪv]",
+            "meaning": "有效的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "more effective.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】effective 意为‘有效的’，这里指对违法企业的惩处力度，而非惩处的有效性。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "less severe.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解词义同义替换】第四段第1句指出：“those with the most comprehensive CSR programmes tended to get more lenient penalties.”第2句进一步解释道：“did not receive lower fines”（罚金更低说明从宽），第五段第2句量化为“fines that generally are 40% lower”（罚款降低40%），第六段末句总结为“less costly punishment”（代价更小的惩罚）。因此，lenient 修饰 penalties 意为‘（处罚、量刑）宽大的、从轻发落的’，与 less severe（不那么严厉的、较轻的）含义完全吻合。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2",
+          "P5-S2",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "severe",
+            "ipa": "[sɪˈvɪə(r)]",
+            "meaning": "严厉的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "VOCAB",
+    "type": "词义句意题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "more lenient penalties / lower fines / less costly punishment": "less severe"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "When prosecutors evaluate a case, a company's CSR record",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "comes across as reliable evidence.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【曲解文意】CSR 记录只是企业的社会行善表现，而非司法审判中判定案件案件事实的法律依据（merits），不能作为定案证据。",
+        "refSentences": [
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "has",
+            "ipa": "",
+            "meaning": "对…有影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "has an impact on their decision.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第五段第1句总结明确指出：“whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company's record in CSR.”（尽管检察官理应只根据案件事实本身来裁决，但他们确实显著受到了涉案公司CSR记录的影响）。选项 B 中 has an impact on their decision 正是对 seem to be influenced 的同义重述。",
+        "refSentences": [
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "comes",
+            "ipa": "[kʌm]",
+            "meaning": "被理解，被视作",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "reliable",
+            "ipa": "[rɪˈlaɪəbl]",
+            "meaning": "可靠的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "evidence",
+            "ipa": "[ˈevɪdəns]",
+            "meaning": "证据",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "increases the chance of being penalized.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】文中多次证明良好CSR记录使得处罚减轻40%，而不是增加了受罚概率。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S2"
+        ],
+        "vocab": [
+          {
+            "word": "penalized",
+            "ipa": "[ˈpiːnəlaɪz]",
+            "meaning": "处罚",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "constitutes part of the investigation.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】检察官调查的是海外行贿案件事实本身，CSR不是调查组成部分，第三段第3句明确说明检察官在调查时不接触公司产品，只是受到道德光环影响。",
+        "refSentences": [
+          "P3-S3",
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "constitutes",
+            "ipa": "[ˈkɒnstɪtjuːt]",
+            "meaning": "组成",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "part",
+            "ipa": "[pɑːt]",
+            "meaning": "部分",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "seem to be influenced by a company's record in CSR": "has an impact on their decision"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "evaluate",
+          "ipa": "[ɪˈvæljueɪt]",
+          "meaning": "评判",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following is true of CSR, according to the last paragraph?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The necessary amount of companies' spending on it is unknown.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】末段第1句明确指出：“Researchers admit that their study does not answer the question of how much businesses ought to spend on CSR.”（研究者承认，他们的研究并未解答企业究竟应当在CSR上投入多少预算这一问题）。选项 A 中 The necessary amount of companies' spending on it is unknown 正是对 does not answer how much businesses ought to spend on CSR 的完美精准重述。",
+        "refSentences": [
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "negative",
+            "ipa": "[ˈneɡətɪv]",
+            "meaning": "消极的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "overlooked",
+            "ipa": null,
+            "meaning": "忽视",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Companies' financial capacity for it has been overestimated.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【无中生有】末段并未提及企业的财务支付能力（financial capacity）被高估。",
+        "refSentences": [
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "amount",
+            "ipa": "[əˈmaʊnt]",
+            "meaning": "数额",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Its negative effects on businesses are often overlooked.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【曲解文意】作者全文强调的是CSR被低估的积极价值（创造货币价值、光环效应、减轻罚金），而非经常忽视其负面效应。",
+        "refSentences": [
+          "P6-S2",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "财务的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "capacity",
+            "ipa": "[kəˈpæsəti]",
+            "meaning": "能力",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "It has brought much benefit to the banking industry.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面陷阱】末段第2句中的 banking on the halo effect 这里的 banking on 是动词短语‘依赖、指望’之意，选项望文生义将其曲解为‘银行业（banking industry）’，属于典型的形近字面陷阱。",
+        "refSentences": [
+          "P6-S2"
+        ],
+        "vocab": [
+          {
+            "word": "benefit",
+            "ipa": "[ˈbenɪfɪt]",
+            "meaning": "好处",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "does not answer how much businesses ought to spend on CSR": "The necessary amount of companies' spending on it is unknown"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "according",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  }
+]

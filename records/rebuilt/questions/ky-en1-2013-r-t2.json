@@ -1,0 +1,728 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "It is suggested in Paragraph 1 that \"behavioural\" ads help advertisers to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "lower their operational costs.",
+        "isCorrect": true,
+        "analysis": "定位至首段 S1-S3：“half of all advertising budgets are wasted ... this fraction can be much reduced. By watching what people search for ... companies can aim 'behavioural' ads at those most likely to buy.” 传统广告有一半预算因盲目投放而被白白浪费，而行为广告能精准将广告推给最可能购买的用户，使‘被浪费的这一份额大幅降低（fraction can be much reduced）’，这直接等同于帮广告商节省广告开支、降低营运成本（lower their operational costs）。",
+        "vocab": [
+          {
+            "word": "ease",
+            "ipa": "[iːz]",
+            "meaning": "缓和",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "ease competition among themselves.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中并未讨论广告商之间的内部竞争，更未提及行为广告能够缓解竞争同行间的关系。",
+        "vocab": [
+          {
+            "word": "lower",
+            "ipa": "[ˈləʊə(r)]",
+            "meaning": "降低",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "operational",
+            "ipa": "[ˌɒpəˈreɪʃən(ə)l]",
+            "meaning": "运营的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "avoid complaints from consumers.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。首段完全聚焦于商业预算的有效使用，从未讨论消费者投诉或抱怨（complaints）。",
+        "vocab": [
+          {
+            "word": "avoid",
+            "ipa": "[əˈvɔɪd]",
+            "meaning": "避免",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "complaints",
+            "ipa": "",
+            "meaning": "投诉",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "provide better online services.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。首段探讨的是广告商如何精准定位买家以减少预算浪费，未提及提供更优良的线上服务（online services）。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "lower their operational costs": "half of all advertising budgets are wasted ... this fraction can be much reduced (一半广告预算被浪费 ... 这一被浪费的份额可以大幅减少 -> 降低企业的营运/广告成本)"
+    },
+    "methodologyReview": "首段推断细节题。解题眼在于对‘this fraction can be much reduced’的代词回指理解。fraction 指代上一句中‘half of all advertising budgets are wasted’（被浪费的那一半预算）。减少被浪费的预算，本质就是缩减商业推广开支、降低运营成本，lower their operational costs 构成了完美的逻辑同义转述。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "help",
+          "ipa": "[help]",
+          "meaning": "帮助",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "suggested",
+          "ipa": "",
+          "meaning": "推理题",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "\"The industry\" (Line 5, Para. 3) refers to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "online advertisers.",
+        "isCorrect": true,
+        "analysis": "定位至第三段 S8：“In February the FTC and Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests.” FTC 是代表公众利益的联邦监管部门，DAA 是‘数字广告联盟’。两者达成共识，承诺‘整个行业将迅速着手响应DNT请求’，显然这里的 the industry 指的就是 DAA 所代表的行业主体——在线广告商（online advertisers）。后文第4、5段全篇承接的也是 advertisers 的剧烈反弹与恐慌，进一步印证了其所指代的对象。"
+      },
+      {
+        "key": "B",
+        "text": "e-commerce conductors.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。电子商务运营方并非本文探讨的谈判主体，争论双方核心是隐私监管方与网络广告投放联盟。",
+        "vocab": [
+          {
+            "word": "conductors",
+            "ipa": "",
+            "meaning": "指挥（此处引申为运营商）",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "digital information analysts.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中从未出现‘数字信息分析师’这一行业主体概念。",
+        "vocab": [
+          {
+            "word": "digital",
+            "ipa": "[ˈdɪdʒɪt(ə)l]",
+            "meaning": "数字式的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "internet browser developers.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。虽然第3段前文提到了微软IE、苹果Safari和谷歌Chrome等浏览器开发者，但协商协议的主体是‘FTC（政府监管者）和 DAA（数字广告联盟）’，DAA代表的是广告业，因此该协议中承诺做出响应的‘the industry’专指在线广告行业，而非浏览器开发商。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "VOCAB",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "online advertisers": "Digital Advertising Alliance (DAA) -> the industry (数字广告联盟代表的行业主体即在线广告商群体)"
+    },
+    "methodologyReview": "代词/指代题。做考研代词与行业指代题，必须严格依据前置主语实体与联盟性质。与 FTC 谈判并做出承诺的是 Digital Advertising Alliance（数字广告联盟），由专有名词 Advertising Alliance 即可毫无悬念地锁定行业实体必为 online advertisers。【版本排版提示】在黄皮书、飞书精读与Eli讲义中，online advertisers 均排在 [A] 选项；在部分乱序版真题MD中，该项被排在 [D] 选项（部分网络试卷文末答案表误印为A，导致与题干选项冲突，做题时请认准实际文本 online advertisers 必为正确项）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "note": "张剑黄皮书试题册排版，选项[A]即为 online advertisers (网络广告商)",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "note": "真题MD题干中选项[D]为 online advertisers（注意：该MD文末答案速查表误印为[A]，但其题干中[A]实为干扰项 internet browser developers）",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "note": "飞书/扇贝精读PDF排版与黄皮书一致，[A]即为网络广告商",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "note": "Eli田瀚博讲义排版与黄皮书一致，[A]即为 online advertisers",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "refers",
+          "ipa": "",
+          "meaning": "指的是",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "Bob Liodice holds that setting DNT as a default _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "goes against human nature.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与张冠李戴。第五段 S12 提到‘Human nature being what it is, most people stick with default settings’，意为人性的弱点就是习惯于沿用默认设置，因此如果默认关闭追踪大家就不会去改；这说明‘沿用默认设置符合人性惰性’，而绝非‘将DNT设为默认违背了人性’。",
+        "vocab": [
+          {
+            "word": "number",
+            "ipa": "[ˈnʌmbə(r)]",
+            "meaning": "…的数量",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "fails to affect the ad industry.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。本段首句即强调‘Advertisers are horrified’，全段都在表达如果默认开启DNT将给广告业带来严重冲击，绝非‘无法影响广告行业’。",
+        "vocab": [
+          {
+            "word": "fails",
+            "ipa": "",
+            "meaning": "未能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "affect",
+            "ipa": "[əˈfekt]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "will not benefit consumers.",
+        "isCorrect": true,
+        "analysis": "定位至第五段 S14：“Bob Liodice ... says consumers will be worse off if the industry cannot collect information about their preferences.” Liodice 明确宣称：如果广告业不能收集用户偏好信息，消费者的处境只会更糟（worse off），他们不会少看广告，反而会充斥着无针对性的垃圾骚扰信息。这表明他认为将DNT设为默认不仅不会给消费者带来好处，反而对消费者有害无益（will not benefit consumers）。",
+        "vocab": [
+          {
+            "word": "benefit",
+            "ipa": "[ˈbenɪfɪt]",
+            "meaning": "使受益",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "may cut the number of junk ads.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆与事实颠倒。Liodice 在第五段明确指出‘People will not get fewer ads ... They'll get less meaningful, less targeted ads’，即广告数量绝不会少，只是无意义垃圾广告增多，并非减少垃圾广告。",
+        "vocab": [
+          {
+            "word": "goes",
+            "ipa": "",
+            "meaning": "违背",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "human",
+            "ipa": "[ˈhjuːmən]",
+            "meaning": "人性",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "will not benefit consumers": "consumers will be worse off (消费者境况反而会变得更糟 -> 对消费者无益)"
+    },
+    "methodologyReview": "人物观点细节题。考查核心短语 worse off 的反向理解。worse off 意为‘境况更差’，等价于 will not benefit consumers。选项 D 则是考研极其高频的‘张冠李戴/概念倒置’陷阱：原文说‘人性本质是习惯保留默认’，选项偷换为‘默认设置违背人性’。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Liodice",
+          "ipa": "",
+          "meaning": "[人名]鲍勃·利奥狄斯",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "default",
+          "ipa": "[dɪˈfɔːlt]",
+          "meaning": "默认值",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "Which of the following is true according to Paragraph 6?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Advertisers are willing to implement DNT.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第六段指出很多广告商无法确信用户意图，很可能会‘ignore a DNT signal and press on anyway’（无视信号硬干），前文也说他们‘horrified’，绝非‘心甘情愿地落实DNT’。",
+        "vocab": [
+          {
+            "word": "intended",
+            "ipa": "[ɪnˈtendɪd]",
+            "meaning": "计划的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "DNT may not serve its intended purpose.",
+        "isCorrect": true,
+        "analysis": "定位至第六段：“Getting a DNT signal does not oblige anyone to stop tracking ... Unable to tell whether someone really objects ... some may ignore a DNT signal and press on anyway.” DNT的预定初衷是让用户免受网络跟踪。但本段揭示了残酷现实：DNT协议没有法律强制力（does not oblige anyone），且广告商吃不准用户是真实反对还是沿用微软默认，导致许多广告商完全可以视若无睹、继续暗中追踪。由此完全可以判定：DNT很可能无法实现其初衷目的（may not serve its intended purpose）。",
+        "vocab": [
+          {
+            "word": "willing",
+            "ipa": "[ˈwɪlɪŋ]",
+            "meaning": "愿意",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "implement",
+            "ipa": "[ˈɪmplɪment]",
+            "meaning": "实施",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "DNT is losing its popularity among consumers.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第六段分析的是广告商收到信号后的反应和履约问题，完全未提及DNT在消费者中正在失宠。"
+      },
+      {
+        "key": "D",
+        "text": "Advertisers are obliged to offer behavioural ads.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆与曲解。原文是‘Getting a DNT signal does not oblige anyone to stop tracking’（收到信号并不迫使任何人停止追踪），选项偷换概念颠倒成‘广告商被迫提供行为广告’。",
+        "vocab": [
+          {
+            "word": "obliged",
+            "ipa": "[əˈblaɪdʒd]",
+            "meaning": "有义务或被迫去做某事",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "DNT may not serve its intended purpose": "Getting a DNT signal does not oblige anyone to stop tracking ... some may ignore a DNT signal and press on anyway (收到信号并不能强制任何人停下 ... 部分厂商可能无视信号继续追踪 -> DNT可能无法达到其保护隐私的预定目的)"
+    },
+    "methodologyReview": "段落正误判断题。核心在于把握第六段的主旨逻辑：DNT机制的先天缺陷。没有强制性（does not oblige）、难以识别用户真实偏好、广告商会继续无视并追踪（ignore and press on）。这些事实证据统领得出的必然推论正是：该功能可能沦为空文，无法达成预期效用（may not serve its intended purpose）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "The author's attitude towards what Brendon Lynch said in his blog is one of _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "appreciation.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。appreciation 意为‘赞赏、欣赏’，作者通篇在剖析微软以此打击谷歌的商业小算盘，末句反问充满反讽与质疑，绝无赞许之意。",
+        "vocab": [
+          {
+            "word": "indulgence",
+            "ipa": "[ɪnˈdʌldʒəns]",
+            "meaning": "放纵",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "understanding.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "感情色彩偏差。understanding 意为‘体谅、理解’，而作者全段层层设疑，质疑微软单干的动机并以反问句收尾，绝非赞同理解的态度。"
+      },
+      {
+        "key": "C",
+        "text": "indulgence.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "词义偏离。indulgence 意为‘纵容、放任、迁就’，作者并不是对微软进行纵容，而是以怀疑眼光打量其背后的真实商业算计。"
+      },
+      {
+        "key": "D",
+        "text": "skepticism.",
+        "isCorrect": true,
+        "analysis": "定位至末段尾句。微软首席隐私官林奇在博客宣称：‘We believe consumers should have more control（我们坚信消费者应拥有更多控制权）’。紧随其后，作者以极具修辞力的反问句收束全篇：‘Could it really be that simple?’（事情真的有这么简单/高尚吗？）。结合本段前文剖析微软试图搞垮谷歌（upset Google）、自相矛盾地保留自己广告业务等心机，作者显然对微软声称的‘一心为消费者赋权’的说辞持强烈的怀疑与审视态度（skepticism）。"
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "ATTITUDE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "skepticism": "Could it really be that simple? (事情真的会那么单纯吗？ -> 对微软隐私官冠冕堂皇的说辞深表怀疑与不信)"
+    },
+    "methodologyReview": "作者态度题。作者在引用官方人物高调道德宣言（consumers should have more control）后，以孤悬的一句反问收笔‘Could it really be that simple?’，是西方议论文写作中典型的‘修辞性怀疑（Rhetorical Skepticism）’。抓住这一标志性反问句与上下文剖析商业竞争的语境，便能斩钉截铁地锁定 skepticism。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Brendon",
+          "ipa": "",
+          "meaning": "[人名]布伦丹·林奇",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "blog",
+          "ipa": "[blɒɡ]",
+          "meaning": "博客",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  }
+]

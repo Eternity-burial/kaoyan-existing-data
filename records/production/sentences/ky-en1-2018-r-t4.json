@@ -1,0 +1,582 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The U.S. Postal Service (USPS) continues to bleed red ink.",
+    "translation": "美国邮政局（USPS）持续陷入严重亏损赤字。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 形象比喻短语",
+      "mainClause": "The U.S. Postal Service continues to bleed red ink.",
+      "modifiers": "(USPS) 为首字母缩略同位语；continues 为谓语动词；to bleed red ink 为不定式短语作宾语，使用了财经领域的生动比喻（bleed red ink 意指持续处于严重财政赤字、大量亏损）。",
+      "corePattern": "bleed red ink（持续严重亏损/深陷财政赤字）；continue to do sth.（继续/持续做某事）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue.",
+    "translation": "它公布的数据显示，2016财年其净亏损达56亿美元，这已是其支出连续第10年超过收入。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs.",
+    "translation": "与此同时，它还背负着1200多亿美元的无资金准备债务，其中主要是员工医疗和退休金成本。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "There are many reasons this formerly stable federal institution finds itself on the verge of bankruptcy.",
+    "translation": "这个昔日稳固的联邦机构如今发现自己濒临破产边缘，原因有很多。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+    "translation": "从根本上说，USPS正处于一场历史性的两难挤压之中：一方面是技术变革永久性地降低了对其支柱产品（普通信件）的需求，另一方面是监管体制剥夺了管理层根据新现实灵活调整运营的自主权。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + between... and...双重平行结构 + 双重that定语从句",
+      "mainClause": "the USPS is in a historic squeeze between A and B...",
+      "modifiers": "Fundamentally 作状语；between A and B 结构中，A 是 technological change，由 that 引导定语从句修饰，first-class mail 作 bread-and-butter product 的同位语；B 是 a regulatory structure，由 that 引导定语从句修饰，从句中 denies 为双宾语动词（denies management the flexibility），to adjust its operations 为不定式后置修饰 flexibility。",
+      "corePattern": "in a squeeze between A and B（处于A与B的夹缝/两难挤压之中）；bread-and-butter product（赖以生存的支柱核心产品）；deny sb. the flexibility to do sth.（剥夺某人做某事的灵活性）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer — Congress — insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected.",
+    "translation": "而且，从邮政工会到贺卡制造商等各路利益集团，都在为自身利益向USPS的终极监管者——美国国会——施加压力，坚称无论邮政局发生何种其他变化，他们所赖以生存的现状都必须得到保护。",
+    "syntaxAnalysis": {
+      "structureType": "并列连词引导主谓宾复合句 + 现在分词定语 + 现在分词伴随状语 + 让步状语从句",
+      "mainClause": "interest groups exert self-interested pressure on Congress, insisting that...",
+      "modifiers": "ranging from... to... 为现在分词短语作 interest groups 的后置定语；Congress 为 ultimate overseer 的破折号同位语；insisting that... 为现在分词短语作伴随状语；that 引导宾语从句；从句中 whatever else happens to the Postal Service 为让步状语从句；they depend on 为省略代词的定语从句修饰 the status quo；get protected 为谓语被动结构。",
+      "corePattern": "range from A to B（从A延伸至B/涵盖从A到B）；exert pressure on sb.（向某人施加压力）；insist that...（坚称/坚持主张……）；status quo（现状）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization.",
+    "translation": "这就是为什么近年来屡次进行的改革立法尝试均以失败告终，使得邮政局除了推迟至关重要的现代化改造之外，无力支付各种账单。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句（含why表语从句） + 现在分词结果状语 + 介词排除状语",
+      "mainClause": "This is why repeated attempts have failed...",
+      "modifiers": "why 引导表语从句，从句主语为 repeated attempts at reform legislation，谓语 have failed；leaving the Postal Service unable to pay its bills 为现在分词短语作自然结果状语，unable to pay 作 Postal Service 的宾语补足语；except by deferring vital modernization 为介词短语作排除方式状语。",
+      "corePattern": "This is why...（这就是为什么……）；leave sb. unable to do sth.（导致某人无法做某事）；except by doing sth.（除了通过做某事之外别无他法）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Now comes word that everyone involved — Democrats, Republicans, the Postal Service, the unions and the system's heaviest users — has finally agreed on a plan to fix the system.",
+    "translation": "如今有消息称，所有利益相关方——民主党人、共和党人、邮政局、各工会以及该系统的重度使用企业——终于就一项修补该系统的计划达成了共识。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures.",
+    "translation": "一项法案正在众议院推进审议，预计在五年内为USPS节省约286亿美元，这有助于购买新运输车辆以及实施其他维持生存的措施。",
+    "syntaxAnalysis": {
+      "structureType": "分隔定语从句 + 非限制性定语从句 + 介词短语修饰",
+      "mainClause": "Legislation is moving through the House that would save USPS...",
+      "modifiers": "that 引导限制性定语从句修饰主语 Legislation（因为谓语较短而造成主语与定语从句的分隔）；which could help pay for new vehicles 为非限制性定语从句修饰前面节省的286亿美元；among other survival measures 为介词短语作举例补充说明。",
+      "corePattern": "move through the House（在众议院通过审议/推进）；save sb. an estimated $...（为某人节省预计……金额）；survival measures（求生维系手段）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare.",
+    "translation": "这笔钱的大部分将来自每封信永久性上调1美分的邮资，以及将邮政退休人员转入联邦医疗保险计划（Medicare）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions.",
+    "translation": "后一项举措将大幅冲抵每年预先筹集退休人员医保资金的财政重负，从而化解USPS及其工会长久以来的抱怨。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 现在分词结果状语",
+      "mainClause": "The latter step would largely offset the financial burden...",
+      "modifiers": "largely 为程度副词修饰 offset；of annually pre-funding retiree health care 为介词短语作 financial burden 的后置定语；thus addressing a long-standing complaint... 为现在分词短语作因果结果状语，by the USPS and its unions 作 complaint 的后置定语。",
+      "corePattern": "the latter step（后一项措施/后者）；offset the financial burden（抵消/冲销财政重担）；address a complaint（解决抱怨/回应诉求）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "If it clears the House, this measure would still have to get through the Senate — where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform.",
+    "translation": "即使该法案在众议院获得通过，它仍须跨过参议院这道关卡——在参议院必然会有人指出，它充其量不过是维持邮政局勉强维持运转所需的最低限度方案，绝非全面的体制改革。",
+    "syntaxAnalysis": {
+      "structureType": "if引导的真实条件状语从句 + 主句 + where引导的非限制性定语从句 + that宾语从句",
+      "mainClause": "this measure would still have to get through the Senate...",
+      "modifiers": "If it clears the House 为条件状语从句；破折号后 where 引导非限制性定语从句修饰 Senate；从句中 someone is bound to point out 为谓语结构；that 引导 point out 的宾语从句；从句中 it amounts to... 为谓语系表结构，necessary to keep the Postal Service afloat 作 the bare minimum 的后置定语，afloat 作 keep 的宾补；not comprehensive reform 为对比省略结构。",
+      "corePattern": "clear the House（在众议院获得通过）；get through the Senate（通过参议院审议）；be bound to do sth.（必然/注定会做某事）；amount to（相当于/充其量是）；keep sth. afloat（使某机构维持运转/不致沉沦破产）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "There's no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency's costs.",
+    "translation": "USPS内部的集体薪酬谈判机制丝毫未变，考虑到人事成本占该机构总开支的80%，这是一个重大疏漏。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Also missing is any discussion of eliminating Saturday letter delivery.",
+    "translation": "同样缺失的是对取消周六信件投递服务的任何讨论。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "That common-sense change enjoys wide public support and would save the USPS $2 billion per year.",
+    "translation": "这一常识性的变革得到了公众的广泛支持，并且每年可为USPS节省20亿美元。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P4-S5",
+      "pIndex": 4
+    },
+    "text": "But postal special-interest groups seem to have killed it, at least in the House.",
+    "translation": "但邮政特殊利益集团似乎已经扼杀了这一构想，至少在众议院是如此。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 6,
+      "ps": "P4-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P4-S6",
+      "pIndex": 4
+    },
+    "text": "The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS.",
+    "translation": "围绕该法案逐渐形成的所谓共识表明，议员们是在对USPS发生政治上令人难堪的短期崩溃感到恐惧。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 7,
+      "ps": "P4-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P4-S7",
+      "pIndex": 4
+    },
+    "text": "It is not, however, a sign that they're getting serious about transforming the postal system for the 21st century.",
+    "translation": "然而，这绝不意味着他们开始严肃对待为21世纪改造重塑邮政系统这一根本课题。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 + however插入语 + that引导的同位语从句",
+      "mainClause": "It is not a sign that...",
+      "modifiers": "however 为副词作插入语表转折；that 引导同位语从句解释说明 sign 的具体内容；从句中 they're getting serious about 为谓语结构；transforming the postal system 为动名词短语作 about 的宾语；for the 21st century 作目的状语。",
+      "corePattern": "a sign that...（……的迹象/标志）；get serious about doing sth.（严肃认真地对待做某事）；transform the system for...（为……进行系统性重塑改造）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  }
+]

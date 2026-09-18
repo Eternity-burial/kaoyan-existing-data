@@ -1,0 +1,911 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "Consumers may create \"earned\" media when they are ______.",
+    "stemTranslation": "消费者可能在______时创造“赢得媒体”。",
+    "options": [
+      {
+        "key": "A",
+        "text": "obsessed with online shopping at certain Web sites.",
+        "translation": "痴迷于在特定网站上网购",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】原文指出消费者是“热衷于某种产品”（passionate about a product），选项偷换为“痴迷于在特定网站上网购”（obsessed with online shopping at certain Web sites）。",
+        "vocab": [
+          {
+            "word": "obsessed",
+            "ipa": "[əbˈsest]",
+            "meaning": "痴迷于…",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "online",
+            "ipa": "[ˌɒnˈlaɪn]",
+            "meaning": "网购",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "site",
+            "ipa": "[saɪt]",
+            "meaning": "站点",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "inspired by product-promoting e-mails sent to them.",
+        "translation": "受到发送给他们的产品促销邮件的启发/激励",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】发送电子邮件给注册用户是企业运营“自有媒体”（owned media）的手段，并非消费者自发创造“赢得媒体”（earned media）的动因。",
+        "vocab": [
+          {
+            "word": "inspired",
+            "ipa": "",
+            "meaning": "受启发于…",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "eager to help their friends promote quality products.",
+        "translation": "急于帮助他们的朋友推广优质产品",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念/主客颠倒】原文是“主动向朋友推荐产品”（willingly promoting it to friends），选项将其扭曲为“帮助朋友推广产品”（help friends promote products），逻辑主客体颠倒。",
+        "vocab": [
+          {
+            "word": "eager",
+            "ipa": "[ˈiːɡə(r)]",
+            "meaning": "渴望",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "promote",
+            "ipa": "[prəˈməʊt]",
+            "meaning": "推广",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "enthusiastic about recommending their favorite products.",
+        "translation": "热心于推荐他们喜爱的产品",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 同义替换】对应首段第4句：Consumers passionate about a product may create \"earned\" media by willingly promoting it to friends。passionate about 替换为 enthusiastic about；promoting it 替换为 recommending their favorite products，精准对齐。",
+        "vocab": [
+          {
+            "word": "enthusiastic",
+            "ipa": "[ɪnˌθjuːziˈæstɪk]",
+            "meaning": "热衷于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "recommending",
+            "ipa": "",
+            "meaning": "推荐",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S4"
+    ],
+    "verbatimEvidence": "Consumers passionate about a product may create \"earned\" media by willingly promoting it to friends,",
+    "synonymMapping": [
+      {
+        "verbatimText": "passionate about a product",
+        "equivalentOption": "enthusiastic about ... their favorite products"
+      },
+      {
+        "verbatimText": "willingly promoting it to friends",
+        "equivalentOption": "recommending their favorite products"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位首段第4句：Consumers passionate about a product may create 'earned' media by willingly promoting it to friends。核心替换词对：passionate about 对应 enthusiastic about，promoting 对应 recommending。干扰项 C 把‘向朋友推荐’偷换成了‘帮朋友推广’，主客体颠倒；B 项张冠李戴将 owned media 混入。",
+      "coreLesson": "细节题审题重点防范‘偷换动作对象’。注意 promoting it to friends（向朋友推荐）与 help friends promote（帮朋友推荐）的微细语法差歧。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      }
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t3.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:578175cbaf3916e8cac2ceef2038e751d7fb59c0e445ebc09cc5f536979593ae"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "According to Paragraph 2, sold media feature ______.",
+    "stemTranslation": "根据第二段，“售出媒体”的特征是具有______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "a safe business environment.",
+        "translation": "安全的商业环境",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第二段只讨论环境（environment）能容纳外部内容或电商引擎，未提及环境是否“安全”（safe）。"
+      },
+      {
+        "key": "B",
+        "text": "random competition.",
+        "translation": "随意的/无序的竞争",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】第二段例举 BabyCenter 推广甚至竞争性产品（competitive products），但从未提及竞争是“无序/随意的”（random）。",
+        "vocab": [
+          {
+            "word": "random",
+            "ipa": "[ˈrændəm]",
+            "meaning": "无序的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "strong user traffic.",
+        "translation": "巨大的用户访问流量",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 原词直接对应】对应第二段第4句定义：We define such sold media as owned media whose traffic is so strong that other organizations place their content...。strong traffic 原文直现，等价为 strong user traffic。"
+      },
+      {
+        "key": "D",
+        "text": "flexibility in organization.",
+        "translation": "组织机构上的灵活性",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第二段虽然提到强生创办了 stand-alone（独立）的媒体资产，但这属于业务独立运营，通篇未提出组织灵活性（flexibility in organization）这一特征。",
+        "vocab": [
+          {
+            "word": "organization",
+            "ipa": "[ˌɔːɡənaɪˈzeɪʃn]",
+            "meaning": "组织",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S4",
+      "P2-S7"
+    ],
+    "verbatimEvidence": "We define such sold media as owned media whose traffic is so strong that other organizations place their content or e-commerce engines within that environment... may help expand user traffic for all companies concerned.",
+    "synonymMapping": [
+      {
+        "verbatimText": "whose traffic is so strong",
+        "equivalentOption": "strong user traffic"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第二段第4句定义句：We define such sold media as owned media whose traffic is so strong that other organizations place their content...。题目问 sold media feature，核心定语从句 whose traffic is so strong 直击答案 C strong user traffic。直球命中，绝无歧义。",
+      "coreLesson": "定义类细节题通常直接锁定‘define A as B whose...’句型，从从句限定语中直接提炼核心本质特征。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "media",
+          "ipa": "/ˈmiːdiə/",
+          "meaning": "以…为特色",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t3.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:578175cbaf3916e8cac2ceef2038e751d7fb59c0e445ebc09cc5f536979593ae"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "The author indicates in Paragraph 3 that earned media ______.",
+    "stemTranslation": "作者在第三段中表明，“赢得媒体”______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "invite constant conflicts with passionate consumers.",
+        "translation": "招致与狂热消费者之间持续不断的冲突",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "distractorDisplayName": "绝对化词汇",
+        "analysis": "【过度绝对/无中生有】原文指出技术变革增加了消费者以破坏性方式发声的“风险”（risk），并未断言会招致“持续不断”（constant）的冲突。",
+        "vocab": [
+          {
+            "word": "constant",
+            "ipa": "[ˈkɒnstənt]",
+            "meaning": "持续的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "conflicts",
+            "ipa": "",
+            "meaning": "冲突",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "can be used to produce negative effects in marketing.",
+        "translation": "可以在营销中被用来产生负面效应",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 辩证反向推断】第三段第2句指出 Such hijacked media are the opposite of earned media（被劫持媒体是赢得媒体的对立面），并在冒号后展开说明被劫持媒体是被消费者等用来发出负面指控（negative allegations）、造成破坏性损害（damaging ways）。这表明基于消费者自发的媒体传播机制具有双刃剑属性，既能产生正向口碑，同样也可被异化利用产生负面营销后果。",
+        "vocab": [
+          {
+            "word": "negative",
+            "ipa": "[ˈneɡətɪv]",
+            "meaning": "消极的，负面的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "may be responsible for fiercer competition.",
+        "translation": "可能导致更加激烈的市场竞争",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴/跨段干扰】第二段提及 BabyCenter 上推广互补甚至竞争性产品（competitive products），但第三段讨论被劫持媒体与赢得媒体时从未提及引发激烈竞争（fiercer competition）。",
+        "vocab": [
+          {
+            "word": "responsible",
+            "ipa": "[rɪˈspɒnsəb(ə)l]",
+            "meaning": "是…的原因",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "fiercer",
+            "ipa": "",
+            "meaning": "激烈的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "deserve all the negative comments about them.",
+        "translation": "理应承受所有针对它们的负面评价",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念/主观评判】文中指出激进消费者会对品牌提出负面指控（negative allegations），但这属于企业面临的客观公关风险，绝非作者认为企业“活该/理应承受”（deserve）所有负面评价。",
+        "vocab": [
+          {
+            "word": "deserve",
+            "ipa": "[dɪˈzɜːv]",
+            "meaning": "应得",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "negative",
+            "ipa": "[ˈneɡətɪv]",
+            "meaning": "负面的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "comments",
+            "ipa": "",
+            "meaning": "评价",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": "increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways. Such hijacked media are the opposite of earned media: an asset or campaign becomes hostage to consumers, other stakeholders, or activists who make negative allegations about a brand or product.",
+    "synonymMapping": [
+      {
+        "verbatimText": "hijacked media are the opposite of earned media / damaging ways / make negative allegations",
+        "equivalentOption": "can be used to produce negative effects in marketing"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "第三段第一句提出技术增加了风险（damaging ways），第二句指出 hijacked media are the opposite of earned media，消费者绑架品牌发出负面指控。推理逻辑：earned media 是消费者口碑，但当其被逆转时，就变成被利用产生严重负面影响（produce negative effects）。选项 B 准确概括了这一潜在双刃剑威胁。",
+      "coreLesson": "推断题常见考法：从‘某概念的反面（the opposite of）产生巨大破坏’推导出‘该机制具备产生负面效应的潜在可能（can be used to produce negative effects）’。留意 can be used 这种严谨、具有适度情态动词的选项往往是正确答案。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "indicates",
+          "ipa": "",
+          "meaning": "表示",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t3.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:578175cbaf3916e8cac2ceef2038e751d7fb59c0e445ebc09cc5f536979593ae"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "Toyota Motor's experience is cited as an example of ______.",
+    "stemTranslation": "作者引用丰田汽车公司的经历是作为______的例子。",
+    "options": [
+      {
+        "key": "A",
+        "text": "responding effectively to hijacked media.",
+        "translation": "有效应对被劫持的媒体",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 例证主旨推导】第四段第2句先指出在面对消费者抵制与媒体被劫持时，很多企业的反应往往不够快、不够周全（not sufficiently quick or thoughtful）。紧接着以 Toyota Motor 为例：通过迅速且精心策划的社交媒体回应活动（quick and well-orchestrated campaign）缓解了危机损害，正是有效应对被劫持媒体（responding effectively to hijacked media）的典型例证。",
+        "vocab": [
+          {
+            "word": "responding",
+            "ipa": "",
+            "meaning": "对…作出回应",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "hijacked",
+            "ipa": "",
+            "meaning": "劫持",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "persuading customers into boycotting products.",
+        "translation": "劝说消费者联合抵制产品",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】劝说他人抵制产品（persuade others to boycott）是热情消费者发起的行为，丰田汽车是设法缓解抵制造成的损害，而非劝说抵制。",
+        "vocab": [
+          {
+            "word": "persuading",
+            "ipa": "",
+            "meaning": "说服",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "boycotting",
+            "ipa": "",
+            "meaning": "抵制",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "cooperating with supportive consumers.",
+        "translation": "与支持自己的消费者展开合作",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】丰田在 Twitter 和 Digg 上的行动是与受到危机冲击的广大消费者直接互动（engage with consumers directly），并非特定联合‘支持性消费者’（supportive consumers）。",
+        "vocab": [
+          {
+            "word": "cooperating",
+            "ipa": "",
+            "meaning": "协作，合作",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "taking advantage of hijacked media.",
+        "translation": "利用被劫持的媒体牟利",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】丰田是在危机中实施公关应对与缓解损害（alleviated damage），这属于‘应对防御’（responding effectively），绝非‘利用/占便宜’（taking advantage of）。",
+        "vocab": [
+          {
+            "word": "taking",
+            "ipa": "",
+            "meaning": "利用",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "hijacked",
+            "ipa": "",
+            "meaning": "劫持",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "EXEMPLIFICATION",
+    "type": "例证题",
+    "targetSentences": [
+      "P4-S2",
+      "P4-S3"
+    ],
+    "verbatimEvidence": "In such a case, the company's response may not be sufficiently quick or thoughtful, and the learning curve has been steep. Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign,",
+    "synonymMapping": [
+      {
+        "verbatimText": "alleviated some of the damage from recall crisis with a quick and well-orchestrated response campaign",
+        "equivalentOption": "responding effectively to hijacked media"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "例证题黄金法则：例子本身不重要，找例子前一句的观点。前一句讲面对危机很多公司响应不够快（response not quick），丰田通过 quick and well-orchestrated social-media response campaign 成功缓解了召回危机。因此丰田是‘有效应对被劫持媒体（responding effectively to hijacked media）’的正面典范。",
+      "coreLesson": "例证题必杀技：永远看举例前的一句话！本题中‘Toyota Motor, for example’直接前承‘the company's response may not be sufficiently quick...’，对比之下丰田以 quick response 扭转局势，答案 A 迎刃而解。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Toyota",
+          "ipa": "",
+          "meaning": "丰田汽车公司",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "cited",
+          "ipa": "",
+          "meaning": "引用",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t3.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:578175cbaf3916e8cac2ceef2038e751d7fb59c0e445ebc09cc5f536979593ae"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following is the text mainly about?",
+    "stemTranslation": "下列哪一项是本文的主要内容？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alternatives to conventional paid media.",
+        "translation": "传统付费媒体的替代形式",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 全文宏观主旨归纳】首段总起指出传统的 paid media 不再是唯一法则，企业可利用许多 alternative forms of media，影响力源自 beyond conventional paid media 的广泛因素。全文随后依次论述 earned media、owned media、sold media 以及风险变体 hijacked media，全篇核心议题正是‘传统付费媒体的各种替代形式’。",
+        "vocab": [
+          {
+            "word": "Alternatives",
+            "ipa": "",
+            "meaning": "替换物",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Conflict between hijacked and earned media.",
+        "translation": "被劫持媒体与赢得媒体之间的冲突",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真",
+        "analysis": "【以偏概全/局部细节】仅涉及第三段关于媒体被异化时的概念对立对比，无法涵盖全文对 earned/owned/sold media 体系的全盘论述。",
+        "vocab": [
+          {
+            "word": "Conflict",
+            "ipa": "[ˈkɒnflɪkt]",
+            "meaning": "冲突",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "hijacked",
+            "ipa": "",
+            "meaning": "劫持",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Dominance of hijacked media.",
+        "translation": "被劫持媒体的支配地位",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真",
+        "analysis": "【范围失真/严重夸大】被劫持媒体只是企业面临的一种公关风险，文章从未指出其在整个媒体格局中占据了“主导/支配地位”（Dominance）。",
+        "vocab": [
+          {
+            "word": "hijacked",
+            "ipa": "",
+            "meaning": "劫持",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Dominance",
+            "ipa": "[ˈdɒmɪnəns]",
+            "meaning": "支配",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Popularity of owned media.",
+        "translation": "自有媒体的广受欢迎",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真",
+        "analysis": "【以偏概全】仅涉及第二段关于自有媒体及衍生售卖媒体的部分内容，未能体现全文对多元替代形式的整体统摄。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S3",
+      "P1-S5",
+      "P2-S4",
+      "P3-S2",
+      "P4-S3"
+    ],
+    "verbatimEvidence": "companies today can exploit many alternative forms of media... marketing's impact stems from a broad range of factors beyond conventional paid media... sold media... Such hijacked media are the opposite of earned media...",
+    "synonymMapping": [
+      {
+        "verbatimText": "alternative forms of media / factors beyond conventional paid media",
+        "equivalentOption": "Alternatives to conventional paid media"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "主旨题看文章首段主旨句：P1-S3 'companies today can exploit many alternative forms of media' 和 P1-S5 'factors beyond conventional paid media'。全篇结构：P1 提纲挈领讲除 paid media 外的多种媒体形式；P2 介绍 owned/sold media；P3-4 讲 earned/hijacked media 及其应对。选项 A 'Alternatives to conventional paid media' 完美概括全篇宏观框架。",
+      "coreLesson": "主旨题牢记‘串联段落主题句’原则。各段探讨的 earned/owned/sold/hijacked media 统统是第一段‘alternative forms of media’（传统付费媒体替代品）的具体展开，切忌以偏概全落入局部选项陷阱。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      }
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t3.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:578175cbaf3916e8cac2ceef2038e751d7fb59c0e445ebc09cc5f536979593ae"
+    }
+  }
+]

@@ -1,0 +1,747 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Over the past decade, thousands of patents have been granted for what are called business methods.",
+    "translation": "过去十年间，数以千计的所谓“商业方法”被授予了专利权。",
+    "syntaxAnalysis": {
+      "structureType": "主谓被动句 + 介词宾语从句",
+      "mainClause": "thousands of patents have been granted for what are called business methods",
+      "subordinateClauses": [
+        "what are called business methods（what引导介词for的宾语从句）"
+      ],
+      "corePattern": "patents have been granted for..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        26
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Amazon.com received one for its \"one-click\" online payment system.",
+    "translation": "亚马逊公司凭借其“一键式”在线支付系统获得了一项此类专利。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 介词目的短语",
+      "mainClause": "Amazon.com received one for its online payment system",
+      "subordinateClauses": [],
+      "corePattern": "receive a patent for sth"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Merrill Lynch got legal protection for an asset allocation strategy.",
+    "translation": "美林证券公司则为其资产配置策略取得了法律保护。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句",
+      "mainClause": "Merrill Lynch got legal protection for an asset allocation strategy",
+      "subordinateClauses": [],
+      "corePattern": "get legal protection for"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        26
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "One inventor patented a technique for lifting boxes.",
+    "translation": "还有一位发明者甚至为一种抬搬箱子的方法申请并获得了专利。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 介词短语",
+      "mainClause": "One inventor patented a technique for lifting boxes",
+      "subordinateClauses": [],
+      "corePattern": "patent a technique"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Now the nation's top patent court appears completely ready to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago.",
+    "translation": "如今，美国最高专利法院似乎已经完全准备好大幅缩减商业方法专利，而这类专利自十年前首次获准以来就一直饱受争议。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 非限制性定语从句 + 时间状语从句",
+      "mainClause": "Now the nation's top patent court appears completely ready to scale back on business-method patents",
+      "subordinateClauses": [
+        "非限制性定语从句: which have been controversial 修饰 patents",
+        "时间状语从句: ever since they were first authorized 10 years ago"
+      ],
+      "corePattern": "scale back on（缩减/限制） / controversial"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        26,
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "In a move that has intellectual-property lawyers abuzz, the U.S. Court of Appeals for the Federal Circuit said it would use a particular case to conduct a broad review of business-method patents.",
+    "translation": "在一项令知识产权律师界议论纷纷的举动中，美国联邦巡回上诉法院表示，将借助一起具体案件对商业方法专利进行全面审查。",
+    "syntaxAnalysis": {
+      "structureType": "介词短语状语 + 定语从句 + 宾语从句",
+      "mainClause": "the U.S. Court of Appeals for the Federal Circuit said it would use a particular case...",
+      "subordinateClauses": [
+        "定语从句: that has intellectual-property lawyers abuzz 修饰 move",
+        "宾语从句: (that) it would use a particular case to conduct a broad review..."
+      ],
+      "corePattern": "have sb abuzz（让某人议论纷纷） / conduct a broad review of"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "In re Bilski, as the case is known, is \"a very big deal\", says Dennis D. Crouch of the University of Missouri School of Law.",
+    "translation": "密苏里大学法学院的丹尼斯·D·克劳奇指出，这起被称为“比尔斯基案”的诉讼“意义非同小可”。",
+    "syntaxAnalysis": {
+      "structureType": "主系表倒装引语结构 + 非限制性方式定语从句",
+      "mainClause": "In re Bilski is 'a very big deal', says Dennis D. Crouch",
+      "subordinateClauses": [
+        "方式状语插入语: as the case is known（正如该案所被称呼的那样）"
+      ],
+      "corePattern": "In re... / a very big deal"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "It \"has the potential to eliminate an entire class of patents.\"",
+    "translation": "它“有可能彻底取消一整大类专利”。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 不定式定语",
+      "mainClause": "It has the potential to eliminate an entire class of patents",
+      "subordinateClauses": [],
+      "corePattern": "have the potential to do / eliminate an entire class of"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27,
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Curbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case, approving a patent on a way of pooling mutual-fund assets.",
+    "translation": "对商业方法权利主张加以限制将是一次戏剧性的180度大转弯，因为正是联邦巡回法院自己，在1998年所谓的“道富银行案”判决中确立了此类专利，批准了一项关于共同基金资产归集方法的专利。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 原因状语从句（包含强调句型） + 现在分词伴随状语",
+      "mainClause": "Curbs on business-method claims would be a dramatic about-face",
+      "subordinateClauses": [
+        "原因状语从句强调句: because it was the Federal Circuit itself that introduced such patents...",
+        "现在分词短语作伴随解释: approving a patent on a way of pooling mutual-fund assets"
+      ],
+      "corePattern": "curbs on sth / dramatic about-face（戏剧性态度大转变） / it was sb that..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        28
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "That ruling produced an explosion in business-method patent filings, initially by emerging Internet companies trying to stake out exclusive rights to specific types of online transactions.",
+    "translation": "该判决引发了商业方法专利申请的爆炸式激增，最初提出申请的是一些新兴的互联网公司，它们试图为特定类型的在线交易圈定独占垄断权。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 介词短语 + 现在分词短语",
+      "mainClause": "That ruling produced an explosion in business-method patent filings",
+      "subordinateClauses": [
+        "现在分词短语作定语: trying to stake out exclusive rights to specific types of online transactions 修饰 companies"
+      ],
+      "corePattern": "produce an explosion in / stake out exclusive rights to"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Later, more established companies raced to add such patents to their files, if only as a defensive move against rivals that might beat them to the punch.",
+    "translation": "此后，更为成熟的大公司也竞相把这类专利收入囊中，哪怕仅仅是为了防范可能先发制人的竞争对手而采取的防御性举措。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 条件让步插入语 + 定语从句",
+      "mainClause": "more established companies raced to add such patents to their files",
+      "subordinateClauses": [
+        "插入条件语: if only as a defensive move against rivals",
+        "定语从句: that might beat them to the punch 修饰 rivals"
+      ],
+      "corePattern": "race to do / if only as / beat sb to the punch（抢占先机/先发制人）"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "In 2005, IBM noted in a court filing that it had been issued more than 300 business-method patents, despite the fact that it questioned the legal basis for granting them.",
+    "translation": "2005年，IBM在递交给法庭的一份文件中指出，尽管它对授予此类专利的法律依据心存质疑，但公司自身却已被授予了300多项商业方法专利。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 宾语从句 + 让步状语从句 + 同位语从句",
+      "mainClause": "IBM noted in a court filing that it had been issued more than 300 business-method patents",
+      "subordinateClauses": [
+        "宾语从句: that it had been issued...",
+        "让步介词短语: despite the fact",
+        "同位语从句: that it questioned the legal basis for granting them 解释 the fact"
+      ],
+      "corePattern": "despite the fact that / question the legal basis for"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Similarly, some Wall Street investment firms armed themselves with patents for financial products, even as they took positions in court cases opposing the practice.",
+    "translation": "类似地，华尔街的一些投资公司也用金融产品专利把自己全副武装起来，尽管它们在参与的诉讼案件中公开表态反对这种做法。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 时间/让步状语从句 + 现在分词定语",
+      "mainClause": "some Wall Street investment firms armed themselves with patents for financial products",
+      "subordinateClauses": [
+        "时间/让步状语从句: even as they took positions in court cases...",
+        "现在分词定语: opposing the practice 修饰 positions"
+      ],
+      "corePattern": "arm oneself with / take a position / oppose the practice"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The Bilski case involves a claimed patent on a method for hedging risk in the energy market.",
+    "translation": "比尔斯基案涉及的是一项关于能源市场风险对冲方法的专利权利主张。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + 介词定语短语",
+      "mainClause": "The Bilski case involves a claimed patent on a method",
+      "subordinateClauses": [],
+      "corePattern": "involve a claimed patent on / hedging risk"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "The Federal Circuit issued an unusual order stating that the case would be heard by all 12 of the court's judges, rather than a typical panel of three, and that one issue it wants to evaluate is whether it should \"reconsider\" its State Street Bank ruling.",
+    "translation": "联邦巡回法院发布了一项不同寻常的命令，宣布此案将由该院全体12名法官共同全庭审理，而非惯常的3人合议庭，并表示其想要评估的关键问题之一就是是否应当“重新考虑（推翻）”其在道富银行案中的判决。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 现在分词定语 + 两个并列宾语从句 + 表语从句",
+      "mainClause": "The Federal Circuit issued an unusual order",
+      "subordinateClauses": [
+        "现在分词短语作定语: stating that... and that... 修饰 order",
+        "宾语从句1: that the case would be heard by all 12 of the court's judges...",
+        "宾语从句2: that one issue it wants to evaluate is whether...",
+        "表语从句: whether it should 'reconsider' its State Street Bank ruling"
+      ],
+      "corePattern": "issue an unusual order / heard by all judges (en banc) / reconsider ruling"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        27,
+        28,
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "The Federal Circuit's action comes in the wake of a series of recent decisions by the Supreme Court that has narrowed the scope of protections for patent holders.",
+    "translation": "联邦巡回法院的这一举措，紧随美国最高法院近期做出的一系列缩减专利持有人受保护范围的判决之后发生。",
+    "syntaxAnalysis": {
+      "structureType": "主谓复合句 + 介词状语 + 定语从句",
+      "mainClause": "The Federal Circuit's action comes in the wake of a series of recent decisions",
+      "subordinateClauses": [
+        "定语从句: that has narrowed the scope of protections for patent holders 修饰 decisions"
+      ],
+      "corePattern": "in the wake of（紧随……之后） / narrow the scope of protections"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        26,
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Last April, for example, the justices signaled that too many patents were being upheld for \"inventions\" that are obvious.",
+    "translation": "例如去年4月，最高法院大法官们就已明确释放信号，表明有太多显而易见、缺乏独创性的“发明”被错误地维持了专利效力。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 宾语从句 + 定语从句",
+      "mainClause": "the justices signaled that too many patents were being upheld",
+      "subordinateClauses": [
+        "宾语从句: that too many patents were being upheld for 'inventions'",
+        "定语从句: that are obvious 修饰 inventions"
+      ],
+      "corePattern": "signal that / patents being upheld / obvious inventions"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "The judges of the Federal Circuit are \"reacting to the anti-patent trend at the Supreme Court\", says Harold C. Wegner, a patent attorney and professor at George Washington University Law School.",
+    "translation": "乔治·华盛顿大学法学院教授兼专利律师哈罗德·C·韦格纳指出，联邦巡回法院的法官们“正在对最高法院的反专利趋势作出积极回应”。",
+    "syntaxAnalysis": {
+      "structureType": "直接引语复合句 + 同位语",
+      "mainClause": "The judges are 'reacting to the anti-patent trend', says Harold C. Wegner",
+      "subordinateClauses": [
+        "同位语: a patent attorney and professor... 修饰 Wegner"
+      ],
+      "corePattern": "react to / anti-patent trend"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        26,
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  }
+]

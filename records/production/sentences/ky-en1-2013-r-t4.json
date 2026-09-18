@@ -1,0 +1,477 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "On a five to three vote, the Supreme Court knocked out much of Arizona's immigration law Monday — a modest policy victory for the Obama Administration.",
+    "translation": "周一，联邦最高法院以5比3的表决结果推翻了亚利桑那州移民法的大部分条款——这对于奥巴马政府而言是一场微不足道的政策小胜。",
+    "syntaxAnalysis": "主干为 the Supreme Court knocked out much of Arizona's immigration law。On a five to three vote 为介词短语作状语；破折号后 a modest policy victory ... 为前述整个判决事件的同位语解释。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "But on the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration’s effort to upset the balance of power between the federal government and the states.",
+    "translation": "但在事关宪法这一更为重大的根本原则上，该判决对于奥巴马政府企图打破联邦政府与各州之间权力平衡的图谋而言，却是一场8比0的彻头彻尾的惨败。",
+    "syntaxAnalysis": "主系表结构。But 表转折；on the more important matter ... 作状语；主干 the decision was an 8-0 defeat；for the Administration’s effort 为介词短语作状语，后接不定式 to upset the balance of power ... 修饰 effort。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "In Arizona v. United States, the majority overturned three of the four contested provisions of Arizona's controversial plan to have state and local police enforce federal immigrations law.",
+    "translation": "在‘亚利桑那州诉联邦政府’一案中，多数派大法官推翻了亚利桑那州引发争议的法案中四项受质疑条款中的三项，该法案企图责成州和地方警察来执行联邦移民法。",
+    "syntaxAnalysis": "In Arizona v. United States 为案件状语；主干 the majority overturned three of the four contested provisions ...；to have state and local police enforce ... 为不定式短语修饰 plan（have sb. do 结构）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "The Constitutional principles that Washington alone has the power to \"establish a uniform Rule of Naturalization\" and that federal laws precede state laws are noncontroversial.",
+    "translation": "唯有华盛顿联邦政府独享‘确立全国统一的归化入籍规则’的权力，以及联邦法律的法律效力高于各州法律，这两大宪法原则是无可争议的公理。",
+    "syntaxAnalysis": "主干为 The Constitutional principles ... are noncontroversial。that 引导两个并列的同位语从句修饰 principles；precede 熟词僻义，意为‘位阶高于/优先于’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Arizona had attempted to fashion state policies that ran parallel to the existing federal ones.",
+    "translation": "亚利桑那州此前却企图制定出一套与现行联邦法律亦步亦趋、相提并论的平行州政策。",
+    "syntaxAnalysis": "主干为 Arizona had attempted to fashion state policies。fashion 熟词僻义动词，意为‘塑造/制定’；that ran parallel to ... 为定语从句修饰 policies，federal ones 代指 federal policies。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "Justice Anthony Kennedy, joined by Chief Justice John Roberts and the Court's liberals, ruled that the state flew too close to the federal sun.",
+    "translation": "安东尼·肯尼迪大法官在首席大法官约翰·罗伯茨及高院自由派法官的赞同附议下做出裁定：该州的立法行径犹如伊卡洛斯，飞得离联邦太阳太近了。",
+    "syntaxAnalysis": "主干为 Justice Anthony Kennedy ... ruled that ...。joined by ... 为过去分词短语作插入语；ruled 后面接 that 引导的宾语从句；flew too close to the federal sun 借用希腊神话伊卡洛斯的典故，喻指州权过度膨胀触碰联邦红线。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "On the overturned provisions the majority held that Congress had deliberately \"occupied the field\" and Arizona had thus intruded on the federal's privileged powers.",
+    "translation": "对于被推翻的那些条款，多数派大法官判定国会早已深思熟虑地对该领域实现了‘全域先占’，因此亚利桑那州侵犯了联邦独享的专有特权。",
+    "syntaxAnalysis": "主干为 the majority held that ...。that 引导由 and 连接的两个并列宾语从句；Congress had deliberately 'occupied the field'（宪法先占原则）；intruded on ... 意为‘侵犯/僭越’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "However, the Justices said that Arizona police would be allowed to verify the legal status of people who come in contact with law enforcement.",
+    "translation": "然而，大法官们明确表示，亚利桑那州警察有权核查在日常执法接触中所遭遇人员的合法移民身份。",
+    "syntaxAnalysis": "主从复合句。However 表转折；主句 Justices said that ...；从句中 Arizona police would be allowed to verify ...，who come in contact with law enforcement 为定语从句修饰 people。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "That’s because Congress has always envisioned joint federal-state immigration enforcement and explicitly encourages state officers to share information and cooperate with federal colleagues.",
+    "translation": "这是因为国会历来都设想推行联邦与各州联合移民执法，并且明文鼓励各州执法官员与联邦同行共享情报信息、紧密合作。",
+    "syntaxAnalysis": "主从复合句。That's because 引导表语/原因从句；从句中 Congress 为主语，谓语包含 has always envisioned ... 和 explicitly encourages ... 两个并列动词结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "Two of the three objecting Justices — Samuel Alito and Clarence Thomas — agreed with this Constitutional logic but disagreed about which Arizona rules conflicted with the federal statute.",
+    "translation": "在三位持异议的大法官中，有两位——塞缪尔·阿利托和克拉伦斯·托马斯——完全认同这一宪法逻辑，但在亚利桑那州的具体哪些法规与联邦成文法相冲突这一问题上存有分歧。",
+    "syntaxAnalysis": "主干为 Two of the three objecting Justices ... agreed with ... but disagreed about ...。破折号内 Samuel Alito and Clarence Thomas 为同位语插入语；about 引导 which 引导的宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "The only major objection came from Justice Antonin Scalia, who offered an even more robust defense of state privileges going back to the Alien and Sedition Acts.",
+    "translation": "唯一重大的根本性异议来自安东宁·斯卡利亚大法官，他立足于追溯至建国初期《外侨与煽动叛乱法案》的历史渊源，为各州的固有特权做出了更为强劲有力的辩护。",
+    "syntaxAnalysis": "主从复合句。主干 The only major objection came from Justice Antonin Scalia；who 引导非限制性定语从句修饰 Scalia；going back to ... 为现在分词短语修饰 state privileges。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "The 8-0 objection to President Obama turns on what Justice Samuel Alito describes in his objection as “a shocking assertion of federal executive power”.",
+    "translation": "大法官以8比0全票反对奥巴马总统，其关键核心在于塞缪尔·阿利托大法官在其异议意见书中所痛斥的“一项对联邦行政权令人震惊的专断主张”。",
+    "syntaxAnalysis": "主干为 The 8-0 objection ... turns on what ...。turn on 熟词僻义，意为‘取决于/以...为核心’；what 引导介词宾语从句，从句中 describes ... as 为固定搭配。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "The White House argued that Arizona’s laws conflicted with its enforcement priorities, even if state laws complied with federal statutes to the letter.",
+    "translation": "白宫此前强词夺理地辩称：哪怕亚利桑那州的州法在字面上丝毫不差地完全遵守了联邦法条，也依然违背了白宫自身设定的执法轻重缓急优先次序。",
+    "syntaxAnalysis": "主从复合句。主干 The White House argued that ...；that 引导宾语从句，内嵌 even if 引导的让步状语从句；to the letter 意为‘丝毫不差地/完全地’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "In effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with.",
+    "translation": "这实质上等于白宫公然宣称，只要是自己不顺眼的任何州法，即便其本身完全合宪合法，白宫都可以任意将其全盘作废废止。",
+    "syntaxAnalysis": "主干为 the White House claimed that it could invalidate any otherwise legitimate state law ...。In effect 为状语；otherwise legitimate 意为‘在其他方面完全合法的’；that it disagrees with 为定语从句修饰 state law。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Some powers do belong exclusively to the federal government, and control of citizenship and the borders is among them.",
+    "translation": "诚然，某些核心权力确实排他性地只专属于联邦政府，对公民身份与国家边境的掌控权便位列其中。",
+    "syntaxAnalysis": "and 连接的并列句。前分句 do belong exclusively to 为强调谓语；后分句 control of citizenship and the borders is among them 为主系表倒装/方位结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "But if Congress wanted to prevent states from using their own resources to check immigration status, it could.",
+    "translation": "但是，如果国会当真想要禁止各州动用自身资源去核查移民身份，国会完全有权通过立法予以明令禁止。",
+    "syntaxAnalysis": "虚拟条件复合句。if Congress wanted to prevent ... from doing ...，主句 it could (have done so) 省略从句动作。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "It never did so.",
+    "translation": "然而国会却从未在法律中做出过这种限制规定。",
+    "syntaxAnalysis": "简单句。短小精悍，承上启下，指出白宫越权缺乏国会法律授权。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 4,
+      "ps": "P7-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "The Administration was in essence asserting that because it didn't want to carry out Congress's immigration wishes, no state should be allowed to do so either.",
+    "translation": "奥巴马政府在本质上其实是在无理主张：仅仅因为联邦政府自己不愿彻底落实国会的移民立法意图，便绝不允许任何一个州出面代为执行。",
+    "syntaxAnalysis": "主从复合句。主干 The Administration was in essence asserting that ...；that 引导宾语从句，从句由 because 原因状语从句与主句 no state should be allowed to do so either 构成。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 5,
+      "ps": "P7-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "Every Justice rightly rejected this remarkable claim.",
+    "translation": "面对这样一项荒唐离奇的权力僭越主张，每一位最高法院大法官都无比正确地予以了坚决驳回与回击。",
+    "syntaxAnalysis": "简单句主谓宾结构。主语 Every Justice，副词 rightly 表明作者旗帜鲜明的褒义赞同立场，谓语 rejected，宾语 this remarkable claim（remarkable 熟词僻义/反讽：引人注目的/离谱惊人的）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  }
+]

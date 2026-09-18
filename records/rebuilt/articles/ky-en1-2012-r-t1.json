@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2012-r-t1",
+  "year": 2012,
+  "textNumber": 1,
+  "title": "The Social Cure: Harnessing Peer Pressure for Positive Change and Its Limitations",
+  "chineseTitle": "“社会疗法”神话的破局：同辈压力的积极潜能与人为干预的天然局限",
+  "topic": null,
+  "topicDomain": "社会心理学与公共卫生治理 (Social Psychology & Public Health Governance)",
+  "subTopic": "同辈压力的双刃剑、“社会疗法”理念批判与社交模仿机制 (Peer Pressure, The Social Cure & Behavioral Contagion)",
+  "overview": null,
+  "wordCount": 387,
+  "readingTimeEstimate": "6-8 mins",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Adapted from The New York Times Book Review / Slate (2011)",
+  "paragraphCount": 6,
+  "sentenceCount": 22,
+  "vocabularyCount": 24,
+  "phraseCount": 16,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "同辈压力（Peer Pressure）的双刃剑：从‘社会疗法’神话到社交传染动力学",
+      "subtitle": "自发模仿与自外强加——为什么政府官僚精心策划的‘积极同辈干预’往往难以持久？",
+      "coreNarrative": "在传统社会认知中，‘同辈压力’（peer pressure）往往带有浓厚贬义色彩，被普遍视作引发青少年吸毒、酗酒、危险性行为等不良举动的罪魁祸首（a cause of undesirable behaviors）。然而，普利策奖得主蒂娜·罗森伯格在《加入俱乐部》（Join the Club）中提出了颠覆性假设：同辈压力是一股强大的积极力量，政府与公益组织可以通过‘社会疗法’（the social cure）调动群体动力来改变恶习。作者在书评中肯定了罗森伯格对传统公共卫生宣传的犀利批判（指出‘敢于与众不同’的禁烟口号完全违背青少年渴望合群的心理），但尖锐指出了‘社会疗法’的致命缺陷：该书充斥无关细节，未能深入探讨同辈压力的社会与生物学底层机理，且外部资助一旦中断效果便烟消云散。真正的同辈压力源于人们在日常交往中‘潜意识的自发模仿’（unconscious imitation），任何由官僚从外部人为强行干预（engineered from the outside）的同辈重组策略注定徒劳，因为无论在学校还是现实社会中，人们都坚持自主选择朋友。",
+      "historicalAndEconomicContext": "反映了2010年前后行为经济学（如理查德·塞勒‘助推’理论 Nudge）与社会网络分析在公共政策领域的跨界探索热潮。公共卫生部门试图用低成本的社会动力学替代行政强制，但往往因忽视深层自发人际网络选择而陷入短期工程主义的死胡同。",
+      "crossExamLinks": "与2010年Text 3（网络影响者神话与社交级联动力学）、2011年Text 4（从众心理与媒体对生活态度的无意识塑造）共同构成考研英语‘社会心理学、从众行为与人际传染网络’核心考题群落。"
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "社会心理学、行为科学与公共卫生 (Behavioral Science & Public Health)",
+      "coreConceptRoots": [
+        {
+          "root": "peer-",
+          "meaning": "同等，同辈",
+          "examples": "peer pressure (同辈压力), peer group (同龄人群体), peer review (同行评议)"
+        },
+        {
+          "root": "dynam-",
+          "meaning": "力量，动力",
+          "examples": "group dynamics (群体动力学), dynamic (动态的/有活力的), dynamite (炸药)"
+        },
+        {
+          "root": "imit-",
+          "meaning": "仿效，模仿",
+          "examples": "imitate (模仿/效仿), imitation (模仿品), inimitable (无法仿效的)"
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "term": "peer pressure",
+          "meaning": "同辈压力/同龄人影响"
+        },
+        {
+          "term": "social cure",
+          "meaning": "社会疗法（借助群体力量改善行为）"
+        },
+        {
+          "term": "group dynamics",
+          "meaning": "群体动力学"
+        },
+        {
+          "term": "unconsciously imitate",
+          "meaning": "潜意识无意识地模仿"
+        },
+        {
+          "term": "engineered from the outside",
+          "meaning": "从外部人为设计/自外强加的"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2012_t1.json",
+    "year": 2012,
+    "articleKey": "ky-en1-2012-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:aae3edacacb63921ed5afb5f2a4852ffd8a374f560972411667ad26f67e51e3a"
+  }
+}

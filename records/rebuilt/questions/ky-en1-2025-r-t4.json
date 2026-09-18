@@ -1,0 +1,590 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The author mentions the artifacts from the past to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "introduce the collection of antiques.",
+        "isCorrect": false,
+        "distractorType": "字面望文生义",
+        "analysis": "【干扰特征: 字面局限】古董店只是引入话题的生活场景，非介绍古董行业的来临。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "contrast them with everyday items.",
+        "isCorrect": false,
+        "distractorType": "偷换对比对象",
+        "analysis": "【干扰特征: 概念偏差】对比的是有形实体文物（tangible）与无形数字信息（intangible digital formats），非日常用品。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "bring up the issue of preservation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 修辞功能定位】P1-S1 和 P1-S2 描写古董店里的照片信件历经数百年长存，并在 P2-S1 紧接着抛出核心论题：'Have you pondered the life cycle of intangible formats, digital information, given that those who produce these artifacts seldom make provision for their long-term preservation?'（你是否曾深思过数字信息的生命周期与长期保存问题？）。提及过往实体文物的长存正是为了极其自然地引出全文关于历史文献资料长期保存这一重大现实议题（bring up the issue of preservation）。C选项精准契合修辞目的。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "comment on their historical value.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 次要表面】历史价值只是文物的属性，作者意在借其物理形态引出对数字化保存困境的深层思考。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "修辞目的题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "tangible artifacts survive -> pondered life cycle of digital info long-term preservation = bring up the issue of preservation。",
+      "methodSummary": "首段案例功能题：抓准实体长存引出的核心设问（long-term preservation），锁定 bring up the issue of preservation。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "mentions the artifacts from the past to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "Compared with digital objects, tangible artifacts",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "are less subject to their creators' neglect.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】实体文物同样经常遭到原作者的漠视疏忽（despite original creators' neglect），但仍能侥幸存活。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "convey information in a more direct way.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S2 明确阐述有形实体的独特属性：'For millennia, we've known what we've known due to artifacts that have survived... The thing itself is the medium that delivers the information'（实体器物本身就是承载并传递信息的物理介质，无需依赖解码设备直接肉眼可读）。The thing itself is the medium that delivers the information 与 convey information in a more direct way（以一种更为直接的方式传递信息）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "require more intentional preservation.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】P2-S3 和 P3-S2 明确指出实体无需刻意保存（no attempts at intentional preservation），反而是数字信息需要多得多的悉心维护照料（Digital info requires a great deal more care）。",
+        "refSentences": [
+          "P2-S3",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "are less likely to suffer serious damage.",
+        "isCorrect": false,
+        "distractorType": "无中生有物理损坏",
+        "analysis": "【干扰特征: 偷换维度】实体也会风化损坏，文章强调的是实体信息与载体合一的直接性，非物理免损性。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节对比题",
+    "targetSentences": [
+      "P2-S2",
+      "P2-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "The thing itself is the medium that delivers the information = convey information in a more direct way。",
+      "methodSummary": "原句属性同义改写：thing itself is the medium 转换为 convey information in a more direct way。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Compared with digital objects",
+        "tangible artifacts"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "According to Paragraph 3, librarians' work may result in",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "oversupply of materials.",
+        "isCorrect": false,
+        "distractorType": "跨段混淆",
+        "analysis": "【干扰特征: 跨段错位】资料浩瀚（embarrassment of riches）是第2段末句描述的现象，第3段专讲这一奉献导致图书馆自身地位被用户轻视。",
+        "refSentences": [
+          "P2-S4",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "undervaluation of libraries.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S1 明确交代奉献带来的荒谬反噬后果：'Librarians' selfless devotion can act against us when users point to universality of access... saying \"it's all in here\" as evidence that libraries are less vital for researchers today'（馆员的奉献反噬了我们，当用户举起手机说都在这里面了并以此为证据认为图书馆如今已不再那么至关重要）。libraries are less vital 与 undervaluation of libraries（对图书馆价值的严重低估/贬低）完全同义对应。B选项精准吻合。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "researchers' underperformance.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及科研人员业绩表现不佳。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "users' overreliance on technology.",
+        "isCorrect": false,
+        "distractorType": "次要表面现象",
+        "analysis": "【干扰特征: 次要表象】举起手机是用户轻视图书馆的表象举动，段落核心强调的是对图书馆重要性的错误贬低与低估。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "users say libraries are less vital for researchers today = undervaluation of libraries（对图书馆价值的低估）。",
+      "methodSummary": "反噬效应提取：libraries are less vital 转换为 undervaluation of libraries。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 3",
+        "librarians' work may result in"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "The \"ZIP disk\" is cited as an example to show",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the hazard of retrieving files through unusual means.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】强调的是格式淘汰导致硬件无法读取从而丢失信息，非探讨非常规恢复手段的难度。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the infeasibility of constantly migrating digital assets.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】持续迁移数据资产是防止信息丢失的唯一必要手段（P4-S3），绝非不可行（infeasibility）。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the possibility of losing information in obsolete formats.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P4-S1 明确提出论点'As technology advances and a format becomes obsolete, the object is useless'（随着技术演进和某种格式沦为过时，该物品便彻底无用）；P4-S2 紧接着引述 ZIP 软盘作为直接例证：面对过时的 ZIP 软盘无助绝望，根本无法将文件导出。引用 ZIP 软盘正是为了生动论证：一旦存储格式过时淘汰，内部承载的历史信息就极可能彻底灭失丢失的严重风险（the possibility of losing information in obsolete formats）。C选项完全精准对应论点句。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the inconvenience of storing information on analog devices.",
+        "isCorrect": false,
+        "distractorType": "偷换属性为模拟设备",
+        "analysis": "【干扰特征: 属性颠倒】ZIP 软盘是不折不扣的‘早期数字存储介质’（digital），非传统实体模拟设备（analog devices）。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2",
+      "P4-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "format becomes obsolete, object is useless (helpless at ZIP disk) = the possibility of losing information in obsolete formats。",
+      "methodSummary": "例证题前句论点锁定法：抓准 format becomes obsolete 对应的 losing information in obsolete formats。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "\"ZIP disk\" is cited as an example to show"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Which of the following statements best summarizes the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hard work should be done to preserve artifacts.",
+        "isCorrect": false,
+        "distractorType": "偏离数字核心",
+        "analysis": "【干扰特征: 遗漏核心限定词】文章核心探讨的是‘原生数字历史记录’（digital historical records）的保存危机，非泛论传统实体文物（artifacts）。",
+        "refSentences": [
+          "P2-S1",
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Contributions of librarians should be recognized.",
+        "isCorrect": false,
+        "distractorType": "以偏概全局部主体",
+        "analysis": "【干扰特征: 次要角色】图书馆员的奉献是应对挑战的守护力量，全文通篇探讨的客观核心危机是数字历史记录的保存困境与挑战。",
+        "refSentences": [
+          "P3-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Accessing databases is essential to researchers.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 过于片面】文章重点在文献的‘长期留存与防灭失保存’（preservation），非仅仅谈数据库调阅。",
+        "refSentences": [
+          "P2-S4",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Keeping digital historical records is a challenge.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨高度凝练】全文通篇以“数字时代历史记录的保存危机”为唯一核心研讨主线：第1-2段通过实体与数字对比提出数字长期保存的严峻问题；第3段指出原生数字信息极其脆弱；第4段通过格式淘汰与 ZIP 软盘指出历史记录断代的深夜噩梦；第5段末句深刻总结指出未来科研人员将发现数字保存是一个充满巨大挑战的领域（challenging place）。D选项 Keeping digital historical records is a challenge（保存数字历史记录是一项极其艰巨的挑战）全面、客观且周延地概括了全文的主旨核心，为最佳总结项。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2",
+          "P4-S1",
+          "P4-S3",
+          "P5-S1",
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "主旨总结题",
+    "targetSentences": [
+      "P2-S1",
+      "P3-S2",
+      "P4-S1",
+      "P4-S3",
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "digital replaces analog nightmare of historical record abruptly stops + challenging preservation = Keeping digital historical records is a challenge。",
+      "methodSummary": "全文核心主旨概括：识别文章核心对象（digital historical records）与核心论述属性（a challenge）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "best summarizes the text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  }
+]

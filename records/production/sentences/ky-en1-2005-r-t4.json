@@ -1,0 +1,452 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Americans no longer expect public figures, whether in speech or in writing, to command the English language with skill and gift.",
+    "translation": "美国人不再期望公众人物，无论是在演讲还是写作中，都能以技巧和天赋掌握英语。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Nor do they aspire to such command themselves.",
+    "translation": "他们自己也不渴望获得这样的命令。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "In his latest book, Doing Our Own Thing: The Degradation of Language and Music and Why We Should Like, Care, John McWhorter, a linguist and controversialist of mixed liberal and conservative views, sees the triumph of 1960s counter-culture as responsible for the decline of formal English.",
+    "translation": "约翰·麦克沃特（John McWhorter）是一位混合了自由主义和保守主义观点的语言学家和争议主义者，在他的最新著作《做我们自己的事：语言和音乐的退化以及为什么我们应该喜欢、关心》中，他认为 20 世纪 60 年代反主流文化的胜利是正式英语衰落的原因。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter's academic speciality is language history and change, and he sees the gradual disappearance of \"whom\", for example, to be natural and no more regrettable than the loss of the case-endings of Old English.",
+    "translation": "指责宽松的 20 世纪 60 年代并不是什么新鲜事，但这并不是对教育衰退的又一次批评。麦克沃特先生的学术专长是语言历史和变迁，他认为“whom”的逐渐消失是很自然的，并不比古英语格结尾的消失更令人遗憾。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "But the cult of the authentic and the personal, \"doing our own thing\", has spelt the death of formal speech, writing, poetry and music.",
+    "translation": "但对真实和个人的崇拜，“做我们自己的事情”，已经注定了正式演讲、写作、诗歌和音乐的消亡。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "While even the modestly educated sought an elevated tone when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture spoken English on the page.",
+    "translation": "虽然在 20 世纪 60 年代之前，即使是受过中等教育的人在落笔时也会寻求更高的语气，但即使是自那时以来最受推崇的写作，也试图在纸上捕捉英语口语。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Equally, in poetry, the highly personal, performative genre is the only form that could claim real liveliness.",
+    "translation": "同样，在诗歌中，高度个人化的表演体裁是唯一可以声称真正生动的形式。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "In both oral and written English, talking is triumphing over speaking, spontaneity over craft.",
+    "translation": "在英语口语和书面语中，谈话胜过口述，自发性胜过技巧。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable.",
+    "translation": "麦克沃特先生用一系列来自高雅文化和低俗文化的有趣例子进行了说明，他所记录的趋势是明确无误的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "But it is less clear, to take the question of his subtitle, why we should, like, care.",
+    "translation": "但就他的副标题“为什么我们应该关心”的问题来说，还不太清楚。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "As a linguist, he acknowledges that all varieties of human language, including non-standard ones like Black English, can be powerfully expressive—there exists no language or dialect in the world that cannot convey complex ideas.",
+    "translation": "作为一名语言学家，他承认所有种类的人类语言，包括像黑人英语这样的非标准语言，都可以具有强大的表达能力——世界上不存在不能传达复杂思想的语言或方言。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "He is not arguing, as many do, that we can no longer think straight because we do not talk properly.",
+    "translation": "他并不像许多人那样认为我们不能再正常思考是因为我们说话不正确。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Russians have a deep love for their own language and carry large chunks of memorized poetry in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers. Mr. McWhorter acknowledges that formal language is not strictly necessary, and proposes no radical education reforms – he is really grieving over the loss of something beautiful more than useful.",
+    "translation": "俄罗斯人深爱自己的语言，脑子里有大量背诵的诗歌，而意大利政客则倾向于阐述对大多数英语国家来说似乎过时的演讲。麦克沃特先生承认，正式语言并不是绝对必要的，并且不建议进行激进的教育改革——他真的对失去一些美丽而不是有用的东西感到悲伤。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "We now take our English \"on paper plates instead of china\".",
+    "translation": "我们现在把英语“放在纸盘上而不是瓷器上”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2005-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "A shame, perhaps, but probably an inevitable one.",
+    "translation": "也许是一种耻辱，但可能是不可避免的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2005.js",
+      "year": 2005,
+      "articleKey": "ky-en1-2005-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d635bde360d44aa42022b57507e8c14538b3a197459d7c7030244c9ce53edbed"
+    }
+  }
+]

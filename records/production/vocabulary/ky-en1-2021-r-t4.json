@@ -1,0 +1,2810 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "cable",
+    "word": "cable",
+    "ipa": "ˈkeɪb(ə)l",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "n.电缆；钢缆，缆绳；电报；有线电视",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "power",
+    "word": "power",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "n. 力量，权力；v.推动，驱动",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "incentive",
+    "word": "incentive",
+    "ipa": "ɪnˈsentɪv",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "n.激励，刺激",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "favor",
+    "word": "favor",
+    "ipa": "ˈfeɪvər",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "v.较喜欢；偏袒 n.帮助；提拔；赞同；偏袒",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "affiliated",
+    "word": "affiliated",
+    "ipa": "əˈfɪlieɪtɪd",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "adj.隶属的；有关联的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "prevent",
+    "word": "prevent",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "v.阻止，阻碍；防止，预防；设置障碍",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "online",
+    "word": "online",
+    "ipa": "/ˌɒnˈlaɪn/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "可通过互联网访问的；在线（常用释义：在线的；联网地）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "innovation",
+    "word": "innovation",
+    "ipa": "/ˌɪnəˈveɪʃən/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "创新；新思想（常用释义：革新；创新成果）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "lifeblood",
+    "word": "lifeblood",
+    "ipa": "ˈlaɪfblʌd",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n.生命线；命脉",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "in part",
+    "word": "in part",
+    "ipa": "/ɪn pɑːt/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "部分地；在一定程度上（常用释义：partly；to some extent）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Yet",
+    "word": "Yet",
+    "ipa": "/jet/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "然而；但是（常用释义：然而；还；尚）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "impossible",
+    "word": "impossible",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "adj.不可能的，办不到的；极其艰难的；难以对付的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "pushback",
+    "word": "pushback",
+    "ipa": "ˈpʊʃbæk",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "n.反对；阻力；消极的回应",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "federal",
+    "word": "federal",
+    "ipa": "ˈfɛdərəl",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "adj. 联邦的，联盟的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "court",
+    "word": "court",
+    "ipa": "/kɔːt/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "法院（常用释义：法院；法庭；球场）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "instead",
+    "word": "instead",
+    "ipa": "/ɪnˈsted/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "相反；取而代之的是（常用释义：作为替代；反而）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "issue",
+    "word": "issue",
+    "ipa": "/ˈɪʃuː/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "问题、议题（常用释义：发行；期号；结果）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Court",
+    "word": "Court",
+    "ipa": "/kɔːt/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "法院（常用释义：法院；法庭；球场）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "District",
+    "word": "District",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n.地区，区域；行政区，辖区；选区",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Circuit",
+    "word": "Circuit",
+    "ipa": "ˈsɜːkɪt",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n. 环形路线，巡回赛",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "take",
+    "word": "take",
+    "ipa": "teɪk",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "v. 携带，拿",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Federal",
+    "word": "Federal",
+    "ipa": "ˈfɛdərəl",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "adj. 联邦的，联盟的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Commission",
+    "word": "Commission",
+    "ipa": "kəˈmɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n.委员会；佣金；委托 v.委托；委任",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "net",
+    "word": "net",
+    "ipa": "net",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n. 网；净额；网络 adj. 净得的 v. 净赚；设法获得",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "neutrality",
+    "word": "neutrality",
+    "ipa": "nuːˈtrælɪti",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n.中立；中性",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "adopted",
+    "word": "adopted",
+    "ipa": "/əˈdɒptɪd/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "被收养的（常用释义：被采纳的；收养的；采用的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "order",
+    "word": "order",
+    "ipa": "/ˈɔːdə(r)/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "法院命令；裁定（常用释义：命令；次序；订单）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "net",
+    "word": "net",
+    "ipa": "net",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n. 网；净额；网络 adj. 净得的 v. 净赚；设法获得",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "neutrality",
+    "word": "neutrality",
+    "ipa": "nuːˈtrælɪti",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n.中立；中性",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "adopted",
+    "word": "adopted",
+    "ipa": "/əˈdɒptɪd/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "被收养的（常用释义：被采纳的；收养的；采用的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Democratic",
+    "word": "Democratic",
+    "ipa": "ˌdeməˈkrætɪk",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "adj.平等的；民主政体的；（美国）民主党的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "majority",
+    "word": "majority",
+    "ipa": "məˈdʒɔːrəti",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n.大多数；多数票；成年的法定年龄；多数党；",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "commission",
+    "word": "commission",
+    "ipa": "kəˈmɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n.委员会；佣金；委托 v.委托；委任",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "authority",
+    "word": "authority",
+    "ipa": "/ɔːˈθɒrəti/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "法定权限、职权（常用释义：权威；当局）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "require",
+    "word": "require",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "v.需要；要求做（某事），规定",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "state",
+    "word": "state",
+    "ipa": "/steɪt/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "正式陈述；说明（常用释义：状态；州；国家；陈述）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "regulate",
+    "word": "regulate",
+    "ipa": "/ˈreɡjʊleɪt/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "调节；管控；规范（常用释义：监管；调节；控制）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "commission",
+    "word": "commission",
+    "ipa": "kəˈmɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "n.委员会；佣金；委托 v.委托；委任",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "protect",
+    "word": "protect",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "v.保护，防护；（制订法律）保护；投保，为……买保险；（通过征关税）保护（国",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "conglomerate",
+    "word": "conglomerate",
+    "ipa": "kənˈɡlɑːmərət",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "n.企业集团；聚集物 v.聚集",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "expense",
+    "word": "expense",
+    "ipa": "ɪkˈspɛns",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "n. 费用；开支",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Yet",
+    "word": "Yet",
+    "ipa": "/jet/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "然而；但是（常用释义：然而；还；尚）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "data",
+    "word": "data",
+    "ipa": "/ˈdeɪtə/ or /ˈdɑːtə/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "数据，资料（常用释义：数据；资料）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "streaming",
+    "word": "streaming",
+    "ipa": "ˈstriːmɪŋ",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "n.串流，流式传播；（学生依能力分的）班/组 v.涌动；流出；",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Supreme Court",
+    "word": "Supreme Court",
+    "ipa": "/suːˌpriːm ˈkɔːt/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "最高法院（美国最高法院）（常用释义：最高法院）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "court",
+    "word": "court",
+    "ipa": "/kɔːt/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "法院（常用释义：法院；法庭；球场）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "unanimously",
+    "word": "unanimously",
+    "ipa": "juːˈnænɪməsli",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "adv.全体一致地",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "order",
+    "word": "order",
+    "ipa": "/ˈɔːdə(r)/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "法院命令；裁定（常用释义：命令；次序；订单）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Supreme",
+    "word": "Supreme",
+    "ipa": "suːˈpriːm",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "adj.至高无上的,最",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "ruling",
+    "word": "ruling",
+    "ipa": "/ˈruːlɪŋ/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "司法裁决（常用释义：裁定；统治）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "similarly",
+    "word": "similarly",
+    "ipa": "ˈsɪmələrli",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "adv. 同样地；类似地",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "move",
+    "word": "move",
+    "ipa": "muːv",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "n.行动",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Supreme Court",
+    "word": "Supreme Court",
+    "ipa": "/suːˌpriːm ˈkɔːt/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "最高法院（美国最高法院）（常用释义：最高法院）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "the Supreme Court",
+    "word": "the Supreme Court",
+    "ipa": "/suːˌpriːm ˈkɔːt/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "美国联邦最高法院（常用释义：最高法院）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Judge",
+    "word": "Judge",
+    "ipa": "dʒʌdʒ",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "n. 裁判；审判员；法官",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "rightly",
+    "word": "rightly",
+    "ipa": "/ˈraɪtli/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "正确地、理所当然地（常用释义：恰当地）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "concurring",
+    "word": "concurring",
+    "ipa": "kənˈkɜːrɪŋ",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "adj.一致的；同意的 v.同意；同时发生（concur 的现在分",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "modern",
+    "word": "modern",
+    "ipa": "ˈmɒdn",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "adj.现代的,近代的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Congress",
+    "word": "Congress",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "n.国民大会，代表大会，（美国及其他国家的）国会，议会",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Supreme",
+    "word": "Supreme",
+    "ipa": "suːˈpriːm",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "adj.至高无上的,最",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Court",
+    "word": "Court",
+    "ipa": "/kɔːt/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "法院（常用释义：法院；法庭；球场）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "intervene",
+    "word": "intervene",
+    "ipa": "ˌɪntərˈviːn",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "v.干预；介入；打岔",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "regulation",
+    "word": "regulation",
+    "ipa": "ˌreɡjuˈleɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "n.规章制度；管理，控制 adj.正规的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "technological",
+    "word": "technological",
+    "ipa": "ˌteknəˈlɑːdʒɪk(ə)l",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "adj.技术的；科技的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "anachronism",
+    "word": "anachronism",
+    "ipa": "əˈnækrənɪzəm",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "n.时代错误；过时之物",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "meantime",
+    "word": "meantime",
+    "ipa": "ˈminˌtaɪm",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n.(meanwhile)其间,其时 adv.同时,当时",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "court",
+    "word": "court",
+    "ipa": "/kɔːt/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "法院（常用释义：法院；法庭；球场）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "block",
+    "word": "block",
+    "ipa": "blɒk",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n. 街区；块 v. 阻塞",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "state",
+    "word": "state",
+    "ipa": "/steɪt/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "正式陈述；说明（常用释义：状态；州；国家；陈述）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "net",
+    "word": "net",
+    "ipa": "net",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n. 网；净额；网络 adj. 净得的 v. 净赚；设法获得",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "neutrality",
+    "word": "neutrality",
+    "ipa": "nuːˈtrælɪti",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n.中立；中性",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "commission",
+    "word": "commission",
+    "ipa": "kəˈmɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n.委员会；佣金；委托 v.委托；委任",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "power",
+    "word": "power",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "n. 力量，权力；v.推动，驱动",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "preempt",
+    "word": "preempt",
+    "ipa": "ˌpriːˈempt",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "v.先取；先占",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "individual",
+    "word": "individual",
+    "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "个体的；个体（常用释义：个人；个别的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "undermine",
+    "word": "undermine",
+    "ipa": "/ˌʌndəˈmaɪn/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "逐渐削弱、损害（常用释义：从根基破坏）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "order",
+    "word": "order",
+    "ipa": "/ˈɔːdə(r)/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "法院命令；裁定（常用释义：命令；次序；订单）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "one",
+    "word": "one",
+    "ipa": "/wʌn/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "其中一个（问题）（常用释义：一；一个人/事物）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Justice",
+    "word": "Justice",
+    "ipa": "/ˈdʒʌstɪs/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "（最高法院）大法官（常用释义：正义；司法）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "tough",
+    "word": "tough",
+    "ipa": "tʌf",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "adj. 困难的；坚强的；艰难的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "net",
+    "word": "net",
+    "ipa": "net",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n. 网；净额；网络 adj. 净得的 v. 净赚；设法获得",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "neutrality",
+    "word": "neutrality",
+    "ipa": "nuːˈtrælɪti",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n.中立；中性",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "abdication",
+    "word": "abdication",
+    "ipa": "ˌæbdɪˈkeɪʃn",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "n.退位；放弃职责",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "endless",
+    "word": "endless",
+    "ipa": "ˈendlɪs",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "adj.无尽的；连续的；永久的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "legal",
+    "word": "legal",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "adj.合法的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "back-and-forth",
+    "word": "back-and-forth",
+    "ipa": "ˌbækəndˈfɔːrθ",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "adj.来回的；反复的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "Congress",
+    "word": "Congress",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n.国民大会，代表大会，（美国及其他国家的）国会，议会",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "act",
+    "word": "act",
+    "ipa": "ækt",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "v.表演;举动;起作用 n.行为,法令;一幕",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "commission",
+    "word": "commission",
+    "ipa": "kəˈmɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n.委员会；佣金；委托 v.委托；委任",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "explicit",
+    "word": "explicit",
+    "ipa": "ɪkˈsplɪsɪt",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "adj.详述的,明确的;坦率的;显然的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "authority",
+    "word": "authority",
+    "ipa": "/ɔːˈθɒrəti/",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "法定权限、职权（常用释义：权威；当局）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "broadband",
+    "word": "broadband",
+    "ipa": "ˈbrɔːdbænd",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n.宽频 adj.宽频带的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "traffic",
+    "word": "traffic",
+    "ipa": "ˈtræfɪk",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n. 路上行驶",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "clear",
+    "word": "clear",
+    "ipa": "klɪr",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "v. 清除，澄",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "openness",
+    "word": "openness",
+    "ipa": "ˈoʊpənnəs",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "n.公开；坦率；开阔",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "innovation",
+    "word": "innovation",
+    "ipa": "/ˌɪnəˈveɪʃən/",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "创新；新思想（常用释义：革新；创新成果）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "surface": "online",
+    "word": "online",
+    "ipa": "/ˌɒnˈlaɪn/",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "可通过互联网访问的；在线（常用释义：在线的；联网地）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  }
+]

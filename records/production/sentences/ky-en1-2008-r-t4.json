@@ -1,0 +1,477 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "In 1784, five years before he became president of the United States, George Washington, 52, was nearly toothless.",
+    "translation": "1784年，即在乔治·华盛顿就任美国总统的前五年，当时52岁的他牙齿几乎已经掉光了。",
+    "syntaxAnalysis": "主系表结构。In 1784 为时间状语；five years before... 为时间状语从句；主语 George Washington；52 为同位语修饰华盛顿的年龄；系动词 was；表语 toothless，nearly 为程度副词修饰表语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "So he hired a dentist to transplant nine teeth into his jaw—having extracted them from the mouths of his slaves.",
+    "translation": "因此，他雇佣了一名牙医将九颗牙齿移植到自己的牙床上——而这些牙齿全是从他的黑奴口中拔出来的。",
+    "syntaxAnalysis": "简单句+破折号分词短语补足说明。主语 he，谓语动词 hired，宾语 a dentist，不定式短语 to transplant... 作宾语补足语；破折号后 having extracted... 为现在分词完成式短语作方式或伴随状语，them 指代 nine teeth。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "That's a far different image from the cherry-tree-chopping George most people remember from their history books.",
+    "translation": "这与大多数人从历史教科书中所记住的那个砍倒樱桃树的诚实乔治形象截然不同。",
+    "syntaxAnalysis": "主系表复合句。主语 That，系动词 is，表语 a far different image；介词短语 from the cherry-tree-chopping George 作后置定语；most people remember from their history books 为省略了关系代词 that/whom 的定语从句修饰 George。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "But recently, many historians have begun to focus on the role slavery played in the lives of the founding generation.",
+    "translation": "但近年来，许多历史学家开始将目光聚焦于奴隶制在开国元勋那一代人的生活与命运中所扮演的角色。",
+    "syntaxAnalysis": "主谓宾复合句。转折词 But；时间状语 recently；主语 many historians；谓语 have begun；不定式短语 to focus on... 作宾语；the role 为介词 on 的宾语，slavery played in the lives of the founding generation 为省略了关系代词 that/which 的定语从句修饰 the role。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.",
+    "translation": "这在一定程度上得益于1998年公布的DNA证据的推动，该证据几乎确凿无疑地证实了托马斯·杰斐逊曾与其女奴萨莉·海明斯生育了至少一个孩子。",
+    "syntaxAnalysis": "复合句。主语 They（指代历史学家）；谓语 have been spurred（被动语态）；in part 为程度状语；by DNA evidence 为动作执行者状语；过去分词短语 made available in 1998 作后置定语修饰 evidence；which 引导非限制性定语从句修饰 evidence，从句中 proved 后跟省略了 that 的宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "And only over the past 30 years have scholars examined history from the bottom up.",
+    "translation": "并且，只是在过去的30年里，学者们才真正开始自下而上地深入审视历史。",
+    "syntaxAnalysis": "部分倒装句。only + 介词短语 over the past 30 years 位于句首引起部分倒装；助动词 have 提到主语 scholars 之前；谓语动词 examined；宾语 history；from the bottom up 作方式状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy.",
+    "translation": "数位历史学家的著作揭示了国家早期领导人所做出的道德妥协，以及这个国家在初创幼年时期的脆弱本质。",
+    "syntaxAnalysis": "主谓宾并列结构。主语 Works of several historians；谓语 reveal；宾语为两个由 and 连接的并列名词短语：1) the moral compromises（其后过去分词短语 made by... 作后置定语）；2) the fragile nature of the country's infancy。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.",
+    "translation": "更为重要的是，他们指出，许多建国先驱明知奴隶制是不道德且错误的——然而绝大多数人却几乎未曾采取任何行动去抗争废除它。",
+    "syntaxAnalysis": "主谓宾复合句。插入语 More significantly；主语 they；谓语 argue；that 引导宾语从句；从句由破折号连接两个分句，分句1为 many of the Founding Fathers knew (that) slavery was wrong；分句2为 and yet most did little to fight it，most 代指多数建国元勋，it 代指 slavery。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "More than anything, the historians say, the founders were hampered by the culture of their time.",
+    "translation": "历史学家们指出，最主要的原因在于，开国元勋们深受其所处时代文化的束缚与阻碍。",
+    "syntaxAnalysis": "主谓被动复合句。More than anything 为程度状语；the historians say 为插入语；主语 the founders；谓语 were hampered；by the culture of their time 为介词短语作状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.",
+    "translation": "尽管华盛顿和杰斐逊在私下都对奴隶制表示过厌恶反感，但他们同样深刻明白，奴隶制是他们亲手协助建立的这个国家的政治与经济基石的一部分。",
+    "syntaxAnalysis": "主从复合句。While 引导让步状语从句，从句主语 Washington and Jefferson，谓语 expressed，宾语 distaste for slavery；主句主语 they，副词 also，谓语 understood；that 引导宾语从句，从句中 it 代指 slavery，bedrock 后跟随省略了关系代词 that/which 的定语从句 they helped to create。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "For one thing, the South could not afford to part with its slaves.",
+    "translation": "首先一方面，美国南方在经济上根本承受不起放弃奴隶的巨大损失。",
+    "syntaxAnalysis": "简单句。For one thing 为逻辑衔接状语；主语 the South；情态动词复合谓语 could not afford to part with；宾语 its slaves。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Owning slaves was \"like having a large bank account,\" says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America.",
+    "translation": "《不完美的神：乔治·华盛顿、他的奴隶与美国的创立》一书的作者温切克指出，拥有奴隶就“如同拥有一大笔巨额银行存款”。",
+    "syntaxAnalysis": "直接引语倒装句。Owning slaves was \"like having a large bank account\" 为直接引语，动名词短语 Owning slaves 作引语主语；谓语 says；主语 Wiencek；author of... 为同位语说明其作者身份及代表著作。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "The southern states would not have signed the Constitution without protections for the \"peculiar institution,\" including a clause that counted a slave as three fifths of a man for purposes of congressional representation.",
+    "translation": "如果缺乏对这一“特殊制度”（奴隶制）的法律保护，南方各州根本就不会签署联邦宪法，包括一条在计算国会代表席位时将一名黑奴折算为五分之三人的条款。",
+    "syntaxAnalysis": "虚拟语气条件句。主语 The southern states；谓语 would not have signed（含蓄虚拟语气，由 without 引导的介词短语充当虚拟条件）；宾语 the Constitution；介词短语 without protections for the \"peculiar institution\"；现在分词短语 including a clause... 作补充定语，that 引导定语从句修饰 a clause，从句中 counted a slave as three fifths of a man 为固定搭配。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "And the statesmen's political lives depended on slavery.",
+    "translation": "更为现实的是，这些政治家们的政治生命在极大程度上完全依附于奴隶制。",
+    "syntaxAnalysis": "简单句。连词 And；主语 the statesmen's political lives；谓语动词 depended on；宾语 slavery。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College.",
+    "translation": "“五分之三折算公式”通过虚增南方各州在选举人团中的选票数量，帮助杰斐逊在1800年的总统大选中获得了极其微弱的险胜。",
+    "syntaxAnalysis": "主谓双宾句+方式状语。主语 The three-fifths formula；谓语 handed；间接宾语 Jefferson；直接宾语 his narrow victory in the presidential election of 1800；by inflating... 为介词短语作方式状语，the Electoral College 为美国总统选举人团制度。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Once in office, Jefferson extended slavery with the Louisiana Purchase in 1803; the new land was carved into 13 states, including three slave states.",
+    "translation": "而一旦入主白宫掌权，杰斐逊便借助1803年的“路易斯安那购地案”扩大了奴隶制的扩张范围；这片新购领土被划分为13个州，其中包括3个蓄奴州。",
+    "syntaxAnalysis": "分号连接的并列复合句。分句1中 Once in office 为省略时间状语（Once he was in office），主语 Jefferson，谓语 extended，宾语 slavery，with the Louisiana Purchase in 1803 作方式/伴随状语；分句2主语 the new land，谓语 was carved into（被动语态），宾语 13 states，including three slave states 为分词介词短语作后置补充说明。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Still, Jefferson freed Hemings's children—though not Hemings herself or his approximately 150 other slaves.",
+    "translation": "尽管如此，杰斐逊最终还是释放了他与海明斯所生的孩子们——虽然他并未给予海明斯本人或其名下另外约150名黑奴以自由。",
+    "syntaxAnalysis": "简单句+让步省略短语。转折词 Still；主语 Jefferson；谓语 freed；宾语 Hemings's children；破折号后 though not... 为省略让步状语（though he did not free...）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will.",
+    "translation": "华盛顿在独立战争期间亲眼目睹了黑人士兵的英勇无畏后，开始深信人人生而平等；他顶住了亲属们的强烈反对，在遗嘱中赋予了他名下所有黑奴以自由。",
+    "syntaxAnalysis": "复杂主从复合句。主语 Washington；who 引导非限制性定语从句修饰 Washington，从句谓语 had begun to believe，that all men were created equal 为宾语从句，after observing... 为时间状语；主句谓语 overcame，宾语 the strong opposition of his relatives；不定式短语 to grant his slaves their freedom in his will 作结果/目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Only a decade earlier, such an act would have required legislative approval in Virginia.",
+    "translation": "而就在短短十年前，这样一项释放奴隶的举动在弗吉尼亚州还需要获得州立法机构的法定批准。",
+    "syntaxAnalysis": "简单句（含蓄虚拟语气）。时间状语 Only a decade earlier；主语 such an act；谓语 would have required；宾语 legislative approval；地点状语 in Virginia。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  }
+]

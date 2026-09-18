@@ -1,0 +1,572 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal. But one insidious form continues to thrive: alphabetism.",
+    "translation": "一个世纪以来，各种不公平和歧视行为都受到谴责或被定为非法。但一种阴险的形式继续盛行：字母顺序。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.",
+    "translation": "对于那些尚未意识到这种劣势的人来说，这是指对姓氏以字母表下半部分字母开头的人的歧视。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories.",
+    "translation": "人们早就知道，当顾客翻阅电话簿时，一家名为 AAAA cars 的出租车公司比 Zodiac cars 有很大的优势。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Less well known is the advantage that Adam Abbott has in life over Zoë Zysman.",
+    "translation": "不太为人所知的是亚当·阿博特 (Adam Abbott) 在生活中相对于佐伊·齐斯曼 (Zoë Zysman) 的优势。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "English names are fairly evenly spread between the halves of the alphabet.",
+    "translation": "英文名字相当均匀地分布在字母表的两半部分。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "Yet a suspiciously large number of top people have surnames beginning with letters between A and K.",
+    "translation": "然而，令人怀疑的是，大量高层人士的姓氏以 A 和 K 之间的字母开头。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush's predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half.",
+    "translation": "因此，美国总统和副总统的姓氏分别以B和C开头；乔治·布什的前任中有 26 位（包括他的父亲）的姓氏是字母表的前半部分，而后半部分的姓氏只有 16 个。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi).",
+    "translation": "更引人注目的是，七国集团富裕国家的七位政府首脑中有六位按字母顺序排列占优势（贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "The world's three top central bankers (Greenspan, Duisenberg and Hayami) are all close to the top of the alphabet, even if one of them really uses Japanese characters.",
+    "translation": "世界三大央行行长（格林斯潘、杜伊森贝格和速水）都接近字母表的顶端，即使其中一位真的使用日语字符。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "As are the world's five richest men (Gates, Buffett, Allen, Ellison and Albrecht).",
+    "translation": "世界上最富有的五位人士（盖茨、巴菲特、艾伦、埃里森和阿尔布雷希特）也是如此。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Can this merely be coincidence?",
+    "translation": "这难道只是巧合吗？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early.",
+    "translation": "一种理论是，按字母顺序处于劣势的人在所有空闲时间里都梦想着，这种腐烂很早就开始了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names.",
+    "translation": "在婴儿学校第一学年开始时，老师会按照字母顺序从前面安排学生就座，以便更容易记住他们的名字。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers.",
+    "translation": "因此，目光短浅的齐斯曼小学生被困在后排，很少被那些麻木不仁的老师提出改进的问题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "At the time the alphabetically disadvantaged may think they have had a lucky escape.",
+    "translation": "当时，按字母顺序处于劣势的人可能认为他们幸运地逃脱了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.",
+    "translation": "然而，结果可能是资质较差，因为他们受到的个人关注较少，公开演讲的信心也较低。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "The humiliation continues.",
+    "translation": "羞辱还在继续。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ.",
+    "translation": "在大学毕业典礼上，ABC 们自豪地第一个获得奖项；当他们到达 Zysmans 时，大多数人都已经感到 ZZZ 了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.",
+    "translation": "工作面试的入围名单、选举选票、会议发言人和与会者名单：所有这些都往往是按字母顺序列出的，收件人在仔细阅读这些内容时就会失去兴趣。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  }
+]

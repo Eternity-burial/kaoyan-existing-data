@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2024-r-t3",
+  "year": 2024,
+  "textNumber": 3,
+  "title": "AI Art Generation and Artists' Pushback: Greg Rutkowski's Dilemma",
+  "chineseTitle": "生成式 AI 扒图侵权危机与数字艺术家的抗争",
+  "topic": "人工智能伦理与知识产权 / 文生图 AI（Stable Diffusion）未授权抓图、艺术家风格被盗用与行业联合反制",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文以波兰著名数字艺术家格雷格·鲁特科夫斯基在文生图 AI（如 Stable Diffusion）领域被作为提示词疯狂调用9.3万次、一夜爆红为切入点，深入揭示了生成式 AI 对原创艺术界造成的巨大侵权冲击。这些开源 AI 模型通过未经授权大肆抓取网络版权图像建立底层数据库，引发严峻的学术伦理与版权危机。当鲁特科夫斯基在网上搜索自己名字时，发现海量冠以其姓名但并非其创作的 AI 冒牌画作，深切担忧未来互联网将被 AI 假画淹没导致真迹彻底被湮没。面对危机，艺术家创意产业正迅速组建行业同盟积极推动立法监管，专家建议 AI 公司应当转向公有领域无版权图像进行合规训练并与博物馆艺术家建立正规授权合作。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 11,
+  "vocabularyCount": 0,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+    "year": 2024,
+    "articleKey": "ky-en1-2024-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+  }
+}

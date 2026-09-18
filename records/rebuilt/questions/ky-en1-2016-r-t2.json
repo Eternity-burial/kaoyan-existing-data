@@ -1,0 +1,894 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "Britain's public sentiment about the countryside",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "has brought much benefit to the NHS.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【张冠李戴/无中生有】NHS（国家医疗服务体系）在文中只是首段民调中与乡村、王室、莎士比亚并列作为英国人感到自豪的对象，文章并未提及公众对乡村的喜爱给医疗系统带来了巨大益处。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "didn't start till the Shakespearean age.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【偷换概念/时间错位】莎士比亚只是民调中并列令英国人骄傲的文化代表，文章从未声称公众对乡村的崇尚起源于莎士比亚时代。",
+        "refSentences": [
+          "P1-S3"
+        ],
+        "vocab": [
+          {
+            "word": "benefit",
+            "ipa": "[ˈbenɪfɪt]",
+            "meaning": "使受益",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "is fully backed by the royal family.",
+        "isCorrect": false,
+        "distractorType": "ABS_OVERSTATEMENT",
+        "analysis": "【极端武断/无中生有】王室是并列令国民自豪的象征之一，文章并没有说王室完全全力支持公众的这一乡村保护情结。",
+        "refSentences": [
+          "P1-S3"
+        ],
+        "vocab": [
+          {
+            "word": "is",
+            "ipa": "[aɪ]",
+            "meaning": "在…支持下",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "royal",
+            "ipa": "[ˈrɔɪəl]",
+            "meaning": "王室",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "is not well reflected in politics.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】首段末句明确指出：“While polls show Britons rate 'the countryside'... as what makes them proudest of their country, this has limited political support.”（尽管民调表明乡村是英国人最自豪的象征，但这只获得了极其有限的政治支持）。选项 D 中 is not well reflected in politics 正是对 limited political support 的完美精准释义。",
+        "refSentences": [
+          "P1-S3"
+        ],
+        "vocab": [
+          {
+            "word": "reflected",
+            "ipa": "[rɪˈflekt]",
+            "meaning": "反映",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "politics",
+            "ipa": "[ˈpɒlətɪks]",
+            "meaning": "政治",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "has limited political support": "is not well reflected in politics"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "sentiment",
+          "ipa": "[ˈsentɪmənt]",
+          "meaning": "观点，看法",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t2.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3fa5cd672fd011fd48ea83507dcbb356db157e77d32d974563c6a621f9ab0dd4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "According to Paragraph 2, the achievements of the National Trust are now being",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "gradually destroyed.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第二段第4句指出：“They don't make countryside any more, and every year concrete consumes more of it.”（乡村不会再被大自然创造出来，而每年混凝土却在吞噬着越来越多的乡村），第5句紧接着强调它需要持续守护。水泥每年吞噬乡村，说明一个世纪前国民信托所开创的自然公园和绿带等保护成果正在被一步步蚕食瓦解。A项 gradually destroyed（正逐渐被摧毁）是对 concrete consumes more of it 的高度概括。",
+        "refSentences": [
+          "P2-S4",
+          "P2-S5"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "effectively reinforced.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】文中指出乡村正在被水泥持续吞噬，需要守护，其保护成就绝非正得到‘有效加强’。",
+        "refSentences": [
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "reinforced",
+            "ipa": "[ˌriːɪnˈfɔːs]",
+            "meaning": "加强",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "properly protected.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【反向干扰】若已得到‘妥善保护’，作者就不会在下文严厉抨击政府在开发商压力下侵蚀绿带、呼吁必须 constant guardianship 了。",
+        "refSentences": [
+          "P2-S4",
+          "P2-S5"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "largely overshadowed.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】overshadow 意为‘使相形见绌、蒙上阴影’，这里不是国民信托的历史功绩被其他成就所掩盖，而是其实体保护成果正在遭到物理建筑的无情吞噬破坏。",
+        "refSentences": [
+          "P2-S4"
+        ],
+        "vocab": [
+          {
+            "word": "overshadowed",
+            "ipa": "[ˌəʊvəˈʃædəʊ]",
+            "meaning": "遮蔽",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S4",
+      "P2-S5"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "every year concrete consumes more of it": "gradually destroyed"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "National",
+          "ipa": "[ˈnæʃ(ə)nəl]",
+          "meaning": "国家信托组织",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t2.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3fa5cd672fd011fd48ea83507dcbb356db157e77d32d974563c6a621f9ab0dd4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "Which of the following can be inferred from Paragraph 3?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Labour is under attack for opposing development.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】第三段第4句指出：“Labour likewise wants to discontinue local planning where councils oppose development.”说明工党是在地方议会反对开发时想要取消地方规划权，即工党支持开发、反对阻止开发，而非工党因反对开发而受攻击。",
+        "refSentences": [
+          "P3-S4"
+        ],
+        "vocab": [
+          {
+            "word": "under",
+            "ipa": "[ˈʌndə(r)]",
+            "meaning": "遭到攻击",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "opposing",
+            "ipa": "[əˈpoʊzɪŋ]",
+            "meaning": "反对",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "The Conservatives may abandon \"off-plan\" building.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】第三段第2句提到保守党的规划改革是“even authorizing 'off-plan' building”（甚至主动批准计划外违规建设），而非准备放弃。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "Conservatives",
+            "ipa": "[kənˈsɜːvətɪv]",
+            "meaning": "保守派（党）",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "abandon",
+            "ipa": "[əˈbændən]",
+            "meaning": "放弃",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Ukip may gain from its support for rural conservation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解逻辑推断】第三段第6句明确指出：“Only Ukip, sensing its chance, has sided with those pleading for a more considered approach to using green land.”（唯独独立党察觉到了自身的政治机遇，站在了那些呼吁审慎使用绿地的人群一边），第7句紧接着指出其乡村保护运动令许多地方保守党深感恐慌。由此可明确推断：独立党（Ukip）利用选民对乡村保护的狂热诉求，通过支持乡村保护有望获得政治利益与选民支持。C项最为契合。",
+        "refSentences": [
+          "P3-S6",
+          "P3-S7"
+        ],
+        "vocab": [
+          {
+            "word": "Liberal",
+            "ipa": "[ˈlɪbərəl]",
+            "meaning": "（英国）自由民主党",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influence",
+            "ipa": "[ˈɪnfluəns]",
+            "meaning": "影响力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "The Liberal Democrats are losing political influence.",
+        "isCorrect": false,
+        "distractorType": "ABS_OVERSTATEMENT",
+        "analysis": "【过度推断】文中第5句仅提到自民党‘保持沉默’（The Liberal Democrats are silent），并未由此推断出它正在丧失整体政治影响力。",
+        "refSentences": [
+          "P3-S5"
+        ],
+        "vocab": [
+          {
+            "word": "rural",
+            "ipa": "[ˈrʊərəl]",
+            "meaning": "乡村的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "conservation",
+            "ipa": "[ˌkɒnsəˈveɪʃ(ə)n]",
+            "meaning": "保护",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "INFERENCE",
+    "type": "推理判断题",
+    "targetSentences": [
+      "P3-S6",
+      "P3-S7"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "sensing its chance / sided with those pleading for green land / struck terror into Conservatives": "Ukip may gain from its support for rural conservation"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t2.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3fa5cd672fd011fd48ea83507dcbb356db157e77d32d974563c6a621f9ab0dd4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "The author holds that George Osborne's preference",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "reveals a strong prejudice against urban areas.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【曲解文意】作者虽然指出奥斯本排斥城市改造与商业街，但其核心论点在于批评他在游说集团影响下盲目偏袒城外开发，破坏乡村本身的风貌特色，而非对城市抱有偏见。",
+        "refSentences": [
+          "P5-S3",
+          "P5-S4"
+        ],
+        "vocab": [
+          {
+            "word": "reveals",
+            "ipa": "[rɪˈviːl]",
+            "meaning": "揭示",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "prejudice",
+            "ipa": "[ˈpredʒədɪs]",
+            "meaning": "偏见",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "urban",
+            "ipa": "[ˈɜːbən]",
+            "meaning": "城市的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "shows his disregard for the character of rural areas.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解综合概括】第五段第3句指出：“Under lobby pressure, George Osborne favours rural new-build against urban renovation... He favours out-of-town shopping sites against high streets.”第4句指出这是有偏见的市场；第5句随即强调乡村要想健康发展，必须是“building sticks to their edges and respects their character”（建筑恪守在边界内并尊重乡村的风貌特征），并在第6句责问为何要破坏乡村保护区。作者将奥斯本的偏好与‘尊重乡村特色’形成鲜明对比，直接揭露了奥斯本的偏好完全漠视、不尊重乡村的风貌特征（disregard for the character of rural areas）。",
+        "refSentences": [
+          "P5-S3",
+          "P5-S5",
+          "P5-S6"
+        ],
+        "vocab": [
+          {
+            "word": "character",
+            "ipa": "[ˈkærəktə(r)]",
+            "meaning": "特点",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "rural",
+            "ipa": "[ˈrʊərəl]",
+            "meaning": "乡村的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "disregard",
+            "ipa": "[ˌdɪsrɪˈɡɑːd]",
+            "meaning": "忽视",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "stresses the necessity of easing the housing crisis.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面陷阱/正话反说】第五段第1句开宗明义指出“housing crisis equals concreted meadows is pure lobby talk”（住房危机等于在草地上铺水泥纯粹是游说集团的谎言），作者根本不认可把在乡村建房包装为缓解住房危机的必要手段。",
+        "refSentences": [
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "stresses",
+            "ipa": "[stres]",
+            "meaning": "强调",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "necessity",
+            "ipa": "[nəˈsesəti]",
+            "meaning": "必要",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "easing",
+            "ipa": "[iːz]",
+            "meaning": "减轻",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "crisis",
+            "ipa": "[ˈkraɪsɪs]",
+            "meaning": "危机",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "highlights his firm stand against lobby pressure.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】文中第3句明确写道“Under lobby pressure, George Osborne favours...”（在游说集团的施压之下，乔治·奥斯本偏袒……），说明他是屈服于游说压力，而非坚定抗拒游说。",
+        "refSentences": [
+          "P5-S3"
+        ],
+        "vocab": [
+          {
+            "word": "highlights",
+            "ipa": "[ˈhaɪlaɪt]",
+            "meaning": "突出",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "lobby",
+            "ipa": "[ˈlɒbi]",
+            "meaning": "游说",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "pressure",
+            "ipa": "[ˈpreʃə(r)]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "firm",
+            "ipa": "[fɜːm]",
+            "meaning": "坚定的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P5-S3",
+      "P5-S5",
+      "P5-S6"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "favours rural new-build / respects their character (contrast) / why ruin rural ones": "shows his disregard for the character of rural areas"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "preference",
+          "ipa": "[ˈprefrəns]",
+          "meaning": "偏好",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t2.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3fa5cd672fd011fd48ea83507dcbb356db157e77d32d974563c6a621f9ab0dd4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2016-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "In the last paragraph, the author shows his appreciation of",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the size of population in Britain.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【曲解文意】作者在末段第2句提到英国是仅次于荷兰的欧洲人口最拥挤国家，这只是一种客观背景条件，绝非作者所赞赏欣赏的对象。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the enviable urban lifestyle in Britain.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文中第2句提到的是“an enviable rural coherence”（令人艳羡的乡村风貌完整性），而不是令人艳羡的城市生活方式，选项移花接木将 rural 替换为 urban。",
+        "refSentences": [
+          "P6-S2"
+        ],
+        "vocab": [
+          {
+            "word": "urban",
+            "ipa": "[ˈɜːbən]",
+            "meaning": "城市的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the town-and-country planning in Britain.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解原文同义替换】末段第2句明确指出：“Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living.”（半个世纪以来的城乡规划体系，使英国在保持低密度城市居住的同时，得以保留下令人艳羡的乡村风貌完整协调性）。作者用 positive 褒义词 enviable（令人艳羡赞叹的）高度肯定并赞赏了英国半个世纪以来行之有效的“城乡规划体系”（the town-and-country planning in Britain）。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the political life in today's Britain.",
+        "isCorrect": false,
+        "distractorType": "OPPOSITE_FACT",
+        "analysis": "【正反颠倒】全文通篇都在批判当今政界主流政党不顾民意、屈从开发商游说的恶劣行径，末句呼吁两党政坛应摒弃成见团结起来，绝非赞赏当下的英国政治生活。",
+        "refSentences": [
+          "P6-S4"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "ATTITUDE",
+    "type": "态度评价题",
+    "targetSentences": [
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Half a century of town and country planning has enabled it to retain an enviable rural coherence": "shows his appreciation of the town-and-country planning in Britain"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2016_t2.json",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3fa5cd672fd011fd48ea83507dcbb356db157e77d32d974563c6a621f9ab0dd4"
+    }
+  }
+]

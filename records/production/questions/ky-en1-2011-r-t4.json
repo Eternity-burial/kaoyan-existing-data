@@ -1,0 +1,946 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "Jennifer Senior suggests in her article that raising a child can bring ______.",
+    "stemTranslation": "珍妮弗·西尼尔在她的文章中指出，抚养孩子可以带来______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "temporary delight.",
+        "translation": "暂时的喜悦",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】原文明确否定了用“当下瞬间的快乐”（moment-to-moment joy）来衡量幸福，强调的是日后回望时的深刻满足，绝非“短暂的喜悦”（temporary delight）。",
+        "vocab": [
+          {
+            "word": "temporary",
+            "ipa": "[ˈtemprəri]",
+            "meaning": "暂时的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "enjoyment in progress.",
+        "translation": "过程中的愉悦享受",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】原文指出养育孩子的日常过程是“令人心力交瘁的艰难”（soul-crushingly hard），当下正在进行中的体验往往让人情绪低落（dampen our moods），绝非进行中的愉悦享受。"
+      },
+      {
+        "key": "C",
+        "text": "happiness in retrospect.",
+        "translation": "回想中的幸福（事后回望才显现的幸福）",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 哲学定义精准替换】对应首段关键句：Senior建议将幸福理解为 a past-tense condition（过去式状态），且当时令人沮丧的事情 later be sources of intense gratification and delight（日后会成为极大满足与快乐的源泉）。in retrospect（回想/回溯之中）精准对应 past-tense condition 与 later。",
+        "vocab": [
+          {
+            "word": "retrospect",
+            "ipa": "[ˈretrəspekt]",
+            "meaning": "回想",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "lasting reward.",
+        "translation": "持久的回报",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文探讨的是对幸福（happiness）本质的重新认知与时间维度的审视，通篇未提及“回报/奖赏”（reward）这一功利概念。",
+        "vocab": [
+          {
+            "word": "reward",
+            "ipa": "[rɪˈwɔːd]",
+            "meaning": "回报",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S2",
+      "P1-S3"
+    ],
+    "verbatimEvidence": "we should consider being happy as a past-tense condition... \"the very things that in the moment dampen our moods can later be sources of intense gratification and delight.\"",
+    "synonymMapping": [
+      {
+        "verbatimText": "past-tense condition / can later be sources of gratification",
+        "equivalentOption": "happiness in retrospect"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第一段后两句：Senior suggests... consider being happy as a past-tense condition... can later be sources of intense gratification and delight。核心考点是‘past-tense’与‘later’的词义升华。past-tense（过去时）即‘事后回看’，对应 C 选项 in retrospect（回顾中）。A 与 B 均在描述当下瞬间，与 past-tense 背道而驰。",
+      "coreLesson": "细节题考查哲学概念同义替换：遇到 past-tense condition（过去式状态）与 later（日后），要在选项中敏锐捕捉具有时间回溯视角的表达——in retrospect。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Jennifer",
+          "ipa": "",
+          "meaning": "[人名]珍妮弗·西尼尔",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "We learn from Paragraph 2 that ______.",
+    "stemTranslation": "从第二段中我们可以得知______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "celebrity moms are a permanent source for gossip.",
+        "translation": "明星妈妈是八卦新闻的永久源头",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "distractorDisplayName": "绝对化词汇",
+        "analysis": "【绝对化词汇/无中生有】第二段虽然提到几乎每周都有明星妈妈亮相报摊，但并未上升到“永久的源头”（permanent source），且重点在于展示母爱意象而非八卦流言（gossip）。",
+        "vocab": [
+          {
+            "word": "celebrity",
+            "ipa": "[səˈlebrəti]",
+            "meaning": "名人",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "permanent",
+            "ipa": "[ˈpɜːmənənt]",
+            "meaning": "永久的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "source",
+            "ipa": "[sɔːs]",
+            "meaning": "来源",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "gossip",
+            "ipa": "[ˈɡɒsɪp]",
+            "meaning": "闲聊",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "single mothers with babies deserve greater attention.",
+        "translation": "带着婴儿的单身母亲理应获得更多关注",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【主观评判/偷换概念】原文只是客观陈述杂志上有关于单亲领养妈妈桑德拉·布洛克的报道，从未表达作者主观认为她们“值得/应该（deserve）”得到更多关注。",
+        "vocab": [
+          {
+            "word": "deserve",
+            "ipa": "[dɪˈzɜːv]",
+            "meaning": "值得",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "news about pregnant celebrities is entertaining.",
+        "translation": "关于怀孕名人的新闻颇具娱乐性",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文提到常见的“安尼斯顿怀孕”新闻，只用于说明明星怀孕充斥媒体，并未评价其是否“具有娱乐性”（entertaining）。",
+        "vocab": [
+          {
+            "word": "pregnant",
+            "ipa": "[ˈpreɡnənt]",
+            "meaning": "怀孕的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "celebrities",
+            "ipa": "",
+            "meaning": "名人",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "entertaining",
+            "ipa": "[ˌentərˈteɪnɪŋ]",
+            "meaning": "娱乐的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "having children is highly valued by the public.",
+        "translation": "生儿育女受到公众的高度推崇与重视",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 段落宏观归纳与承上启下】第二段连用三句铺陈报刊亭上无处不在的“圣母与圣婴”封面、明星单身收养与怀孕报道，几乎每周都有明星妈妈微笑亮相；第三段首句进而总结为“In a society that so persistently celebrates procreation”（在一个如此执着赞美生育的社会里）。这些充分推断出大众对生儿育女极度崇拜与高度重视（highly valued by the public）。",
+        "vocab": [
+          {
+            "word": "highly",
+            "ipa": "[ˈhaɪli]",
+            "meaning": "高度地",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "valued",
+            "ipa": "",
+            "meaning": "重视",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2",
+      "P2-S3",
+      "P3-S1"
+    ],
+    "verbatimEvidence": "The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week... Practically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands. In a society that so persistently celebrates procreation,",
+    "synonymMapping": [
+      {
+        "verbatimText": "hardly the only image / practically every week features / persistently celebrates procreation",
+        "equivalentOption": "having children is highly valued by the public"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "第二段通篇列举报摊上充斥着明星当妈妈、怀孕的温馨封面（Madonna-and-child），第三段开头用‘persistently celebrates procreation’直接总结。推断题本质是概括论据支撑的论点：全社会对生育的高度崇拜。D 选项‘having children is highly valued by the public’准确概括了全段现象背后的本质。",
+      "coreLesson": "段落推理题务必注意‘跨段主题词照应’。第二段的事实铺陈在第三段首句被作者以‘celebrates procreation’直接定性，二者呼应即成送分题。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "It is suggested in Paragraph 3 that childless folks ______.",
+    "stemTranslation": "第三段表明，没有孩子的人们______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "are constantly exposed to criticism.",
+        "translation": "经常处于遭受批评/指责的境地",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 隐性含义精准提炼】第三段指出：在一个执着赞美生育的社会里，不幸福的无子女者不断被一种说教所困扰（bothered with the message），外界断言孩子是世上最重要的东西、甚至妄断他们的不幸全因缺少孩子（their misery must be a direct result...）。这种社会舆论环境使他们随时随地暴露在外界对其人生选择的隐性指责与道德评判之中（exposed to criticism）。",
+        "vocab": [
+          {
+            "word": "constantly",
+            "ipa": "[ˈkɒnstəntli]",
+            "meaning": "接触",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "批评",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "are largely ignored by the media.",
+        "translation": "在很大程度上被媒体忽视",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】文中指出无子女者不断受到来自外界媒体与社会信息的轰炸与骚扰（bothered with the message），绝非被忽视（ignored）。"
+      },
+      {
+        "key": "C",
+        "text": "fail to fulfill their social responsibilities.",
+        "translation": "未能履行他们的社会责任",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第三段通篇讨论的是个人幸福感与社会的生育崇拜偏见，从未将生育上升为“社会责任”（social responsibilities）。",
+        "vocab": [
+          {
+            "word": "fail",
+            "ipa": "[feɪl]",
+            "meaning": "未能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "fulfill",
+            "ipa": "[fʊlˈfɪl]",
+            "meaning": "满足（希望）",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "social",
+            "ipa": "[ˈsəʊʃ(ə)l]",
+            "meaning": "社会责任",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "are less likely to be satisfied with their life.",
+        "translation": "不大可能对自己的生活感到满意",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念/混淆视听】原文是说“一旦无子女者感到不幸福（unhappy childless folks），就会被外界归咎于没孩子”，这属于外界强加的解释偏见，而非事实本身说明无子女者普遍不满意生活；第四段反而指出有孩夫妻不如无孩夫妻快乐。",
+        "vocab": [
+          {
+            "word": "less",
+            "ipa": "[les]",
+            "meaning": "可能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "satisfied",
+            "ipa": "[ˈsætɪsfaɪd]",
+            "meaning": "对…感到满意",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S3"
+    ],
+    "verbatimEvidence": "unhappy childless folks are bothered with the message that children are the single most important thing in the world: obviously their misery must be a direct result of the gaping baby-size holes in their lives.",
+    "synonymMapping": [
+      {
+        "verbatimText": "bothered with the message that children are the single most important thing ... their misery must be a direct result of holes",
+        "equivalentOption": "are constantly exposed to criticism"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "第三段后半句：unhappy childless folks are bothered with the message that children are the single most important thing in the world: obviously their misery must be a direct result of the gaping baby-size holes in their lives。这种‘你痛苦就是因为没孩子’的信息灌输，在本质上就是一种无处不在的道德批评（criticism）。A 选项精准揭示了该信息的批判压迫属性。",
+      "coreLesson": "细节题深度理解：当原文使用‘be bothered with the message that... their misery must be...’（被外界言论烦扰，咬定其痛苦源于缺陷）时，考查的是识别社会信息话语对弱势群体的‘隐性批评（criticism）’。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "childless",
+          "ipa": "[ˈtʃaɪldləs]",
+          "meaning": "人",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "According to Paragraph 4, the message conveyed by celebrity magazines is ______.",
+    "stemTranslation": "根据第四段，名人杂志所传达的信息是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "soothing.",
+        "translation": "令人抚慰的，使人舒缓的",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文通篇批判杂志营造的假象不真实且加剧读者现实焦虑，从未提及杂志信息具有抚慰（soothing）效果。",
+        "vocab": [
+          {
+            "word": "soothing",
+            "ipa": "[ˈsuːðɪŋ]",
+            "meaning": "安慰性的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "ambiguous.",
+        "translation": "模棱两可的，含糊不清的",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】明星杂志传达的信息非常鲜明单一（单亲带娃是小菜一碟），作者批评其脱离现实（unrealistic），而非信息含糊模棱两可（ambiguous）。",
+        "vocab": [
+          {
+            "word": "ambiguous",
+            "ipa": "[æmˈbɪɡjuəs]",
+            "meaning": "含糊不清的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "compensatory.",
+        "translation": "补偿性的，赔偿的",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第四段未涉及任何“补偿/平衡”（compensatory）的含义。",
+        "vocab": [
+          {
+            "word": "compensatory",
+            "ipa": "[ˌkɒmpenˈseɪtəri]",
+            "meaning": "补偿的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "misleading.",
+        "translation": "具误导性的，欺骗性的",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 同义替换】对应第四段首句与尾句：名人杂志呈现的育儿形象是 hugely unrealistic（极其不切实际的），且把在全天候帮手支撑下的带娃吹嘘成自己独自搞定的小菜一碟。这种脱离现实、虚构美好的宣传必然产生欺骗与误导，unrealistic 等价替换为 misleading。"
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S3"
+    ],
+    "verbatimEvidence": "Of course, the image of parenthood that celebrity magazines like Us Weekly and People present is hugely unrealistic... raising a kid on their \"own\" (read: with round-the-clock help) is a piece of cake.",
+    "synonymMapping": [
+      {
+        "verbatimText": "hugely unrealistic / raising a kid on their own (with round-the-clock help) is a piece of cake",
+        "equivalentOption": "misleading"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第四段首句：the image of parenthood that celebrity magazines... present is hugely unrealistic。尾句进一步讽刺明星把有全天候保姆带娃说成是小菜一碟。因此名人杂志传达的信息就是‘极不真实’，即‘具有严重误导性的’（misleading）。D 项一击必中。",
+      "coreLesson": "形容词同义替换规律：文本中使用否定性强副词修饰（hugely unrealistic / 不切实际的），命题人最经典的替换考点就是 misleading（误导人的）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "conveyed",
+          "ipa": "",
+          "meaning": "传达",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "celebrity",
+          "ipa": "[səˈlebrəti]",
+          "meaning": "名人",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Which of the following can be inferred from the last paragraph?",
+    "stemTranslation": "从最后一段中可以推断出下列哪一项？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Having children contributes little to the glamour of celebrity moms.",
+        "translation": "生育孩子对明星妈妈的魅力光环贡献甚微。",
+        "isCorrect": false,
+        "distractorType": "CAUSALITY_INVERSION",
+        "distractorDisplayName": "因果倒置",
+        "analysis": "【逻辑倒置/主客颠倒】原文是明星妈妈让生育看起来很光鲜（Reese and Angelina make it look so glamorous），选项却颠倒为生育对明星的魅力贡献甚微。",
+        "vocab": [
+          {
+            "word": "contributes",
+            "ipa": "",
+            "meaning": "有助于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "glamour",
+            "ipa": "[ˈɡlæmə(r)]",
+            "meaning": "魅力",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "celebrity",
+            "ipa": "[səˈlebrəti]",
+            "meaning": "名人",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Celebrity moms have influenced our attitude towards child rearing.",
+        "translation": "明星妈妈们已经影响了我们对待养育子女的态度。",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 双重否定反推】尾段第二句使用双重否定反诘语气：wonder if the images we see every week... aren't in some subconscious way contributing to our own dissatisfactions with the actual experience（值得玩味的是，那些无压力的育儿画面是否正在下意识中助长我们对现实体验的不满）。作者委婉肯定了每周看到的明星妈妈形象潜移默化地塑造并影响了公众对待育儿的态度与心理感受（influenced our attitude towards child rearing）。",
+        "vocab": [
+          {
+            "word": "Celebrity",
+            "ipa": "[səˈlebrəti]",
+            "meaning": "名人",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influenced",
+            "ipa": "",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "attitude",
+            "ipa": "[ˈætɪtjuːd]",
+            "meaning": "态度",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "child",
+            "ipa": "[tʃaɪld]",
+            "meaning": "育儿",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Having children intensifies our dissatisfaction with life.",
+        "translation": "生育孩子加剧了我们对生活的不满。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】文中指出是“名人展现的无压力画面（the images）”在潜意识中加剧了我们对“真实育儿体验（actual experience）”的失落与不满，而非“生孩子这件事本身”加剧了对生活的不满。",
+        "vocab": [
+          {
+            "word": "intensifies",
+            "ipa": "",
+            "meaning": "加剧",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "We sometimes neglect the happiness from child rearing.",
+        "translation": "我们有时忽视了抚养孩子带来的幸福感。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】尾段核心探讨的是媒体虚假光环带来的落差感，通篇未讨论人们是否“忽视（neglect）”了育儿本身的幸福。",
+        "vocab": [
+          {
+            "word": "neglect",
+            "ipa": "[nɪˈɡlekt]",
+            "meaning": "忽视",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "child",
+            "ipa": "[tʃaɪld]",
+            "meaning": "育儿",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": "It's hard to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous... But it's interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience,",
+    "synonymMapping": [
+      {
+        "verbatimText": "images we see every week ... contributing to our own dissatisfactions with the actual experience",
+        "equivalentOption": "Celebrity moms have influenced our attitude towards child rearing"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "尾段核心句：wonder if the images... aren't... contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting 'the Rachel' haircut might make us look... like Jennifer Aniston。双重否定修辞（aren't contributing）表达肯定观点：名人妈妈塑造的虚幻形象确实在潜意识中影响了大众对待真实育儿的态度，B 项完美总结。",
+      "coreLesson": "阅读理解高阶技巧：识别反问与委婉双重否定句式（wonder if ... aren't doing sth）。在考研英语中，这种以怀疑反问形式出现的句子，其从句内容往往是作者真正想要传递的潜台词和推断题眼。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  }
+]

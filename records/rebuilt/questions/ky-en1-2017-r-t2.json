@@ -1,0 +1,1018 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "Queen Liliuokalani's remark in Paragraph 1 indicates",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the importance of astronomy in ancient Hawaiian society.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第1段第1~2句引用女王的话指出古代夏威夷人都是天文学家，“Star watchers were among the most esteemed members of Hawaiian society”（观星者曾是夏威夷社会中最受尊敬的成员之一），表明天文学在古代夏威夷社会地位显赫、极其重要（importance of astronomy）。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ],
+        "vocab": [
+          {
+            "word": "conservative",
+            "ipa": "[kənˈsɜːvətɪv]",
+            "meaning": "保守的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "view",
+            "ipa": "[vjuː]",
+            "meaning": "看法",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "historical",
+            "ipa": "[hɪˈstɒrɪk(ə)l]",
+            "meaning": "历史的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "astronomy",
+            "ipa": "[əˈstrɒnəmi]",
+            "meaning": "天文学",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "her conservative view on the historical role of astronomy.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】女王客观陈述古代祖先对星空的崇敬，并非表达对天文学历史地位的“保守看法（conservative view）”。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "astronomy",
+            "ipa": "[əˈstrɒnəmi]",
+            "meaning": "天文学",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "ancient",
+            "ipa": "[ˈeɪnʃənt]",
+            "meaning": "古代的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the regrettable decline of astronomy in ancient times.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【张冠李戴】文中说的是古代观星者地位极高，是今天（today）天文学发展陷入困局（all is not well），而非古代衰落。",
+        "refSentences": [
+          "P1-S2",
+          "P1-S3"
+        ],
+        "vocab": [
+          {
+            "word": "decline",
+            "ipa": "[dɪˈklaɪn]",
+            "meaning": "衰落",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "astronomy",
+            "ipa": "[əˈstrɒnəmi]",
+            "meaning": "天文学",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "ancient",
+            "ipa": "[ˈeɪnʃənt]",
+            "meaning": "古代的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "regrettable",
+            "ipa": "[rɪˈɡretəbl]",
+            "meaning": "令人遗憾的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "her appreciation of star watchers' feats in her time.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【曲解文意】女王赞颂的是远古夏威夷先民（ancient Hawaiians），而非她那个时代（in her time）观星者的功绩。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "star",
+            "ipa": "[stɑː(r)]",
+            "meaning": "观星者",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "feats",
+            "ipa": "[fiːt]",
+            "meaning": "功绩",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "appreciation",
+            "ipa": "[əˌpriːʃiˈeɪʃn]",
+            "meaning": "赞赏",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "most esteemed members of Hawaiian society": "the importance of astronomy in ancient Hawaiian society"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "C",
+          "A",
+          "D",
+          "B"
+        ],
+        "letterMapping": {
+          "A": "B"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "Liliuokalani’s",
+          "ipa": "",
+          "meaning": "利留卡拉尼女王",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "remark",
+          "ipa": "[rɪˈmɑːk]",
+          "meaning": "言论",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "indicates",
+          "ipa": "[ˈɪndɪkeɪt]",
+          "meaning": "表明",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "Mauna Kea is deemed as an ideal astronomical site due to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "its religious implications.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反混淆】宗教象征意义是原住民反对建设的理由，并非天文学界将其选为理想站址的原因。",
+        "refSentences": [
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "features",
+            "ipa": "[ˈfiːtʃə(r)]",
+            "meaning": "特征",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "its protective surroundings.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中强调的是山顶高出稠密大气层带来极佳透光度，并未提及保护性的周边环境。",
+        "refSentences": [
+          "P2-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "its geographical features.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第2段第3句指出其坐落于太平洋孤岛中（Rested in the Pacific Ocean），顶峰耸立于稠密大气层之上（rises above the bulk of dense atmosphere），从而获得无与伦比的清晰成像，这些海拔与海洋环境正是地理特征（geographical features）。",
+        "refSentences": [
+          "P2-S3"
+        ],
+        "vocab": [
+          {
+            "word": "religious",
+            "ipa": "[rɪˈlɪdʒəs]",
+            "meaning": "宗教的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "implications",
+            "ipa": "[ˌɪmplɪˈkeɪʃn]",
+            "meaning": "含义",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "its existing infrastructure.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】第2句提到山上建有强大望远镜，但选址建造巨型TMT的根本依据是自然地理条件，非现有基础设施。",
+        "refSentences": [
+          "P2-S2",
+          "P2-S3"
+        ],
+        "vocab": [
+          {
+            "word": "infrastructure",
+            "ipa": "[ˈɪnfrəstrʌktʃə(r)]",
+            "meaning": "基础设施",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P2-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Rested in Pacific Ocean, peak rises above dense atmosphere": "its geographical features"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "Mauna",
+          "ipa": "",
+          "meaning": "莫纳克亚山",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "deemed",
+          "ipa": "[diːm]",
+          "meaning": "视为",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "ideal",
+          "ipa": "[aɪˈdiːəl]",
+          "meaning": "理想的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "site",
+          "ipa": "[saɪt]",
+          "meaning": "场地",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "due",
+          "ipa": "[djuː]",
+          "meaning": "由于",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "The construction of the TMT is opposed by some locals partly because",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "it may risk ruining their intellectual life.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【曲解文意】望远镜是智力与科学探索设施，文章指出原住民反对是因文化亵渎与历史创伤，非毁坏其智力生活。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "risk",
+            "ipa": "[rɪsk]",
+            "meaning": "冒…的风险破坏",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "思维的，精神的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "they fear losing control of Mauna Kea.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】当地人视其为圣地和被占领的历史警示，并非担心失去对莫纳克亚山的行政控制权。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "reminds",
+            "ipa": "[rɪˈmaɪnd]",
+            "meaning": "使某人记起某事",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "humiliating",
+            "ipa": "[hjuːˈmɪlieɪtɪŋ]",
+            "meaning": "屈辱的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "their culture will lose a chance of revival.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【正反倒置】第4段提到夏威夷文化正在复兴（undergoing a renaissance），并非会丧失复兴机会。",
+        "refSentences": [
+          "P4-S4"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "it reminds them of a humiliating history.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第3段第2句明确指出原住民视其为圣地亵渎，并且是“a painful reminder of the occupation of what was once a sovereign nation”（对曾经的主权国家被占领的痛苦回忆），a painful reminder of occupation 完美对应 reminds them of a humiliating history。",
+        "refSentences": [
+          "P3-S2"
+        ],
+        "vocab": [
+          {
+            "word": "losing",
+            "ipa": "/ˈluːzɪŋ/",
+            "meaning": "控制不住",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Mauna",
+            "ipa": "",
+            "meaning": "莫纳克亚山",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "a painful reminder of the occupation of a sovereign nation": "reminds them of a humiliating history"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "D",
+          "C",
+          "B"
+        ],
+        "letterMapping": {
+          "D": "B"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "opposed",
+          "ipa": "[əˈpoʊzd]",
+          "meaning": "反对",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "locals",
+          "ipa": "[ˈləʊk(ə)l]",
+          "meaning": "当地人",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "It can be inferred from Paragraph 5 that progress in today's astronomy",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "is fulfilling the dreams of ancient Hawaiians.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解合理引申】第5段阐明探寻未知的好奇心将早期波利尼西亚人带到夏威夷，也同样激励着今天的天文学家；两者都致力于解答我们是谁、从何而来的终极问题，仿佛在回应祖先的召唤，因此今天的天文探索正是在继承和实现古代夏威夷先民的求知梦想。",
+        "refSentences": [
+          "P5-S2",
+          "P5-S3",
+          "P5-S4"
+        ],
+        "vocab": [
+          {
+            "word": "fulfilling",
+            "ipa": "[fʊlˈfɪlɪŋ]",
+            "meaning": "实现",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "ancient",
+            "ipa": "[ˈeɪnʃənt]",
+            "meaning": "古代的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "helps spread Hawaiian culture across the world.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】天文学旨在探索太空与人类终极问题，而非在全世界传播夏威夷地方文化。",
+        "refSentences": [
+          "P5-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "may uncover the origin of Hawaiian culture.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】天文学探寻人类起源（where we come from），而非具体探寻夏威夷文化的起源。",
+        "refSentences": [
+          "P5-S3"
+        ],
+        "vocab": [
+          {
+            "word": "uncover",
+            "ipa": "[ʌnˈkʌvə(r)]",
+            "meaning": "揭示",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "origin",
+            "ipa": "[ˈɒrɪdʒɪn]",
+            "meaning": "起源",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "will eventually soften Hawaiians' hostility.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【过度推论】文中呼吁彼此理解，但未下定论认为天文发展必定会最终软化原住民的反对态度。",
+        "refSentences": [
+          "P5-S3",
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "soften",
+            "ipa": "[ˈsɔːfn]",
+            "meaning": "缓和",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "hostility",
+            "ipa": "[hɒˈstɪləti]",
+            "meaning": "敌意",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": "推理判断题",
+    "targetSentences": [
+      "P5-S2",
+      "P5-S3",
+      "P5-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "inspires astronomers today / answer big questions / true ancestral homes": "fulfilling the dreams of ancient Hawaiians"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "astronomy",
+          "ipa": "[əˈstrɒnəmi]",
+          "meaning": "天文学",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "The author's attitude toward choosing Mauna Kea as the TMT site is one of",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "severe criticism.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反错误】作者批评的是早期缺乏文化敏感度，但对 TMT 选址本身以及后续积极整改是支持的，非严厉批评。",
+        "refSentences": [
+          "P4-S1",
+          "P6-S4"
+        ],
+        "vocab": [
+          {
+            "word": "severe",
+            "ipa": "[sɪˈvɪə(r)]",
+            "meaning": "严厉的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "批评",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "full approval.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解情感态度】在第2段作者赞叹莫纳克亚山绝佳的地理优势（unsurpassed clarity），并在第6段高度肯定天文学界降低能见度、避免影响生态古迹以及拆除旧望远镜的务实妥协，明确评价这些是“朝正确方向迈出的良好步伐（good steps in the right direction）”，表现出完全支持与赞许的态度。",
+        "refSentences": [
+          "P2-S3",
+          "P6-S1",
+          "P6-S2",
+          "P6-S4"
+        ],
+        "vocab": [
+          {
+            "word": "passive",
+            "ipa": "[ˈpæsɪv]",
+            "meaning": "被动的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "acceptance",
+            "ipa": "[əkˈseptəns]",
+            "meaning": "接受",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "passive acceptance.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【消极偏差】作者持积极推动与理性肯定态度，绝非无奈的被动接受。",
+        "refSentences": [
+          "P6-S4"
+        ],
+        "vocab": [
+          {
+            "word": "slight",
+            "ipa": "[slaɪt]",
+            "meaning": "轻微的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "hesitancy",
+            "ipa": "",
+            "meaning": "犹豫",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "slight hesitancy.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【态度不符】作者态度鲜明，倡导兼顾文化与科学探索，并无迟疑不决。",
+        "refSentences": [
+          "P6-S4"
+        ],
+        "vocab": [
+          {
+            "word": "approval",
+            "ipa": "[əˈpruːv(ə)l]",
+            "meaning": "赞同",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P2-S3",
+      "P6-S1",
+      "P6-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "good steps in the right direction / unsurpassed clarity": "full approval"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "B",
+          "C",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "B": "D"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author’s",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Mauna",
+          "ipa": "",
+          "meaning": "莫纳克亚山",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "site",
+          "ipa": "[saɪt]",
+          "meaning": "场地",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  }
+]

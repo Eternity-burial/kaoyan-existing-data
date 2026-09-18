@@ -1,0 +1,2029 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "integrity",
+    "word": "integrity",
+    "ipa": "/ɪnˈteɡrəti/",
+    "pos": "n.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "诚信正直，操守道德良知",
+    "examMeaning": "正直，诚实；完整，完好",
+    "collocationOrDerivation": "dearth of integrity 诚信缺失；unsettling dearth 令人担忧的匮乏",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "unsettling",
+    "word": "unsettling",
+    "ipa": "/ʌnˈsetlɪŋ/",
+    "pos": "adj.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "令人深感不安的，使人担忧的",
+    "examMeaning": "令人不安的，使人心神不宁的",
+    "collocationOrDerivation": "unsettling dearth 令人不安的匮乏；unsettle v. 使动摇/不安",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "dearth",
+    "word": "dearth",
+    "ipa": "/dɜːrθ/",
+    "pos": "n.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "极度匮乏，普遍缺乏",
+    "examMeaning": "缺乏，不足",
+    "collocationOrDerivation": "dearth of moral purpose 道德宗旨的缺失；scarcity 同义",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "mechanism",
+    "word": "mechanism",
+    "ipa": "/ˈmekənɪzəm/",
+    "pos": "n.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "资源分选机制，评价导向机制",
+    "examMeaning": "机制，方法；机件",
+    "collocationOrDerivation": "sorting mechanism 社会分选机制；market mechanism 市场机制",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "capitalism",
+    "word": "capitalism",
+    "ipa": "/ˈkæpɪtəlɪzəm/",
+    "pos": "n.",
+    "sourceLocation": "P2 S4",
+    "contextMeaning": "资本主义自由市场制度",
+    "examMeaning": "资本主义",
+    "collocationOrDerivation": "capitalism and freedom 资本主义与自由；capitalist n. 资本家",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "wound",
+    "word": "wound",
+    "ipa": "/wuːnd/",
+    "pos": "v.",
+    "sourceLocation": "P2 S5",
+    "contextMeaning": "严重侵蚀，伤害，损害名誉（熟词僻义）",
+    "examMeaning": "使受伤，伤害；损害感情",
+    "collocationOrDerivation": "wounding companies 伤害侵蚀企业声誉；wound n. 伤口",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "predecessor",
+    "word": "predecessor",
+    "ipa": "/ˈpredəsesər/",
+    "pos": "n.",
+    "sourceLocation": "P3 S6",
+    "contextMeaning": "前任领导，前任主编",
+    "examMeaning": "前任，前辈；原先的东西",
+    "collocationOrDerivation": "finding his predecessor innocent 判定其前任无罪；successor n. 继任者",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "industrial",
+    "word": "industrial",
+    "ipa": "/ɪnˈdʌstriəl/",
+    "pos": "adj.",
+    "sourceLocation": "P3 S7",
+    "contextMeaning": "产业化大规模的，成流水线的",
+    "examMeaning": "工业的，产业的",
+    "collocationOrDerivation": "on an industrial scale 达到工业化产业规模",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "unfold",
+    "word": "unfold",
+    "ipa": "/ʌnˈfoʊld/",
+    "pos": "v.",
+    "sourceLocation": "P3 S8",
+    "contextMeaning": "丑闻逐渐展开，情节进一步发酵",
+    "examMeaning": "展开，打开；逐渐展现",
+    "collocationOrDerivation": "the story unfolds 情节展开；fold v. 折叠",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "revelation",
+    "word": "revelation",
+    "ipa": "/ˌrevəˈleɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "庭审中披露的惊人内幕/真相",
+    "examMeaning": "被暴露的真相，揭示；启示",
+    "collocationOrDerivation": "astonishing revelations 令人惊骇的内幕披露；reveal v. 揭露",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "inquire",
+    "word": "inquire",
+    "ipa": "/ɪnˈkwaɪər/",
+    "pos": "v.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "主动过问，打听盘问细节",
+    "examMeaning": "询问，查问，调查",
+    "collocationOrDerivation": "never inquired how the stories arrived 从不询问报道来源",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "accountable",
+    "word": "accountable",
+    "ipa": "/əˈkaʊntəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P5 S12",
+    "contextMeaning": "对管理行为负有法律与道德责任的",
+    "examMeaning": "负有责任的，应做解释的",
+    "collocationOrDerivation": "be accountable for 对...负责；hold sb accountable 追究某人责任",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "doctrine",
+    "word": "doctrine",
+    "ipa": "/ˈdɑːktrɪn/",
+    "pos": "n.",
+    "sourceLocation": "P5 S13",
+    "contextMeaning": "被奉为圭臬的集体教义，信条",
+    "examMeaning": "教义，主义，信条",
+    "collocationOrDerivation": "the collective doctrine 集体信条；indoctrinate v. 灌输",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "efficiency",
+    "word": "efficiency",
+    "ipa": "/ɪˈfɪʃnsi/",
+    "pos": "n.",
+    "sourceLocation": "P5 S14",
+    "contextMeaning": "商业运转的纯粹效率",
+    "examMeaning": "效率，效能",
+    "collocationOrDerivation": "efficiency and flexibility 效率与变通灵活性；efficient adj. 高效的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "shareholder",
+    "word": "shareholder",
+    "ipa": "/ˈʃerhoʊldər/",
+    "pos": "n.",
+    "sourceLocation": "P5 S14",
+    "contextMeaning": "上市公司股票持有者，股东",
+    "examMeaning": "股东",
+    "collocationOrDerivation": "shareholder value 股东利益最大化",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "degrade",
+    "word": "degrade",
+    "ipa": "/dɪˈɡreɪd/",
+    "pos": "v.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "贬黜，降格，贬低到次要地位",
+    "examMeaning": "降低…身份，贬低；降解",
+    "collocationOrDerivation": "words degraded to the margin 沦为边缘化的词汇",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "margin",
+    "word": "margin",
+    "ipa": "/ˈmɑːrdʒɪn/",
+    "pos": "n.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "社会关注的边缘冷宫（熟词僻义）",
+    "examMeaning": "边缘；利润率；差额",
+    "collocationOrDerivation": "on the margin 在边缘；marginalize v. 使边缘化",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "proportionality",
+    "word": "proportionality",
+    "ipa": "/prəˌpɔːrʃəˈnæləti/",
+    "pos": "n.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "比例适度原则，行为与后果的均衡",
+    "examMeaning": "均衡，比例性，相称性",
+    "collocationOrDerivation": "tolerance and proportionality 包容与均衡适度；proportional adj. 成比例的",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "accountability",
+    "word": "accountability",
+    "ipa": "/əˌkaʊntəˈbɪləti/",
+    "pos": "n.",
+    "sourceLocation": "P5 S15",
+    "contextMeaning": "行政问责机制，责任承担制度",
+    "examMeaning": "有责任，问责制，负有责任",
+    "collocationOrDerivation": "corporate accountability 企业问责制度",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "quest",
+    "word": "quest",
+    "ipa": "/kwest/",
+    "pos": "n.",
+    "sourceLocation": "P6 S17",
+    "contextMeaning": "对利润与发行量的疯狂追逐追求",
+    "examMeaning": "探索，寻求，追求",
+    "collocationOrDerivation": "in the quest for circulation 为了追求发行量",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "suspicion",
+    "word": "suspicion",
+    "ipa": "/səˈspɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P6 S18",
+    "contextMeaning": "内心的怀疑，嫌疑",
+    "examMeaning": "怀疑，涉嫌，猜疑",
+    "collocationOrDerivation": "have suspicions about 对...心存疑虑；suspicious adj. 可疑的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "traceable",
+    "word": "traceable",
+    "ipa": "/ˈtreɪsəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P6 S18",
+    "contextMeaning": "有迹可循的，可追溯查证的",
+    "examMeaning": "可追踪的，起因于…的",
+    "collocationOrDerivation": "traceable, recorded answers 有据可查的书面答复；trace v. 追踪",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "conspiracy",
+    "word": "conspiracy",
+    "ipa": "/kənˈspɪrəsi/",
+    "pos": "n.",
+    "sourceLocation": "Q38",
+    "contextMeaning": "串谋犯罪，阴谋暗中勾结",
+    "examMeaning": "阴谋，共谋",
+    "collocationOrDerivation": "part of a conspiracy 阴谋的一环；conspire v. 密谋",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "distorted",
+    "word": "distorted",
+    "ipa": "/dɪˈstɔːrtɪd/",
+    "pos": "adj.",
+    "sourceLocation": "Q39",
+    "contextMeaning": "彻底畸变扭曲的，失真的",
+    "examMeaning": "扭曲的，变形的",
+    "collocationOrDerivation": "generally distorted values 普遍扭曲的价值观；distort v. 曲解/扭曲",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "regulation",
+    "word": "regulation",
+    "ipa": "/ˌreɡjuˈleɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "Q40",
+    "contextMeaning": "行业行业监管规程，法规",
+    "examMeaning": "规章，规则，管理",
+    "collocationOrDerivation": "industrial regulations 行业监管规定；regulate v. 监管",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "According",
+    "word": "According",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-Stem",
+    "contextMeaning": "根据",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "paragraphs",
+    "word": "paragraphs",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-Stem",
+    "contextMeaning": "段",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "upset",
+    "word": "upset",
+    "ipa": "[ˌʌpˈset]",
+    "pos": "",
+    "sourceLocation": "Q36-Stem",
+    "contextMeaning": "使不安",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "consequences",
+    "word": "consequences",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-A",
+    "contextMeaning": "后果",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "current",
+    "word": "current",
+    "ipa": "[ˈkʌrənt]",
+    "pos": "",
+    "sourceLocation": "Q36-A",
+    "contextMeaning": "当前的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "sorting",
+    "word": "sorting",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-A",
+    "contextMeaning": "分选机制",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "financial",
+    "word": "financial",
+    "ipa": "[faɪˈnænʃ(ə)l]",
+    "pos": "",
+    "sourceLocation": "Q36-B",
+    "contextMeaning": "财务的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "due",
+    "word": "due",
+    "ipa": "[djuː]",
+    "pos": "",
+    "sourceLocation": "Q36-B",
+    "contextMeaning": "由于",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "moral",
+    "word": "moral",
+    "ipa": "[ˈmɒrəl]",
+    "pos": "",
+    "sourceLocation": "Q36-C",
+    "contextMeaning": "道德问题",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "integrity",
+    "word": "integrity",
+    "ipa": "[ɪnˈteɡrəti]",
+    "pos": "",
+    "sourceLocation": "Q36-D",
+    "contextMeaning": "正直",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "institutions",
+    "word": "institutions",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-D",
+    "contextMeaning": "机构",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "inferred",
+    "word": "inferred",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q37-Stem",
+    "contextMeaning": "推断",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "Paragraph",
+    "word": "Paragraph",
+    "ipa": "[ˈpærəɡrɑːf]",
+    "pos": "",
+    "sourceLocation": "Q37-Stem",
+    "contextMeaning": "段落",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "Glenn",
+    "word": "Glenn",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q37-A",
+    "contextMeaning": "[人名]格伦·穆凯尔",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "deny",
+    "word": "deny",
+    "ipa": "[dɪˈnaɪ]",
+    "pos": "",
+    "sourceLocation": "Q37-A",
+    "contextMeaning": "否认",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-A 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "phone",
+    "word": "phone",
+    "ipa": "[fəʊn]",
+    "pos": "",
+    "sourceLocation": "Q37-A",
+    "contextMeaning": "电话窃听",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "crime",
+    "word": "crime",
+    "ipa": "[kraɪm]",
+    "pos": "",
+    "sourceLocation": "Q37-A",
+    "contextMeaning": "犯罪",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "journalists",
+    "word": "journalists",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q37-B",
+    "contextMeaning": "新闻记者",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "guilty",
+    "word": "guilty",
+    "ipa": "[ˈɡɪlti]",
+    "pos": "",
+    "sourceLocation": "Q37-B",
+    "contextMeaning": "有罪的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "phone",
+    "word": "phone",
+    "ipa": "[fəʊn]",
+    "pos": "",
+    "sourceLocation": "Q37-B",
+    "contextMeaning": "电话窃听",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "Andy",
+    "word": "Andy",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q37-C",
+    "contextMeaning": "[人名]安迪·柯尔逊",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "innocent",
+    "word": "innocent",
+    "ipa": "[ˈɪnəs(ə)nt]",
+    "pos": "",
+    "sourceLocation": "Q37-C",
+    "contextMeaning": "无辜的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "phone",
+    "word": "phone",
+    "ipa": "[fəʊn]",
+    "pos": "",
+    "sourceLocation": "Q37-D",
+    "contextMeaning": "电话窃听",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "occasions",
+    "word": "occasions",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q37-D",
+    "contextMeaning": "场合",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-D 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "author",
+    "word": "author",
+    "ipa": "[ˈɔːθə(r)]",
+    "pos": "",
+    "sourceLocation": "Q38-Stem",
+    "contextMeaning": "作者",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "centered",
+    "word": "centered",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q38-B",
+    "contextMeaning": "集中在",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-B 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "trivial",
+    "word": "trivial",
+    "ipa": "[ˈtrɪviəl]",
+    "pos": "",
+    "sourceLocation": "Q38-B",
+    "contextMeaning": "不重要的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-B 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "revealed",
+    "word": "revealed",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q38-C",
+    "contextMeaning": "显示",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "cunning",
+    "word": "cunning",
+    "ipa": "[ˈkʌnɪŋ]",
+    "pos": "",
+    "sourceLocation": "Q38-C",
+    "contextMeaning": "狡猾的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "personality",
+    "word": "personality",
+    "ipa": "[ˌpɜːsəˈnæləti]",
+    "pos": "",
+    "sourceLocation": "Q38-C",
+    "contextMeaning": "个性",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "part",
+    "word": "part",
+    "ipa": "[pɑːt]",
+    "pos": "",
+    "sourceLocation": "Q38-D",
+    "contextMeaning": "部分",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "conspiracy",
+    "word": "conspiracy",
+    "ipa": "[kənˈspɪrəsi]",
+    "pos": "",
+    "sourceLocation": "Q38-D",
+    "contextMeaning": "阴谋",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-D 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "author",
+    "word": "author",
+    "ipa": "[ˈɔːθə(r)]",
+    "pos": "",
+    "sourceLocation": "Q39-Stem",
+    "contextMeaning": "作者",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "current",
+    "word": "current",
+    "ipa": "[ˈkʌrənt]",
+    "pos": "",
+    "sourceLocation": "Q39-Stem",
+    "contextMeaning": "当前的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "collective",
+    "word": "collective",
+    "ipa": "[kəˈlektɪv]",
+    "pos": "",
+    "sourceLocation": "Q39-Stem",
+    "contextMeaning": "集体的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "doctrine",
+    "word": "doctrine",
+    "ipa": "[ˈdɒktrɪn]",
+    "pos": "",
+    "sourceLocation": "Q39-Stem",
+    "contextMeaning": "信条",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "moral",
+    "word": "moral",
+    "ipa": "[ˈmɒrəl]",
+    "pos": "",
+    "sourceLocation": "Q39-D",
+    "contextMeaning": "严格死板的，僵化的道德（上）的准则",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "paragraph",
+    "word": "paragraph",
+    "ipa": "[ˈpærəɡrɑːf]",
+    "pos": "",
+    "sourceLocation": "Q40-Stem",
+    "contextMeaning": "段落",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "primary",
+    "word": "primary",
+    "ipa": "[ˈpraɪməri]",
+    "pos": "",
+    "sourceLocation": "Q40-A",
+    "contextMeaning": "主要的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "Moral",
+    "word": "Moral",
+    "ipa": "[ˈmɒrəl]",
+    "pos": "",
+    "sourceLocation": "Q40-B",
+    "contextMeaning": "道德（上）的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "editing",
+    "word": "editing",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q40-B",
+    "contextMeaning": "编辑",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "humanity",
+    "word": "humanity",
+    "ipa": "[hjuːˈmænəti]",
+    "pos": "",
+    "sourceLocation": "Q40-C",
+    "contextMeaning": "人性",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "central",
+    "word": "central",
+    "ipa": "[ˈsentrəl]",
+    "pos": "",
+    "sourceLocation": "Q40-C",
+    "contextMeaning": "对…极为重要",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "Journalists",
+    "word": "Journalists",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q40-D",
+    "contextMeaning": "记者",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "industrial",
+    "word": "industrial",
+    "ipa": "[ɪnˈdʌstriəl]",
+    "pos": "",
+    "sourceLocation": "Q40-D",
+    "contextMeaning": "行业的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "regulations",
+    "word": "regulations",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q40-D",
+    "contextMeaning": "规章制度",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "distribution",
+    "word": "distribution",
+    "ipa": "[ˌdɪstrɪˈbjuːʃn]",
+    "pos": "",
+    "sourceLocation": "Q39-B",
+    "contextMeaning": "分配",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-B 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "distorted",
+    "word": "distorted",
+    "ipa": "[dɪsˈtɔrtɪd]",
+    "pos": "",
+    "sourceLocation": "Q39-C",
+    "contextMeaning": "扭曲的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "rigid",
+    "word": "rigid",
+    "ipa": "[ˈrɪdʒɪd]",
+    "pos": "",
+    "sourceLocation": "Q39-D",
+    "contextMeaning": "严格死板的，僵化的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-D 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "code",
+    "word": "code",
+    "ipa": "[kəʊd]",
+    "pos": "",
+    "sourceLocation": "Q39-D",
+    "contextMeaning": "准则",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-D 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t4",
+    "surface": "stricter",
+    "word": "stricter",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q40-D",
+    "contextMeaning": "严格的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-D 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  }
+]

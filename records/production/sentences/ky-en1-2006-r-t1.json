@@ -1,0 +1,542 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "In spite of \"endless talk of difference,\" American society is an amazing machine for homogenizing people.",
+    "translation": "尽管“无休止地谈论差异”，美国社会仍然是一台令人惊奇的使人们同质化的机器。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "There is \"the democratizing uniformity of dress and discourse, and the casualness and absence of deference\" characteristic of popular culture.",
+    "translation": "流行文化具有“服装和言论的民主化统一，以及随意和缺乏尊重”的特征。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "People are absorbed into \"a culture of consumption\" launched by the 19th-century department stores that offered \"vast arrays of goods in an elegant atmosphere.",
+    "translation": "人们被19世纪的百货商店所开创的“消费文化”所吸引，这种文化“在优雅的氛围中提供种类繁多的商品”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Instead of intimate shops catering to a knowledgeable elite\" these were stores \"anyone could enter, regardless of class or background.",
+    "translation": "这些商店不再是迎合知识精英的私密商店，而是任何人都可以进入的商店，无论阶级或背景如何。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "This turned shopping into a public and democratic act.\" The mass media, advertising and sports are other forces for homogenization.",
+    "translation": "这将购物变成了一种公共和民主的行为。”大众媒体、广告和体育是同质化的其他力量。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "Immigrants are quickly fitting into this common culture, which may not be altogether elevating but is hardly poisonous.",
+    "translation": "移民正在迅速融入这种共同文化，这种文化可能并不完全令人振奋，但也绝非有毒。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Writing for the National Immigration Forum, Gregory Rodriguez reports that today's immigration is neither at unprecedented levels nor resistant to assimilation.",
+    "translation": "格雷戈里·罗德里格斯在国家移民论坛上撰文称，当今的移民既没有达到前所未有的水平，也没有抵制同化。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "In 1998 immigrants were 9.8 percent of the population; in 1900, 13.6 percent.",
+    "translation": "1998年，移民占总人口的9.8%； 1900 年为 13.6%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "In the 10 years prior to 1990, 3.1 immigrants arrived for every 1,000 residents; in the 10 years prior to 1890, 9.2 for every 1,000.",
+    "translation": "1990年之前的10年里，每1000名居民就有3.1名移民抵达； 1890年之前的10年，每1000人中有9.2人。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Now, consider three indices of assimilation—language, home ownership and intermarriage.",
+    "translation": "现在，考虑三个同化指标——语言、住房所有权和通婚。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "The 1990 Census revealed that \"a majority of immigrants from each of the fifteen most common countries of origin spoke English 'well' or 'very well' after ten years of residence.\" The children of immigrants tend to be bilingual and proficient in English.",
+    "translation": "1990 年的人口普查显示，“来自 15 个最常见原籍国的大多数移民在居住十年后都能说‘流利’或‘非常流利’的英语。”移民的孩子往往会说双语并且精通英语。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "\"By the third generation, the original language is lost in the majority of immigrant families.\" Hence the description of America as a \"graveyard\" for languages.",
+    "translation": "“到了第三代，大多数移民家庭都失去了原来的语言。”因此，美国被描述为语言的“坟墓”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "By 1996 foreign-born immigrants who had arrived before 1970 had a home ownership rate of 75.6 percent, higher than the 69.8 percent rate among native-born Americans.",
+    "translation": "到 1996 年，1970 年之前抵达的外国出生移民的住房拥有率为 75.6%，高于本土出生的美国人 69.8%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Foreign-born Asians and Hispanics \"have higher rates of intermarriage than do U.S.-born whites and blacks.\" By the third generation, one third of Hispanic women are married to non-Hispanics, and 41 percent of Asian-American women are married to non-Asians.",
+    "translation": "在外国出生的亚洲人和西班牙裔人“异族通婚率高于在美国出生的白人和黑人”。到了第三代，三分之一的拉美裔女性与非拉美裔女性结婚，41% 的亚裔美国女性与非亚裔女性结婚。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Rodriguez notes that children in remote villages around the world are fans of superstars like Arnold Schwarzenegger and Garth Brooks, yet \"some Americans fear that immigrants living within the United States remain somehow immune to the nation's assimilative power.\" Are there divisive issues and pockets of seething anger in America?",
+    "translation": "罗德里格斯指出，世界各地偏远村庄的孩子都是阿诺德·施瓦辛格和加斯·布鲁克斯等超级明星的粉丝，但“一些美国人担心生活在美国境内的移民在某种程度上仍然不受国家同化力量的影响。”美国是否存在分裂问题和愤怒情绪？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Indeed.",
+    "translation": "的确。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "It is big enough to have a bit of everything.",
+    "translation": "它足够大，什么都有一点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2006-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.",
+    "translation": "但特别是与美国动荡的过去相比，今天的社会指数很难表明社会环境黑暗且不断恶化。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2006.js",
+      "year": 2006,
+      "articleKey": "ky-en1-2006-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:dae9dbb471cf116cef828c941e47f18acef37c8c20398cd3fd6bb0126f995932"
+    }
+  }
+]

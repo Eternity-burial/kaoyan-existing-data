@@ -1,0 +1,400 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "The Art Directors Guild's statement reveals",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "people's reduced interest in film.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】观众对电影的需求依然旺盛，问题在于好莱坞本地制作流失和行业萧条。",
+        "refSentences": [
+          "P1-S2",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "film workers' nostalgia for the past.",
+        "isCorrect": false,
+        "distractorType": "情感偏差",
+        "analysis": "【干扰特征: 情感偏差】工会劝退是面对生存危机做出的无奈现实反应，非单纯伤感怀旧（nostalgia）。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the appeal of Southern California.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】南加州吸引力正在被外地税收优惠残酷碾压（leaving California in the dust），吸引力锐减。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the gloomy situation of Hollywood.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S2 明确指出工会声明背后的深层原因：'suspended training program... \"we cannot in good conscience encourage you to pursue our profession.\" This is a reaction to Hollywood's decline, which is reaching a critical point...'（叫停培训并声明无法凭良心鼓励入行，这是对好莱坞衰落逼近临界点的应激反应）。连行业工会都绝望劝退新人，极其鲜明生动地揭示了好莱坞影视产业当前的暗淡萧条危局（the gloomy situation of Hollywood）。D选项精准吻合。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "cannot in good conscience encourage to pursue profession + reaction to Hollywood's decline = the gloomy situation of Hollywood。",
+      "methodSummary": "原句细节定性：reaction to Hollywood's decline 直接转换为 the gloomy situation of Hollywood。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Art Directors Guild's statement reveals"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The example of Georgia is used to illustrate the efforts to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "lure production with tax incentives.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P2-S2 句式结构极其清晰：前句提出论点'Other regions... have steadily increased incentives to attract TV shows and movies, leaving California in the dust'（其他地区持续加码激励以吸引影视剧组，把加州甩在身后）；紧接着举出乔治亚州提供30%税收抵免的实例。引用乔治亚州正是为了生动论证外地通过高额税收优惠争抢吸引影视制作的巨大努力（lure production with tax incentives）。A选项完全精准对应论点句。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "drive improvements in film facilities.",
+        "isCorrect": false,
+        "distractorType": "偷换手段",
+        "analysis": "【干扰特征: 偷换概念】乔治亚州出台的是直接减免税款的财政补贴政策（tax credits），非升级影视硬件设施。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "stimulate competition among states.",
+        "isCorrect": false,
+        "distractorType": "以偏概全副效应",
+        "analysis": "【干扰特征: 偷换目的】跨州竞争是政策造成的客观宏观局面，乔治亚州自身政策的直接目标是吸引剧组前来拍摄制作。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "collect funds for film and TV making.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】税收抵免是政府给剧组让利减税（tax credit incentives），非为制片筹集社会资金。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "increased incentives to attract TV shows and movies (Georgia 30% tax credits) = lure production with tax incentives。",
+      "methodSummary": "例证题前句论点提取法：increased incentives to attract 转换为 lure production with tax incentives。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "example of Georgia",
+        "used to illustrate efforts to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "Peak TV passed its peak as",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "streamers lost their technical advantages.",
+        "isCorrect": false,
+        "distractorType": "无中生有技术",
+        "analysis": "【干扰特征: 概念偏差】流媒体并未丧失技术优势，是商业模式与影视订制战略发生了调整收缩。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Streamers changed their strategic priorities.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S1 明确揭示电视巅峰期得以维持和破灭的本质：'kept afloat by \"peak TV\", the glut of content that was required by the explosion of streaming services'（此前依靠流媒体爆发式争夺订户时对过剩内容的疯狂订制才得以维持巅峰）。随着流媒体行业野蛮扩张期结束、转向追求盈利与削减开支，流媒体巨头彻底调整了其战略重心与投资优先级（Streamers changed their strategic priorities），导致巅峰期剧组制作狂潮退去。B选项精准契合产业逻辑。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Subscribers grew wary of large platforms.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及订阅用户对大型平台产生警惕怀疑。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "subscribers were unhappy with new shows.",
+        "isCorrect": false,
+        "distractorType": "无中生有满意度",
+        "analysis": "【干扰特征: 概念偏差】文章探讨的是平台端投资制作周期的退潮，非订阅用户对新剧质量表示不满。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节原因题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "peak TV glut of content driven by streaming explosion ended as industry strategy adjusted = Streamers changed their strategic priorities。",
+      "methodSummary": "宏观产业背景理解：结合流媒体狂潮退去，提炼为 Streamers changed strategic priorities。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "Peak TV passed its peak as"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "According to paragraph 4, California's entertainment industry might face",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a decline in product quality.",
+        "isCorrect": false,
+        "distractorType": "次要推论",
+        "analysis": "【干扰特征: 概念偏差】第四段核心警示的是制作人员与演员的大规模外流迁徙，非直接探讨影视产品质量下降。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "a demand for foreign talent.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】加州本土原本拥有雄厚的人才储备库（deep bench of local talent），问题在于本土人才正在流失外逃，非需要引进外国人才。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "a brain drain to other places.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 明确警示持续低迷的严重后果：'If productions dip below critical level... the industry's essential talent will drift away along with enormous sums of revenue'（如果制作持续过低，行业的核心骨干专业人才就将伴随巨额收入一同远走高飞流失掉）。essential talent will drift away（核心人才流失漂移至外地）与 a brain drain to other places（向其他地区的人才流失/人才流失危机）完全同义对应。C选项完全精准吻合。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "a dramatic rise in labor costs.",
+        "isCorrect": false,
+        "distractorType": "无中生有人工费暴涨",
+        "analysis": "【干扰特征: 概念偏差】工会停工且缺少项目，工人都面临失业，绝非劳动力成本暴涨。",
+        "refSentences": [
+          "P1-S2",
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "essential talent will drift away along with revenue = a brain drain to other places（人才流失）。",
+      "methodSummary": "核心词汇同义转换：essential talent drift away 转换为 brain drain。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "paragraph 4",
+        "California's entertainment industry might face"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "The author concludes the text by emphasizing that California should strive to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "maintain its position in the industry.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 篇末主旨升华】P5-S1 和 P5-S2 明确吹响加州保卫战的号角：'should dramatically improve incentives to keep our current shows and attract new productions... make sure the show doesn't go on without us'（必须大幅提升激励措施保住剧组、吸引新制作，务必确保这场大戏绝不能把我们抛下独自上演）。作者在文末强烈呼吁加州奋起直追，其根本战略目标正是为了竭尽全力捍卫并维持其在文娱影视行业中的中心支柱与领导地位（maintain its position in the industry）。A选项全面、精准且有力地概括了结尾的核心意图。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "attract more investment than it had.",
+        "isCorrect": false,
+        "distractorType": "局部细节偏差",
+        "analysis": "【干扰特征: 概念偏差】首要急务是阻止业务流失并恢复昔日繁荣（keep shows），非盲目追求超过历史最高投资。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "pursue a higher standard of production.",
+        "isCorrect": false,
+        "distractorType": "偷换关注重点",
+        "analysis": "【干扰特征: 偷换重点】好莱坞技术标准本就是最高水准，当前危机在于制作数量流失和税收竞争力劣势，非追求更高标准。",
+        "refSentences": [
+          "P4-S2",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "strengthen coordination with other states.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒竞争关系",
+        "analysis": "【干扰特征: 敌友颠倒】其他州是残酷抢夺加州剧组的竞争对手（leaving California in the dust），加州是要出台政策应对竞争，非加强跨州协同。",
+        "refSentences": [
+          "P2-S2",
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "篇章主旨总结题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "dramatically improve incentives to keep shows and make sure show doesn't go on without us = strive to maintain its position in the industry。",
+      "methodSummary": "末段意图高度提炼：make sure show doesn't go on without us 转换为 maintain its position in the industry。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "concludes the text by emphasizing",
+        "California should strive to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  }
+]

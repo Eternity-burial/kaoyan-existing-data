@@ -1,0 +1,579 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "According to Paragraph 1, legitimate streaming services",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "have drawn lessons from Hollywood.",
+        "isCorrect": false,
+        "distractorType": "偷换概念主体",
+        "analysis": "【干扰特征: 概念混淆】这些平台本身就是老牌好莱坞制片厂亲手打造的（old Hollywood entered streaming），非向好莱坞吸取教训。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "have surpassed cable in revenue.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】华尔街深感忧虑其盈利能力永远无法企及昔日的有线电视（never be as profitable as cable）。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "are unpopular with advertisers.",
+        "isCorrect": false,
+        "distractorType": "张冠李戴盗版网站",
+        "analysis": "【干扰特征: 偷换对象】从广告和会员中狂敛20亿暴利的是非法盗版网站（illegitimate services rake in from ads），非正规平台不受欢迎。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "are confronted with a real threat.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 和 P1-S2 明确展现正规流媒体平台的巨大生存危机：正规平台巨亏数十亿，而盗版平台几秒钟内盗取其片源并掠夺性狂揽20亿美元。正规合法流媒体平台显然正面临着来自非法盗版黑产的巨大现实威胁与生存挤压（are confronted with a real threat）。D选项完全精准概括了第一段的核心处境。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "legitimate streamers lose billions while pirates rip shows in seconds and rake in $2 billion = legitimate streaming services are confronted with a real threat。",
+      "methodSummary": "首段危机处境概括：正规平台亏损与盗版掠夺并存，直接锁定 confronted with a real threat。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "legitimate streaming services"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "It can be learned that streamers like Netflix",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "played a part in the fight against illegal file-sharing.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P3-S1 明确交代奈飞等流媒体的历史功绩：'Initially the rise of legitimate online businesses such as Netflix actually helped curb digital piracy, which had largely been based on file uploads'（起初，像奈飞这样的正规合法在线业务的崛起，实际上曾帮助遏制了当时主要基于文件上传的数字盗版）。curb digital piracy based on file uploads 与 played a part in the fight against illegal file-sharing（在打击非法文件共享盗版的斗争中发挥了一定作用）完全同义对应。A选项精准吻合。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "reaped benefits from the war with digital pirates.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】正规平台目前因盗版每年蒙受千亿美元计的惨重经济损失（loss of revenue），绝非从中获利（reaped benefits）。",
+        "refSentences": [
+          "P3-S2",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "promised to become big job creators in the US.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】第三段讲的是盗版导致美国损失了25万个就业岗位（lost 250,000 jobs），非奈飞承诺创造就业。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "used to collaborate with file-uploading platforms.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒对抗关系",
+        "analysis": "【干扰特征: 敌我颠倒】奈飞等合法平台是在遏制打击（curb）基于文件上传的盗版，绝非与文件上传盗版平台合作（collaborate）。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Netflix helped curb digital piracy largely based on file uploads = played a part in the fight against illegal file-sharing。",
+      "methodSummary": "原句细节直接对应：helped curb piracy based on file uploads 转换为 played a part in fight against illegal file-sharing。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "streamers like Netflix"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "It can be inferred from Paragraph 4 that the MPA",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "was denied cooperation by Silicon Valley.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P4-S2 明确交代 MPA 早先立法流产的历史原因：'the organization failed five years earlier to build consensus between Hollywood and Silicon Valley to win passage of legislation in Congress aimed at stopping online piracy'（MPA 五年前曾因未能成功在好莱坞与硅谷科技巨头之间建立起共识，导致反盗版国会法案流产）。好莱坞制片厂协会（MPA）未能与硅谷达成共识，其本质正是遭到了硅谷科技巨头的反对、抵触与拒绝合作（was denied cooperation by Silicon Valley）。A选项完全精准契合推理逻辑。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "led a national protest against online piracy.",
+        "isCorrect": false,
+        "distractorType": "偷换维权手段",
+        "analysis": "【干扰特征: 偷换手段】MPA 采取的是推动国会立法和组建特遣队执法缉捕，非组织领导全国性民众抗议示威（national protest）。",
+        "refSentences": [
+          "P4-S2",
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "was urged to form an enforcement task force.",
+        "isCorrect": false,
+        "distractorType": "主动被动颠倒",
+        "analysis": "【干扰特征: 主被动颠倒】MPA 是主动牵头组建了 ACE 执法特遣队（formed the Alliance），非被外部力量催促强迫组建。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "failed to win support from local authorities.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】P4-S3 明确指出 ACE 正在全球各地密切协助地方执法当局（help local authorities arrest pirates），合作良好。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "failed to build consensus between Hollywood (MPA) and Silicon Valley for legislation = was denied cooperation by Silicon Valley。",
+      "methodSummary": "因果推断法：未能达成立法共识即意味着遭到了利益对手硅谷的拒绝配合（denied cooperation）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "inferred from Paragraph 4",
+        "the MPA"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "According to Hawley, digital piracy",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "cannot be checked in spite of new legislation.",
+        "isCorrect": false,
+        "distractorType": "过于绝对",
+        "analysis": "【干扰特征: 过于绝望绝对】霍利认为到2027年可能迎来平台期，新法律也成功将北美网站压缩至126家，非完全不可遏制。",
+        "refSentences": [
+          "P5-S1",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "will possibly overwhelm legitimate streamers.",
+        "isCorrect": false,
+        "distractorType": "过度推断夸大",
+        "analysis": "【干扰特征: 夸大后果】虽然造成千亿损失，但霍利并未断言盗版会彻底压垮压倒正规流媒体巨头。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "is unlikely to diminish in the near future.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P6-S2 明确引述霍利的原话：'there is no consensus among stakeholders as to when it may begin to decline'（各方利益相关者对盗版何时才会开始真正下降消退根本毫无共识，即使乐观估计也得等到2027年才可能进入平台期）。这一清醒判断表明：数字盗版在可预见的近期内绝不可能消退减少（is unlikely to diminish in the near future）。C选项精准契合分析师观点。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "has been underestimated by some analysts.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及盗版危害被其他分析师低估。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "no consensus as to when it may begin to decline (plateau only by 2027) = is unlikely to diminish in the near future。",
+      "methodSummary": "时间预期推断法：何时 decline 毫无共识且2027年前仅能 plateau，推导出 unlikely to diminish in the near future。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "According to Hawley",
+        "digital piracy"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following is emphasized in the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The need to coordinate anti-piracy action.",
+        "isCorrect": false,
+        "distractorType": "以偏概全局部对策",
+        "analysis": "【干扰特征: 局部手段】执法协作仅在第4-5段提及，全文贯穿始终的震撼主线是盗版造成的惊人经济破坏。",
+        "refSentences": [
+          "P4-S3",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The criminal nature of copyright violation.",
+        "isCorrect": false,
+        "distractorType": "局部定性",
+        "analysis": "【干扰特征: 局部定性】定性为有组织犯罪只是第4段里夫金的控诉，未能统领全文的数据损失主轴。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "The prospect of eliminating online piracy.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】文末明确指出短期内盗版难以消退，消灭盗版前景依然极其严峻遥远。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The economic harm from illegal streaming.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文核心强调要点】纵观全文，作者通过极其扎实触目惊心的经济数据链条贯穿始终反复强调：第1段指出盗版年敛20亿美元暴利；第2段指出其利润率高达90%；第3段指出每年致使美国经济损失300亿美元并丧失25万就业岗位、全球损失710亿美元；第6段指出未来两年正规平台累计损失将达1130亿美元。D选项 The economic harm from illegal streaming（非法流媒体盗播所造成的巨大经济危害与损失）全面、精准且有力地概括了全文反复着重强调的核心议题。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1",
+          "P3-S2",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "主旨强调题",
+    "targetSentences": [
+      "P1-S2",
+      "P2-S1",
+      "P3-S2",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "$2 billion raked in + $30 billion lost and 250k jobs + $113 billion cumulative loss = The economic harm from illegal streaming。",
+      "methodSummary": "核心数据链条归纳法：通篇围绕千亿级经济损失数据展开，直接锁定 The economic harm from illegal streaming。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "emphasized in the text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  }
+]

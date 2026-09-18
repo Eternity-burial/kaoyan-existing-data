@@ -1,0 +1,272 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "There's no business like show business – but in Los Angeles, it feels like there's no business at all.",
+    "translation": "俗话说“没有任何行业能比得上演艺娱乐业”——然而在如今的洛杉矶，人们所感受到的却是整个文娱行业几乎彻底陷入了万马齐喑的全面停滞状态。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that \"we cannot in good conscience encourage you to pursue our profession.\" This is a reaction to Hollywood's decline, which is reaching a critical point for the industry and Southern California.",
+    "translation": "如果这听起来像是在耸人听闻大惊小怪，不妨看看这样一个铁打的事实：代表约3000名影视美术工作者的行业工会“美术指导工会”（Art Directors Guild）已正式叫停了其新人培训培养计划，并发布了一份令人心酸的公开声明解释称：“摸着良心，我们已无法再凭良知去鼓励诸位投身我们这一职业行当了。”这正是对好莱坞日趋衰落萧条所做出的本能应激反应——这场危机对整个影视产业及南加州地区而言，目前已赫然逼近了生死攸关的临界拐点（reveals the gloomy situation of Hollywood）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.",
+    "translation": "自20世纪50年代以来，影视制作项目便一直在源源不断地逃离好莱坞，但这种流失带来的惨烈破坏性影响却从未像当今这般触目惊心显而易见。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust. Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.",
+    "translation": "美国其他州、加拿大以及欧洲等地区纷纷持续大幅加码税收激励措施以吸引电视剧和电影剧组前去拍摄，让加利福尼亚州被远远甩在身后。例如，乔治亚州针对影视制作成本提供了高达整整30%的可转让税收抵免优惠，如果作品中嵌入乔治亚州的宣传标识，还能在基础税收抵免上再额外追加10%的丰厚减免（illustrate efforts to lure production with tax incentives）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year. We were kept afloat by \"peak TV\", the glut of content that was required by the explosion of streaming services.",
+    "translation": "即便加州已将海量制作业务拱手让给了其他地区，但在今年之前，洛杉矶本地依然保持着相当规模的影视拍摄体量。此前我们之所以能够勉强维持繁荣而不至于沉沦，全赖所谓的“电视巅峰期”（peak TV）——即各大流媒体平台的爆发式野蛮扩张所催生的过剩内容狂潮；然而随着流媒体平台战略优先级的急剧调整转向（Streamers changed their strategic priorities），这一泡沫期已戛然而止。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "If productions in Southern California dip below a critical level for too long, the industry's essential talent will drift away along with enormous sums of revenue.",
+    "translation": "如果南加州的影视制作量在危险的临界水平之下持续低迷徘徊过久，整个行业的核心骨干专业人才就将伴随着巨额的商业收入一同远走高飞、大量流失到外地（entertainment industry might face a brain drain to other places / essential talent will drift away）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Persuading studios to film here would become much more challenging if we couldn't offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+    "translation": "如果我们自身无法再提供由庞大本地影视幕后技工、台前优秀演员以及配套文娱支持企业所构筑的雄厚专业人才储备梯队，那么日后要想说服各大影视制片厂重返这里拍摄，将会变得空前艰难。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "That's why the California Film Commission and its Los Angeles counterpart, Film LA, should act now, before it's too late. These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+    "translation": "这正是为什么加州电影委员会及其洛杉矶对口机构 Film LA 必须立刻果断采取行动、切莫坐失良机的原因所在。这些主管机构及其他各级政府部门应当大刀阔斧地显著提升税收政策激励力度，以全力保住我们现有的影视剧组，并吸引更多全新的影视项目落户洛杉矶。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Let's go on with the show... and make sure the show doesn't go on without us.",
+    "translation": "让我们继续唱好这场时代大戏……并务必全力确保这场全球娱乐盛宴在未来绝对不能抛下我们独自上演（California should strive to maintain its position in the industry）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  }
+]

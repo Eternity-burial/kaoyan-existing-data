@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2010-r-t3",
+  "year": 2010,
+  "textNumber": 3,
+  "title": "The Tipping Point Under Question: Social Influence Dynamics",
+  "chineseTitle": "引爆点理论质疑：社交网络影响力的真正动力学机制",
+  "topic": null,
+  "topicDomain": "文教社科",
+  "subTopic": "传播学与社会网络动力学",
+  "overview": null,
+  "wordCount": 386,
+  "readingTimeEstimate": "8-10 min",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Harvard Business Review / Social Science Monitor",
+  "paragraphCount": 5,
+  "sentenceCount": 12,
+  "vocabularyCount": 9,
+  "phraseCount": 10,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "打破传播学神话：格拉德威尔《引爆点》为何被科学家证伪？",
+      "subtitle": "从‘领袖万能论’到‘易受影响的大众临界规模’",
+      "coreNarrative": "畅销书教父马尔科姆·格拉德威尔在2000年出版了现象级巨作《引爆点》(The Tipping Point)，提出了风靡全球的‘个别人物法则’（The Law of the Few）。他宣称只要抓住极少数具有超级魅力的‘内行（Mavens）’、‘联系员（Connectors）’和‘推销员（Salesmen）’，就能点石成金引发全社会的病毒式传播。这一理论迎合了广告营销界和大众对‘超级英雄’式传播者的浪漫幻想。然而，哥伦比亚大学著名网络科学与计算社会学先驱邓肯·沃茨（Duncan Watts）等科学家通过海量计算机模拟与真实社交网络数据实验，彻底粉碎了这一神话：沃茨证明，社会流行风潮的蔓延本质上类似于森林大火——一场大火能否燎原，决定性因素绝不在于当初扔下的那一根火柴有多么‘特殊’或‘威力巨大’，而在于整座森林的树木是否足够干燥（易燃/易感人群是否达到临界规模 critical mass）。如果受众本身不具备接纳准备（readiness to be influenced），任何意见领袖哪怕拼尽全力也绝不可能掀起潮流。",
+      "theWattsCascadeExplained": "沃茨提出的‘信息级联模型’（Information Cascades）奠定了现代复杂网络传播学的基础。在社交网络中，信息的扩散是去中心化的、依靠同伴（peer-to-peer）逐级击穿的过程。今天社交网络营销（如KOL带货、病毒营销）屡屡遭遇滑铁卢，其根源正在于迷信少数大V，而忽视了‘受众网络拓扑结构’与‘临界易感者密度’。",
+      "crossExamLinks": [
+        {
+          "year": "2012 Text 1",
+          "theme": "同伴压力与社会行为塑造机制",
+          "relevance": "探讨同伴圈层互动对个体观念行为的深远影响"
+        },
+        {
+          "year": "2009 Text 3",
+          "theme": "正规教育与个体社交网络的形成",
+          "relevance": "探讨现代社会人际网络结构的连接与传播动力学"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "文教社科 · 社会学与信息传播机制",
+      "coreConceptRoots": [
+        {
+          "root": "flu- / flux-",
+          "meaning": "流动，流淌",
+          "words": [
+            "influence (影响)",
+            "fluent (流利的)",
+            "fluctuate (波动)",
+            "superfluous (多余的)"
+          ]
+        },
+        {
+          "root": "cad- / cas-",
+          "meaning": "下落，发生",
+          "words": [
+            "cascade (级联/瀑布)",
+            "casual (随意的)",
+            "accident (事故)",
+            "occasion (场合)"
+          ]
+        },
+        {
+          "root": "cept- / ceiv-",
+          "meaning": "抓，接纳",
+          "words": [
+            "susceptible (易感的)",
+            "receptive (善于接纳的)",
+            "perceive (感知)",
+            "conceive (设想)"
+          ]
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "word": "epidemic",
+          "pos": "n./adj.",
+          "meaning": "流行风潮，流行病",
+          "examTips": "考研传播学常借用医学隐喻，表示观念的大规模爆发扩散"
+        },
+        {
+          "word": "cascade",
+          "pos": "v./n.",
+          "meaning": "级联传播，瀑布",
+          "examTips": "网络科学高阶词汇，常与 viral, diffusion 搭配"
+        },
+        {
+          "word": "readiness",
+          "pos": "n.",
+          "meaning": "准备状态，接纳意愿",
+          "examTips": "考研阅读中常指心理或体制上的就绪状态"
+        },
+        {
+          "word": "susceptible",
+          "pos": "adj.",
+          "meaning": "易受影响的，易感的",
+          "examTips": "常与 to 搭配，近义词 vulnerable"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2010_t3.json",
+    "year": 2010,
+    "articleKey": "ky-en1-2010-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:468cd0dbaa5cf3e8d7307e8b7311e2d19636fd6028c335be4f34a0994d97308d"
+  }
+}

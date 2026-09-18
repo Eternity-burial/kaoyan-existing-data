@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Grade inflation—the gradual increase in average GPAs (grade-point averages) over the past few decades—is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased.",
+    "translation": "成绩通胀（Grade inflation）——即过去几十年间大学平均学分绩点（GPA）的持续攀升——通常被普遍视作高等教育迈入“消费者时代”的产物（product of a consumer era）；在这一时代背景下，学生被当作需要被百般讨好取悦的‘顾客’。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "But another, related force—a policy often buried deep in course catalogs called \"grade forgiveness\"—is helping raise GPAs.",
+    "translation": "然而，另一股与之相关的驱动力量——一项往往深藏于大学选课目录之中、被称为“成绩豁免”（grade forgiveness）的宽松政策——同样在有力地推高学生的平均绩点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in calculating a student's overall GPA.",
+    "translation": "“成绩豁免”政策允许学生在某一门课程取得低分后重新修读该课程，而在最终计算该学生的整体累计 GPA 时，唯有最近一次的重修成绩或最高成绩才会被正式计入总分。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates.",
+    "translation": "这项鲜为人知的宽松做法在近年来呈现出加速蔓延的态势，因为各大高校一直在竭尽全力留住学生继续就读（并持续缴纳高昂学费），并努力提升学校的毕业率指标。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in their transition to college-level courses. But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+    "translation": "几十年前当这项做法最初萌芽创立时，它通常严格限定于大学一年级新生（freshmen），初衷是给那些在大一阶段难以适应大学高难度课程转型的初学者第二次补救机会（give second chance in transition）。然而在今天，除了少数选拔极其严苛的顶尖名校之外，绝大多数高校已经允许所有本科生、乃至研究生都可以享受低分成绩被彻底豁免抹去的优待。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty.",
+    "translation": "大学校方官员往往极力强调，推行成绩豁免的目标并不在于分数本身，而更多地是为了鼓励学生重修那些对其学位项目与顺利毕业至关重要的核心课程，而无需为此遭受沉重的成绩惩罚代价。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "\"Ultimately,\" said Jack Miner, Ohio State University's registrar, \"we see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time.\"",
+    "translation": "俄亥俄州立大学教务长杰克·米纳表示：“归根结底，我们看到学生取得了更大的学业成功，因为他们通过重修课程在后续进阶课程中表现更优，或真正掌握了专业核心内容从而得以按时顺利毕业。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "That said, there is a way in which grade forgiveness satisfies colleges' own needs as well. For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention—so better grades can, by boosting figures like those, mean more money.",
+    "translation": "话虽如此，成绩豁免在很大程度上其实同样迎合满足了大学自身的重大利益需求。对于公立高校而言，州政府的财政拨款（state funds）有时部分与其在毕业率和学生保留率等量化指标上的优劣直接挂钩——因此，通过推高分数刷亮这些指标，就直接意味着大学能够获得更多财政资金支持（mean more money / financial support）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "And anything that raises GPAs will likely make students—who, at the end of the day, are paying the bill—feel they've gotten a better value for their tuition dollars, which is another big concern for colleges.",
+    "translation": "而且，任何能够大幅拉高 GPA 的举措，都很可能让那些归根结底在掏真金白银支付账单的学生们由衷觉得自己的巨额学费物有所值，而这恰恰是各大学格外挂念的另一大核心关切。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Indeed, grade forgiveness is just another way that universities are responding to consumers' expectations for higher education. Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible—or at least appear to be. On this, students' and colleges' incentives seem to be aligned.",
+    "translation": "诚然，“成绩豁免”不过是各大学在迎合满足消费者对高等教育殷切期望的又一种全新手法。鉴于学生与家长都期望一张大学文凭能够直接换来一份体面工作，因此培养出尽可能资质过硬——或者至少在纸面上看起来光鲜合格——的毕业生，完全符合大学自身的最佳利益。在这一点上，学生与高校各自的利益动机似乎高度契合一致（aligned/identical）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t2.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:64da8932e13344ac686e53327506a4c69681c11b397f60dfa38877f2306b53c0"
+    }
+  }
+]

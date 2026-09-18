@@ -1,0 +1,584 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "According to the first two paragraphs, alloparenting refers to the practice of",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "sharing childcare among community members.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S2 和 P2-S1 明确定义了 alloparenting（共同育儿/非父母共同照护）的核心内涵：'each child is cared for by many adults... children help look after younger ones... these practices, known as alloparenting'（每个孩子都由众多成年人共同看护，年长儿童也参与照料幼童，这些做法被称为共同育儿）。A选项 sharing childcare among community members（在社区成员之间共同分担儿童照料工作）是对多成年人共同看护最精准贴切的概括定义。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "assigning babies to specific adult caregivers.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 过于机械】共同育儿是全社区自然协同看护，非将婴儿死板分配给特定成年人类别。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "teaching parenting skills to older children.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局部细节】大孩子照看小孩子只是部落协作现象之一，非 alloparenting 的全部核心定义。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "carrying infants around by their parents.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】背娃（baby-wearing）是照料方式，且 alloparenting 强调由父母之外的‘其他社区成年人’照料。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "词义指代题",
+    "targetSentences": [
+      "P1-S2",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "each child cared for by many adults in community = sharing childcare among community members。",
+      "methodSummary": "术语概念定义提取：抓准 each child cared for by many adults 对应的 sharing childcare among community members。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "first two paragraphs",
+        "alloparenting refers to the practice of"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The scheme in Germany is mentioned to illustrate",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "an attempt to facilitate intergenerational communication.",
+        "isCorrect": false,
+        "distractorType": "次要表面现象",
+        "analysis": "【干扰特征: 次要副效应】代际交流只是结对的表象，引用该案例的宏观论证目的是展示如何将部落共同育儿模式融入西方社会。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "an approach to integrating alloparenting into western society.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P2-S2 句式结构极其清晰严密：先提出观点'there are ways to incorporate them into western life'（完全有途径将这些部落育儿模式融入西方现代生活）；紧接着举出德国养老院配对幼儿园的方案作为直接例证（In Germany, one scheme has paired old people's home with nursery... akin to alloparenting）。引用德国案例正是为了生动展示将部落共同育儿模式融入西方社会的一种创新有效途径（an approach to integrating into western society）。B选项完全精准吻合论点句。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the conventional parenting style in western culture.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】德国方案是对西方传统孤立母职育儿的突破创新尝试，绝非传统方式（conventional style）。",
+        "refSentences": [
+          "P2-S2",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the differences between western and African ways of living.",
+        "isCorrect": false,
+        "distractorType": "偷换目的",
+        "analysis": "【干扰特征: 偏离主旨】案例强调的是西方借鉴非洲成功经验的融合可行性，非强调不可调和的文化差异。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "ways to incorporate them into western life -> In Germany one scheme paired old people home with nursery = an approach to integrating into western society。",
+      "methodSummary": "例证题前句论点锁定：incorporate into western life 直接转换为 approach to integrating into western society。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "scheme in Germany is mentioned to illustrate"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "According to paragraph 3, the intensive mothering narrative",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "alleviates parenting pressures.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】该叙事导致母亲身心俱疲甚至产后抑郁（lead to maternal exhaustion），极大加剧了育儿压力。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "consolidates family relationships.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端美化】未提及巩固家庭关系。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "results in the child-centred family.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】强调的是母亲独自承受育儿重负（mothers manage child care alone），非以儿童为中心。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "departs from the course of evolution.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S1 和 P3-S2 明确阐述密集母职的本质：'western nuclear family was a recent invention which broke with evolutionary history. This abrupt shift to an intensive mothering narrative...'（西方核心家庭是一项打破人类演化历史的新发明，这种骤然转向要求母亲独自育儿的密集母职叙事是有害的）。broke with evolutionary history 与 departs from the course of evolution（背离了人类生物演化的历史进程）完全同义对应。D选项精准吻合。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "broke with evolutionary history = departs from the course of evolution（背离了演化进程）。",
+      "methodSummary": "原句同义改写：broke with evolutionary history 转换为 departs from the course of evolution。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "paragraph 3",
+        "intensive mothering narrative"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "What can be inferred about the nurseries in the UK?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They tend to fall short of official requirements.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】1:4正是英国官方的法定法规要求（regulations call for），问题在于法规设定的配比本身过于匮乏。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "They have difficulty finding enough caregivers.",
+        "isCorrect": false,
+        "distractorType": "无中生有招工难",
+        "analysis": "【干扰特征: 概念偏差】文章批评的是制度法规设定的师生比过低，非托儿所招不到员工。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "They ought to improve their carer-to-child ratio.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P5-S1 和 P5-S2 形成极其鲜明的对比：前句指出引入更多照料者能减少压力并增进儿童福祉，后句指出部落一个婴儿有十多个照料者，'contrasts starkly to nursery setting in the UK where regulation call for a ratio of one carer to four children'（与英国托儿所1名照护员管4名幼童的严酷现状形成触目惊心的强烈反差）。作者通过这种反差鲜明的批评对比，强烈暗示并可严密推断出：英国的托育机构应当切实改善并提高其照护人员与儿童的配比（They ought to improve their carer-to-child ratio）。C选项完全契合推理逻辑。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "They should try to prevent parental depression.",
+        "isCorrect": false,
+        "distractorType": "偷换主体职责",
+        "analysis": "【干扰特征: 偷换职责】防范产后抑郁是增配照料者带来的宏观社会效益，托儿所的直接改进点在于改善自身园内的照料配比。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "infant in hunter-gatherer society has 10 caregivers vs UK nursery 1 carer to 4 children = UK nurseries ought to improve their carer-to-child ratio。",
+      "methodSummary": "对比反差推断法：抓准对比反差（contrasts starkly）背后的规范性改进诉求（ought to improve ratio）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "inferred",
+        "nurseries in the UK"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Instructive teaching: a dilemma for anxious parents.",
+        "isCorrect": false,
+        "distractorType": "以偏概全末段细节",
+        "analysis": "【干扰特征: 局部细节】指令式教学仅在第6段作为西方教育弊端被简要提及，无法统领全篇共同育儿主旨。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "For a happier family, learn from the hunter-gatherers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨高度概括】文章结构极其清晰圆融：开篇 P1-S1 提出核心主张'Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children'（从非洲狩猎采集部落获取育儿灵感是培养快乐儿童的关键），中篇深入剖析共同育儿（alloparenting）如何打破西方核心家庭密集母职的焦虑与抑郁，尾篇呼吁现代社会积极借鉴混龄互助经验。B选项 For a happier family, learn from the hunter-gatherers（为了拥有更幸福的家庭，请向狩猎采集部落学习取经）全面、准确且生动地概括了全文主旨，为最佳标题。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1",
+          "P3-S1",
+          "P5-S1",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Mixed-age playgroup, a better choice for lonely children.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局部手段】混龄游戏小组只是具体借鉴形式之一，全文核心在于整体家庭育儿模式的转变。",
+        "refSentences": [
+          "P2-S2",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Tracing the history of parenting: from Africa to Europe.",
+        "isCorrect": false,
+        "distractorType": "偷换体裁为历史编年",
+        "analysis": "【干扰特征: 偏离体裁】文章是探讨演化人类学育儿启示的科普论说文，非按时间线追溯育儿演变的历史编年史。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "主旨标题题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1",
+      "P3-S1",
+      "P5-S1",
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Parenting tips from hunter-gatherers key to contented children + alloparenting brings happiness = For a happier family, learn from the hunter-gatherers。",
+      "methodSummary": "首尾主旨呼应标题法：抓准首句 key to contented children 与贯穿全文的 learn from hunter-gatherers。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "best title for the text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t2.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:708b52d2669a9e4e5f78e179f9f24f65bd0c51001f0b63909c3e9442d3b5f909"
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Habits are a funny thing.",
+    "translation": "习惯是一件耐人寻味、极为奇妙的事情。",
+    "syntaxAnalysis": "主系表结构。主语 Habits；系动词 are；表语 a funny thing（funny 此处引申为‘奇妙的、耐人寻味的’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine.",
+    "translation": "我们不假思索地依赖习惯，让大脑进入‘自动驾驶’状态，安然享受熟悉常规所带来的那种潜意识的舒适。",
+    "syntaxAnalysis": "简单句+伴随状语。主语 We；谓语 reach for；宾语 them；方式状语 mindlessly；现在分词短语 setting... and relaxing... 作伴随状语，setting our brains on auto-pilot 表示让大脑处于自动惯性运作模式。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "\"Not choice, but habit rules the unreflecting herd,\" William Wordsworth said in the 19th century.",
+    "translation": "19世纪英国浪漫主义诗人威廉·华兹华斯曾说过：“支配着那些缺乏反思的大众的，不是理性抉择，而是盲目习惯。”",
+    "syntaxAnalysis": "直接引语主谓倒装。引语中主语为并列对比结构 Not choice, but habit；谓语动词 rules；宾语 the unreflecting herd（借喻不假思索的群氓/盲从大众）；主句主语 William Wordsworth；谓语 said；时间状语 in the 19th century。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "In the ever-changing 21st century, even the word \"habit\" carries a negative implication.",
+    "translation": "而在瞬息万变的21世纪，甚至连“习惯”这个词本身都带有一层消极负面的暗示意味。",
+    "syntaxAnalysis": "简单句。时间状语 In the ever-changing 21st century；主语 the word \"habit\"（even 为强调副词）；谓语 carries；宾语 a negative implication。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "So it seems paradoxical to talk about habits in the same context as creativity and innovation.",
+    "translation": "因此，若把习惯与创造力和创新放在同一个语境下一同讨论，似乎显得自相矛盾。",
+    "syntaxAnalysis": "形式主语复合句。连词 So；it 为形式主语；系动词 seems；表语 paradoxical；真正的主语是不定式短语 to talk about habits in the same context as creativity and innovation。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.",
+    "translation": "然而脑科学研究人员发现，当我们有意识地培养新习惯时，我们会在大脑中开辟出一条条平行的通路，甚至生成全新的脑细胞，这能把我们的思路跃迁引入崭新的、富有创新性的轨道。",
+    "syntaxAnalysis": "复杂主从复合句。转折词 But；主语 brain researchers；谓语 have discovered；that 引导宾语从句；从句内包含 when 引导的时间状语从句；从句主干为 we create parallel paths, and even entirely new brain cells；that 引导限制性定语从句修饰 paths 和 cells，jump... onto... 形象地表达思路跳轨跃迁。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits.",
+    "translation": "与其把自己轻易贬低为不可改变的“习惯的奴隶”，我们反而可以通过有意识地培养新习惯，来亲自引导我们自身的改变。",
+    "syntaxAnalysis": "介词短语状语+主谓宾句。Rather than dismissing... 作对比让步状语（dismiss A as B 把A视作B而轻视）；主语 we；情态动词复合谓语 can direct；宾语 our own change；方式状语 by consciously developing new habits；instead 为副词。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "In fact, the more new things we try—the more we step outside our comfort zone—the more inherently creative we become, both in the workplace and in our personal lives.",
+    "translation": "事实上，我们尝试的新事物越多——越是勇敢迈出自身的舒适区——我们在职场工作与个人生活中就会变得越发富有与生俱来的创造力。",
+    "syntaxAnalysis": "\"the + 比较级..., the + 比较级...\" 结构。In fact 为插入语；破折号插入语 the more we step outside our comfort zone 为同位递进强化；主句 the more inherently creative we become 为系表结构；介词短语 both in the workplace and in our personal lives 作范围状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay.",
+    "translation": "但切莫费心去试图彻底消灭旧习惯；一旦那些按部就班的程序化车辙痕迹磨损刻入大脑，它们就会永久留存、难以磨灭。",
+    "syntaxAnalysis": "并列复合祈使句。转折词 But；祈使句 don't bother doing sth；分号后为复合句，once 引导条件状语从句（once those ruts of procedure are worn into the brain）；主句 they're there to stay，they 指代那些固化程序模式。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.",
+    "translation": "相反，我们刻意强加于自身的新习惯会构建出一条条平行的全新神经通路，从而能够绕开那些固化的旧有道路。",
+    "syntaxAnalysis": "主谓宾复合句。副词 Instead；主语 the new habits；we deliberately press into ourselves 为省略了关系代词 that/which 的定语从句修饰 habits；谓语 create；宾语 parallel pathways；that 引导限制性定语从句修饰 pathways，从句谓语 can bypass，宾语 those old roads。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "\"The first thing needed for innovation is a fascination with wonder,\" says Dawna Markova, author of The Open Mind.",
+    "translation": "《开放的心灵》一书作者道娜·马尔科娃指出：“创新所需的第一要素，就是对未知神奇事物怀有强烈的着迷与好奇。”",
+    "syntaxAnalysis": "引语倒装句。主语 The first thing，needed for innovation 为过去分词短语作后置定语，系动词 is，表语 a fascination with wonder；主句谓语 says；主语 Dawna Markova；author of The Open Mind 为同位语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"But we are taught instead to 'decide', just as our president calls himself 'the Decider'.\"",
+    "translation": "“然而我们从小受到的教育却是去‘决断’，正如我们的总统自称是‘决断者’一样。”",
+    "syntaxAnalysis": "被动语态+方式状语从句。连词 But；主语 we；谓语 are taught（被动语态）；副词 instead；不定式短语 to 'decide' 作主语补足语；just as 引导方式比较状语从句，从句中 calls himself 'the Decider' 为主谓宾宾补结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "She adds, however, that \"to decide is to kill off all possibilities but one.\"",
+    "translation": "不过她补充道：“做出决断就意味着扼杀除了一种可能性之外的所有其他可能性。”",
+    "syntaxAnalysis": "主从复合句。主语 She；谓语 adds；插入语 however；that 引导宾语从句；从句为主系表结构，主语不定式 to decide，系动词 is，表语不定式 to kill off all possibilities but one（but one 为介词短语表示‘除一个之外’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "\"A good innovational thinker is always exploring the many other possibilities.\"",
+    "translation": "“而一名优秀的创新思维者，始终都在积极探索许许多多其他的可能性。”",
+    "syntaxAnalysis": "主谓宾句。主语 A good innovational thinker；谓语 is always exploring（现在进行时表示习惯性、持续性的行为特质）；宾语 the many other possibilities。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "All of us work through problems in ways of which we're unaware, she says.",
+    "translation": "她说，我们所有人都是以一种自身完全未曾意识到的方式来分析解决问题的。",
+    "syntaxAnalysis": "复合句+插入语。主语 All of us；谓语 work through；宾语 problems；方式状语 in ways；of which we're unaware 为介词+关系代词引导的定语从句修饰 ways；she says 为插入语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively.",
+    "translation": "20世纪60年代末的研究人员发现，人类生来就具备以四种基本方式应对挑战的潜能：分析型、程序型、人际关系型（或协作型）以及创新型。",
+    "syntaxAnalysis": "主从复合句。主语 Researchers in the late 1960s；谓语 discovered；that 引导宾语从句；从句主语 humans，谓语 are born with，宾语 the capacity to approach challenges...；冒号后四个副词 analytically, procedurally, relationally and innovatively 作同位语详细解释 four primary ways。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life.",
+    "translation": "然而在青春期结束时，大脑会关闭这四种潜能中的一半，仅仅保留在人生最初十年左右的岁月里看起来最具有实用价值的那些思维模式。",
+    "syntaxAnalysis": "简单句+伴随状语。时间状语 At the end of adolescence；转折词 however；主语 the brain；谓语 shuts down；宾语 half of that capacity；现在分词短语 preserving... 作伴随状语；that 引导定语从句修饰 modes of thought，从句谓语 have seemed，表语 most valuable，时间状语 during the first decade or so of life。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.",
+    "translation": "当前对标准化考试的过分强调突出了分析与程序模式，这意味着我们当中极少有人能够自发运用创新型与协作型的思维模式。",
+    "syntaxAnalysis": "主谓宾句+分词结果状语。主语 The current emphasis on standardized testing；谓语 highlights；宾语 analysis and procedure；现在分词短语 meaning that... 作结果状语，that 引导宾语从句，从句主语 few of us，谓语 use，宾语 modes of thought。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"This breaks the major rule in the American belief system—that anyone can do anything,\" explains M. J. Ryan, author of the 2006 book This Year I Will... and Ms. Markova's business partner.",
+    "translation": "马尔科娃女士的商业合伙人、2006年《今年我将……》一书的作者M. J. 瑞安解释道：“这打破了美国信仰体系中的核心法则——即任何人都可以做任何事。”",
+    "syntaxAnalysis": "引语倒装句。主语 This；谓语 breaks；宾语 the major rule in the American belief system；破折号后 that 引导同位语从句解释 rule；主句谓语 explains；主语 M. J. Ryan；后面跟随两个并列同位语短语说明其著作与合伙人身份。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "\"That's a lie that we have perpetuated, and it fosters commonness.\"",
+    "translation": "“那是一个我们长久以来一直在沿袭固化的谎言，它助长了平庸大众的产生。”",
+    "syntaxAnalysis": "and 连接的并列复合句。分句1主语 That，系动词 is，表语 a lie，that we have perpetuated 为定语从句修饰 lie；分句2主语 it，谓语 fosters，宾语 commonness。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 4,
+      "ps": "P7-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "\"Knowing what you're good at and doing even more of it creates excellence.\"",
+    "translation": "“清楚自己擅长什么，并且在擅长的领域投入更多努力，才能缔造卓越。”",
+    "syntaxAnalysis": "主谓宾句。主语为两个由 and 连接的动名词并列复合结构 Knowing what you're good at and doing even more of it；谓语动词 creates；宾语 excellence。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 5,
+      "ps": "P7-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "This is where developing new habits comes in.",
+    "translation": "而这正是培养新习惯发挥关键作用的地方。",
+    "syntaxAnalysis": "主系表结构。主语 This；系动词 is；表语从句 where developing new habits comes in（come in 为固定动词短语，表示‘起作用，参与进来’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  }
+]

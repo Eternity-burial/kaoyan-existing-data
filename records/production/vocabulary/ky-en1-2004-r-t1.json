@@ -1,0 +1,2238 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "database",
+    "word": "database",
+    "ipa": "ˈdetəˌbes",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "n. 数据库,资料库",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "search",
+    "word": "search",
+    "ipa": "sɜːtʃ",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n./v. 搜寻，搜查",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "agent",
+    "word": "agent",
+    "ipa": "'edʒənt",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "n. 代理人,代理商 n.原动力,动因",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "feature",
+    "word": "feature",
+    "ipa": "'fiːtʃə(r)",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "n.特征;容貌;特色;特写 v.以……为特色",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "criteria",
+    "word": "criteria",
+    "ipa": "kraɪˈtɪriə",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "n.（评判/做决定的）标准，准则，尺度 （criterion 的复数）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "title",
+    "word": "title",
+    "ipa": "/ˈtaɪtəl/",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "一种具体期刊或出版物（常用释义：标题；书名；头衔；职称）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "salary",
+    "word": "salary",
+    "ipa": "/ˈsæləri/",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "工资，薪水（常用释义：定期支付的薪金）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "database",
+    "word": "database",
+    "ipa": "ˈdetəˌbes",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "n. 数据库,资料库",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "intellectual property",
+    "word": "intellectual property",
+    "ipa": "/ˌɪntəlektʃuəl ˈprɒpəti/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "知识产权",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "legal",
+    "word": "legal",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "adj.合法的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "intellectual",
+    "word": "intellectual",
+    "ipa": "/ˌɪntəˈlektʃuəl/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "智力的；思想的（常用释义：知识分子；理智的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "Washington",
+    "word": "Washington",
+    "ipa": "/ˈwɒʃɪŋtən/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "美国联邦政府（常用释义：华盛顿（城市））",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "resume",
+    "word": "resume",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S6",
+    "contextMeaning": "v.恢复（职位），回到（座位）；继续说，接着说；概述；（中断后）重新开始，",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "employer",
+    "word": "employer",
+    "ipa": "ɪmˈplɔɪər",
+    "pos": null,
+    "sourceLocation": "P1-S6",
+    "contextMeaning": "n. 雇主",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P1-S6",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "company",
+    "word": "company",
+    "ipa": "ˈkəmpəˌni",
+    "pos": null,
+    "sourceLocation": "P1-S6",
+    "contextMeaning": "n. 公司 n. 剧团，表演",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "Search",
+    "word": "Search",
+    "ipa": "sɜːtʃ",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "n./v. 搜寻，搜查",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "search",
+    "word": "search",
+    "ipa": "sɜːtʃ",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n./v. 搜寻，搜查",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "agent",
+    "word": "agent",
+    "ipa": "'edʒənt",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n. 代理人,代理商 n.原动力,动因",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "career",
+    "word": "career",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "n.职业生涯，事业",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "Narrowing",
+    "word": "Narrowing",
+    "ipa": "ˈnæroʊɪŋ",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n.收缩；变窄 v.变窄（narrow 的现在分词）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "criteria",
+    "word": "criteria",
+    "ipa": "kraɪˈtɪriə",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n.（评判/做决定的）标准，准则，尺度 （criterion 的复数）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "work",
+    "word": "work",
+    "ipa": "wɜ:rk",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n.工作(量);作品;[pl.]工厂 v.工作;运转",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "answer",
+    "word": "answer",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "v.答复；n. 回答",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "question",
+    "word": "question",
+    "ipa": "/ˈkwestʃən/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "质疑……的合理性（常用释义：询问；怀疑；质疑）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "eliminate",
+    "word": "eliminate",
+    "ipa": "/ɪˈlɪmɪneɪt/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "消除；取消（常用释义：消除；淘汰；排除）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "one",
+    "word": "one",
+    "ipa": "/wʌn/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "其中一个（问题）（常用释义：一；一个人/事物）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "expert",
+    "word": "expert",
+    "ipa": "ˈekspɜːt",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "n. 专家，能手",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "For",
+    "word": "For",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S4",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "search",
+    "word": "search",
+    "ipa": "sɜːtʃ",
+    "pos": null,
+    "sourceLocation": "P2-S4",
+    "contextMeaning": "n./v. 搜寻，搜查",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "narrow",
+    "word": "narrow",
+    "ipa": "/ˈnærəʊ/",
+    "pos": null,
+    "sourceLocation": "P2-S4",
+    "contextMeaning": "缩小；限制范围（常用释义：狭窄的；缩小）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "concept",
+    "word": "concept",
+    "ipa": "/ˈkɒnsept/",
+    "pos": null,
+    "sourceLocation": "P2-S4",
+    "contextMeaning": "概念；理念（常用释义：观念；构想）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "broaden",
+    "word": "broaden",
+    "ipa": "ˈbrɔːdn",
+    "pos": null,
+    "sourceLocation": "P2-S4",
+    "contextMeaning": "v.增长（经验、知识等）；变宽，变阔；（使）扩大影响",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "expert",
+    "word": "expert",
+    "ipa": "ˈekspɜːt",
+    "pos": null,
+    "sourceLocation": "P2-S5",
+    "contextMeaning": "n. 专家，能手",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "career",
+    "word": "career",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "n.职业生涯，事业",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "implicit",
+    "word": "implicit",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "adj.含蓄的，未言明的；内含的，固有的；无疑问的，无保留的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "Instead",
+    "word": "Instead",
+    "ipa": "/ɪnˈsted/",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "相反；取而代之的是（常用释义：作为替代；反而）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "strategy",
+    "word": "strategy",
+    "ipa": "/ˈstrætədʒi/",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "策略；总体方案（常用释义：战略；策略；规划）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "use",
+    "word": "use",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "n./v. 使用，用途",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "agent",
+    "word": "agent",
+    "ipa": "'edʒənt",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "n. 代理人,代理商 n.原动力,动因",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "tip",
+    "word": "tip",
+    "ipa": "tɪp",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "n.小费；诀窍，建议；尖端 v.（使）倾斜；给小费；倒出；打翻；",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "particular",
+    "word": "particular",
+    "ipa": "/pəˈtɪkjələ(r)/",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "某一特定的（常用释义：特定的；特别的；讲究的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "database",
+    "word": "database",
+    "ipa": "ˈdetəˌbes",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "n. 数据库,资料库",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "consider",
+    "word": "consider",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "v.考虑；认为；觉得；以为；仔细考虑；细想；体谅；顾及；端详",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "reminder",
+    "word": "reminder",
+    "ipa": "rɪˈmaɪndər",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "n.提醒物；（提醒做某事的）提示信，通知单",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "check",
+    "word": "check",
+    "ipa": "tʃek",
+    "pos": null,
+    "sourceLocation": "P2-S6",
+    "contextMeaning": "v.托运(行李)",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "rely on",
+    "word": "rely on",
+    "ipa": "/rɪˈlaɪ ɒn/",
+    "pos": null,
+    "sourceLocation": "P2-S7",
+    "contextMeaning": "依赖；依靠（常用释义：depend on）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S7",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "database",
+    "word": "database",
+    "ipa": "ˈdetəˌbes",
+    "pos": null,
+    "sourceLocation": "P2-S7",
+    "contextMeaning": "n. 数据库,资料库",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "interest",
+    "word": "interest",
+    "ipa": "/ˈɪntrəst/",
+    "pos": null,
+    "sourceLocation": "P2-S7",
+    "contextMeaning": "利益、权益（常用释义：兴趣；利息；关注）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "guide",
+    "word": "guide",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P2-S7",
+    "contextMeaning": "v.指引、指导",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "design",
+    "word": "design",
+    "ipa": "/dɪˈzaɪn/",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "设计（常用释义：设计；计划；图案；目的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "tempt",
+    "word": "tempt",
+    "ipa": "tempt",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "v.诱惑,引诱;吸引,使感兴趣",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "return",
+    "word": "return",
+    "ipa": "rɪˈtɜːn",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "v. 归还",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "agent",
+    "word": "agent",
+    "ipa": "'edʒənt",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "n. 代理人,代理商 n.原动力,动因",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "potential",
+    "word": "potential",
+    "ipa": "/pəˈtenʃəl/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "可能性；潜力（常用释义：潜力；潜在的）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "database",
+    "word": "database",
+    "ipa": "ˈdetəˌbes",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "n. 数据库,资料库",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "will",
+    "word": "will",
+    "ipa": "/wɪl/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "遗嘱（常用释义：将要；意志；遗嘱）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "find",
+    "word": "find",
+    "ipa": "faɪnd",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "v.找到;发现;发觉",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "sharp",
+    "word": "sharp",
+    "ipa": "ʃɑːp",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "adj.锋利的;轮廓分明的;急转的 adv.(指时刻)正",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "increase",
+    "word": "increase",
+    "ipa": "ɪnˈkriːs",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "v./n. 增加，繁殖",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "traffic",
+    "word": "traffic",
+    "ipa": "ˈtræfɪk",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "n. 路上行驶",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "vice",
+    "word": "vice",
+    "ipa": "vaɪs",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "n. 恶习；堕落 v.握住 adj.副的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "president",
+    "word": "president",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "n.总统，国家主席；负责人，会长，院长，主席；董事长，行长，总裁",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S5",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "find",
+    "word": "find",
+    "ipa": "faɪnd",
+    "pos": null,
+    "sourceLocation": "P3-S5",
+    "contextMeaning": "v.找到;发现;发觉",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "search",
+    "word": "search",
+    "ipa": "sɜːtʃ",
+    "pos": null,
+    "sourceLocation": "P3-S5",
+    "contextMeaning": "n./v. 搜寻，搜查",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "worthwhile",
+    "word": "worthwhile",
+    "ipa": "ˌwɜːrθˈwaɪl",
+    "pos": null,
+    "sourceLocation": "P3-S5",
+    "contextMeaning": "adj.重要的，有益的，值得做的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "use",
+    "word": "use",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "n./v. 使用，用途",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "work",
+    "word": "work",
+    "ipa": "wɜ:rk",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "n.工作(量);作品;[pl.]工厂 v.工作;运转",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "gather",
+    "word": "gather",
+    "ipa": "/ˈɡæðə/",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "收集（常用释义：聚集；收集；推断）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "information",
+    "word": "information",
+    "ipa": "ɪnfəˈmeɪʃ(ə)n",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "n. 信息",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "compensation",
+    "word": "compensation",
+    "ipa": "ˌkɑmpənˈseɪʃən",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "n.补偿(或赔偿)的款物;补偿,赔偿",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "arm",
+    "word": "arm",
+    "ipa": "/ɑːm/",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "使配备；用……保护自己（常用释义：武装；装备）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "raise",
+    "word": "raise",
+    "ipa": "reɪz",
+    "pos": null,
+    "sourceLocation": "P3-S6",
+    "contextMeaning": "v. 举起，提",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "agent",
+    "word": "agent",
+    "ipa": "'edʒənt",
+    "pos": null,
+    "sourceLocation": "P3-S7",
+    "contextMeaning": "n. 代理人,代理商 n.原动力,动因",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "search",
+    "word": "search",
+    "ipa": "sɜːtʃ",
+    "pos": null,
+    "sourceLocation": "P3-S9",
+    "contextMeaning": "n./v. 搜寻，搜查",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "agent",
+    "word": "agent",
+    "ipa": "'edʒənt",
+    "pos": null,
+    "sourceLocation": "P3-S9",
+    "contextMeaning": "n. 代理人,代理商 n.原动力,动因",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "surface": "for",
+    "word": "for",
+    "ipa": "",
+    "pos": null,
+    "sourceLocation": "P3-S9",
+    "contextMeaning": "v.寻找;探索;渴望;盼望",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  }
+]

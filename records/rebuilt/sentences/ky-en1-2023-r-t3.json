@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "If you're heading for your nearest branch of Waterstones, the biggest book retailer in the UK, in search of the Duchess of Sussex's new children's book The Bench, you might have to be prepared to hunt around a bit; the same may be true of The President's Daughter, the new thriller by Bill Clinton and James Patterson.",
+    "translation": "如果你此刻正前往离你最近的英国最大图书零售连锁巨头水石书店（Waterstones）分店，试图寻购萨塞克斯公爵夫人（梅根）的新作儿童绘本《长椅》（The Bench），你恐怕得做好在角落里四处翻找搜寻一番的心理准备；比尔·克林顿与詹姆斯·帕特森合著的最新政治惊悚小说《总统的女儿》（The President's Daughter）大概也是同样的尴尬遭遇。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Both of these books are published next week by Penguin Random House (PRH), a company currently involved in a stand-off with Waterstones.",
+    "translation": "这两本重磅大作均由企鹅兰登书屋（PRH）于下周出版发行，而这家全球出版巨头目前正深陷一场与水石书店剑拔弩张的商业对峙僵局之中（currently involved in a stand-off with Waterstones / present an ongoing conflict）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The problem began late last year, when PRH confirmed that it had introduced a credit limit with Waterstones \"at a very significant level\".",
+    "translation": "矛盾风暴始于去年底，当时企鹅兰登正式确认对水石书店引入了“极大幅度的”信用赊销额度限制（credit limit）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables, display spaces and windows, and were \"quietly retiring them to their relevant sections\".",
+    "translation": "行业权威杂志《书商》（The Bookseller）披露报道称，水石书店各分店经理接到高层指令，要求将企鹅兰登旗下的所有图书从展台、黄金陈列区和临街橱窗等显眼核心位置全面撤除，并将其“悄然归置退居到各自所属的普通专业分类书架区域”（retire books to sections to respond to PRH's business move）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "PRH declined to comment on the issue, but a spokesperson for Waterstones told me: \"Waterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock.\"",
+    "translation": "企鹅兰登对此事拒绝置评，但水石书店发言人向我透露：“水石书店目前是在企鹅兰登缩减信用条款的限制下运营——他们也是全英国唯一一家对我们的商业交易能力施加任何限制的出版商。我们绝没有刻意抵制企鹅兰登的图书，而是在总库存水平受限的情况下竭尽全力确保读者的购书需求得到保障。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "\"We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately. Certainly, our shops are exceptionally busy. The sales for our May Books of the Month surpassed any month since 2018.\"",
+    "translation": "“随着我们实体书店的全面重新开业，我们满怀希望常态能够尽快恢复，并希望我们能被允许按正常需求合理采购（credit limit will be removed / allowed to buy appropriately）。毫无疑问，我们的书店目前客流极其异常火爆；我们5月份的‘月度精选图书’销售额甚至一举超越了2018年以来的任何一个单月纪录！”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "In the meantime, PRH authors have been the losers. Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute.",
+    "translation": "在此期间，企鹅兰登旗下的广大签约作者不幸沦为了最大的牺牲品输家。大牌明星作家或许只是蒙受些许微小损失；但那些日常极度依赖水石书店店员热情自发向读者大力推介小众作者作品的“腰部作者群”（mid-list authors），如今其图书销量大幅暴跌跌落（sales fell off considerably），正日夜祈祷这场商业争端能够早日画上句号。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "It comes at a time when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster—the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published.",
+    "translation": "这场冲突爆发之际，作家们本就正对企鹅兰登拟与另一大出版巨头西蒙与舒斯特（Simon & Schuster）进行巨额并购的灾难性后果深感忧虑——独立非结盟的英国出版商数量大幅锐减，极可能导致版权竞价大战减少、预付版税金大幅缩水，并在出版物内容题材上造成愈发千篇一律的严重趋同化。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "\"This is all part of a wider change towards concentration of power,\" says literary agent Andrew Lownie. \"The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. After all, many of the most interesting books in recent years have come from small publishers.\"",
+    "translation": "“这一切完全是出版业走向‘权力寡头过度集中’这一更广泛危险变革的重要一环，”著名文学经纪人安德鲁·朗尼一针见血地指出，“出版行业整天高谈阔论作者与员工的多元化，但它更迫切需要的是在思想触达、自主选择以及多元声音传播途径上的真正‘多元共存’（plurality）。毕竟，近年来许多最引人入胜的精彩好书，恰恰全部源自富有活力的独立小型出版商（merger of publishers is a worrying trend）！”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "We shall see whether that plurality is a casualty of the current need among publishers to be big enough to take on all comers.",
+    "translation": "我们且将拭目以待：当今出版商为了将自身体量无限做大以碾压征服一切竞争对手的狂热垄断诉求，究竟是否会以彻底扼杀牺牲出版业的思想多元性作为惨重代价。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KaoyanExistingBuildManifest",
+  "type": "object",
+  "required": [
+    "dataset",
+    "description",
+    "generatedAt",
+    "sourceLayers"
+  ],
+  "properties": {
+    "dataset": { "type": "string" },
+    "description": { "type": "string" },
+    "generatedAt": { "type": "string" },
+    "sourceLayers": {
+      "type": "object",
+      "required": ["production", "rebuilt"],
+      "properties": {
+        "production": {
+          "type": "object",
+          "required": ["years", "sourceFilesCount", "records"],
+          "properties": {
+            "years": {
+              "type": "array",
+              "items": { "type": "integer" }
+            },
+            "sourceFilesCount": { "type": "integer" },
+            "records": {
+              "type": "object",
+              "required": ["papers", "articles", "sentences", "vocabulary", "phrases", "questions"],
+              "properties": {
+                "papers": { "type": "integer" },
+                "articles": { "type": "integer" },
+                "sentences": { "type": "integer" },
+                "vocabulary": { "type": "integer" },
+                "phrases": { "type": "integer" },
+                "questions": { "type": "integer" }
+              }
+            }
+          }
+        },
+        "rebuilt": {
+          "type": "object",
+          "required": ["years", "sourceFilesCount", "records"],
+          "properties": {
+            "years": {
+              "type": "array",
+              "items": { "type": "integer" }
+            },
+            "sourceFilesCount": { "type": "integer" },
+            "records": {
+              "type": "object",
+              "required": ["articles", "sentences", "vocabulary", "phrases", "questions"],
+              "properties": {
+                "articles": { "type": "integer" },
+                "sentences": { "type": "integer" },
+                "vocabulary": { "type": "integer" },
+                "phrases": { "type": "integer" },
+                "questions": { "type": "integer" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

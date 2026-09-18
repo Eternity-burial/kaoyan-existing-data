@@ -1,0 +1,860 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "bleed",
+    "word": "bleed",
+    "ipa": "/bliːd/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "流血；持续亏损，耗尽资本",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "ink",
+    "word": "ink",
+    "ipa": "/ɪŋk/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "墨水；账目红字（red ink）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "bleed red ink",
+    "word": "bleed red ink",
+    "ipa": "/bliːd red ɪŋk/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "深陷财政巨额赤字，大出血亏损",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "fiscal",
+    "word": "fiscal",
+    "ipa": "/ˈfɪskl/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "财政的，财务年度的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "exceeded",
+    "word": "exceeded",
+    "ipa": "/ɪkˈsiːdɪd/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "超过，超越",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "liabilities",
+    "word": "liabilities",
+    "ipa": "/ˌlaɪəˈbɪlətiz/",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "负债，债务，不利条件",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "unfunded",
+    "word": "unfunded",
+    "ipa": "/ˌʌnˈfʌndɪd/",
+    "pos": null,
+    "sourceLocation": "P1-S3",
+    "contextMeaning": "无专款准备金的，未筹集资金的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "institution",
+    "word": "institution",
+    "ipa": "/ˌɪnstɪˈtjuːʃn/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "机构，体制，事业单位",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "verge",
+    "word": "verge",
+    "ipa": "/vɜːdʒ/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "边缘，濒临",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "on the verge of",
+    "word": "on the verge of",
+    "ipa": "/ɒn ðə vɜːdʒ əv/",
+    "pos": null,
+    "sourceLocation": "P1-S4",
+    "contextMeaning": "濒临……边缘，接近于",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "regulatory",
+    "word": "regulatory",
+    "ipa": "/ˈreɡjələtəri/",
+    "pos": null,
+    "sourceLocation": "P1-S5",
+    "contextMeaning": "监管的，管理条例的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "flexibility",
+    "word": "flexibility",
+    "ipa": "/ˌfleksəˈbɪləti/",
+    "pos": null,
+    "sourceLocation": "P1-S5",
+    "contextMeaning": "灵活性，自主权，弹性",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "bread-and-butter",
+    "word": "bread-and-butter",
+    "ipa": "/ˌbred n ˈbʌtə(r)/",
+    "pos": null,
+    "sourceLocation": "P1-S5",
+    "contextMeaning": "基本生计的，支柱主营业务的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "bread-and-butter",
+    "word": "bread-and-butter",
+    "ipa": "/ˌbred n ˈbʌtə(r)/",
+    "pos": null,
+    "sourceLocation": "P1-S5",
+    "contextMeaning": "最基本谋生支柱，主力核心业务",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "overseer",
+    "word": "overseer",
+    "ipa": "/ˈəʊvəsiːə(r)/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "监管者，监察官，督察",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "self-interested",
+    "word": "self-interested",
+    "ipa": "/ˌself ˈɪntrəstɪd/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "谋求私利的，自私自利的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "status quo",
+    "word": "status quo",
+    "ipa": "/ˌsteɪtəs ˈkwəʊ/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "现状，原有秩序",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "status quo",
+    "word": "status quo",
+    "ipa": "/ˌsteɪtəs ˈkwəʊ/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "现有体制与既得利益现状",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "deferring",
+    "word": "deferring",
+    "ipa": "/dɪˈfɜːrɪŋ/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "推迟，延缓",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "vehicles",
+    "word": "vehicles",
+    "ipa": "/ˈviːəklz/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "运输车辆，机动载具",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "retirees",
+    "word": "retirees",
+    "ipa": "/rɪˌtaɪəˈriːz/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "退休职工人员",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "offset",
+    "word": "offset",
+    "ipa": "/ˈɒfset/",
+    "pos": null,
+    "sourceLocation": "P3-S4",
+    "contextMeaning": "抵消，冲销，弥补",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "afloat",
+    "word": "afloat",
+    "ipa": "/əˈfləʊt/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "维持运转不致破产；漂浮的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "comprehensive",
+    "word": "comprehensive",
+    "ipa": "/ˌkɒmprɪˈhensɪv/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "全面的，彻底系统的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "bare",
+    "word": "bare",
+    "ipa": "/beə(r)/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "勉强够的，最基本的，赤裸的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "bargaining",
+    "word": "bargaining",
+    "ipa": "/ˈbɑːɡənɪŋ/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "谈判，讨价还价，协商",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "omission",
+    "word": "omission",
+    "ipa": "/əˈmɪʃn/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "遗漏，疏漏，未做之事",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "personnel",
+    "word": "personnel",
+    "ipa": "/ˌpɜːsəˈnel/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "人事，员工，劳动力成本",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "collective bargaining",
+    "word": "collective bargaining",
+    "ipa": "/kəˈlektɪv ˈbɑːɡənɪŋ/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "劳资集体薪资谈判体制",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "eliminating",
+    "word": "eliminating",
+    "ipa": "/ɪˈlɪmɪneɪtɪŋ/",
+    "pos": null,
+    "sourceLocation": "P4-S3",
+    "contextMeaning": "取消，消除，终结",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "consensus",
+    "word": "consensus",
+    "ipa": "/kənˈsensəs/",
+    "pos": null,
+    "sourceLocation": "P4-S6",
+    "contextMeaning": "共识，一致意见",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "frightened",
+    "word": "frightened",
+    "ipa": "/ˈfraɪtnd/",
+    "pos": null,
+    "sourceLocation": "P4-S6",
+    "contextMeaning": "感到恐惧害怕的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t4",
+    "surface": "transforming",
+    "word": "transforming",
+    "ipa": "/trænsˈfɔːmɪŋ/",
+    "pos": null,
+    "sourceLocation": "P4-S7",
+    "contextMeaning": "根本性变革，重塑改造",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  }
+]

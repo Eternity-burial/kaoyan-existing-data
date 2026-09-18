@@ -1,0 +1,579 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "The author holds that this year's increase in rail passenger fares",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "will ease train operators' burden.",
+        "isCorrect": false,
+        "distractorType": "颠倒受害者",
+        "analysis": "【干扰特征: 颠倒主体】涨价是给广大普通乘客强加了沉重额外负担（imposing significant extra burden on those who use rail），非减轻运营商负担。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "has kept pace with inflation.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】涨幅平均2.7%，远远高于官方 CPI 通胀率（well above CPI measure of inflation），非同步。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "is a big surprise to commuters.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】每年一月涨价已成为残酷可靠的年度惯例（grimly reliable annual ritual），绝非意外惊讶（surprise）。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "remains an unreasonable measure.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 开篇发难：'How can the train operators possibly justify yet another increase'（运营商究竟凭什么能为又一次涨价自圆其说？），P1-S3 明确指出即便涨幅微降但'still well above CPI inflation'（依然远超通胀水平，给通勤族施加沉重负担）。作者明确认为今年的票价上涨依然是一项完全不合理的举措（remains an unreasonable measure）。C选项精准契合作者的开篇核心定性。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点评价题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "How can operators justify yet another increase + well above inflation = remains an unreasonable measure。",
+      "methodSummary": "首段修辞反问与语气词提取：How can operators possibly justify 直接锁定态度为 unreasonable。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author holds",
+        "this year's increase in rail passenger fares"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "The stockbroker in Paragraph 2 is used to stand for",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "car drivers.",
+        "isCorrect": false,
+        "distractorType": "对比主体颠倒",
+        "analysis": "【干扰特征: 对立混淆】开汽车的是林肯郡的退休老人（car-driving pensioner），非股票经纪人。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "rail travellers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 语境指代精准对应】P2-S1 和 P2-S2 紧密对应：P2-S1 阐明政府原则是铁路成本应由'those who use it, rather than general taxpayer'（实际使用铁路的人承担，而非全体纳税人）；P2-S2 紧接着用具体生动的形象做对比：'Why should a car-driving pensioner (普通纳税人) subsidise the daily commute of a stockbroker (铁路实际使用者/乘客)'。股票经纪人在文中的隐喻功能正是用来代表日常坐火车出行的铁路乘客（rail travelers）。B选项完全精准吻合。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "local investors.",
+        "isCorrect": false,
+        "distractorType": "字面望文生义",
+        "analysis": "【干扰特征: 职业字面干扰】stockbroker（股票经纪人）是职业名词，但此处借指天天坐火车通勤的高收入白领铁路使用者，非本地投资人。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "ordinary taxpayers.",
+        "isCorrect": false,
+        "distractorType": "对比主体颠倒",
+        "analysis": "【干扰特征: 对比混淆】普通纳税人是由林肯郡的退休老人代表的（car-driving pensioner / general taxpayer）。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "例证指代题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "borne by those who use it vs general taxpayer = daily commute of stockbroker (rail travelers) vs car-driving pensioner (general taxpayer)。",
+      "methodSummary": "对比隐喻对应法：抓准 those who use rail network 对应 daily commute of stockbroker = rail travelers。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2021_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "stockbroker in Paragraph 2",
+        "used to stand for"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "It is indicated in Paragraph 3 that train operators",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "are offering compensation to commuters.",
+        "isCorrect": false,
+        "distractorType": "偷换事实",
+        "analysis": "【干扰特征: 事实混淆】作者认为受罢工影响者理应获得赔偿（should receive compensation），非运营商已经在主动提供赔偿。",
+        "refSentences": [
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "are trying to repair relations with the unions.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端推测】未提及运营商试图修复与工会的关系。",
+        "refSentences": [
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "have failed to provide an adequate service.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确指出运营商的严重失职：'passengers should be able to expect a basic level of service for the substantial sums they are now paying'（乘客支付了如此高昂的巨款，理应能期望获得最起码的基本水准服务），言下之意正是当前的服务根本未能达到合格标准（failed to provide an adequate service）。C选项精准还原了该转折句所表达的事实判断。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "have suffered huge losses owing to the strikes.",
+        "isCorrect": false,
+        "distractorType": "主体颠倒",
+        "analysis": "【干扰特征: 颠倒受害者】承受严重停运损失和混乱的是广大乘客通勤族（those worst affected），非运营商。",
+        "refSentences": [
+          "P3-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "passengers paying substantial sums should expect a basic level of service = operators have failed to provide an adequate service。",
+      "methodSummary": "弦外之音推断：should be able to expect a basic level of service 暗示当前现实中 failed to provide adequate service。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2021_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "indicated in Paragraph 3",
+        "train operators"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "If unable to calm down passengers, the railways may have to face",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a change of ownership.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S3 明确警示平息不了乘客愤怒的终极后果：'The threat of nationalisation... will return with a vengeance if the justified anger of passengers is not addressed'（如果乘客的正当愤怒未能迅速得到解决，国有化的威胁必将以复仇之势卷土重来）。nationalisation（国有化）的法律与经济本质正是从私营转为国有的“所有权变更/产权更迭”（a change of ownership）。D选项完全精准吻合。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "a reduction of revenue.",
+        "isCorrect": false,
+        "distractorType": "次要表象",
+        "analysis": "【干扰特征: 偏离要害】末句明确指出的终极致命威胁是国有化产权变革。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the loss of investment.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】铁路系统依然需要更多投资（more investment is needed），非面临投资流失。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the collapse of operations.",
+        "isCorrect": false,
+        "distractorType": "过度推断夸大",
+        "analysis": "【干扰特征: 夸大范围】面临的是被政府收归国有，非整个铁路系统彻底停止运转崩盘。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P4-S2",
+      "P4-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "threat of nationalisation will return if anger not addressed = may face a change of ownership（面临所有权变更）。",
+      "methodSummary": "概念本质对应法：nationalisation（国有化）抽象同义转换为 a change of ownership（所有权变更）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "unable to calm down passengers",
+        "railways may have to face"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ever-rising Fares Aren't Sustainable.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨概括】全文开篇即质问票价连年上涨（another increase / annual ritual / well above inflation），中篇剖析高昂票价与劣质服务的不对等，尾段在 P4-S2 明确得出核心论点：'passengers will not be willing to pay more indefinitely if they must endure cramped, unreliable services'（如果只能得到拥挤不可靠的服务，乘客绝不可能无限期容忍票价上涨）。D选项 Ever-rising Fares Aren't Sustainable（连年暴涨的票价绝不可持续）全面、精准且有力地统领了全文的核心论述主线，为最佳标题。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S3",
+          "P3-S2",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Who Are to Blame for the Strikes?.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局部论据】罢工只是第三段讨论的痛点之一，文章核心矛盾是票价连年暴涨与服务极差的不可持续。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Constant Complaining Doesn't Work.",
+        "isCorrect": false,
+        "distractorType": "无中生有颠倒",
+        "analysis": "【干扰特征: 正反颠倒】作者完全支持乘客的正当愤怒与抱怨诉求（justified anger），呼吁必须严肃解决。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Can Nationalisation Bring Hope?.",
+        "isCorrect": false,
+        "distractorType": "以偏概全偏激",
+        "analysis": "【干扰特征: 次要结尾警告】国有化是文末作为悬在运营商头顶的惩罚之剑被提及，非全文核心探讨的主题。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "主旨标题题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S3",
+      "P3-S2",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "passengers will not be willing to pay more indefinitely for cramped unreliable service = Ever-rising Fares Aren't Sustainable。",
+      "methodSummary": "主旨标题题核心论点概括法：抓准贯穿首尾的核心命题（Ever-rising fares + not pay indefinitely = Aren't Sustainable）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "best title",
+        "the text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t1.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7275d5e702ab3f927a743950483edb9cd66ecf887fd172b09637af8c1b18761"
+    }
+  }
+]

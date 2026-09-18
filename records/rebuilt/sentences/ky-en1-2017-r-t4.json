@@ -1,0 +1,645 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "In a rare unanimous ruling, the US Supreme Court has overturned the corruption conviction of a former Virginia governor, Robert McDonnell.",
+    "translation": "在一项罕见的、一致通过的裁决中，美国最高法院推翻了对前弗吉尼亚州州长罗伯特·麦克唐纳的贪腐定罪。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "But it did so while holding its nose at the ethics of his conduct, which included accepting gifts such as a Rolex watch and a Ferrari automobile from a company seeking access to government.",
+    "translation": "不过，最高法院在作出这一裁决的同时，却对他行为背后的道德规范嗤之以鼻；这些行为包括收受一家谋求与政府接触的公司所赠送的劳力士手表、法拉利轿车等礼物。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句+时间状语分词短语+非限制性定语从句",
+      "mainClause": "But it did so...",
+      "modifiers": "while holding its nose at the ethics of his conduct 作伴随时间状语；which included accepting gifts... 为非限制性定语从句修饰 conduct；from a company 为来源状语；seeking access to government 为现在分词短语作后置定语修饰 company。",
+      "corePattern": "hold one's nose at sth.（对……嗤之以鼻/捏着鼻子容忍）；seek access to（谋求接近/接触某人或机构）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": true,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The high court's decision said the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at his \"official acts,\" or the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties.",
+    "translation": "最高法院的裁决指出，法官在审理麦克唐纳先生的案件中未能告知陪审团必须只考虑他的“公务行为”，也就是这位前州长就与其职责相关的“特定”以及“待定”问题作出的决定。",
+    "syntaxAnalysis": {
+      "structureType": "主谓+省略that的宾语从句+双宾语从句及同位语",
+      "mainClause": "The high court's decision said (that)...",
+      "modifiers": "the judge... failed to tell a jury 为宾语从句；that it must look only at his 'official acts' 为 tell 的直接引语从句；or the former governor's decisions... 为 official acts 的同位语说明；related to his duties 为过去分词短语修饰 issues。",
+      "corePattern": "fail to do sth.（未能做某事）；look only at sth.（只着眼于某事）；issues related to duties（与职责相关的问题）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Merely helping a gift-giver gain access to other officials, unless done with clear intent to pressure those officials, is not corruption, the justices found.",
+    "translation": "大法官们裁定，如果仅仅是帮助送礼者获得接近其他官员的机会，那么这种行为并不属于贪污腐败，除非带有明确的意图要对那些官员施压。",
+    "syntaxAnalysis": {
+      "structureType": "动名词短语作主语+条件状语从句+主系表主干+插入语",
+      "mainClause": "Merely helping a gift-giver gain access to other officials... is not corruption, the justices found.",
+      "modifiers": "Merely helping a gift-giver gain access... 为动名词短语作主语；unless done with clear intent to pressure those officials 为省略了主语和be动词的条件状语从句；the justices found 为句末插入语。",
+      "corePattern": "gain access to（获得对……的接触机会）；unless done with intent to do（除非带着做……的意图）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The court did suggest that accepting favors in return for opening doors is \"distasteful\" and \"nasty.\"",
+    "translation": "最高法院的确认为，收受好处作为给他人提供便利（也就是“开后门”）的报答是“令人不齿的”且“卑鄙龌龊的”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a contract or regulation.",
+    "translation": "但是根据反贿赂法，作为贪腐的证据必须由实实在在的利益构成，比如批准一份合同或者一项规定。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Simply arranging a meeting, making a phone call, or hosting an event is not an \"official act\".",
+    "translation": "仅仅安排一次会面、拨打一个电话或者主持一项活动其实都算不上是“公务行为”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "The court's ruling is legally sound in defining a kind of favoritism that is not criminal.",
+    "translation": "最高法院的裁决在法律上是合理的，因为它界定了一种不违法的“偏袒行为”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Elected leaders must be allowed to help supporters deal with bureaucratic problems without fear of prosecution for bribery.",
+    "translation": "民选领袖应该要被允许帮助其支持者解决繁文缛节的问题而不用担心被起诉受贿。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "\"The basic compact underlying representative government,\" wrote Chief Justice John Roberts for the court, \"assumes that public officials will hear from their constituents and act on their concerns.\"",
+    "translation": "“代议制政府下的基本契约认为，公职人员要倾听选民的心声，并且要依据选民所关心的问题而行事。”最高法院首席法官约翰·罗伯茨写道。",
+    "syntaxAnalysis": {
+      "structureType": "直接引语主干+现在分词后置定语+宾语从句+插入语",
+      "mainClause": "The basic compact assumes that public officials will hear from their constituents and act on their concerns.",
+      "modifiers": "underlying representative government 为现在分词短语作后置定语修饰 compact；wrote Chief Justice John Roberts for the court 为分割引语的插入语；that 引导 assumes 的宾语从句，从句中包含 hear from 和 act on 两个并列谓语动词短语。",
+      "corePattern": "the compact underlying sth.（潜存于……之下的契约基石）；hear from constituents（倾听选民意见）；act on concerns（根据选民关切采取行动）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government.",
+    "translation": "但是该裁决强化了公民以及他们所选出的代表，而不是法院，确保能够公平地接触政府的需求。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "Officials must not be allowed to play favorites in providing information or in arranging meetings simply because an individual or group provides a campaign donation or a personal gift.",
+    "translation": "官员不能仅因为某个人或者团体为其提供了竞选捐助或者个人礼物就在提供信息或安排接见时对他们有所偏袒。",
+    "syntaxAnalysis": {
+      "structureType": "被动语态主句+并列介词短语+原因状语从句",
+      "mainClause": "Officials must not be allowed to play favorites...",
+      "modifiers": "in providing information or in arranging meetings 为两个并列介词短语作领域状语；simply because an individual or group provides... 为原因状语从句。",
+      "corePattern": "be allowed to do（被允许做某事）；play favorites（厚此薄彼/拉偏架/玩弄偏袒）；simply because（仅仅因为）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader's source of wealth.",
+    "translation": "这种形式的廉正需要在公务会面的记录、游说的规则以及每位民选领袖的财富来源信息等政务管理透明化方面拥有落实到位的法律作为配合。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句+介词短语+such as列举结构",
+      "mainClause": "This type of integrity requires well-enforced laws...",
+      "modifiers": "well-enforced 为复合过去分词作定语；in government transparency 作定语修饰 laws；such as records of..., rules on..., and information about... 为介词短语列举说明法律所涵盖的三个具体维度。",
+      "corePattern": "well-enforced laws（执行有力的法律）；government transparency（政务公开透明）；source of wealth（财富来源）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "Favoritism in official access can fan public perceptions of corruption.",
+    "translation": "官员接见中的偏袒行为会煽动公众对于贪腐的感知。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P7-S2",
+      "pIndex": 7
+    },
+    "text": "But it is not always corruption.",
+    "translation": "但它并非一定就是贪腐。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P7-S3",
+      "pIndex": 7
+    },
+    "text": "Rather officials must avoid double standards, or different types of access for average people and the wealthy.",
+    "translation": "确切地说，官员必须避免双重标准，即避免让普通人和富人享有不同的接触政府的机会。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 4,
+      "ps": "P7-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P7-S4",
+      "pIndex": 7
+    },
+    "text": "If connections can be bought, a basic premise of democratic society—that all are equal in treatment by government—is undermined.",
+    "translation": "如果人际关系可以靠金钱来收买的话，那么民主社会的基本前提——人人都享有政府平等对待的权利——就会遭到破坏。",
+    "syntaxAnalysis": {
+      "structureType": "条件状语从句+主系表被动主句+同位语从句",
+      "mainClause": "a basic premise of democratic society is undermined.",
+      "modifiers": "If connections can be bought 为条件状语从句；that all are equal in treatment by government 为破折号夹入的同位语从句，精确阐释 basic premise 的核心内涵。",
+      "corePattern": "connections can be bought（人脉关系可以被金钱收买）；a basic premise of sth.（……的基本前提）；equal in treatment（在待遇上人人平等）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 5,
+      "ps": "P7-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P7-S5",
+      "pIndex": 7
+    },
+    "text": "Good governance rests on an understanding of the inherent worth of each individual.",
+    "translation": "良好的政府治理有赖于对每个人固有价值的理解。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t4",
+    "location": {
+      "paragraph": 8,
+      "sentence": 1,
+      "ps": "P8-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P8-S1",
+      "pIndex": 8
+    },
+    "text": "The court's ruling is a step forward in the struggle against both corruption and official favoritism.",
+    "translation": "最高法院的裁决是在同贪污腐败以及公务偏袒这两者的斗争中所取得的进步。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t4.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:01b31989a7e78838c7bac6c3d2987fa0105750a4a510590da0e1f4b1533fe4cc"
+    }
+  }
+]

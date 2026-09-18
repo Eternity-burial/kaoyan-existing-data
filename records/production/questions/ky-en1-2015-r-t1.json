@@ -1,0 +1,834 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "According to the first two paragraphs, King Juan Carlos of Spain _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "used to enjoy high public support.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。首段提到欧洲选举中左翼共和党大受欢迎（the popularity of the republican left），第二段提到佛朗哥统治结束时公众舆论严重极化，但文章并未提及卡洛斯国王本人曾经享有极高的公众支持率。",
+        "vocab": [
+          {
+            "word": "eased",
+            "ipa": "",
+            "meaning": "缓和",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "relationship",
+            "ipa": "[rɪˈleɪʃnʃɪp]",
+            "meaning": "关系",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "rivals",
+            "ipa": "",
+            "meaning": "竞争对手",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "was unpopular among European royals.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中仅提及西班牙王室危机引发了所有欧洲王室的集体拷问，未提及卡洛斯在欧洲其他王室同僚中是否受欢迎。",
+        "vocab": [
+          {
+            "word": "used",
+            "ipa": "[juːst]",
+            "meaning": "过去曾",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "public",
+            "ipa": "[ˈpʌblɪk]",
+            "meaning": "公众支持",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "eased his relationship with his rivals.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。前两段中完全没有提及卡洛斯国王与政敌或对手（rivals）缓和了关系。",
+        "vocab": [
+          {
+            "word": "royals",
+            "ipa": "",
+            "meaning": "王室成员",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "ended his reign in embarrassment.",
+        "isCorrect": true,
+        "analysis": "定位至第一段第二句：“But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down.” 令人难堪的丑闻（embarrassing scandals）迫使他自食其言并退位（stand down）。stand down 对应 ended his reign（结束统治），embarrassing 对应 in embarrassment（在尴尬中），选项D高度凝练地同义概括了原文核心事实。",
+        "vocab": [
+          {
+            "word": "reign",
+            "ipa": "[reɪn]",
+            "meaning": "君主统治时期",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "ended his reign in embarrassment": "embarrassing scandals ... have forced him to eat his words and stand down (令人尴尬的丑闻迫使他收回前言并退位 -> 在尴尬中结束其统治)"
+    },
+    "methodologyReview": "事实细节题。考查核心短语同义替换：stand down（下台/让出王位）等价于 ended his reign（结束统治），embarrassing scandals 等价于 in embarrassment。排查选项时注意A、B、C均为凭空捏造的无中生有干扰项。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraphs",
+          "ipa": "",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Carlos",
+          "ipa": "",
+          "meaning": "[人名]胡安·卡洛斯",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Monarchs are kept as heads of state in Europe mostly _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "owing to their undoubted and respectable status.",
+        "isCorrect": true,
+        "analysis": "定位至第三段末句：“...most royal families have survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure.” 欧洲绝大多数王室之所以得以幸存，是因为他们使选民免去了寻找一位‘无可争议但受人尊敬的公众人物’的麻烦。这正说明君主自身具备 non-controversial（无可置疑，同义替换为 undoubted）与 respected（受人尊敬，同义替换为 respectable）的地位。",
+        "vocab": [
+          {
+            "word": "look",
+            "ipa": "[lʊk]",
+            "meaning": "尊敬，敬仰",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "to achieve a balance between tradition and reality.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第三段中完全未提及在传统与现实之间取得平衡（balance between tradition and reality）。",
+        "vocab": [
+          {
+            "word": "balance",
+            "ipa": "[ˈbæləns]",
+            "meaning": "平衡",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "tradition",
+            "ipa": "[trəˈdɪʃ(ə)n]",
+            "meaning": "传统",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reality",
+            "ipa": "[riˈæləti]",
+            "meaning": "现实",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "to give voters more public figures to look up to.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与正反颠倒。第三段明确说君主制“allow voters to avoid the difficult search for a non-controversial but respected public figure”（让选民免于去费力寻找公众人物），绝非为了给选民提供‘更多（more）’可以瞻仰的公众人物。",
+        "vocab": [
+          {
+            "word": "owing",
+            "ipa": "[ˈəʊɪŋ]",
+            "meaning": "把.归因于.",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "status",
+            "ipa": "[ˈsteɪtəs]",
+            "meaning": "地位",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "due to their everlasting political embodiment.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反矛盾与曲解文意。第二段强调君主能够超越‘纯粹’政治（rise above 'mere' politics），第三段首句亦强调其政治超越性（transcendence of politics），绝非因其具备‘永恒的政治化身（everlasting political embodiment）’。",
+        "vocab": [
+          {
+            "word": "due",
+            "ipa": "[djuː]",
+            "meaning": "由于，因为",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "owing to their undoubted and respectable status": "because they allow voters to avoid the difficult search for a non-controversial but respected public figure (因为他们免除了选民艰难寻找无可争议且受尊敬公众人物的麻烦 -> 由于他们无可争议且受人尊敬的地位)"
+    },
+    "methodologyReview": "因果细节题。考查因果同义替换：survived because... 对应 are kept... owing to...。同时考查词义替换：non-controversial 替换为 undoubted，respected 替换为 respectable。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Monarchs",
+          "ipa": "",
+          "meaning": "君主",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "heads",
+          "ipa": "",
+          "meaning": "国家元首",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "mostly",
+          "ipa": "[ˈməʊstli]",
+          "meaning": "主要地",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "Which of the following is shown to be odd, according to Paragraph 4?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Aristocrats' excessive reliance on inherited wealth.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴。第四段第三句提及托马斯·皮凯蒂等经济学家就世袭财富的权力增长发出警告，这是宏观经济学家的专业预警背景，并非作者指出感到‘奇怪古怪（odd/bizarre）’的事情本身。",
+        "vocab": [
+          {
+            "word": "excessive",
+            "ipa": "[ɪkˈsesɪv]",
+            "meaning": "过多的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reliance",
+            "ipa": "[rɪˈlaɪəns]",
+            "meaning": "依赖",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "The role of the nobility in modern democracies.",
+        "isCorrect": true,
+        "analysis": "定位至第四段末句：“...it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states.” 题干中的 odd 是原文 bizarre 的同义替换。形式主语 it 引导的主语从句明确指出：富有贵族家庭（wealthy aristocratic families 即 nobility）竟然依然充当着现代民主国家的象征核心（the symbolic heart of modern democratic states，即贵族在现代民主政治中的角色定位 role），这显得极其怪诞反常。",
+        "vocab": [
+          {
+            "word": "democracies",
+            "ipa": "",
+            "meaning": "民主",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "The simple lifestyle of the aristocratic families.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "跨段拼凑且反常识。王室的平民化亲民举动（骑自行车等）在第五段才出现，且绝非第四段所定性为 odd 的对象。"
+      },
+      {
+        "key": "D",
+        "text": "The nobility's adherence to their privileges.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "断章取义。第四段第二句指出君主制历史体现了过时站不住脚的特权与不平等，但第三句明确以 it is bizarre that... 强调其与现代民主体制格格不入的核心角色矛盾。",
+        "vocab": [
+          {
+            "word": "privileges",
+            "ipa": "",
+            "meaning": "特权",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "odd": "bizarre (古怪反常的 -> 奇怪的)",
+      "The role of the nobility in modern democracies": "wealthy aristocratic families should still be the symbolic heart of modern democratic states (富有贵族家庭依然充当现代民主国家的象征核心 -> 贵族在现代民主国家中的角色)"
+    },
+    "methodologyReview": "事实细节与态度理解题。定位词 odd 对应文中的 bizarre。重点抓住 it is bizarre that... 的真正主语从句内容，识别从句核心概念：wealthy aristocratic families (nobility) + symbolic heart of modern democratic states (role in modern democracies)。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "古怪的根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "The British royals \"have most to fear\" because Charles _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "takes a tough line on political issues.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中批判查尔斯未能理解君主应扮演‘非政治（non-political）’角色，但并未指明他在政治问题上采取强硬强权路线（tough line）。",
+        "vocab": [
+          {
+            "word": "fails",
+            "ipa": "",
+            "meaning": "未能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "adapt",
+            "ipa": "[əˈdæpt]",
+            "meaning": "使适应…",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "fails to change his lifestyle as advised.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中提及他生活方式昂贵奢华，但从未提及有人曾给过他改变生活方式的建议（as advised）。",
+        "vocab": [
+          {
+            "word": "fails",
+            "ipa": "",
+            "meaning": "未能",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "takes republicans as his potential allies.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反矛盾与曲解文意。第七段末句指出“it is kings, not republicans, who are the monarchy’s worst enemies”（国王自身而非共和党人才是君主制最大的敌人），选项曲解为查尔斯把共和党人视作潜在盟友。",
+        "vocab": [
+          {
+            "word": "republicans",
+            "ipa": "",
+            "meaning": "（美国）共和党党员",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "potential",
+            "ipa": "[pəˈtenʃ(ə)l]",
+            "meaning": "潜在的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "allies",
+            "ipa": "",
+            "meaning": "联盟",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "fails to adapt himself to his future role.",
+        "isCorrect": true,
+        "analysis": "定位至第七段第二、三句：“The danger will come with Charles, who has both an expensive taste of lifestyle and a pretty hierarchical view of the world. He has failed to understand that monarchies have largely survived because they provide a service—as non-controversial and non-political heads of state.” 查尔斯不仅追求穷奢极欲的生活方式，而且秉持森严等级世界观，根本未能理解立宪君主的核心生存法则——充当‘无争议、非政治的虚位国家元首’。这深刻表明他未能摆正自身作为现代虚位立宪君主的定位，未能使自己适应未来的国王角色（fails to adapt himself to his future role）。",
+        "vocab": [
+          {
+            "word": "tough",
+            "ipa": "[tʌf]",
+            "meaning": "采取强硬政策（或措施）",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "issues",
+            "ipa": "",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "fails to adapt himself to his future role": "failed to understand that monarchies have largely survived because they provide a service—as non-controversial and non-political heads of state (未能理解君主制作为无争议非政治国家元首的服务本质 -> 未能使自身适应未来的角色定位)"
+    },
+    "methodologyReview": "细节推理题。考查高层逻辑概括能力。查尔斯‘奢靡作风+等级观念+不懂非政治国家元首的本质服务’，在执政资格与制度适应层面上被高度概括为 fails to adapt himself to his future role（未能适应未来的角色）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "英语一_2015_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "royals",
+          "ipa": "",
+          "meaning": "王室成员",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Which of the following is the best title of the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Carlos, Glory and Disgrace Combined.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。卡洛斯的退位风波只是全文切入的引子，全文核心在于以此探讨整个欧洲君主制的存亡法则并警告英国王室，并非卡洛斯个人的荣辱兴衰史。",
+        "vocab": [
+          {
+            "word": "Glory",
+            "ipa": "[ˈɡlɔːri]",
+            "meaning": "光荣",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Charles, Anxious to Succeed to the Throne.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文章批判查尔斯的等级观念与未适应角色，从未涉及他是否‘急于继位（Anxious to Succeed）’。",
+        "vocab": [
+          {
+            "word": "Anxious",
+            "ipa": "[ˈæŋkʃəs]",
+            "meaning": "焦急的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Throne",
+            "ipa": "[θrəʊn]",
+            "meaning": "王位",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Carlos, a Lesson for All European Monarchs.",
+        "isCorrect": true,
+        "analysis": "最佳标题题。文章开篇以西班牙国王卡洛斯因丑闻与共和势力退位切入，随后深入剖析欧洲君主制能够幸存的根本原因（超脱政治、提供无争议公共服务）以及现代面临的特权危机，最后在第六、七段将西班牙案例确立为对全欧王室、尤其是对英国王室查尔斯王子的严正警示（the British royals who have most to fear from the Spanish example; it is kings who are worst enemies）。整篇社论以卡洛斯的教训为明镜，向整个欧洲王室发出存亡警钟。选项C将具体案例由头（Carlos）与全篇主旨立论（a Lesson for All European Monarchs）完美结合，最为宏观精当。",
+        "vocab": [
+          {
+            "word": "Monarchs",
+            "ipa": "",
+            "meaning": "君主",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Charles, Slow to React to the Coming Threats.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "断章取义且概念偏差。查尔斯只是第七段用于警示的一个反面案例，且作者批判的是其世界观与作风不适应现代立宪制度，而非其对威胁‘反应迟缓（Slow to React）’。",
+        "vocab": [
+          {
+            "word": "React",
+            "ipa": "[riˈækt]",
+            "meaning": "对…有反应",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Threats",
+            "ipa": "",
+            "meaning": "威胁",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Carlos, a Lesson for All European Monarchs": "The Spanish case provides arguments ... have most to fear from the Spanish example (西班牙退位案例对全欧王室的深刻警示 -> 卡洛斯：给所有欧洲君主的教训)"
+    },
+    "methodologyReview": "主旨标题题。优质标题需兼具‘切入个案点（Carlos）’与‘宏观主旨警示面（a Lesson for All European Monarchs）’。选项C兼备具体事件与宏观教训，精准统揽全文脉络。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  }
+]

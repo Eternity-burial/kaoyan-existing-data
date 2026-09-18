@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2018-r-t4",
+  "year": 2018,
+  "textNumber": 4,
+  "title": "USPS Deficit and the Dilemma of Postal Reform",
+  "chineseTitle": "美国邮政局（USPS）财政赤字与体制改革困局",
+  "topic": "公共机构治理与体制改革 / 传统邮政财政崩溃、利益集团游说阻挠与权宜之计",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文深入剖析了拥有悠久历史的美国邮政局（USPS）深陷严重赤字与濒临破产的深层次危机。2016财年USPS净亏损达56亿美元，背负逾1200亿美元无资金准备债务。文章揭示了危机的两大核心动因：一是互联网技术变革对普通信件（first-class mail）等支柱业务的永久性挤压；二是僵化的监管体制严重剥夺了管理层的经营自主权。而工会、贺卡制造商等利益集团对国会的强力游说，屡次扼杀了现代化改革方案。尽管众议院近期推进了一项包括提高邮资和转移退休医保的五年期减负法案，但该法案对占开支80%的人员成本（集体谈判）和取消周六投递等实质性降本措施避而不谈。作者辛辣批评这一所谓‘共识’不过是国会议员害怕邮政短期崩溃政治难看的治标之举（band-aid），远非面向21世纪的根本性体制改革。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 4,
+  "sentenceCount": 18,
+  "vocabularyCount": 0,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 1,
+        "sentenceId": "P1-S1",
+        "english": "The U.S. Postal Service (USPS) continues to bleed red ink.",
+        "chinese": "美国邮政局（USPS）持续陷入严重亏损赤字。",
+        "structureType": "主谓宾简单句 + 形象比喻短语",
+        "mainClause": "The U.S. Postal Service continues to bleed red ink.",
+        "modifiers": "(USPS) 为首字母缩略同位语；continues 为谓语动词；to bleed red ink 为不定式短语作宾语，使用了财经领域的生动比喻（bleed red ink 意指持续处于严重财政赤字、大量亏损）。",
+        "corePattern": "bleed red ink（持续严重亏损/深陷财政赤字）；continue to do sth.（继续/持续做某事）。"
+      },
+      {
+        "sentenceIndex": 5,
+        "sentenceId": "P1-S5",
+        "english": "Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+        "chinese": "从根本上说，USPS正处于一场历史性的两难挤压之中：一方面是技术变革永久性地降低了对其支柱产品（普通信件）的需求，另一方面是监管体制剥夺了管理层根据新现实灵活调整运营的自主权。",
+        "structureType": "主系表复合句 + between... and...双重平行结构 + 双重that定语从句",
+        "mainClause": "the USPS is in a historic squeeze between A and B...",
+        "modifiers": "Fundamentally 作状语；between A and B 结构中，A 是 technological change，由 that 引导定语从句修饰，first-class mail 作 bread-and-butter product 的同位语；B 是 a regulatory structure，由 that 引导定语从句修饰，从句中 denies 为双宾语动词（denies management the flexibility），to adjust its operations 为不定式后置修饰 flexibility。",
+        "corePattern": "in a squeeze between A and B（处于A与B的夹缝/两难挤压之中）；bread-and-butter product（赖以生存的支柱核心产品）；deny sb. the flexibility to do sth.（剥夺某人做某事的灵活性）。"
+      },
+      {
+        "sentenceIndex": 6,
+        "sentenceId": "P2-S1",
+        "english": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer — Congress — insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected.",
+        "chinese": "而且，从邮政工会到贺卡制造商等各路利益集团，都在为自身利益向USPS的终极监管者——美国国会——施加压力，坚称无论邮政局发生何种其他变化，他们所赖以生存的现状都必须得到保护。",
+        "structureType": "并列连词引导主谓宾复合句 + 现在分词定语 + 现在分词伴随状语 + 让步状语从句",
+        "mainClause": "interest groups exert self-interested pressure on Congress, insisting that...",
+        "modifiers": "ranging from... to... 为现在分词短语作 interest groups 的后置定语；Congress 为 ultimate overseer 的破折号同位语；insisting that... 为现在分词短语作伴随状语；that 引导宾语从句；从句中 whatever else happens to the Postal Service 为让步状语从句；they depend on 为省略代词的定语从句修饰 the status quo；get protected 为谓语被动结构。",
+        "corePattern": "range from A to B（从A延伸至B/涵盖从A到B）；exert pressure on sb.（向某人施加压力）；insist that...（坚称/坚持主张……）；status quo（现状）。"
+      },
+      {
+        "sentenceIndex": 7,
+        "sentenceId": "P2-S2",
+        "english": "This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization.",
+        "chinese": "这就是为什么近年来屡次进行的改革立法尝试均以失败告终，使得邮政局除了推迟至关重要的现代化改造之外，无力支付各种账单。",
+        "structureType": "主系表复合句（含why表语从句） + 现在分词结果状语 + 介词排除状语",
+        "mainClause": "This is why repeated attempts have failed...",
+        "modifiers": "why 引导表语从句，从句主语为 repeated attempts at reform legislation，谓语 have failed；leaving the Postal Service unable to pay its bills 为现在分词短语作自然结果状语，unable to pay 作 Postal Service 的宾语补足语；except by deferring vital modernization 为介词短语作排除方式状语。",
+        "corePattern": "This is why...（这就是为什么……）；leave sb. unable to do sth.（导致某人无法做某事）；except by doing sth.（除了通过做某事之外别无他法）。"
+      },
+      {
+        "sentenceIndex": 9,
+        "sentenceId": "P3-S2",
+        "english": "Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures.",
+        "chinese": "一项法案正在众议院推进审议，预计在五年内为USPS节省约286亿美元，这有助于购买新运输车辆以及实施其他维持生存的措施。",
+        "structureType": "分隔定语从句 + 非限制性定语从句 + 介词短语修饰",
+        "mainClause": "Legislation is moving through the House that would save USPS...",
+        "modifiers": "that 引导限制性定语从句修饰主语 Legislation（因为谓语较短而造成主语与定语从句的分隔）；which could help pay for new vehicles 为非限制性定语从句修饰前面节省的286亿美元；among other survival measures 为介词短语作举例补充说明。",
+        "corePattern": "move through the House（在众议院通过审议/推进）；save sb. an estimated $...（为某人节省预计……金额）；survival measures（求生维系手段）。"
+      },
+      {
+        "sentenceIndex": 11,
+        "sentenceId": "P3-S4",
+        "english": "The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions.",
+        "chinese": "后一项举措将大幅冲抵每年预先筹集退休人员医保资金的财政重负，从而化解USPS及其工会长久以来的抱怨。",
+        "structureType": "主谓宾复合句 + 现在分词结果状语",
+        "mainClause": "The latter step would largely offset the financial burden...",
+        "modifiers": "largely 为程度副词修饰 offset；of annually pre-funding retiree health care 为介词短语作 financial burden 的后置定语；thus addressing a long-standing complaint... 为现在分词短语作因果结果状语，by the USPS and its unions 作 complaint 的后置定语。",
+        "corePattern": "the latter step（后一项措施/后者）；offset the financial burden（抵消/冲销财政重担）；address a complaint（解决抱怨/回应诉求）。"
+      },
+      {
+        "sentenceIndex": 12,
+        "sentenceId": "P4-S1",
+        "english": "If it clears the House, this measure would still have to get through the Senate — where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform.",
+        "chinese": "即使该法案在众议院获得通过，它仍须跨过参议院这道关卡——在参议院必然会有人指出，它充其量不过是维持邮政局勉强维持运转所需的最低限度方案，绝非全面的体制改革。",
+        "structureType": "if引导的真实条件状语从句 + 主句 + where引导的非限制性定语从句 + that宾语从句",
+        "mainClause": "this measure would still have to get through the Senate...",
+        "modifiers": "If it clears the House 为条件状语从句；破折号后 where 引导非限制性定语从句修饰 Senate；从句中 someone is bound to point out 为谓语结构；that 引导 point out 的宾语从句；从句中 it amounts to... 为谓语系表结构，necessary to keep the Postal Service afloat 作 the bare minimum 的后置定语，afloat 作 keep 的宾补；not comprehensive reform 为对比省略结构。",
+        "corePattern": "clear the House（在众议院获得通过）；get through the Senate（通过参议院审议）；be bound to do sth.（必然/注定会做某事）；amount to（相当于/充其量是）；keep sth. afloat（使某机构维持运转/不致沉沦破产）。"
+      },
+      {
+        "sentenceIndex": 18,
+        "sentenceId": "P4-S7",
+        "english": "It is not, however, a sign that they're getting serious about transforming the postal system for the 21st century.",
+        "chinese": "然而，这绝不意味着他们开始严肃对待为21世纪改造重塑邮政系统这一根本课题。",
+        "structureType": "主系表结构 + however插入语 + that引导的同位语从句",
+        "mainClause": "It is not a sign that...",
+        "modifiers": "however 为副词作插入语表转折；that 引导同位语从句解释说明 sign 的具体内容；从句中 they're getting serious about 为谓语结构；transforming the postal system 为动名词短语作 about 的宾语；for the 21st century 作目的状语。",
+        "corePattern": "a sign that...（……的迹象/标志）；get serious about doing sth.（严肃认真地对待做某事）；transform the system for...（为……进行系统性重塑改造）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2018_t4.json",
+    "year": 2018,
+    "articleKey": "ky-en1-2018-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:4bf1fd868d07e0ad82dd3ed2a7a936ed7792249dc38690d8bb536ee1fd1b0249"
+  }
+}

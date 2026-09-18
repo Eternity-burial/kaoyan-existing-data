@@ -1,0 +1,392 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Visit any antiques store and you'll encounter artifacts from the past: photographs, letters, a brochure detailing the Sinclair dinosaur exhibit from the 1964-1965 World's Fair, the ephemera of history.",
+    "translation": "走进任何一家古董旧货店，你都会邂逅无数来自过往岁月的珍贵历史器物遗存：泛黄的老照片、手写书信、详细介绍1964至1965年世博会辛克莱恐龙展览的折页宣传册——这些看似过眼云烟的“历史短暂遗存物”（ephemera of history）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Yet these objects aren't truly ephemeral, because they are still here, decades, even centuries later. Why? Because they're tangible.",
+    "translation": "然而，这些物件却并非真正如浮云般转瞬即逝，因为在历经数十年、乃至数个世纪的风霜洗礼之后，它们依然完好地留存于世。为什么？因为它们是实实在在、触手可及的“有形实体”（tangible / bring up the issue of preservation）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Have you pondered the life cycle of intangible formats, digital information, given that those who produce these artifacts seldom make provision for their long-term preservation?",
+    "translation": "你是否曾深入思考过无形格式——即纯粹的数字信息——的生命周期？尤其是考虑到那些生产制造此类数字制品的创作者们，在创作时几乎极少会为其日后的长期留存保存做出任何周全预案？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "For millennia, we've known what we've known due to artifacts that have survived, often despite their original creators' neglect. The thing itself is the medium that delivers the information.",
+    "translation": "数千年来，人类之所以能够通晓过往的历史认知，全赖那些历经劫难而幸存下来的古代文物——哪怕其最初的原作者当年对其疏于照料。实体器物本身就是直接承载并传递历史信息的物理介质（tangible artifacts convey information in a more direct way / thing itself is the medium）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "At the time of creation, no attempts were made at intentional preservation, yet analog materials have a chance of surviving and serving as the historical record that biographers, historians, and novelists rely on.",
+    "translation": "在被创造之初，人们往往并未做出任何刻意保存的努力，但传统的模拟实体材料却天然拥有一线幸存生机，得以代代相传成为传记作家、历史学家和小说家所赖以考据的珍贵历史记录。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Libraries and archives have traditionally shouldered the responsibility of organization, preservation, and access to information. One of S.R. Ranganathan's foundational Laws of Library Science is \"Save the time of the reader.\" Thus, librarians digitize the tangible so that researchers the world over can quickly search and access their holdings. The result is an embarrassment of historical riches, which brings its own needle-and-haystack problems.",
+    "translation": "图书馆与档案馆传统上一直默默肩负着信息组织整理、长期保存以及提供查阅的崇高神圣职责。图书情报学奠基人阮冈纳赞的基本法则之一便是“节省读者的时间”。因此，图书馆员们竭尽全力将有形实体文献全面数字化，使得全球各地的科研学者能够闪电般快速检索和调阅馆藏。其最终结果是造就了一座令人眼花缭乱的浩瀚历史文献宝库，但也随之带来了在浩如烟海中“大海捞针”的新难题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Librarians' selfless devotion can act against us when users point to universality of access by holding up a cellphone and saying, \"it's all in here\" as evidence that libraries are less vital for researchers today.",
+    "translation": "然而，图书馆员们的无私奉献在客观上却反噬了我们自身——当终端用户高举着智能手机、指着随时随地可触达的海量信息炫耀说“所有资料都在手机里了”并以此作为证据宣称“当今图书馆对科研人员已不再那么至关重要”时，这种极度盲目短视的言论导致图书馆的核心价值遭到了严重低估与贬损（undervaluation of libraries / libraries are less vital）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Yet how was that universality of access made possible and, perhaps more importantly, how is it maintained? Who curates what is preserved? When it comes to born-digital information, the terrifying answer can be: if not librarians and archivists, then no one. Digital information requires a great deal more care than analog.",
+    "translation": "然而，那种唾手可得的信息普适获取究竟是如何成为可能的？更重要的是，它又是靠谁在日复一日地严密维护？究竟是谁在精心筛选守护那些被留存的历史？当面对与生俱来的“原生数字信息”时，那令人不寒而栗的残酷答案只能是：如果没有图书馆员和档案管理学家的默默坚守，世上将再无任何人去拯救它们！数字信息实际上远比传统实体模拟信息需要多得多的悉心呵护与照料。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Even when a digital object is preserved, it may only be the carrier that's saved, not the information itself. As technology advances and a format becomes obsolete, the object is useless.",
+    "translation": "即使某个数字物件侥幸被留存下来，最终被保存的往往也仅仅只是物理存储载体本身，而非内部承载的数据信息本身。随着科学技术的飞速迭代演进，一旦某种特定格式沦为过时淘汰（format becomes obsolete），该物件便彻底沦为了毫无用处的废品。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Have you ever stared helplessly at a ZIP disk, thinking: how do I get the files off this?",
+    "translation": "你是否曾无比无助绝望地凝视着一张古早的 ZIP 软盘（ZIP disk），心中抓狂暗想：我究竟该如何把里面的文件导出来（possibility of losing information in obsolete formats）？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Without constant migration of digital assets, a nightmare about the foreseeable future is what keeps historians up at night: a historical record that abruptly stops when digital replaces analog.",
+    "translation": "如果缺乏对数字资产持续不断的技术迁移迭代，在可预见的未来里，一场令所有历史学者彻夜难眠的终极噩梦就将不可避免地降临：当数字形态全面取代模拟实体的那一刻起，人类文明的全部历史记录竟然戛然而止、彻底中断！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "As a librarian whose day job revolves around special collections and digital assets, I share the night terrors of historians, and I'd be lying if I said a comprehensive preservation solution currently exists.",
+    "translation": "作为一名日常工作深度围绕特藏文献与数字资产展开的职业图书馆员，我完全感同身受历史学者们内心的深夜梦魇；如果我宣称当前世上已存在某种一劳永逸的全面数字保存解决方案，那绝对是在撒谎欺骗。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Yet researchers can take some comfort in the fact that there are a multitude of librarians devoted to discovering, organizing, and preserving digital information for researchers current and future. Librarians are uniquely positioned to understand how end users seek and use information. Thus we play an integral role in identifying, preserving, and providing accessibility to digital artifacts so that, while future researchers may find the digital realm a challenging place to ply their trade, they won't find it an impossible one.",
+    "translation": "然而，广大科研学者尚可感到些许欣慰的是：世上仍有数以万计的图书馆员在全身心致力于为当今与未来的学者发掘、整理并守护保存宝贵的数字信息。图书馆员处于极其独特的枢纽地位，最懂得终端用户如何检索与使用信息。因此，我们在识别、保存并提供数字器物可获取性方面发挥着不可或缺的核心作用——从而确保，未来的科研人员在数字学术领域施展身手时，即便会发现这处领域充满重重艰巨挑战（Keeping digital historical records is a challenge），但也绝不至于绝望地发现这是一件彻底不可能完成的天方夜谭！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t4.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:59913dd322dde34731f42b6d9cc49d416d2e540c0293e36284987085c459c015"
+    }
+  }
+]

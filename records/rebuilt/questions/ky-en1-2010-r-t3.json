@@ -1,0 +1,1062 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "By citing the book The Tipping Point, the author intends to",
+    "stemTranslation": "作者通过引用《引爆点》这本书，意在______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "analyze the consequences of social epidemics.",
+        "translation": "分析社会流行风潮所造成的各种后果。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念/论题偏离",
+        "analysis": "【偷换概念】文章探讨的是流行风潮由谁推动产生（成因机制），而非流行产生后的后果（consequences）。",
+        "vocab": [
+          {
+            "word": "consequences",
+            "ipa": "",
+            "meaning": "后果",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "epidemics",
+            "ipa": "",
+            "meaning": "流行潮",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "discuss influentials' function in spreading ideas.",
+        "translation": "探讨意见领袖在思想传播中所扮演的功能角色。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 例证服务论题】引用《引爆点》正是为了引出全篇核心论辩对象：意见领袖（influentials）在流行潮流中到底发挥多大作用。",
+        "vocab": [
+          {
+            "word": "influentials",
+            "ipa": "",
+            "meaning": "有影响力人士",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "function",
+            "ipa": "[ˈfʌŋkʃ(ə)n]",
+            "meaning": "作用",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "exemplify people's intuitive response to social epidemics.",
+        "translation": "举例说明人们面对社会风潮时的直觉反应。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】第1段未讨论普通人的直觉反应，引出的是格拉德威尔的流行动力学理论。",
+        "vocab": [
+          {
+            "word": "exemplify",
+            "ipa": "[ɪɡˈzemplɪfaɪ]",
+            "meaning": "说明",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "response",
+            "ipa": "[rɪˈspɒns]",
+            "meaning": "反应",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "epidemics",
+            "ipa": "",
+            "meaning": "流行潮",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "describe the essential characteristics of influentials.",
+        "translation": "描绘有影响力人物的核心本质特征。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/局部定语",
+        "analysis": "【以偏概全】unusually informed 等特征描述只是非限制性定语从句的附加说明，引出书本的真正目的是讨论传播机制。",
+        "vocab": [
+          {
+            "word": "describe",
+            "ipa": "[dɪˈskraɪb]",
+            "meaning": "描述",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "essential",
+            "ipa": "[ɪˈsenʃl]",
+            "meaning": "本质的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "characteristics",
+            "ipa": "",
+            "meaning": "特征",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influentials",
+            "ipa": "",
+            "meaning": "有影响力人士",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "EXEMPLIFICATION",
+    "type": "例证题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": "P1-S1: 'In his book The Tipping Point, Malcolm Gladwell argues that \"social epidemics\" are driven in large part by the actions of a tiny minority... often called influentials'",
+    "synonymMapping": [
+      {
+        "textQuote": "P1-S1: social epidemics are driven in large part by... influentials",
+        "optionQuote": "B: discuss influentials' function in spreading ideas.",
+        "semanticEquivalence": "influentials drive social epidemics ↔ influentials' function in spreading ideas"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "例证题解题通则：识别引用全篇开宗明义文献的目的。开篇引用名著是为了引出本文的论辩靶子——意见领袖的驱动功能。",
+      "trapPattern": "从句细枝末节干扰（选项D）与论题偷换（选项A）。",
+      "reviewChecklist": [
+        "是否识别出《引爆点》在篇首承担引出全篇讨论主题的功能？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "citing",
+          "ipa": "",
+          "meaning": "引用",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Tipping",
+          "ipa": "",
+          "meaning": "【书名】《引爆点》",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "intends",
+          "ipa": "",
+          "meaning": "想要",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t3.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:468cd0dbaa5cf3e8d7307e8b7311e2d19636fd6028c335be4f34a0994d97308d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "The author suggests that the \"two-step-flow theory\"",
+    "stemTranslation": "作者暗示“两级传播理论”______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "serves as a solution to marketing problems.",
+        "translation": "为市场营销难题提供了解决方案。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】该理论是一种传播学假设，作者通篇都在质疑其真实性，绝非称赞其实际解决方案。",
+        "vocab": [
+          {
+            "word": "serves",
+            "ipa": "",
+            "meaning": "充当，作为",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "solution",
+            "ipa": "[səˈluːʃ(ə)n]",
+            "meaning": "解决…的方法",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "has helped explain certain prevalent trends.",
+        "translation": "有助于解释某些盛行的主流趋势。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换表象为真相",
+        "analysis": "【偷换概念】P1-S2 明确指出 it doesn't explain how ideas actually spread，它只是表面听起来有理（plausible-sounding），实际上并未真正解释趋势成因。",
+        "vocab": [
+          {
+            "word": "prevalent",
+            "ipa": "[ˈprevələnt]",
+            "meaning": "流行的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "trends",
+            "ipa": "",
+            "meaning": "趋势",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "has won support from influentials.",
+        "translation": "赢得了意见领袖们的大力支持。",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】原文提到的是两级传播理论支持意见领袖的作用，未提意见领袖本人支持该理论。",
+        "vocab": [
+          {
+            "word": "influentials",
+            "ipa": "",
+            "meaning": "有影响力人士",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "requires solid evidence for its validity.",
+        "translation": "需要坚实充分的实证数据来证明其有效性。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义推断】作者使用 supposed（所谓的、据称的）和 plausible-sounding（听起来似乎合理的），并在第3段紧接着指出实证研究发现其作用根本没有想象的大。这鲜明暗示该理论过去缺乏扎实的经验实证支撑（requires solid evidence）。",
+        "vocab": [
+          {
+            "word": "evidence",
+            "ipa": "[ˈevɪdəns]",
+            "meaning": "证据",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P2-S1",
+      "P3-S1"
+    ],
+    "verbatimEvidence": "P2-S1: 'The supposed importance of influentials derives from a plausible-sounding wonder...' + P3-S1: 'the influentials' impact is not as significant as previously thought.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P2-S1: supposed importance / plausible-sounding + P3-S1: not as significant as previously thought",
+        "optionQuote": "D: requires solid evidence for its validity.",
+        "semanticEquivalence": "supposed / plausible-sounding / not as significant ↔ requires solid evidence for validity"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "情感态度与推断题通则：捕捉作者微观评注性词汇（supposed, plausible-sounding）。听起来有理不等于被实证检验过，需要坚实证据。",
+      "trapPattern": "将批判性质疑对象误读为有效解决方案（选项A、B）。",
+      "reviewChecklist": [
+        "是否敏锐抓住了 supposed 与 plausible-sounding 传递的怀疑色彩？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "two-step-flow",
+          "ipa": "",
+          "meaning": "理论",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t3.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:468cd0dbaa5cf3e8d7307e8b7311e2d19636fd6028c335be4f34a0994d97308d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "What the researchers have observed recently shows that",
+    "stemTranslation": "研究人员最近的观察研究表明______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "the power of influence goes with social interactions.",
+        "translation": "影响力的产生与扩散取决于人与人之间的社交互动。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 明确说明绝大多数人是被同伴圈层影响（influenced by their peers），P4-S4 说明影响是人际间接力影响他人（in turn influence others）。影响力的源泉在于 peer social interactions。",
+        "vocab": [
+          {
+            "word": "influence",
+            "ipa": "[ˈɪnfluəns]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "goes",
+            "ipa": "",
+            "meaning": "与…有关",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "social",
+            "ipa": "[ˈsəʊʃ(ə)l]",
+            "meaning": "社会交往",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "interpersonal links can be enhanced through the media.",
+        "translation": "人际联系可以通过大众媒体得到强化。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】P4-S1 明确把大众媒体列为少数名人的特例（with the exception of a few celebrities, who have media exposure），并未论述媒体强化了人际联系。",
+        "vocab": [
+          {
+            "word": "links",
+            "ipa": "",
+            "meaning": "关系",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "enhanced",
+            "ipa": "",
+            "meaning": "加强",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "influentials have more channels to reach the public.",
+        "translation": "意见领袖拥有更多触达公众的渠道。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】研究表明公众主要受同伴互动影响，而非因为意见领袖拥有更多渠道。",
+        "vocab": [
+          {
+            "word": "influentials",
+            "ipa": "",
+            "meaning": "有影响力的人士",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "channels",
+            "ipa": "",
+            "meaning": "渠道",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "most celebrities enjoy wide media attention.",
+        "translation": "大多数名流享有广泛的媒体关注。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/让步从句细节",
+        "analysis": "【以偏概全】这只是 P4-S1 中作为一个让步例外提及的附带背景，绝非研究人员要证明的核心发现。",
+        "vocab": [
+          {
+            "word": "celebrities",
+            "ipa": "",
+            "meaning": "名人",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S4"
+    ],
+    "verbatimEvidence": "P4-S1: 'most people are influenced by their peers.' P4-S4: 'influenced by the initial message, and then in turn influence others, creating a cascade.'",
+    "synonymMapping": [
+      {
+        "textQuote": "most people are influenced by their peers... in turn influence others",
+        "optionQuote": "A: the power of influence goes with social interactions.",
+        "semanticEquivalence": "influenced by peers + in turn influence others ↔ goes with social interactions"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "推断题解题通则：核心发现必定是关于普遍大众的机制。将 peer influence 与 in turn influence 概括为 social interactions。",
+      "trapPattern": "拿让步插入语里的例外（celebrities with media）反客为主作为答案（选项D）。",
+      "reviewChecklist": [
+        "是否准确排除了名人特例，锁定了绝大多数普通人的同伴互动关系？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "observed",
+          "ipa": "",
+          "meaning": "观察",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t3.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:468cd0dbaa5cf3e8d7307e8b7311e2d19636fd6028c335be4f34a0994d97308d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "The underlined phrase \"these people\" in Paragraph 4 refers to the ones who",
+    "stemTranslation": "第4段带下划线的短语“these people”指的是那些______的人。",
+    "options": [
+      {
+        "key": "A",
+        "text": "stay outside the network of social influence.",
+        "translation": "游离在社交网络影响力之外。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】these people 正是网络连锁反应的传递枢纽，绝非置身网络之外。",
+        "vocab": [
+          {
+            "word": "influence",
+            "ipa": "[ˈɪnfluəns]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "have little contact with the source of influence.",
+        "translation": "与最初的影响源几乎没有任何接触。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/脱离文本",
+        "analysis": "【偷换概念】原文明确说明 they are influenced by the initial message，有直接接触。",
+        "vocab": [
+          {
+            "word": "have",
+            "ipa": "[həv]",
+            "meaning": "接触到",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "source",
+            "ipa": "[sɔːs]",
+            "meaning": "源头",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influence",
+            "ipa": "[ˈɪnfluəns]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "are influenced and then influence others.",
+        "translation": "受到影响随后又转而影响其他人。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 原文原句直接对齐】P4-S4 紧接着写道：'These people are influenced by the initial message, and then in turn influence others'，选项直接将原句动词结构转换为 are influenced and then influence others。",
+        "vocab": [
+          {
+            "word": "influenced",
+            "ipa": "",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influence",
+            "ipa": "[ˈɪnfluəns]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "are influenced by the initial influential.",
+        "translation": "仅仅受到最初意见领袖的影响。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/缺失后半截动作",
+        "analysis": "【以偏概全】仅包含被影响的第一步，遗漏了最重要的‘进而影响其他人（in turn influence others）’促成级联扩散的决定性后半段。",
+        "vocab": [
+          {
+            "word": "influenced",
+            "ipa": "",
+            "meaning": "受…影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "initial",
+            "ipa": "[ɪˈnɪʃl]",
+            "meaning": "最初的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influential",
+            "ipa": "[ˌɪnfluˈenʃl]",
+            "meaning": "有影响力人士",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "VOCAB",
+    "type": "词汇题",
+    "targetSentences": [
+      "P4-S3",
+      "P4-S4"
+    ],
+    "verbatimEvidence": "P4-S3: 'a critical mass of easily influenced individuals are present.' P4-S4: 'These people are influenced by the initial message, and then in turn influence others, creating a cascade.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P4-S4: influenced by the initial message, and then in turn influence others",
+        "optionQuote": "C: are influenced and then influence others.",
+        "semanticEquivalence": "influenced... and then in turn influence others ↔ are influenced and then influence others"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "代词指代题解题通则：看代词所在句及紧邻前句。代词往往与其后的动词谓语形成直接动作定义，选项必须完整涵盖双向传导闭环。",
+      "trapPattern": "缺失动作链条后半段的以偏概全（选项D）。",
+      "reviewChecklist": [
+        "是否完整对比了选项C与选项D，发现C完整包含了受影响和影响他人的全过程？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "underlined",
+          "ipa": "",
+          "meaning": "在（词语等下）画线短语",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "refers",
+          "ipa": "",
+          "meaning": "指的是",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t3.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:468cd0dbaa5cf3e8d7307e8b7311e2d19636fd6028c335be4f34a0994d97308d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2010-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "What is the essential element in the dynamics of social influence?",
+    "stemTranslation": "在社交网络影响力的动态机制中，不可或缺的核心要素是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "The eagerness to be accepted.",
+        "translation": "渴望被群体接纳认同的心态。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】eagerness to be accepted 属于心理学从众归属欲，与文章探讨的信息与潮流接纳度不同。",
+        "vocab": [
+          {
+            "word": "eagerness",
+            "ipa": "[ˈiːɡənəs]",
+            "meaning": "渴望",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "The impulse to influence others.",
+        "translation": "影响他人的冲动与欲望。",
+        "isCorrect": false,
+        "distractorType": "CAUSALITY_INVERSION",
+        "distractorDisplayName": "主客颠倒/因果倒置",
+        "analysis": "【主客颠倒】文章通篇批驳的是过分强调主动影响者，强调决定权在于被动受众的接受意愿。",
+        "vocab": [
+          {
+            "word": "impulse",
+            "ipa": "[ˈɪmpʌls]",
+            "meaning": "冲动",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "influence",
+            "ipa": "[ˈɪnfluəns]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "The readiness to be influenced.",
+        "translation": "接受他人影响的准备状态与接纳意愿。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】尾段总结句 P5-S2 掷地有声：'If people are not ready to be influenced, no amount of influence will create a trend.'，ready to be influenced 对应名字符合词 The readiness to be influenced。",
+        "vocab": [
+          {
+            "word": "influenced",
+            "ipa": "",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "readiness",
+            "ipa": "[ˈredinəs]",
+            "meaning": "乐意",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "The inclination to rely on others.",
+        "translation": "依赖仰仗他人的心理倾向。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】依赖他人（rely on others）属于人际依恋心理，脱离了对新观念易感接纳的主题。",
+        "vocab": [
+          {
+            "word": "rely",
+            "ipa": "[rɪˈlaɪ]",
+            "meaning": "依靠",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "inclination",
+            "ipa": "[ˌɪnklɪˈneɪʃn]",
+            "meaning": "倾向",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": "P5-S1: 'A critical mass of susceptible people, not the presence of influentials, is the crucial factor.' P5-S2: 'If people are not ready to be influenced, no amount of influence will create a trend.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P5-S1: susceptible people + P5-S2: ready to be influenced",
+        "optionQuote": "C: The readiness to be influenced.",
+        "semanticEquivalence": "susceptible people / ready to be influenced ↔ The readiness to be influenced"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "终极细节主旨题通则：锁定尾段结论句中的条件句结构（If... no amount will...）。原词同根转换：ready $\\leftrightarrow$ readiness。",
+      "trapPattern": "主客体颠倒（选项B）与泛心理概念干扰（选项A、D）。",
+      "reviewChecklist": [
+        "是否在结尾句中精准锁定了 ready to be influenced 并与选项C对齐？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "essential",
+          "ipa": "[ɪˈsenʃl]",
+          "meaning": "根本的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "element",
+          "ipa": "[ˈelɪmənt]",
+          "meaning": "要素",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "dynamics",
+          "ipa": "/daɪˈnæmɪks/",
+          "meaning": "动态变化",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "influence",
+          "ipa": "[ˈɪnfluəns]",
+          "meaning": "影响",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2010_t3.json",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:468cd0dbaa5cf3e8d7307e8b7311e2d19636fd6028c335be4f34a0994d97308d"
+    }
+  }
+]

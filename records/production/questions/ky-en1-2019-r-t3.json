@@ -1,0 +1,581 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "Mary Shelley's novel Frankenstein is mentioned because it",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "involves some concerns raised by AI today.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 和 P1-S2 明确阐述提及该小说的目的：'foreshadow many ethical questions to be raised by technologies yet to come. Today rapid growth of AI raises fundamental questions'（预示了未来前沿技术将引发的诸多伦理问题，如今 AI 飞速发展引发了根本性追问）。C选项 involves some concerns raised by AI today（涉及当今人工智能所引发的某些担忧拷问）精准契合原文论点。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "has remained popular for as long as 200 years.",
+        "isCorrect": false,
+        "distractorType": "次要背景非例证目的",
+        "analysis": "【干扰特征: 时间背景】两百年是时间契机，引用小说是为了阐明科技伦理隐忧的前瞻性。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "fascinates AI scientists all over the world.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】科学家痴迷的是类人机器人（robots like humans），非痴迷这部小说本身。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "has sparked serious ethical controversies.",
+        "isCorrect": false,
+        "distractorType": "主客颠倒",
+        "analysis": "【干扰特征: 偷换概念】是小说预示了未来科技的伦理争议，非小说文本本身引发了伦理争议。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "foreshadow ethical questions to be raised by technologies... AI today raises fundamental questions = involves some concerns raised by AI today。",
+      "methodSummary": "首段引子例证题：抓准 foreshadow questions to be raised 对应的 involves concerns raised by AI today。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Mary Shelley's novel Frankenstein",
+        "mentioned because"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "In David Eagleman's opinion, our current knowledge of consciousness",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "helps explain artificial intelligence.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】目前根本没有成熟理论能解释意识机制（no good theories explaining consciousness）。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "is too limited for us to reproduce it.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S2 明确引述伊格曼的原话：'how people think is still far too complex to be understood, let alone reproduced... no good theories explaining what consciousness actually is'（人类思考过于复杂无法理解，更遑论在机器中复制……尚无理论解释意识是什么）。D选项 is too limited for us to reproduce it（我们当前的认知极其有限以至于无法复制意识）是对 far too complex to be reproduced 最严谨的同义转述。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "inspires popular sci-fi TV series.",
+        "isCorrect": false,
+        "distractorType": "跨句混淆",
+        "analysis": "【干扰特征: 张冠李戴】启发科幻剧的是类人机器人概念（P2-S1），非伊格曼对意识局限性的专业学术观点。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "can be misleading to robot making.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及误导机器人制造。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "far too complex to be understood, let alone reproduced = is too limited for us to reproduce it。",
+      "methodSummary": "专家引语题：抓准 let alone reproduced 与 no good theories 对应的 is too limited to reproduce it。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "David Eagleman's opinion",
+        "current knowledge of consciousness"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "The solution to the ethical issues brought by autonomous vehicles",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "can hardly ever be found.",
+        "isCorrect": false,
+        "distractorType": "绝对化悲观",
+        "analysis": "【干扰特征: 极端绝望】文章指出是当下的艰巨难题，但全球正在制定伦理守则攻关，绝非永远不可能找到（hardly ever）。",
+        "refSentences": [
+          "P3-S2",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "has aroused much curiosity.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念错位】引发的是深切的伦理担忧与监管立法（ethical questions / guidelines），非好奇心（curiosity）。",
+        "refSentences": [
+          "P3-S1",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "is still beyond our capacity.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确指出自动驾驶的伦理困境与技术瓶颈：'AI vision today is not nearly as sophisticated as that of humans. And to anticipate every imaginable driving situation is a difficult programming problem'（当今 AI 视觉远不及人类精密，提前在代码中预判每种驾驶情境是一道艰巨的编程难题）。B选项 is still beyond our capacity（目前依然超出我们的能力范围）精准概括了这一技术与伦理攻关现状。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "causes little public concern.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】自动驾驶提出棘手伦理问题（poses thorny ethical questions），引起全球广泛关切。",
+        "refSentences": [
+          "P3-S1",
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "AI vision not nearly as sophisticated + difficult programming problem = is still beyond our capacity。",
+      "methodSummary": "技术瓶颈细节题：抓准 difficult programming problem 对应的 is still beyond our capacity。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "solution to ethical issues",
+        "autonomous vehicles"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "The author's attitude toward Google's pledges is one of",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "contempt.",
+        "isCorrect": false,
+        "distractorType": "极端贬义",
+        "analysis": "【干扰特征: 极端贬低】作者完全认可其起点价值，绝非鄙视不屑（contempt）。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "skepticism.",
+        "isCorrect": false,
+        "distractorType": "以偏概全贬义偏离",
+        "analysis": "【干扰特征: 偏离让步重心】vague 只是客观让步状语，主句核心落脚在肯定其代表一个良好开端（represents a starting point）。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "respect.",
+        "isCorrect": false,
+        "distractorType": "过度拔高",
+        "analysis": "【干扰特征: 程度过重】声明本身仍存在含糊之处（vague），尚未达到崇敬尊重的程度，作者给予的是客观积极的肯定（affirmation）。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "affirmation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 态度精准匹配】P5-S2 明确阐述作者对谷歌承诺的态度：'While the statement is vague, it represents one starting point. So does the idea that decisions made by AI systems should be explainable, transparent, and fair'（尽管声明措辞含糊，但它代表了一个良好开端；同样具有开创意义的还有透明公正的理念）。作者肯定其作为行业自律的积极起点，持正面肯定/认可（affirmation）态度。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "represents one starting point / so does the idea of transparency = affirmation（肯定/认可）。",
+      "methodSummary": "让步转折态度题：While vague（让步）, it represents one starting point（主句肯定 -> affirmation）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "英语一_2019_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author's attitude",
+        "Google's pledges"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The Conscience of AI: Complex But Inevitable.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨高度升华】全文核心议题高度统一：从《弗兰肯斯坦》预示科技伦理拷问，到自动驾驶等 AI 决策面临的复杂伦理困境（Complex），再到全球政府与巨头纷纷出台伦理准则、确保机器思维反映人类最高价值以防止失控（Inevitable）。C选项 The Conscience of AI: Complex But Inevitable（人工智能的道德良知：复杂深奥却势在必行）以极其深刻、精准的哲学高度统摄了全文的核心论点与发展脉络，为最佳标题。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1",
+          "P5-S2",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Frankenstein, the Novel Predicting the Age of AI.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 引子案例】小说只是引出 AI 伦理话题的切入点，未能统领全文关于自动驾驶、政府准则与算法透明公平的深度探讨。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "AI's Future: In the Hands of Tech Giants.",
+        "isCorrect": false,
+        "distractorType": "偏离伦理主线",
+        "analysis": "【干扰特征: 偏离主旨】文章强调全社会、多国政府与伦理规范的共同约束，非听任科技巨头主宰未来。",
+        "refSentences": [
+          "P4-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "AI Shall Be Killers Once Out of Control.",
+        "isCorrect": false,
+        "distractorType": "极端恐吓偏激",
+        "analysis": "【干扰特征: 骇人听闻】尾段提及失控怪物仅为反向警示修辞，文章旨在建设性倡导确立伦理准则使其成为有用公仆。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "主旨标题题",
+    "targetSentences": [
+      "P1-S1",
+      "P3-S1",
+      "P5-S2",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Ethical questions / reflects humanity's highest values + complex programming / difficult = The Conscience of AI: Complex But Inevitable。",
+      "methodSummary": "主旨标题题升华法：寻找能够涵盖文章核心矛盾（Complex 技术与伦理困境）与终极解决方案（Inevitable 必须赋予 AI 道德良知 Conscience）的哲理标题。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "best title",
+        "the text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  }
+]

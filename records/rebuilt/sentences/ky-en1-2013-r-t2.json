@@ -1,0 +1,627 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "An old saying has it that half of all advertising budgets are wasted — the trouble is, no one knows which half.",
+    "translation": "有句老话说，所有广告预算中有一半都被浪费掉了——麻烦在于，没人知道究竟是哪一半。",
+    "syntaxAnalysis": "主干为 An old saying has it that ...。has it that 为固定句型，意为‘传言说/俗话说’，that 引导宾语从句；破折号后 the trouble is 为主系表补充说明，no one knows which half 为宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "In the internet age, at least in theory, this fraction can be much reduced.",
+    "translation": "在互联网时代，至少在理论层面上，这一被浪费的比例可以被大幅削减。",
+    "syntaxAnalysis": "简单句。介词短语 In the internet age 与 at least in theory 作状语；主语为 this fraction（代指上文被浪费的预算份额）；谓语为被动语态 can be much reduced。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "By watching what people search for, click on and say online, companies can aim \"behavioural\" ads at those most likely to buy.",
+    "translation": "通过追踪观察人们在线搜索、点击和谈论的内容，企业可以将‘行为定向广告’精准投向那些最有购买意向的潜在受众。",
+    "syntaxAnalysis": "By watching ... 为方式状语，介词宾语由 what 引导的从句充当，包含 search for, click on and say 三个并列动词；主句主干为 companies can aim 'behavioural' ads at those，those 后接形容词短语 most likely to buy 作后置定语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "In the past couple of weeks a quarrel has illustrated the value to advertisers of such fine-grained information: Should advertisers assume that people are happy to be tracked and sent behavioural ads?",
+    "translation": "在过去几周里，一场争吵凸显了这种细颗粒度信息对广告商的巨大价值：广告商究竟应该默认假定人们乐于被追踪并接收定向广告？",
+    "syntaxAnalysis": "主干为 a quarrel has illustrated the value ... of such fine-grained information。to advertisers 为介词短语作状语修饰 value；冒号后为两个并列的直接疑问句，探讨争论的核心议题，assume 后接 that 引导的宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Or should they have explicit permission?",
+    "translation": "还是说他们必须事先获得用户的明确许可？",
+    "syntaxAnalysis": "由并列连词 Or 引出的省略并列疑问句，主语 they 指代 advertisers，谓语动词 should have，宾语 explicit permission。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "In December 2010 America's Federal Trade Commission (FTC) proposed adding a \"do not track\" (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed.",
+    "translation": "2010年12月，美国联邦贸易委员会（FTC）提议在网络浏览器中增加‘禁止追踪’（DNT）选项，以便用户能够明确告知广告商自己不希望被窥探尾随。",
+    "syntaxAnalysis": "主句主干为 America's Federal Trade Commission ... proposed adding a 'do not track' option to ...；so that 引导目的状语从句，从句中 tell 接双宾语，that 引导直接宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "Microsoft's Internet Explorer and Apple's Safari both offer DNT; Google's Chrome is due to do so this year.",
+    "translation": "微软的IE浏览器和苹果的Safari浏览器均已提供了DNT功能；谷歌的Chrome浏览器也预定将于今年跟进上线。",
+    "syntaxAnalysis": "分号连接的并列句。前句主干为 Microsoft's IE and Apple's Safari both offer DNT；后句 is due to do so 中 due 为形容词作表语，意为‘预期的/按计划的’，do so 代指提供 DNT 功能。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "In February the FTC and Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests.",
+    "translation": "今年2月，FTC与数字广告联盟（DAA）达成共识：整个广告行业将迅速采取行动，着手响应用户的DNT诉求。",
+    "syntaxAnalysis": "主句主干为 the FTC and DAA agreed that ...。that 引导宾语从句；从句中 the industry 指代数字在线广告行业，get cracking on 为口语习惯搭配，意为‘迅速着手/立即行动’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "On May 31st Microsoft set off the row.",
+    "translation": "5月31日，微软挑起了这场风波争端。",
+    "syntaxAnalysis": "简单句。On May 31st 为时间状语；主语 Microsoft，谓语动词短语 set off（引爆/引发），宾语 the row（熟词僻义：激烈的争吵/纠纷）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "It said that Internet Explorer 10, the version due to appear with Windows 8, would have DNT as a default.",
+    "translation": "微软宣布，即将随Windows 8系统一同问世的IE10浏览器版本，将把DNT功能设为默认开启状态。",
+    "syntaxAnalysis": "主干为 It said that ...。that 引导宾语从句；从句主语为 Internet Explorer 10，逗号内 the version due to appear with Windows 8 为同位语修饰 IE10；谓语为 would have，宾语 DNT，as a default 为介词短语作补足语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "Advertisers are horrified.",
+    "translation": "广告商们对此大为惊恐。",
+    "syntaxAnalysis": "主系表结构。主语 Advertisers，系动词 are，表语 horrified（极为惊骇的）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "Human nature being what it is, most people stick with default settings.",
+    "translation": "鉴于人性的本质使然，绝大多数人都会沿用系统的默认设置。",
+    "syntaxAnalysis": "前半句 Human nature being what it is 为独立主格结构（名词 + 现在分词短语），作原因/情境状语；后半句为主句，主干为 most people stick with default settings。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "Few switch DNT on now, but if tracking is off it will stay off.",
+    "translation": "如今很少有人会主动打开DNT开关，但如果追踪功能默认被关闭，它就将一直保持关闭状态。",
+    "syntaxAnalysis": "并列复合句。前分句 Few switch DNT on now；but 连接后半句，内嵌 if tracking is off 条件状语从句，主句 it will stay off 为主系表结构（stay 表维持某种状态）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "Bob Liodice, the chief executive of the Association of National Advertisers, says consumers will be worse off if the industry cannot collect information about their preferences.",
+    "translation": "美国全国广告商协会首席执行官鲍勃·利奥迪斯表示，如果广告业无法搜集有关消费者偏好的信息，消费者的处境反而会更糟。",
+    "syntaxAnalysis": "主句主干为 Bob Liodice ... says consumers will be worse off ...。the chief executive ... 为同位语修饰主语；says 后接省略 that 的宾语从句，从句内嵌 if 引导的条件状语从句；worse off 意为‘境况更差’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "People will not get fewer ads, he says.",
+    "translation": "他直言，大众收到的广告数量绝不会因此减少。",
+    "syntaxAnalysis": "主干为 People will not get fewer ads，he says 为插入语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 6,
+      "ps": "P5-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "\"They'll get less meaningful, less targeted ads.\"",
+    "translation": "“他们只是会收到更多毫无意义、缺乏针对性的垃圾广告。”",
+    "syntaxAnalysis": "直接引语充当独立表达。主语 They，谓语 'll get，宾语由两个并列比较级形容词修饰：less meaningful, less targeted ads。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "It is not yet clear how advertisers will respond.",
+    "translation": "广告商最终将如何应对，目前尚不明朗。",
+    "syntaxAnalysis": "主从复合句。It 为形式主语，is not yet clear 为系表结构，how advertisers will respond 为连接副词 how 引导的主语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "Getting a DNT signal does not oblige anyone to stop tracking, although some companies have promised to do so.",
+    "translation": "即便接收到DNT信号，也并不具有强制任何主体停止追踪的法律约束力，尽管有些企业曾做出过此类承诺。",
+    "syntaxAnalysis": "主从复合句。主句主语为动名词短语 Getting a DNT signal，谓语 does not oblige，宾语 anyone，宾补 to stop tracking；although 引导让步状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "Unable to tell whether someone really objects to behavioural ads or whether they are sticking with Microsoft's default, some may ignore a DNT signal and press on anyway.",
+    "translation": "由于无法辨别究竟是某个用户真正反感行为定向广告，还是仅仅随波逐流沿用了微软的默认设置，部分广告商很可能会选择无视DNT信号并继续强行推进追踪。",
+    "syntaxAnalysis": "句首 Unable to tell ... 为形容词短语作原因状语，内嵌 whether ... or whether ... 引导的两个并列宾语从句；主句主干为 some may ignore a DNT signal and press on anyway（some 为代词作主语，press on 为动词短语‘继续进行’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 20
+    },
+    "text": "Also unclear is why Microsoft has gone it alone.",
+    "translation": "同样令人费解的是，微软为何要如此特立独行、单打独斗。",
+    "syntaxAnalysis": "完全倒装句。表语 Also unclear 提前至句首，系动词 is，主语为 why Microsoft has gone it alone（why 引导的主语从句；go it alone 为习惯搭配，意为‘单干/自作主张’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 21
+    },
+    "text": "After all, it has an ad business too, which it says will comply with DNT requests, though it is still working out how.",
+    "translation": "毕竟微软自己同样拥有广告业务，尽管它声称这些业务也将遵守DNT请求，但眼下它仍在琢磨具体的落实之法。",
+    "syntaxAnalysis": "主从复合句。After all 为状语；主句主干为 it has an ad business too；which 引导非限制性定语从句修饰 ad business，从句中 it says 为插入语，谓语 will comply with；though 引导让步状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 22
+    },
+    "text": "If it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect method: There is no guarantee that DNT by default will become the norm.",
+    "translation": "如果微软此举是试图打压重创几乎全靠广告收入维生的谷歌，那它选择的手段未免有些拐弯抹角：因为根本没有任何保证表明‘默认开启DNT’会成为全行业的通用规范。",
+    "syntaxAnalysis": "主从复合句。If 引导条件状语从句，内嵌 which relies almost wholly on advertising 非限制性定语从句修饰 Google；主句 it has chosen an indirect method；冒号后为同位语解释，that 引导同位语从句修饰 guarantee。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 4,
+      "ps": "P7-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 23
+    },
+    "text": "DNT does not seem an obviously huge selling point for Windows 8 — though the firm has compared some of its other products favorably with Google's on that count before.",
+    "translation": "DNT看起来绝非Windows 8的显著重大卖点——尽管该企业以往曾在那一方面（隐私安全方面）将其某些其他产品与谷歌进行过有利的对比宣传。",
+    "syntaxAnalysis": "主干为 DNT does not seem an obviously huge selling point ...；破折号后 though 引导让步状语从句，compare A favorably with B 意为‘将A与B进行有利的对比/凸显A的优势’，on that count 为固定短语‘在那个方面/论点上’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 5,
+      "ps": "P7-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 24
+    },
+    "text": "Brendon Lynch, Microsoft's chief privacy officer, blogged: \"We believe consumers should have more control.\"",
+    "translation": "微软首席隐私官布伦登·林奇在博客中信誓旦旦地写道：“我们坚信，消费者理应拥有更多的自主控制权。”",
+    "syntaxAnalysis": "引语主干。主语 Brendon Lynch，同位语 Microsoft's chief privacy officer，谓语 blogged（在博客发帖）；双引号内为直接引语充当宾语，内嵌省略 that 的宾语从句 consumers should have more control。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 6,
+      "ps": "P7-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 25
+    },
+    "text": "Could it really be that simple?",
+    "translation": "可事情当真会如此单纯美好吗？",
+    "syntaxAnalysis": "情态动词引导的一般疑问句（反问句）。主语 it，系动词 be，that 为程度副词修饰形容词 simple（那么单纯）。作者以此含蓄而辛辣的反问句收尾，鲜明表达出对微软高尚说辞的深切怀疑。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  }
+]

@@ -1,0 +1,709 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "In Wordsworth's view, \"habits\" is characterized by being",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "casual.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】casual 意为“随意的、漫不经心的、非正式的”。华兹华斯强调的是习惯对缺乏反思的人群的绝对统治支配（rules），带有极强的固定性与机械性，而非随意随性。",
+        "vocab": [
+          {
+            "word": "casual",
+            "ipa": "[ˈkæʒuəl]",
+            "meaning": "随意的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "familiar.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/断章取义】第1段虽然出现了 familiar routine（熟悉的常规），但这是作者对日常惯例的客观描述，并非华兹华斯名言中提炼出的关于习惯本质属性的哲学论断。"
+      },
+      {
+        "key": "C",
+        "text": "mechanical.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】华兹华斯名言中“rules the unreflecting herd”与前文“on auto-pilot”形成呼应，精准刻画出习惯在没有主动思考介入时的自动化、机械性（mechanical）运作特征。",
+        "vocab": [
+          {
+            "word": "mechanical",
+            "ipa": "[məˈkænɪkl]",
+            "meaning": "机械的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "changeable.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】第1段及后文均指出习惯是固定持久且极其难以动摇的（unchangeable creatures of habit），与 changeable（易变的、可变的）直接背道而驰。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "\"Not choice, but habit rules the unreflecting herd,\" William Wordsworth said in the 19th century.",
+      "explanation": "【王晶婷六大题型·细节理解题精析】\n题干考查19世纪诗人华兹华斯对“习惯”特征的认知。定位至第1段第3句：“'Not choice, but habit rules the unreflecting herd,' William Wordsworth said in the 19th century”（支配着那些缺乏反思的大众的，不是理性抉择，而是盲目习惯）。unreflecting herd 形容不假思索、盲目跟从的人群；再结合本段第2句“setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine”（让大脑处于自动驾驶状态，安然享受熟悉的常规），充分说明在华兹华斯看来，习惯的运作完全是一种不动脑筋的、被动机械运转的特质（mechanical）。因此 [C] mechanical 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "view",
+          "ipa": "[vjuː]",
+          "meaning": "观点",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "characterized",
+          "ipa": "",
+          "meaning": "以…为特征",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Brain researchers have discovered that the formation of new habits can be",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "predicted.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】脑科学家揭示的是培养新习惯的大脑神经通路与细胞生成机制，全文完全未提及新习惯的形成可以被科学“预测”（predicted）。",
+        "vocab": [
+          {
+            "word": "predicted",
+            "ipa": "",
+            "meaning": "预测",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "regulated.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】regulated 意为“受到规章法规的约束、管制或监管”。文中探讨的是个体意识的主动塑造引导，而非外界条规的管控。",
+        "vocab": [
+          {
+            "word": "regulated",
+            "ipa": "",
+            "meaning": "调节",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "traced.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中虽然描述了神经细胞和并行动线的生理变化，但并未提出研究人员发现新习惯可以被“追踪痕迹/溯源”（traced）。",
+        "vocab": [
+          {
+            "word": "traced",
+            "ipa": "",
+            "meaning": "追踪",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "guided.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】与第2段“consciously develop（有意识培养）”及第3段“direct our own change（引导自我改变）”构成直接且精准的动词被动语态同义替换。"
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.",
+      "explanation": "【王晶婷六大题型·细节理解题精析】\n题干询问脑科学研究人员发现新习惯的形成具有什么特点。定位至第2段第2句：“when we consciously develop new habits, we create parallel paths, and even entirely new brain cells...”以及紧随其后的第3段第1句：“we can instead direct our own change by consciously developing new habits”（我们可以通过有意识地培养新习惯来引导自我改变）。原文中 consciously develop（有意识地培养）与 direct our own change（主导/引导改变）高度契合，说明新习惯的形成不是盲目的被动发生，而是可以通过人类主观意识加以积极引导和塑造的（can be guided）。因此 [D] guided 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "formation",
+          "ipa": "[fɔːˈmeɪʃn]",
+          "meaning": "形成",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "The word \"ruts\" (Para. 4) is closest in meaning to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tracks.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】tracks 意为“轨迹、轨道、车辙印痕”，与下文“old roads”形成精确回指对照，符合脑神经中程序固化通路的隐喻。"
+      },
+      {
+        "key": "B",
+        "text": "series.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】series 意为“系列、连串”，无法体现车轮碾压出的深陷车辙痕迹与道路通路的语境比喻。",
+        "vocab": [
+          {
+            "word": "series",
+            "ipa": "[ˈsɪəriːz]",
+            "meaning": "系列",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "characteristics.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】characteristics 意为“特征、特性”，完全脱离了原文关于道路、通路与车辙的空间力学隐喻。",
+        "vocab": [
+          {
+            "word": "characteristics",
+            "ipa": "",
+            "meaning": "特征",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "connections.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】connections 意为“连接、联系、人脉”，未能准确表达反复磨损后刻入大脑的固定行进痕迹（ruts）。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "VOCAB",
+    "type": "词义推测题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay. Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.",
+      "explanation": "【王晶婷六大题型·词义推测题精析】\n题干要求推测第4段中“ruts”的词义。定位至第4段第1句与第2句：“once those ruts of procedure are worn into the brain, they're there to stay. Instead, the new habits... create parallel pathways that can bypass those old roads”。句中 worn into the brain 形象描绘出像车轮深陷地面所压出的凹槽、车辙；而第2句紧接着用“those old roads”（那些旧道路）进行回指，并与“parallel pathways”（平行的全新路径）形成鲜明对照。由此可见，ruts 借喻大脑中按部就班固化下来的固定通路、轨迹或道路。四个选项中，[A] tracks 意为“车辙、轨迹、轨道、路径”，与 ruts/roads 语境同义，故选 [A]。",
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "Dawna Markova would most probably agree that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ideas are born of a relaxing mind.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/断章取义】第1段曾提到“relaxing into the unconscious comfort of familiar routine”，形容的是陷入旧习惯的安逸舒适区，而非马尔科娃关于灵感与创新的观点。",
+        "vocab": [
+          {
+            "word": "born",
+            "ipa": "[bɔːn]",
+            "meaning": "来自于…，产生于…",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "innovativeness could be taught.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】马尔科娃在第2句明确批判当前的教育方式：“But we are taught instead to 'decide'... to decide is to kill off all possibilities but one”（我们受到的教育却是去草率决断，而这扼杀了其他所有可能性），说明传统教学恰恰压制了创新探索，而非创新可以被按部就班教会。"
+      },
+      {
+        "key": "C",
+        "text": "decisiveness derives from fantastic ideas.",
+        "isCorrect": false,
+        "distractorType": "CAUSALITY_INVERSION",
+        "analysis": "【因果错乱/曲解文意】马尔科娃将急于下决断（decide）视为扼杀创新可能性的消极行为，从未提出“果断决断源自奇思妙想”的论断。",
+        "vocab": [
+          {
+            "word": "derives",
+            "ipa": "",
+            "meaning": "来自",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "fantastic",
+            "ipa": "[fænˈtæstɪk]",
+            "meaning": "新奇的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "curiosity activates creative minds.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“curiosity”精确同义替换“fascination with wonder”；“activates creative minds”精准对应“first thing needed for innovation”。",
+        "vocab": [
+          {
+            "word": "curiosity",
+            "ipa": "[ˌkjʊəriˈɒsəti]",
+            "meaning": "好奇心",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "activates",
+            "ipa": "",
+            "meaning": "激活",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "creative",
+            "ipa": "[kriˈeɪtɪv]",
+            "meaning": "创造性的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "\"The first thing needed for innovation is a fascination with wonder,\" says Dawna Markova, author of The Open Mind.",
+      "explanation": "【王晶婷六大题型·观点态度细节题精析】\n题干询问道娜·马尔科娃最可能同意的观点。定位至第5段第1句：“'The first thing needed for innovation is a fascination with wonder,' says Dawna Markova... A good innovational thinker is always exploring the many other possibilities”（创新所需的第一要素是对未知神奇事物怀有强烈的着迷与好奇；优秀的创新思维者始终在积极探索许多其他可能性）。\n在选项中，“curiosity”（好奇心）与原文“a fascination with wonder”（对奇妙事物的着迷好奇）完美同义替换；“activates creative minds”（激发创造性思维/头脑）与“needed for innovation / good innovational thinker”完美契合。因此 [D] curiosity activates creative minds 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Dawna",
+          "ipa": "",
+          "meaning": "[人名]道娜·马尔科娃",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Ryan's comments suggest that the practice of standardized testing",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "prevents new habits from being formed.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解逻辑推理】标准化考试单一强调分析和程序旧模式，助长了平庸（fosters commonness），使得学生无法通过强化长处建立创新性新思维路径，实质上阻碍了新习惯与新通路的形成。",
+        "vocab": [
+          {
+            "word": "prevents",
+            "ipa": "",
+            "meaning": "阻止",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "no longer emphasizes commonness.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】瑞安明确指出标准化考试是“a lie that we have perpetuated, and it fosters commonness”（助长了大众的平庸），选项却宣称“不再强调平庸”，与原文南辕北辙。",
+        "vocab": [
+          {
+            "word": "no",
+            "ipa": "[nəʊ]",
+            "meaning": "不再",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "emphasizes",
+            "ipa": "",
+            "meaning": "强调",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "maintains the inherent American thinking mode.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】瑞安指出“任何人都能做任何事”是美国信仰中流传的谎言，标准化考试并没有“维护美国固有的健康思维模式”，反而打破了这种幻想并强化了平庸。",
+        "vocab": [
+          {
+            "word": "maintains",
+            "ipa": "",
+            "meaning": "保持",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "inherent",
+            "ipa": "[ɪnˈherənt]",
+            "meaning": "固有的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "mode",
+            "ipa": "[məʊd]",
+            "meaning": "方式",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "complies with the American belief system.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】第2句首句即明确指出：“This breaks the major rule in the American belief system”（这打破了美国信仰体系中的核心法则），选项却说是 complies with（符合/遵守），直接与原文相反。",
+        "vocab": [
+          {
+            "word": "complies",
+            "ipa": "",
+            "meaning": "符合",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "belief",
+            "ipa": "[bɪˈliːf]",
+            "meaning": "信仰",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": "推理判断题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought. \"This breaks the major rule in the American belief system...\"",
+      "explanation": "【王晶婷六大题型·推断与综合理解题精析】\n题干考查M.J.瑞安的评论暗示了标准化考试的何种后果。定位至第7段：第1句指出“The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought”（当前对标准化考试的过分强调突出了分析与程序，导致极少有人能发挥创新和协作思维）；瑞安随后批评这种考试方式让人们误以为能做任何事，反而“fosters commonness”（助长了平庸大众），最后指出“Knowing what you're good at and doing even more of it creates excellence. This is where developing new habits comes in”（强化自身优势才能缔造卓越，而这正是培养新习惯发挥作用之处）。由此可深刻推断出，标准化考试将所有人硬套进同一种分析与程序的死板模式中，扼杀了学生发展自身优势的可能，阻碍了突破舒适区、建立新神经习惯的契机（prevents new habits from being formed）。因此 [A] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "comments",
+          "ipa": "",
+          "meaning": "评论",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  }
+]

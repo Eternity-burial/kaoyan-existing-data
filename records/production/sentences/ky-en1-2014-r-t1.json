@@ -1,0 +1,502 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "In order to \"change lives for the better\" and reduce \"dependency\", George Osborne, Chancellor of the Exchequer, introduced the \"upfront work search\" scheme.",
+    "translation": "为了“让民众的生活变得更加美好”并降低“对福利的依赖”，英国财政大臣乔治·奥斯本推出了所谓的“预先主动求职”方案。",
+    "syntaxAnalysis": "In order to ... 为目的状语，内嵌并列不定式短语 change ... and reduce ...（带引号表明引用官方说辞并暗含讽刺）；主句主干为 George Osborne ... introduced the 'upfront work search' scheme，Chancellor of the Exchequer 为同位语修饰主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Only if the jobless arrive at the job centre with a CV, register for online job search, and start looking for work will they be eligible for benefit — and then they should report weekly rather than fortnightly.",
+    "translation": "唯有当失业者携带个人简历来到就业服务中心，在网上注册求职，并切实开始四处找工作时，他们才有资格领取救济金——而且此后他们必须每周汇报一次求职进展，而不是原本的两周一次。",
+    "syntaxAnalysis": "‘Only if + 条件状语从句 + 主句部分倒装’结构。Only if 引导的条件从句包含三个并列谓语 arrive ..., register ..., and start ...；主句 will they be eligible for benefit 部分倒装；破折号后连接并列分句 and then they should report weekly rather than fortnightly。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "What could be more reasonable?",
+    "translation": "试问，天底下还有什么比这听起来更冠冕堂皇、合情合理的呢？",
+    "syntaxAnalysis": "反问句（修辞疑问句）。What 为疑问代词作主语，系表结构 could be more reasonable。表面夸赞合理，实为作者辛辣反讽大臣方案的吹毛求疵与严苛冷酷。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "More apparent reasonableness followed.",
+    "translation": "随之而来的，是更多表面看似冠冕堂皇的所谓“合理性”。",
+    "syntaxAnalysis": "简单句倒装/承接句。More apparent reasonableness（更多貌似合理之举）为主语，apparent 带有贬义‘表面上的/虚假的’色彩，谓语 followed。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "There will now be a seven-day wait for the jobseeker's allowance.",
+    "translation": "从今往后，求职者申领失业津贴还必须先熬过长达七天的等待期。",
+    "syntaxAnalysis": "There be 句型。There will now be a seven-day wait 为主干，for the jobseeker's allowance 为介词短语修饰 wait。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "\"Those first few days should be spent looking for work, not looking to sign on,\" he claimed.",
+    "translation": "“失业最初的那几天理应全部花在积极找工作上，而不是眼巴巴地指望登记领取救济，”奥斯本如是宣称道。",
+    "syntaxAnalysis": "直接引语充当宾语。引语主干 Those first few days should be spent (in) doing A, not (in) doing B；sign on 熟词僻义短语，意为‘登记领取失业救济金’；he claimed 为说明语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "\"We're doing these things because we know they help people stay off benefits and help those on benefits get into work faster.\"",
+    "translation": "“我们之所以采取这些举措，是因为深知它们能帮助大众远离福利依赖，并协助那些正在吃救济的人更快走上工作岗位。”",
+    "syntaxAnalysis": "引语复合句。主句 We're doing these things，because 引导原因状语从句，从句中 they help sb. do and help sb. do 构成并列结构；stay off 意为‘远离/摆脱’；get into work 意为‘走上就业’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "Help? Really?",
+    "translation": "这是在帮助他们吗？当真如此？",
+    "syntaxAnalysis": "两个短促有力的疑问词独立成句。作者直接跳入文本进行辛辣嘲讽，彻底粉碎奥斯本所谓的‘帮助’谎言。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "On first hearing, this was the socially concerned chancellor, trying to change lives for the better, complete with \"reforms\" to an obviously indulgent system that demands too little effort from the newly unemployed to find work, and subsidises laziness.",
+    "translation": "乍听之下，这仿佛是一位心系社会疾苦的财政大臣，正殚精竭虑地试图让人们的生活变好，并辅以一整套针对现行放任纵容制度的‘大刀阔斧改革’——因为旧体制对新近失业者的求职努力要求过于宽松，甚至无异于在变相资助懒惰。",
+    "syntaxAnalysis": "长单句。On first hearing 为时间状语（乍听之下，暗示后文反转）；主干 this was the chancellor；trying to change ... 为现在分词短语作后置定语；complete with（配备有/伴随有）接名词 reforms；that 引导定语从句修饰 system，包含两个并列谓语 demands ... and subsidises laziness。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "What motivated him, we were to understand, was his zeal for \"fundamental fairness\" — protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits.",
+    "translation": "按照官方想让我们相信的说法，激励这位大臣的动力，是他对“基本公平”的无限热情——即保护广大纳税人利益、严格控制政府财政支出，并确保唯有最名副其实的申请者才能领到救济金。",
+    "syntaxAnalysis": "主从复合句。主语由 What motivated him 主语从句充当；we were to understand 为插入语（暗示这只是官方说辞）；系动词 was，表语 his zeal for 'fundamental fairness'；破折号后接三个并列的动名词短语（protecting ..., controlling ..., and ensuring ...）对基本公平进行具体阐释。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "Losing a job is hurting: you don't skip down to the job centre with a song in your heart, delighted at the prospect of doubling your income from the generous state.",
+    "translation": "失去工作是切肤之痛：你绝不可能怀揣着欢歌笑语蹦蹦跳跳地奔向就业中心，欣喜若狂地期待着从慷慨的政府那里让自己的收入凭空翻上一倍。",
+    "syntaxAnalysis": "冒号前后分为两层。前半句 Losing a job is hurting 为动名词作主语的主系表简句；冒号后进行具象反讽：you don't skip down to ...，with a song in your heart 为伴随状语，delighted at ... 为形容词短语作状语说明心理状态。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "It is financially terrifying, psychologically embarrassing and you know that support is minimal and extraordinarily hard to get.",
+    "translation": "失业在经济层面上令人惶惶不可终日，在心理层面上让人无地自容、尴尬万分，而且你心知肚明，政府所提供的援助微乎其微，并且极难申请到手。",
+    "syntaxAnalysis": "and 连接的并列句。前半句包含两个并列形容词表语 financially terrifying, psychologically embarrassing；后半句 you know that ...，that 引导宾语从句，从句中 is minimal and extraordinarily hard to get（hard to get 主动形式表被动含义）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "You are now not wanted; you are now excluded from the work environment that offers purpose and structure in your life.",
+    "translation": "现在的你成了社会弃儿，不再被任何人需要；你被无情地排除在原本能为你的生命赋予奋斗目标与生活秩序的工作环境之外。",
+    "syntaxAnalysis": "分号连接的两个被动语态分句。前分句 You are now not wanted；后分句 you are now excluded from the work environment，that 引导定语从句修饰 work environment。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "Worse, the crucial income to feed yourself and your family and pay the bills has disappeared.",
+    "translation": "更为严酷的是，用来供养你自己和家人、维持日常账单开销的关键收入，已然荡然无存。",
+    "syntaxAnalysis": "简单句。Worse 为评注性状语；主语 the crucial income，后接并列不定式短语 to feed ... and pay ... 作后置定语；谓语 has disappeared。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Ask anyone newly unemployed what they want and the answer is always: a job.",
+    "translation": "去问问任何一个刚刚丢掉饭碗的人他们想要什么，得到的答案永远只有一个：一份踏踏实实的工作。",
+    "syntaxAnalysis": "‘祈使句 + and + 陈述句’结构。Ask sb. sth. 结构，what they want 充当直接宾语；后半句 the answer is always: a job。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "But in Osborneland, your first instinct is to fall into dependency — permanent dependency if you can get it — supported by a state only too ready to indulge your falsehood.",
+    "translation": "然而，在奥斯本臆想出来的极乐世界里，你的第一本能却是甘愿坠入对福利的无限依赖之中——只要能搞到手，恨不得依赖一辈子——由一个极度热衷于纵容迁就你的谎言懒惰的政府在背后撑腰。",
+    "syntaxAnalysis": "主干为 your first instinct is to fall into dependency。in Osborneland 为虚构情境地点状语；破折号内 permanent dependency ... 为同位语补充说明；supported by a state 为过去分词短语作后置定语修饰 dependency；only too ready to 为习惯表达，意为‘极度乐意/过于迫切’；indulge your falsehood 意为纵容你的虚妄谎言。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "It is as though 20 years of ever-tougher reforms of the job search and benefit administration system never happened.",
+    "translation": "这情形就仿佛过去二十年来针对求职审查与救济金管理制度所推行的日益严苛的步步改革，全都未曾发生过一样。",
+    "syntaxAnalysis": "主系表结构。It is as though ...，as though 引导表语从句并运用虚拟语气；从句主语为 20 years of ever-tougher reforms ...，谓语 never happened。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens.",
+    "translation": "英国社会福利的立国原则，早已不再是你通过投保来抵御失业风险并在灾难降临时享受无条件的兜底给付。",
+    "syntaxAnalysis": "主系表复合句。主语 The principle of British welfare，系动词 is no longer，that 引导表语从句；表语从句包含两个并列谓语 can insure yourself against ... and receive unconditional payments，后嵌 if 引导的条件状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "Even the very phrase \"jobseeker's allowance\" is about redefining the unemployed as a \"jobseeker\" who had no fundamental right to a benefit he or she has earned through making national insurance contributions.",
+    "translation": "甚至连“求职者津贴”这一个冠冕堂皇的术语本身，其实质也是在强行将失业者重新定义为所谓的“求职者”——剥夺他们凭借依法缴纳国民保险供款所挣得的领取救济金的根本合法权利。",
+    "syntaxAnalysis": "复合句。主语 Even the very phrase 'jobseeker's allowance'，谓语 is about redefining A as B；B 为 a 'jobseeker'，后接 who 引导的定语从句；从句中包含省略 that 的定语从句 he or she has earned ... 修饰 a benefit。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 20
+    },
+    "text": "Instead, the claimant receives a time-limited \"allowance\", conditional on actively seeking a job; no entitlement and no insurance, at £ 71.70 a week, one of the least generous in the EU.",
+    "translation": "取而代之的是，申请人领取的仅仅是一份有着严苛期限的“施舍津贴”，并且完全以积极找工作为前置交换条件；这里面毫无任何法定的权利可言，更谈不上任何实质保障，每周区区71.70英镑，堪称全欧盟最为吝啬刻薄的救济标准之一。",
+    "syntaxAnalysis": "复合结构分句。前半句主干 the claimant receives a time-limited 'allowance'，conditional on ... 为形容词短语作补充修饰；分号后连接同位语与说明短语：no entitlement and no insurance，at £ 71.70 a week，one of the least generous in the EU 作同位语总结。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

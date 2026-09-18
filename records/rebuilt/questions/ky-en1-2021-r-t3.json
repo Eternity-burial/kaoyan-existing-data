@@ -1,0 +1,588 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "According to Paragraph 1, the author's posts on Twitter",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "illustrated the development of Victorian photography.",
+        "isCorrect": false,
+        "distractorType": "跨段混淆",
+        "analysis": "【干扰特征: 跨段混淆】摄影技术发展是第3、4段讨论的内容，第一段专讲推特发帖对公众认知的颠覆冲击。",
+        "refSentences": [
+          "P1-S2",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "changed people's impression of the Victorians.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P1-S1 和 P1-S2 明确指出推特发帖的轰动效果：'shatter the image of 19th-century prudery... People have been surprised to see evidence that Victorians had fun... become more human'（粉碎了19世纪古板假正经的旧形象，让人们惊讶地发现维多利亚人也会开怀大笑并更具人情味）。A选项 changed people's impression of the Victorians（改变了人们对维多利亚时代人的印象）完美契合原文陈述。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2",
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "highlighted social media's role in Victorian studies.",
+        "isCorrect": false,
+        "distractorType": "过度推断夸大",
+        "analysis": "【干扰特征: 夸大工具】推特只是发布照片的平台工具，非旨在强调社交媒体在学术研究中的地位。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "re-evaluated the Victorians' notion of public image.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】改变的是现代人对维多利亚人的看法，非维多利亚人自身的公众形象观念。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2",
+      "P1-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "shatter image of prudery + surprised to see Victorians had fun = changed people's impression of the Victorians。",
+      "methodSummary": "首段题眼归纳法：抓准 shatter the image of prudery 对应的 changed people's impression。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "author's posts on Twitter"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "What does the author say about the Victorian portraits he has collected?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They are in popular use among historians.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及在历史学家中普遍流行使用。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "They show effects of different exposure times.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】反映不同曝光时间的是科技史，作者搜集微笑照片是为了颠覆古板人情味刻板印象。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "They are rare among photographs of that age.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 明确客观阐述其搜集到的照片比例：'makes up only a tiny percentage of the vast catalogue of photographic portraiture created between 1840 and 1900'（在1840-1900年间创作的海量肖像摄影档案中仅占微不足道的极小比例）。tiny percentage（极小比例）与 rare among photographs of that age（在那个时代的照片中极其罕见）完全同义对应。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "They mirror 19th-century social conventions.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】绝大多数僵硬严肃的照片才反映当时的社会风尚（majority show sitters stiffly），微笑照片属于罕见特例。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "makes up only a tiny percentage of the vast catalogue = They are rare among photographs of that age。",
+      "methodSummary": "数量特征对应法：tiny percentage 转换为 rare among photographs of that age。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        },
+        "source": "英语一_2021_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author say about",
+        "Victorian portraits he has collected"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "What might have kept the Victorians from smiling for pictures in the 1890s?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Their unhealthy dental condition.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 指出1890年代曝光已不再是障碍，P5-S1 紧接着揭示核心深层原因：'\"Nature gave us lips to conceal our teeth,\" ran one popular Victorian maxim, alluding to the fact that before the birth of proper dentistry, mouths were often in a shocking state of hygiene'（大自然给我们嘴唇是为了掩盖牙齿，正规牙科诞生前口腔牙齿处于令人触目惊心的卫生状态，露出烂牙会丧失体面尊严）。D选项 Their unhealthy dental condition（他们不健康的牙齿卫生状况）与 shocking state of hygiene 完全精准对应。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Their inherent social sensitiveness.",
+        "isCorrect": false,
+        "distractorType": "空泛泛指",
+        "analysis": "【干扰特征: 过于抽象】文章具体指出了牙齿卫生丑陋与阶级体面的实际顾虑，非天生社交敏感。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Their tension before the camera.",
+        "isCorrect": false,
+        "distractorType": "时代错位排除",
+        "analysis": "【干扰特征: 时代错配】面对相机的紧张和漫长曝光是早期1840-50年代的技术困扰（P3），到了1890年代曝光已瞬时完成（P4）。",
+        "refSentences": [
+          "P3-S1",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Their distrust of new inventions.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及对便携相机等新发明的怀疑不信任。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节原因题",
+    "targetSentences": [
+      "P4-S1",
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "1890s exposure was instantaneous... mouths were often in a shocking state of hygiene = Their unhealthy dental condition。",
+      "methodSummary": "时间定位因果题：排除了 1890s 的曝光技术因素后，准确定位到第5段的 shocking state of dental hygiene。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "kept Victorians from smiling",
+        "in the 1890s"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "Mark Twain is quoted to show that the disapproval of smiles in pictures was",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a thought-provoking idea.",
+        "isCorrect": false,
+        "distractorType": "泛化泛指",
+        "analysis": "【干扰特征: 过于宽泛】未能揭示全社会普遍固化信条的核心本质。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "a deep-rooted belief.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P6-S1 和 P6-S2 紧密相连：前文论述得体阶层普遍认为露齿笑缺乏教养；随后引述甚至连平素极其喜爱爽朗大笑的马克·吐温（Even Mark Twain, who enjoyed a hearty laugh）都坚决认为照片中定格傻笑是极其致命不可接受的（nothing more damning than a silly smile）。引用连最爱笑的标志性名人都毫不例外地坚决恪守这一信条，正是为了有力证明：在维多利亚时期，对照片中微笑的反对排斥已经是一种极其根深蒂固、深入骨髓的普遍社会观念信仰（a deep-root belief）。A选项完全精准吻合。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "a misguided attitude.",
+        "isCorrect": false,
+        "distractorType": "后世主观评价偏差",
+        "analysis": "【干扰特征: 贬义偏差】作者是在客观解释维多利亚时代全社会深信不疑的文化观念，非借马克·吐温证明其属于“被误导的错误态度”。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "a controversial view.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】连爱笑的作家都完全一致赞同，说明这是当时压倒性的全社会共识，非充满争议（controversial）。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Even Mark Twain, a man who enjoyed hearty laugh, said nothing more damning than a silly smile = a deep-root belief（根深蒂固的信念）。",
+      "methodSummary": "让步递进例证法：Even Mark Twain... 表示连最爱笑的人都在遵循，证明该观念是 deep-root belief。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Mark Twain is quoted to show",
+        "disapproval of smiles in pictures was"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following questions does the text answer?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "When did the Victorians start to view photography differently?.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】文章探讨的是肖像拍照中的面部表情原因，非维多利亚人为何开始看照片。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "What made photography develop slowly in the Victorian period?.",
+        "isCorrect": false,
+        "distractorType": "次要科技背景",
+        "analysis": "【干扰特征: 偏离核心】摄影技术演进只是辅助解释表情的背景变量，非文章探讨的主旨核心。",
+        "refSentences": [
+          "P3-S1",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Why did most Victorians look stern in photographs?.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文核心设问与主旨】文章结构极其清晰严密：第1-2段提出绝大多数维多利亚肖像照都表情僵硬严肃（posing miserably and stiffly），并在 P2-S1 提出核心问题'How do we explain this trend?'；随后第3段从早期曝光过长技术限制予以解释，第4-5段从快门提速后口腔牙齿卫生恶劣（lips conceal teeth / dental hygiene）予以解释，第6段从露齿笑缺乏阶级教养与马克·吐温信念予以文化解释。全文通篇都在严密系统地回答“为什么绝大多数维多利亚人在照片中看起来如此严肃冷峻（look stern）”这一核心议题。A选项为最完美的契合主旨选项。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1",
+          "P4-S1",
+          "P5-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "How did smiling in photographs become a post-Victorian norm?.",
+        "isCorrect": false,
+        "distractorType": "无中生有后维多利亚时代",
+        "analysis": "【干扰特征: 时代跨越】文章完全局限在维多利亚时代（1840-1900），未探讨后维多利亚时代微笑如何演变为规范。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "主旨设问题",
+    "targetSentences": [
+      "P2-S1",
+      "P3-S1",
+      "P4-S1",
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "posing stiffly / How do we explain this trend? + exposure (P3) + dental hygiene (P5) + class etiquette (P6) = Why did most Victorians look stern in photographs?",
+      "methodSummary": "核心设问主旨题：定位第2段承上启下的核心问题句（How do we explain this trend?）并提炼各段多维归因。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2021_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Which of the following questions does the text answer"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  }
+]

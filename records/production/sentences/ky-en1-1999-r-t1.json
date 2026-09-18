@@ -1,0 +1,542 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "It's a rough world out there.",
+    "translation": "外面的世界很艰难。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Step outside and you could break a leg slipping on your doormat.",
+    "translation": "走出去，你可能会因为在门垫上滑倒而摔断腿。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Light up the stove and you could burn down the house.",
+    "translation": "点燃炉子，你可能会烧毁房子。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Luckily, if the doormat or stove failed to warn of a coming disaster, a successful lawsuit might compensate you for your troubles.",
+    "translation": "幸运的是，如果门垫或炉子未能警告即将到来的灾难，一场成功的诉讼可能会弥补你的麻烦。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Or so the thinking has gone since the early 1980s, when juries began holding more companies liable for their customers' misfortunes.",
+    "translation": "至少自 20 世纪 80 年代初以来，这种想法就已经消失了，当时陪审团开始要求更多的公司为其客户的不幸承担责任。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "Feeling threatened, companies responded by writing ever-longer warning labels, trying to anticipate every possible accident.",
+    "translation": "由于感到受到威胁，公司的反应是写出越来越长的警告标签，试图预测每一次可能发生的事故。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Today, stepladders carry labels several inches long that warn, among other things, that you might—surprise!—fall off.",
+    "translation": "如今，梯子上贴有几英寸长的标签，除其他外，还警告您可能会（令人惊讶！）跌落。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The label on a child's Batman cape cautions that the toy \"does not enable the user to fly\".",
+    "translation": "儿童蝙蝠侠斗篷上的标签警告说，该玩具“不能让使用者飞翔”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "While warnings are often appropriate and necessary—the dangers of drug interactions, for example—and many are required by state or federal regulations, it isn't clear that they actually protect the manufacturers and sellers from liability if a customer is injured.",
+    "translation": "虽然警告通常是适当和必要的（例如药物相互作用的危险），而且许多警告是州或联邦法规所要求的，但尚不清楚它们是否真的可以保护制造商和销售商在顾客受伤时免于承担责任。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "About 50 percent of the companies lose when injured customers take them to court.",
+    "translation": "大约 50% 的公司因受伤的客户将其告上法庭而蒙受损失。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Now the tide appears to be turning.",
+    "translation": "现在潮流似乎正在转变。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "As personal injury claims continue as before, some courts are beginning to side with defendants, especially in cases where a warning label probably wouldn't have changed anything.",
+    "translation": "随着人身伤害索赔一如既往地继续，一些法院开始站在被告一边，特别是在警告标签可能不会改变任何事情的情况下。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "In May, Julie Nimmons, president of Schutt Sports in Illinois, successfully fought a lawsuit involving a football player who was paralyzed in a game while wearing a Schutt helmet.",
+    "translation": "今年5月，伊利诺伊州Schutt Sports公司总裁朱莉·尼蒙斯(Julie Nimmons)成功打赢了一起诉讼，该诉讼涉及一名戴着Schutt头盔在比赛中瘫痪的橄榄球运动员。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "\"We're really sorry he has become paralyzed, but helmets aren't designed to prevent those kinds of injuries, \" says Nimmons.",
+    "translation": "尼蒙斯说：“我们对他瘫痪感到非常遗憾，但头盔的设计目的并不是为了防止此类伤害。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "The jury agreed that the nature of the game, not the helmet, was the reason for the athlete's injury.",
+    "translation": "陪审团一致认为，比赛的性质，而不是头盔，是运动员受伤的原因。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "At the same time, the American Law Institute—a group of judges, lawyers, and academics whose recommendations carry substantial weight—issued new guidelines for tort law stating that companies need not warn customers of obvious dangers or bombard them with a lengthy list of possible ones.",
+    "translation": "与此同时，美国法律研究所（由法官、律师和学者组成的团体，其建议具有重大影响力）发布了新的侵权法指南，指出公司无需警告客户明显的危险或用一长串可能的危险清单轰炸他们。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "\"Important information can get buried in a sea of trivialities, \" says a law professor at Cornell Law School who helped draft the new guidelines.",
+    "translation": "“重要的信息可能会被淹没在琐碎的海洋中，”帮助起草新指南的康奈尔法学院的一位法学教授说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "If the moderate end of the legal community has its way, the information on products might actually be provided for the benefit of customers and not as protection against legal liability.",
+    "translation": "如果法律界的温和派能够得逞，那么产品信息实际上可能是为了客户的利益而提供的，而不是为了避免法律责任。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  }
+]

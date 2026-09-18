@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Last year marked the third year in a row when Indonesia's bleak rate of deforestation has slowed in pace. One reason for the turnaround may be the country's antipoverty program.",
+    "translation": "去年标志着印尼令人堪忧的森林砍伐速度连续第三年出现放缓。促成这一喜人扭转局面的一个关键原因，或许正是该国大力推行的反贫困扶贫计划。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "In 2007, Indonesia started phasing in a program that gives money to its poorest residents under certain conditions, such as requiring people to keep kids in school or get regular medical care.",
+    "translation": "2007年，印尼开始逐步分阶段推行一项在特定约束条件下向最贫困居民直接发放现金补助的计划——例如要求受助家庭必须让适龄儿童保持上学，或定期接受医疗体检。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Called conditional cash transfers or CCTs, these social assistance programs are designed to reduce inequality and break the cycle of poverty. They're already used in dozens of countries worldwide. In Indonesia, the program has provided enough food and medicine to substantially reduce severe growth problems among children.",
+    "translation": "这些被称为“有条件现金转移支付”（CCTs）的社会救助项目，其设立初衷是缩小社会不平等并彻底打破代际贫困循环（help poor families get better off / break cycle of poverty）。目前全球已有数十个国家广泛采纳了此类项目。在印尼，该计划提供了充足的食物与药品，从而实质性地大幅减少了儿童严重的生长发育发育迟缓问题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "But CCT programs don't generally consider effects on the environment. In fact, poverty alleviation and environmental protection are often viewed as conflicting goals, says Paul Ferraro, an economist at Johns Hopkins University.",
+    "translation": "但 CCT 扶贫项目通常并不会主动考量其对生态环境的影响。事实上，约翰斯·霍普金斯大学经济学家保罗·费拉罗指出，消除贫困与环境保护历来往往被视作不可调和的对立冲突目标。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "That's because economic growth can be correlated with environmental degradation, while protecting the environment is sometimes correlated with greater poverty. However, those correlations don't prove cause and effect.",
+    "translation": "这是因为经济增长往往可能与生态环境恶化正相关，而保护环境有时又往往伴随着更大程度的贫困（economic growth tends to cause environmental degradation）。然而，这些统计相关性并不能直接证明因果关系。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "The only previous study analyzing causality, based on an area in Mexico that had instituted CCTs, supported the traditional view. There, as people got more money, some of them may have more cleared land for cattle to raise for meat, Ferraro says.",
+    "translation": "此前唯一一项基于墨西哥推行 CCT 项目地区的因果关系实证研究，恰恰印证支持了这一传统对立观点：在当地，随着人们拿到更多现金补贴，部分村民便砍伐开辟了更多林地用来养牛产肉，费拉罗解释道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Such programs do not have to negatively affect the environment, though. Ferraro wanted to see if Indonesia's poverty-alleviation program was affecting deforestation. Indonesia has the third-largest area of tropical forest in the world and one of the highest deforestation rates.",
+    "translation": "然而，此类项目并非必然会对环境产生负面破坏。费拉罗试图深入探究印尼的反贫困扶贫项目是否正在对森林砍伐产生实际影响（relation of CCTs to forest loss）。印尼拥有全球第三大面积的热带雨林，但同时也曾是全球森林砍伐率最高的国家之一。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Ferraro analyzed satellite data showing annual forest loss from 2008 to 2012—including during Indonesia's phase-in of the antipoverty program—in 7,468 forested villages across 15 provinces. \"We see that the program is associated with a 30 percent reduction in deforestation,\" Ferraro says.",
+    "translation": "费拉罗调取并严密分析了涵盖印尼15个省份、7468个林区村庄自2008年至2012年间（包含扶贫项目推行期）年度森林流失的卫星遥感数据。“我们清晰地发现，该扶贫项目与当地森林砍伐率整整下降30%直接显著相关，”费拉罗表示。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "That's likely because the rural poor are using the money as makeshift insurance policies against inclement weather, Ferraro says. Typically, if rains are delayed, people may clear land to plant more rice to supplement their harvests.",
+    "translation": "费拉罗指出，这很可能是因为广大农村贫困农户将这笔现金补贴用作了抵御恶劣天气的“临时应急保险”：在以往通常情况下，若雨季推迟发生干旱，人们往往不得不砍伐开辟更多原始林地加种水稻以弥补粮食减产歉收。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 8,
+      "sentence": 1,
+      "ps": "P8-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P8-S1",
+      "pIndex": 8
+    },
+    "text": "Whether this research translates elsewhere is anybody's guess. Ferraro suggests the results may transfer to other parts of Asia, due to commonalities such as the importance of growing rice and market access.",
+    "translation": "这项研究成果能否直接推广复制到其他地区尚无法定论。费拉罗推测其结论或许能够迁移应用于亚洲其他水稻种植区，因为它们在水稻核心地位与市场准入等特征上具有高度相似的共通性。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t2",
+    "location": {
+      "paragraph": 8,
+      "sentence": 2,
+      "ps": "P8-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P8-S2",
+      "pIndex": 8
+    },
+    "text": "And regardless of transferability, the study shows that what's good for people may also be good for the environment. Even if this program didn't reduce poverty, Ferraro says, \"the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs.\"",
+    "translation": "而无论其可推广性如何，该研究都极其雄辩地证明：造福百姓民生的政策同样能够有力保护生态环境（can protect the environment）。费拉罗由衷感叹道：即便这项计划完全不考虑减贫效果，“单凭避免森林砍伐所减少的二氧化碳排放量这一项生态价值，就已经远远超过了该扶贫项目本身的全部财政成本投入！”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  }
+]

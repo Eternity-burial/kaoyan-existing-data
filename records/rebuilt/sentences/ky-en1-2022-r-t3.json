@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Enlightening, challenging, stimulating, fun. These were some of the words that Nature readers used to describe their experiences of art-science collaborations in a series of articles on partnerships between artists and researchers.",
+    "translation": "启迪心智、充满挑战、激发灵感、妙趣横生。这些词汇正是《自然》（Nature）杂志读者在关于艺术家与科研学者跨界合作的一系列文章中，用来形容他们亲身参与“艺术-科学跨界合作”体验时所给出的热烈评价。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Nearly 40% of the roughly 350 people who responded to an accompanying poll said they had collaborated with artists, and almost all said they would consider doing so in the future.",
+    "translation": "在参与随附问卷调查的约350名受访者中，有近40%的人明确表示他们曾与艺术家展开过实质性跨界合作，且几乎所有受访者都坚决表示未来会继续考虑进行此类合作（received favourable responses）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 2
+    },
+    "text": "Such an encouraging result is not surprising. Scientists are increasingly seeking out visual artists to help them communicate their work to new audiences. \"Artists help scientists reach a broader audience and make emotional connections that enhance learning,\" one respondent said.",
+    "translation": "如此令人鼓舞的调查结果丝毫不足为奇。当今科学家正日益主动寻求视觉艺术家的跨界支持，以帮助他们将深奥晦涩的科研成果传播传递给全新的大众受众。“艺术家能够帮助科学家触达更加广阔的受众群体，并建立起深化理解认知的强烈情感共鸣连接，”一位受访者如是说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "One example of how artists and scientists have together rocked the senses came last month when the Sydney Symphony Orchestra performed a reworked version of Antonio Vivaldi's The Four Seasons.",
+    "translation": "关于艺术家与科学家如何携手震撼人类感官的一个绝佳范例，便发生在上个月悉尼交响乐团对安东尼奥·韦瓦第经典名作《四季》所进行的震撼重构版演绎之中（reworked version of The Four Seasons）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "They reimagined the 300-year-old score by injecting the latest climate prediction data for each season—provided by Monash University's Climate Change Communication Research Hub. The performance was a creative call to action ahead of November's United Nations Climate Change Conference in Glasgow, UK.",
+    "translation": "他们通过向每个季节注入由莫纳什大学气候变化传播研究中心提供的最新气候预测科研数据，重新解构并重塑了这部有着300年历史的经典乐谱。这场演出在英国格拉斯哥联合国气候变化大会召开前夕，发出了一记极富创造力与感染力的跨界行动号召（art offer audiences easy access to science）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "But a genuine partnership must be a two-way street. Fewer artists than scientists responded to the Nature poll; however, several respondents noted that artists do not simply assist scientists with their communication requirements. Nor should their work be considered only as an object of study.",
+    "translation": "然而，真正的跨界伙伴关系必须是一条互惠互利的“双向车道”（two-way street）。参与《自然》调查的艺术家数量少于科学家；然而若干受访者尖锐指出：艺术家的角色绝不能被狭隘地贬低为仅仅协助科学家满足其科研成果的大众传播需求（role may be underestimated），他们的艺术创作更不应仅仅被视作供科学家解剖研究的单向客体。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "The alliances are most valuable when scientists and artists have a shared stake in a project, are able to jointly design it and can critique each other's work. Such an approach can both prompt new research as well as result in powerful art.",
+    "translation": "当科学家与艺术家在项目中拥有共同的利益关切、能够共同主导方案设计并能够相互审视批判彼此的工作时，这种跨界联盟才会爆发出最巨大的非凡价值。这种深度融合模式既能直接激发全新的前沿科学研究，又能孕育出震撼人心的伟大艺术力作。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "More than half a century ago, the Massachusetts Institute of Technology opened its Center for Advanced Visual Studies (CAVS) to explore the role of technology in culture. The founders deliberately focused their projects around light—hence the \"visual studies\" in the name. Light was something that both artists and scientists had an interest in, and therefore could form the basis of collaboration.",
+    "translation": "半个多世纪前，麻省理工学院（MIT）正式创立了“高级视觉研究中心”（CAVS），以深入探索科技在人类文化中所扮演的角色。创始人们深谋远虑地将项目聚焦于“光”这一核心主题——这也正是其名称中“视觉研究”的由头。光线是艺术家与科学家共同怀有浓厚兴趣的交汇点，因而构成了跨界深度合作的坚实基石（exemplified valuable art-science alliances）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "As science and technology progressed, and divided into more sub-disciplines, the centre was simultaneously looking to a time when leading researchers could also be artists, writers and poets, and vice versa.",
+    "translation": "随着科学技术的飞速演进并细分为更多子学科，该中心同时也在满怀憧憬地眺望一个全新的未来：届时顶尖的科研学者能够同时身兼艺术家、作家与诗人，反之亦然。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Nature's poll findings suggest that this trend is as strong as ever, but, to make a collaboration work, both sides need to invest time, and embrace surprise and challenge.",
+    "translation": "《自然》杂志的民调结果表明，这种科艺融合的大趋势比以往任何时候都更加强劲；但要想让跨界合作真正取得实效，双方都必须投入充裕时间，并由衷拥抱过程中的意料之外与严峻挑战。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "The reach of art-science tie-ups needs to go beyond the necessary purpose of research communication, and participants must not fall into the trap of stereotyping each other. Artists and scientists alike are immersed in discovery and invention, and challenge and critique are core to both, too.",
+    "translation": "艺术与科学跨界联手的辐射范围，必须远远超越单纯作为科研成果传播辅助工具的狭隘功利目的（reach needs to go beyond research communication / should do more than communicating science），参与各方绝不能陷入对彼此贴标签、搞刻板印象的狭隘陷阱之中。无论是艺术家还是科学家，本质上都深深沉浸在探索发现与创造发明的崇高殿堂之中，而勇于挑战和相互批判审视，同样是双方共同拥有的核心灵魂所在！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t3.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d063f4446ac10e8b71d67a1f88dc86682c4af31ed377b20cc7a043693ec8d879"
+    }
+  }
+]

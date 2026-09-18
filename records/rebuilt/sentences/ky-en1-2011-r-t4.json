@@ -1,0 +1,594 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story, \"I love My Children, I Hate My Life,\" is arousing much chatter – nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience.",
+    "translation": "詹妮弗·西尼尔那篇见解深刻、引人争议的杂志封面文章《我爱孩子，我讨厌我的生活》引发了广泛热议，这并不令人意外——最能挑起人们讨论的，莫过于有人暗示养育子女并非一种完全令人满足、丰富人生的体验。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (It形式主语 + that真正主语从句 + 破折号后双重否定强调句)",
+      "mainClause": "It's no surprise that Jennifer Senior's cover story is arousing much chatter",
+      "subordinateClauses": [
+        "主语从句: that Jennifer Senior's cover story is arousing much chatter",
+        "同位语从句: that child rearing is anything less than a completely fulfilling, life-enriching experience (解释 suggestion)"
+      ],
+      "corePattern": "It is no surprise that... / arouse much chatter / nothing gets people talking like / anything less than"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Rather than concluding that children make parents either happy or miserable, Senior suggests we need to redefine happiness: instead of thinking of it as something that can be measured by moment-to-moment joy, we should consider being happy as a past-tense condition.",
+    "translation": "西尼尔并没有断言孩子会让父母或幸福或痛苦，而是提出我们需要重新定义幸福：与其把幸福看作可以用当下时刻的快乐来衡量的东西，不如把幸福理解为一种回望过去时才呈现的状态。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (Rather than状语 + 宾语从句 + 冒号后对照结构)",
+      "mainClause": "Senior suggests (that) we need to redefine happiness",
+      "subordinateClauses": [
+        "状语: Rather than concluding that children make parents either happy or miserable",
+        "解释从句: instead of thinking of it as..., we should consider being happy as a past-tense condition",
+        "定语从句: that can be measured by moment-to-moment joy (修饰 something)"
+      ],
+      "corePattern": "Rather than concluding that / redefine happiness / consider A as B / past-tense condition"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Even though the day-to-day experience of raising kids can be soul-crushingly hard, Senior writes that \"the very things that in the moment dampen our moods can later be sources of intense gratification and delight.\"",
+    "translation": "即使养育孩子的日常经历可能令人心力交瘁，西尼尔写道，“那些当时让我们情绪低落的事情，日后却可能成为强烈满足感和快乐的源泉。”",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (让步状语从句 + 主句 + 宾语从句 + 定语从句)",
+      "mainClause": "Senior writes that...",
+      "subordinateClauses": [
+        "让步状语从句: Even though the day-to-day experience of raising kids can be soul-crushingly hard",
+        "宾语从句: that the very things can later be sources of intense gratification and delight",
+        "定语从句: that in the moment dampen our moods (修饰 the very things)"
+      ],
+      "corePattern": "Even though / soul-crushingly hard / dampen one's mood / sources of intense gratification"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week.",
+    "translation": "本周报刊亭上，那张印着漂亮母亲怀抱可爱婴儿的杂志封面，绝非唯一一张“圣母与圣婴”式的图像。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (现在分词短语作后置定语 + 主系表)",
+      "mainClause": "The magazine cover is hardly the only Madonna-and-child image on newsstands this week",
+      "subordinateClauses": [
+        "后置定语: showing an attractive mother holding a cute baby (修饰 cover)"
+      ],
+      "corePattern": "hardly the only... image / Madonna-and-child"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "There are also stories about newly adoptive – and newly single – mom Sandra Bullock, as well as the usual \"Jennifer Aniston is pregnant\" news.",
+    "translation": "杂志上还有关于刚刚收养孩子、同时也刚刚成为单身妈妈的桑德拉·布洛克的报道，以及一如既往的“珍妮弗·安尼斯顿怀孕了”这类消息。",
+    "syntaxAnalysis": {
+      "structureType": "There be 句型 + 并列介词短语",
+      "mainClause": "There are also stories about newly adoptive mom Sandra Bullock, as well as the usual news",
+      "subordinateClauses": [
+        "破折号插入语: and newly single"
+      ],
+      "corePattern": "There are also stories about / as well as the usual news"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Practically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands.",
+    "translation": "几乎每周都会有至少一位明星妈妈或准妈妈在报刊亭上微笑亮相。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (主谓宾 + 现在分词作状语/补足语)",
+      "mainClause": "Practically every week features at least one celebrity mom, or mom-to-be",
+      "subordinateClauses": [
+        "伴随状语: smiling on the newsstands"
+      ],
+      "corePattern": "every week features sb / mom-to-be"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "In a society that so persistently celebrates procreation, is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing?",
+    "translation": "在一个如此执着于赞美生育的社会里，承认后悔生孩子就等于承认支持虐杀小猫，这有什么奇怪的吗？",
+    "syntaxAnalysis": {
+      "structureType": "反问句复合句 (定语从句 + it形式主语 + that真正主语从句)",
+      "mainClause": "is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing?",
+      "subordinateClauses": [
+        "定语从句: that so persistently celebrates procreation (修饰 society)",
+        "主语从句: that admitting... is equivalent to admitting...",
+        "动名词宾语从句: you regret having children / you support kitten-killing"
+      ],
+      "corePattern": "celebrate procreation / is it any wonder that / be equivalent to"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        37,
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "It doesn't seem quite fair, then, to compare the regrets of parents to the regrets of the childless.",
+    "translation": "那么，把为人父母者的悔意与无子女者的悔意放在一起比较，似乎不太公平。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 (It形式主语 + 不定式真正主语 + 插入语)",
+      "mainClause": "It doesn't seem quite fair to compare the regrets of parents to the regrets of the childless",
+      "subordinateClauses": [
+        "真正主语: to compare the regrets of parents to the regrets of the childless"
+      ],
+      "corePattern": "seem fair to do sth / compare A to B / the childless"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Unhappy parents rarely are provoked to wonder if they shouldn't have had kids, but unhappy childless folks are bothered with the message that children are the single most important thing in the world: obviously their misery must be a direct result of the gaping baby-size holes in their lives.",
+    "translation": "不幸福的父母很少会被促使去反思自己当初是不是不该要孩子；而不幸福的无子女者却不断被这样一种信息所困扰：孩子是这世上头等重要的东西——显然，他们的不幸一定源于生活中孩子的空缺。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合长难句 (but连接两个分句 + 同位语从句 + 冒号解释)",
+      "mainClause": "Unhappy parents rarely are provoked to wonder..., but unhappy childless folks are bothered with the message...",
+      "subordinateClauses": [
+        "从句1: if they shouldn't have had kids (宾语从句)",
+        "同位语从句: that children are the single most important thing in the world (解释 message)",
+        "冒号独立解释句: obviously their misery must be a direct result of the gaping baby-size holes in their lives"
+      ],
+      "corePattern": "be provoked to do sth / be bothered with the message / direct result of"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Of course, the image of parenthood that celebrity magazines like Us Weekly and People present is hugely unrealistic, especially when the parents are single mothers like Bullock.",
+    "translation": "当然，《美国周刊》和《人物》这类名人杂志所呈现的父母形象极不现实，尤其是当父母是像布洛克这样的单身母亲时。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (定语从句 + 时间状语从句)",
+      "mainClause": "the image of parenthood is hugely unrealistic",
+      "subordinateClauses": [
+        "定语从句: that celebrity magazines like Us Weekly and People present (修饰 image)",
+        "状语从句: especially when the parents are single mothers like Bullock"
+      ],
+      "corePattern": "the image that ... present is hugely unrealistic"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "According to several studies concluding that parents are less happy than childless couples, single parents are the least happy of all.",
+    "translation": "多项研究表明，有孩子的父母不如没有孩子的夫妇快乐，而单亲父母是最不快乐的。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (分词短语作状语含宾语从句 + 主系表)",
+      "mainClause": "single parents are the least happy of all",
+      "subordinateClauses": [
+        "介词状语内从句: concluding that parents are less happy than childless couples"
+      ],
+      "corePattern": "According to studies concluding that / the least happy of all"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "No shock there, considering how much work it is to raise a kid without a partner to lean on; yet to hear Sandra and Britney tell it, raising a kid on their \"own\" (read: with round-the-clock help) is a piece of cake.",
+    "translation": "考虑到在没有伴侣依靠的情况下抚养孩子有多辛苦，这结论并不令人震惊；然而，听桑德拉和布兰妮说起来，她们“独自”（其实有全天候帮手）抚养孩子是小菜一碟。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 (省略句 + 介词宾语从句 + 转折分句 + 动名词主语)",
+      "mainClause": "No shock there; yet raising a kid is a piece of cake",
+      "subordinateClauses": [
+        "介词宾语从句: considering how much work it is to raise a kid without a partner to lean on",
+        "定语不定式: to lean on (修饰 partner)",
+        "状语不定式: to hear Sandra and Britney tell it",
+        "括号讽刺注释: (read: with round-the-clock help)"
+      ],
+      "corePattern": "No shock there / without a partner to lean on / a piece of cake"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "It's hard to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous: most adults understand that a baby is not a haircut.",
+    "translation": "很难想象会有很多人轻率到只因为瑞茜和安吉丽娜把生孩子这件事演绎得如此光鲜就想要孩子：大多数成年人都明白，养孩子可不是像做个发型（那么简单）。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (it形式主语 + that真正主语从句 + 原因状语从句 + 冒号解释)",
+      "mainClause": "It's hard to imagine that many people are dumb enough to want children...",
+      "subordinateClauses": [
+        "主语从句: that many people are dumb enough to want children",
+        "原因状语从句: just because Reese and Angelina make it look so glamorous",
+        "冒号后主句: most adults understand that a baby is not a haircut (含宾语从句)"
+      ],
+      "corePattern": "hard to imagine that / dumb enough to do / make it look glamorous"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "But it's interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting \"the Rachel\" might make us look just a little bit like Jennifer Aniston.",
+    "translation": "但值得玩味的是，我们每周所看到的那些无忧无虑、让人倍感幸福的育儿画面，是否在某种细微的、下意识的层面上助长了我们对真实育儿体验的不满——就像我们内心深处也曾隐隐指望，剪一个“瑞秋发型”能让自己看起来多多少少有点像珍妮弗·安尼斯顿（《老友记》瑞秋的扮演者）。",
+    "syntaxAnalysis": {
+      "structureType": "超长复合句 (it形式主语 + if宾语从句 + 否定反问修辞 + 定语从句 + 比较方式状语从句)",
+      "mainClause": "But it's interesting to wonder if...",
+      "subordinateClauses": [
+        "从句主语: the images (that) we see every week of stress-free, happiness-enhancing parenthood",
+        "从句谓语: aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience (双重否定委婉肯定，意即 are contributing to)",
+        "比较方式状语从句: in the same way that a small part of us hoped getting \"the Rachel\" might make us look just a little bit like Jennifer Aniston"
+      ],
+      "corePattern": "wonder if ... aren't contributing to / subconscious way / in the same way that"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t4.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9f17ec01a2b95e9dba90a91ddd5cdf503bf0b2aabb3cdb0d4b3ced9aad08478a"
+    }
+  }
+]

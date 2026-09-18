@@ -1,0 +1,583 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The Supreme Court decision Thursday will",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "put most online businesses in a dilemma.",
+        "isCorrect": false,
+        "distractorType": "以偏概全夸大",
+        "analysis": "【干扰特征: 夸大范围】受冲击主要是中小纯线上电商，大型连锁巨头（如亚马逊自营）反而迎来公平利好，非大多数陷入两难。",
+        "refSentences": [
+          "P5-S1",
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "force some states to cut sales tax.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】各州是增收数十亿美元税款，绝非被强迫减税（cut sales tax）。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "make more online shoppers pay sales tax.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P1-S1 明确说明裁决的直接直接后果：'States will be able to force more people to pay sales tax when they make online purchases... leave shoppers with lighter wallets'（各州将能够强制更多人在网购时缴纳消费税，让购物者钱包变瘪）。C选项 make more online shoppers pay sales tax 完全精准吻合。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "better businesses' relations with states.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】裁决赋予州征税权，但并未改善企业与州的关系（部分中小电商深感头疼）。",
+        "refSentences": [
+          "P1-S1",
+          "P7-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "force more people to pay sales tax when they make online purchases = make more online shoppers pay sales tax。",
+      "methodSummary": "首段题眼原句同义改写：force more people to pay sales tax on online purchases -> make more online shoppers pay sales tax。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Supreme Court decision Thursday will"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t4.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c9b5008bde40a6f66afcebbbe47e31b931943dc19e36227c8fa79b799c92fc4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "It can be learned from paragraphs 2 and 3 that the overruled decisions",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "were widely criticized by online purchasers.",
+        "isCorrect": false,
+        "distractorType": "主体颠倒",
+        "analysis": "【干扰特征: 颠倒受害者】批评旧判例的是各州政府和实体零售商，网购消费者此前因免税而受益。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "have cost consumers a lot over the years.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】旧判例让消费者享受了免税低价（few paid），是让各州损失了数十亿美元收入（cost states billions in lost revenue）。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "have led to the dominance of e-commerce.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 夸大因果】电商崛起是技术与时代大势，旧判例只是提供了免税便利，非主导根源。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "were considered unfavorable by states.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 明确阐述各州对旧判例的态度：'states said cost them billions of dollars in lost revenue annually. The decisions made it more difficult for states to collect sales tax'（各州指控这些旧判例每年造成数十亿美元的税收损失，使各州征税困难重重）。D选项 were considered unfavorable by states（被各州视作极其不利）精准概括了各州长期遭受税收流失的不满立场。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S1",
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "states said cost them billions of dollars in lost revenue annually = were considered unfavorable by states。",
+      "methodSummary": "主体态度事实题：抓准 cost states billions in lost revenue 对应的 were considered unfavorable by states。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "paragraphs 2 and 3",
+        "overruled decisions"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t4.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c9b5008bde40a6f66afcebbbe47e31b931943dc19e36227c8fa79b799c92fc4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "According to Justice Anthony Kennedy, the physical presence rule has",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "hindered economic development.",
+        "isCorrect": false,
+        "distractorType": "夸大范围",
+        "analysis": "【干扰特征: 概念偏差】肯尼迪指出的是限制了各州追求长期繁荣的财政能力（limited states' ability），核心定性在于破坏公平竞争。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "harmed fair market competition.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P4-S2 明确引述肯尼迪大法官的判词原话：'the rule... has prevented market participants from competing on an even playing field'（该规则阻碍了市场参与者在公平竞技场上展开竞争）。prevent competing on an even playing field 与 harmed fair market competition（破坏了公平的市场竞争）完全同义对应。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "boosted growth in states' revenue.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】该规则造成了各州税收的大幅损失（results in significant revenue losses），非促进增长。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "brought prosperity to the country.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】肯尼迪批判该规则脱离现实造成巨额损失，绝未带来繁荣。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "prevented market participants from competing on an even playing field = harmed fair market competition。",
+      "methodSummary": "判词观点题同义改写：competing on an even playing field（在平坦场地上竞争）即 fair competition。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        },
+        "source": "英语一_2019_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Justice Anthony Kennedy",
+        "physical presence rule has"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t4.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c9b5008bde40a6f66afcebbbe47e31b931943dc19e36227c8fa79b799c92fc4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "Who are most likely to welcome the Supreme Court ruling?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Big-chain owners.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P5-S1 明确指出最欢迎该裁决的最大赢家：'The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax... Now, rivals will be charging sales tax'（该裁决对于在多州拥有门店的大型连锁企业是一场重大胜利，因为此前它们已在交税，如今竞争对手也将被迫交税）。B选项 Big-chain owners（大型连锁企业主）完全精准吻合。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Third-party sellers.",
+        "isCorrect": false,
+        "distractorType": "受损方排除",
+        "analysis": "【干扰特征: 失去免税优势】第三方卖家此前无需跨州征税，如今优势丧失。",
+        "refSentences": [
+          "P5-S2",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Internet entrepreneurs.",
+        "isCorrect": false,
+        "distractorType": "受损方排除",
+        "analysis": "【干扰特征: 明确受害者】第七段明确指出互联网创业者受损严重（not well served at all by this decision）。",
+        "refSentences": [
+          "P7-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Small retailers.",
+        "isCorrect": false,
+        "distractorType": "受损方排除",
+        "analysis": "【干扰特征: 明确受损者】第七段指出小型线上零售商是输家（losers are online-only retailers, especially smaller ones）。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "The ruling is a victory for big chains with a presence in many states = Big-chain owners are most likely to welcome the ruling。",
+      "methodSummary": "受益主体定位法：抓准 The ruling is a victory for big chains 对应的 Big-chain owners。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "A",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Who are most likely to welcome",
+        "Supreme Court ruling"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t4.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c9b5008bde40a6f66afcebbbe47e31b931943dc19e36227c8fa79b799c92fc4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "In dealing with the Supreme Court decision Thursday, the author",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "presents its main points with conflicting views on them.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 概括不全】争议仅在文末各方反应中提及，文章主要篇幅在于系统性推导其对产业链不同环节的深远后果。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "gives a factual account of it and discusses its consequences.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全篇谋篇手法精准概括】文章结构清晰严谨：第1-4段客观陈述最高法院周四推翻旧判例的裁决事实要旨、法律背景与肯尼迪大法官的判词（gives a factual account of it）；第5-7段全面深入剖析并讨论了该裁决给各州财政增收、消费者网购支出、大型连锁实体店竞争优势以及中小线上零售商合规负担所带来的广泛多重后果（discusses its consequences）。A选项精准、全面地统括了作者在全篇中的处理手法与篇章结构。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1",
+          "P4-S1",
+          "P5-S1",
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "cites some cases related to it and analyzes their implications.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局部细节】旧判例仅是第二段简要交代背景，核心在于本案裁决对未来全美商业生态的影响后果。",
+        "refSentences": [
+          "P2-S1",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "describes the long and complicated process of its making.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偏离重点】文章未详细描述该判决漫长复杂的审判制定过程，而是聚焦于裁决本身与市场后果。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "篇章写作手法题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1",
+      "P4-S1",
+      "P5-S1",
+      "P7-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "典型新闻法治综述结构：factual account of ruling + comprehensive discussion of market consequences across sectors。",
+      "methodSummary": "篇章手法概括题：识别文章从判决事实（Factual account）推演到全行业经济后果（Discusses consequences）的标准行文架构。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "D",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "D",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "英语一_2019_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "D",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "dealing with the Supreme Court decision Thursday",
+        "the author"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t4.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c9b5008bde40a6f66afcebbbe47e31b931943dc19e36227c8fa79b799c92fc4"
+    }
+  }
+]

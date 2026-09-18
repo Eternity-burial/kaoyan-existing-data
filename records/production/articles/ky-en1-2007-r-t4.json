@@ -1,0 +1,313 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2007-r-t4",
+  "year": 2007,
+  "textNumber": 4,
+  "title": "Data Insecurity: A Crisis of Governance and Loss of Trust",
+  "chineseTitle": "数据不安全：公司治理危机与商业信任的瓦解",
+  "topic": null,
+  "topicDomain": "信息安全与商业伦理",
+  "subTopic": "大企业数据泄露危机、商业信任资产的脆弱性、加州立法与FTC强化监管倒逼信息安全规范",
+  "overview": null,
+  "wordCount": 386,
+  "readingTimeEstimate": "10-12 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自《The Economist》(英国《经济学人》杂志) 商业专栏深度报道",
+  "paragraphCount": 5,
+  "sentenceCount": 14,
+  "vocabularyCount": 115,
+  "phraseCount": 43,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "本文选自全球顶级政经期刊《经济学人》（The Economist）2005年商业专栏深度报道《Data Insecurity: A Loss of Faith》。在经历2001年安然事件与《萨班斯-奥克斯利法案》（SOX）强制推行史上最严厉公司审计合规洗礼后，美国商业界原以为已摆脱治理恶梦，未曾料想随着互联网信息化席卷全球，更致命的“数据泄露与网络不安全危机”接踵而至。2005年上半年，包括时代华纳在数据外包磁带丢失、著名国防承包商美科公司（SAIC）数据失窃、加州大学伯克利分校黑客入侵，以及震惊全球的‘万事达卡第三方处理商CardSystems 4000万张信用卡信息失窃案’集中爆发，引发全美舆论哗然。当时全美企业长期秉持侥幸心理——仅将数据保护当成底层网管的运维小事，瞒报失窃屡见不鲜。正是在加州率先通过全球首部数据泄露强制通报法（SB 1386）以及FTC强力介入执法的关键历史转折点上，文章深刻吹响了将信息安全升格为现代公司最高治理规范的号角。",
+      "coreDisputeOrTheme": "文章的核心议题在于探讨“企业数据安全治理”的范式转变与制度纠偏：第一，认知重构——数据绝非冰冷的后台比特，而是关乎企业生死存亡的核心经济资产（economic asset），保护数据即是保护市场价值与股东利益；第二，信任成本逻辑——商业信任（trust）是企业最珍贵也是最脆弱的资产，摧毁信任易如反掌，而重建信任代价高昂，放任敏感个人数据泄露是对商业信任的致命背刺；第三，制度倒逼与法律监管——长期以来美国企业之所以对数据安全敷衍了事，根源在于法律问责与罚则的缺失（lack of legal penalty）。而加州突破性通报立法的示范效应、国会联邦立法的加速跟进以及联邦贸易委员会（FTC）的强硬执法表态，共同标志着美国通过法律监管体系强制企业捍卫数据安全的新时代全面开启。",
+      "keyTerminology": [
+        {
+          "term": "Generally Accepted Security Practices (GASP)",
+          "explanation": "公认安全实践：哥伦比亚大学学者针对企业数据安全提出的行业通用安全标准体系，直接仿照会计行业的 GAAP（公认会计原则）。"
+        },
+        {
+          "term": "Heads Rolling in the Executive Suite",
+          "explanation": "高层引咎辞职：经典商业隐喻，指企业因爆发重大丑闻或系统失灵，董事会迫于公众舆论与监管压力解雇最高管理层人员。"
+        },
+        {
+          "term": "California Breach Notification Law (SB 1386)",
+          "explanation": "加州数据泄露通知法：加利福尼亚州2002年通过、2003年生效的开创性法案，是全美乃至全球首部强制要求企业在客户数据发生泄露时必须向当事人披露通告的法律。"
+        },
+        {
+          "term": "Federal Trade Commission (FTC)",
+          "explanation": "美国联邦贸易委员会：负责维护市场公平竞争与保护消费者权益的联邦监管重镇，对未能保护消费者数据安全的企业具备实施民事处罚与严厉整改令的执法权。"
+        }
+      ],
+      "crossExamLinks": [
+        {
+          "year": "2015 Text 2",
+          "theme": "智能手机隐私权与第四修正案",
+          "relevance": "同样探讨现代数字科技爆炸背景下个人隐私数据防护与法律边界的重构"
+        },
+        {
+          "year": "2013 Text 2",
+          "theme": "未来主义预言与科技创新反思",
+          "relevance": "探讨商业和科技机构未能前瞻性预见新技术带来的系统性风险与信任反噬"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "信息安全治理、商业伦理与监管合规 (Data Security Governance, Business Ethics & Regulatory Compliance)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "secur- (安全/安心)",
+          "examples": [
+            "insecurity (不安全/危险)",
+            "security practices (安全规范)"
+          ]
+        },
+        {
+          "affix": "vulner- (伤害/受损)",
+          "examples": [
+            "vulnerability (系统漏洞/薄弱点)",
+            "vulnerable (易受攻击的)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "数据泄露与危机爆发",
+          "words": [
+            "data insecurity",
+            "massive leakage",
+            "went astray",
+            "nasty headlines",
+            "heads rolling",
+            "intricate IT systems"
+          ]
+        },
+        {
+          "theme": "资产定性与商业信任",
+          "words": [
+            "economic asset",
+            "market value",
+            "trust",
+            "hugely expensive to restore",
+            "sensitive personal data"
+          ]
+        },
+        {
+          "theme": "监管干预与合规制度",
+          "words": [
+            "compliance",
+            "GAAP",
+            "GASP",
+            "legal penalty",
+            "adequate data security",
+            "put on notice",
+            "regulators will act"
+          ]
+        }
+      ]
+    },
+    "nuancesAndConfusions": {
+      "familiarWordUncommonMeanings": [
+        {
+          "word": "board",
+          "location": "P1 L1",
+          "familiarMeaning": "木板；登机",
+          "examMeaning": "董事会",
+          "contextCollocation": "bosses and boards"
+        },
+        {
+          "word": "earn",
+          "location": "P1 L3",
+          "familiarMeaning": "挣钱；赚得",
+          "examMeaning": "招致；使获得",
+          "contextCollocation": "earn them nasty headlines"
+        },
+        {
+          "word": "headline",
+          "location": "P1 L4",
+          "familiarMeaning": "标题",
+          "examMeaning": "新闻报道；媒体关注",
+          "contextCollocation": "nasty headlines"
+        },
+        {
+          "word": "suite",
+          "location": "P1 L4",
+          "familiarMeaning": "套房；一套软件",
+          "examMeaning": "高管层",
+          "contextCollocation": "executive suite"
+        },
+        {
+          "word": "odd",
+          "location": "P1 L5",
+          "familiarMeaning": "奇怪的；单数的",
+          "examMeaning": "零散的；个别的",
+          "contextCollocation": "odd, low-level IT staff"
+        },
+        {
+          "word": "process",
+          "location": "P2 L4",
+          "familiarMeaning": "过程；加工",
+          "examMeaning": "业务流程",
+          "contextCollocation": "business processes"
+        },
+        {
+          "word": "redundancy",
+          "location": "P3 L7",
+          "familiarMeaning": "过剩；裁员",
+          "examMeaning": "冗余配置；备份机制",
+          "contextCollocation": "security, redundancy, and recovery"
+        },
+        {
+          "word": "dim",
+          "location": "P4 L2",
+          "familiarMeaning": "昏暗的",
+          "examMeaning": "迟钝的；理解力差的",
+          "contextCollocation": "the dimmest executive"
+        },
+        {
+          "word": "affair",
+          "location": "P5 L1",
+          "familiarMeaning": "事件；私情",
+          "examMeaning": "事务；局面",
+          "contextCollocation": "the current state of affairs"
+        },
+        {
+          "word": "encourage",
+          "location": "P5 L1",
+          "familiarMeaning": "鼓励",
+          "examMeaning": "助长；促成",
+          "contextCollocation": "may have been encouraged by..."
+        },
+        {
+          "word": "interest",
+          "location": "Q38 A",
+          "familiarMeaning": "兴趣；利息",
+          "examMeaning": "利益；权益",
+          "contextCollocation": "shareholders’ interests"
+        },
+        {
+          "word": "due",
+          "location": "Q38 B",
+          "familiarMeaning": "到期的；由于",
+          "examMeaning": "应有的；适当的",
+          "contextCollocation": "due attention"
+        },
+        {
+          "word": "telecoms",
+          "location": "P1 L6",
+          "familiarMeaning": "不常见独立词",
+          "examMeaning": "电信行业/公司",
+          "contextCollocation": "banking, telecoms and air travel"
+        },
+        {
+          "word": "restore",
+          "location": "P4 L3",
+          "familiarMeaning": "修复物品",
+          "examMeaning": "恢复信任/信心/秩序",
+          "contextCollocation": "expensive to restore"
+        },
+        {
+          "word": "disclose",
+          "location": "P5 L6",
+          "familiarMeaning": "打开；揭开",
+          "examMeaning": "披露；公开信息",
+          "contextCollocation": "disclosed on June 17th"
+        },
+        {
+          "word": "bring up",
+          "location": "Q38 题干",
+          "familiarMeaning": "抚养；呕吐",
+          "examMeaning": "提出话题/概念",
+          "contextCollocation": "bringing up the concept of GASP"
+        },
+        {
+          "word": "go astray",
+          "location": "P5 L4",
+          "familiarMeaning": "迷路",
+          "examMeaning": "数据丢失/出错/泄露",
+          "contextCollocation": "data went astray"
+        },
+        {
+          "word": "do the rounds",
+          "location": "P5 L5",
+          "familiarMeaning": "巡回",
+          "examMeaning": "流传；被广泛讨论",
+          "contextCollocation": "legislation is doing the rounds"
+        }
+      ],
+      "confusingWordPairs": [
+        {
+          "pair": "board / executive / manager",
+          "analysis": "board 指董事会或董事；executive 指企业高管；manager 泛指经理或管理者，层级可高可低。"
+        },
+        {
+          "pair": "headline / news report",
+          "analysis": "headline 本义是新闻标题，阅读中常借指媒体报道或舆论曝光；news report 更强调一篇具体新闻报道。"
+        },
+        {
+          "pair": "leakage / vulnerability / weak point",
+          "analysis": "leakage 是已经发生或可能发生的泄露；vulnerability 是系统薄弱环节；weak point 是通俗表达，对应题目正确选项。"
+        },
+        {
+          "pair": "shareholder / stakeholder",
+          "analysis": "shareholder 是股东；stakeholder 是利益相关者，可包括员工、客户、社区、监管者等。"
+        },
+        {
+          "pair": "asset / liability",
+          "analysis": "asset 是资产或有价值资源；liability 是负债，也可指责任或不利因素。"
+        },
+        {
+          "pair": "redundancy / recovery / security",
+          "analysis": "security 侧重保护；redundancy 指备份/冗余配置；recovery 指出事后的恢复能力。"
+        },
+        {
+          "pair": "encourage / justify",
+          "analysis": "encourage 在本文是“助长”；justify 是“证明正当”。缺乏处罚可能助长现状，但不能为现状开脱。"
+        },
+        {
+          "pair": "penalty / fine / punishment",
+          "analysis": "penalty 泛指处罚；fine 主要指罚款；punishment 泛指惩罚，语义更宽。"
+        },
+        {
+          "pair": "corporate / corporation",
+          "analysis": "corporate 是形容词“公司的”；corporation 是名词“公司”。常见标准搭配为 corporate governance。"
+        },
+        {
+          "pair": "severity / severe",
+          "analysis": "severity 是名词“严重性”；severe 是形容词“严重的、严厉的”。"
+        },
+        {
+          "pair": "restore / recover",
+          "analysis": "restore 常接宾语，强调使某物恢复原状，如 restore trust；recover 可作不及物动词，强调自身恢复。"
+        },
+        {
+          "pair": "disclose / expose / reveal",
+          "analysis": "disclose 正式披露信息；expose 强调暴露问题或丑闻；reveal 普通用词，表示揭示。"
+        },
+        {
+          "pair": "bring up / put forward",
+          "analysis": "bring up 偏口语或题干常见，表示提出话题；put forward 更正式，表示提出建议、观点、方案。"
+        },
+        {
+          "pair": "due attention / due to",
+          "analysis": "due attention 中 due 是“应有的”；due to 是“由于”，不要混译。"
+        },
+        {
+          "pair": "legal penalty / legislation / regulation",
+          "analysis": "legal penalty 是法律处罚；legislation 是立法或法律；regulation 是规章、监管或规定。"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2007.js",
+    "year": 2007,
+    "articleKey": "ky-en1-2007-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+  }
+}

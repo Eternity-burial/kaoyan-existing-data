@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2007",
+  "exam": "kaoyan",
+  "track": "legacy",
+  "year": 2007,
+  "title": "2007年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析数据库",
+  "subject": "英语(一)",
+  "articleKeys": [
+    "ky-en1-2007-r-t1",
+    "ky-en1-2007-r-t2",
+    "ky-en1-2007-r-t3",
+    "ky-en1-2007-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2007.js",
+    "year": 2007,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+  }
+}

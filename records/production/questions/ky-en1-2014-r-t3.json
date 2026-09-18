@@ -1,0 +1,785 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "The Fundamental Physics Prize is seen as _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a symbol of the entrepreneurs' wealth.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "断章取义。第一段提到奖金来自富豪庞大的银行账户，但这只是说明出资资金雄厚，并未断言该物理学大奖被视为‘企业家财富的炫耀象征’。",
+        "vocab": [
+          {
+            "word": "symbol",
+            "ipa": "[ˈsɪmb(ə)l]",
+            "meaning": "象征",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "a possible replacement of the Nobel Prizes.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。首段第3句是说新奖项‘joined the Nobel Prizes’（加入了诺奖行列/与诺奖并立），第二段更是强调新奖买不来诺奖的崇高声望，绝非‘可能取代诺贝尔奖’。",
+        "vocab": [
+          {
+            "word": "Nobel",
+            "ipa": "",
+            "meaning": "诺贝尔奖",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "a handsome reward for researchers.",
+        "isCorrect": true,
+        "analysis": "定位至首段 S1 与 S3：“The US$3-million Fundamental Physics Prize is indeed an interesting experiment ... a string of lucrative awards for researchers have joined the Nobel Prizes in recent years.” 首段明确将300万美元的基础物理学奖定性为加入科研奖励阵列的‘a string of lucrative awards for researchers’（面向科研工作者的一连串回报极为丰厚的大奖）。lucrative awards for researchers 与 a handsome reward for researchers 构成完美的考研高频同义替换（lucrative 替换为 handsome，意为数额可观、丰厚的）。",
+        "vocab": [
+          {
+            "word": "reward",
+            "ipa": "[rɪˈwɔːd]",
+            "meaning": "奖励",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "an example of bankers' investments.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。首段第四句说资金来自‘Internet entrepreneurs’（互联网创业家/企业家），选项偷换为‘bankers’ investments’（银行家的投资）。",
+        "vocab": [
+          {
+            "word": "investment",
+            "ipa": "[ɪnˈvestmənt]",
+            "meaning": "投资",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "a handsome reward for researchers": "a string of lucrative awards for researchers have joined the Nobel Prizes (为科研工作者设立的一系列收益极其丰厚的高额大奖 -> 对研究人员的丰厚奖励)"
+    },
+    "methodologyReview": "事实细节题。考查核心词汇的高级替换。lucrative 原意为获利丰厚的、赚大钱的，修饰 awards for researchers 时等价于 a handsome reward（一笔可观丰厚的奖励）。handsome 在考研中是高频熟词僻义，专指‘数额庞大、可观的’。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Fundamental",
+          "ipa": "[ˌfʌndəˈment(ə)l]",
+          "meaning": "基础物理学奖",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "The critics think that the new awards will most benefit _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the profit-oriented scientists.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第二段批评意见中并未讨论‘以利益为导向的科学家’这一群体。",
+        "vocab": [
+          {
+            "word": "profit-oriented",
+            "ipa": "",
+            "meaning": "利益主导的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the founders of the awards.",
+        "isCorrect": true,
+        "analysis": "定位至第二段 S9：“The new awards are an exercise in self-promotion for those behind them, say scientists.” 批评新奖项的科学家指出，设立这些奖项本质上只是幕后金主（those behind them，即新奖创立者 founders）自我推销与公关炒作的工具（an exercise in self-promotion）。既然是出资人的自我宣传炒作，那么最终最大获益者自然正是这些幕后推手与设立者（the founders of the new awards）。",
+        "vocab": [
+          {
+            "word": "award",
+            "ipa": "[əˈwɔːd]",
+            "meaning": "奖项",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the achievement-based system.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第二段第五句明确指出新奖项‘could distort the achievement-based system’（可能会扭曲以成就为基石的体系），选项却反向捏造为‘使其受益’。"
+      },
+      {
+        "key": "D",
+        "text": "peer-review-led research.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第二段指出这些奖项既不资助同行评议研究（do not fund），反而可能扭曲其体系，绝非让同行评议研究受益。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "the founders of the new awards": "The new awards are an exercise in self-promotion for those behind them, say scientists (新奖项不过是幕后推手进行自我公关宣传的举动 -> 新大奖的创立者们获益最多)"
+    },
+    "methodologyReview": "观点细节推断题。问批评者认为谁获益最多。关键句抓准 ‘an exercise in self-promotion for those behind them’。self-promotion（自我标榜/宣传）的逻辑对象是 those behind them。those behind them（幕后推手）同义替换为 the founders of the new awards。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "critics",
+          "ipa": "",
+          "meaning": "批评家",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "awards",
+          "ipa": "",
+          "meaning": "奖项",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "benefit",
+          "ipa": "[ˈbenɪfɪt]",
+          "meaning": "使…受益",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "The discovery of the Higgs boson is a typical case which involves _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the joint effort of modern researchers.",
+        "isCorrect": true,
+        "analysis": "定位至第四段 S18：“the Nobel Foundation's limit of three recipients per prize ... has long been outgrown by the collaborative nature of modern research — as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledging the discovery of the Higgs boson.” 希格斯玻色子的发现作为典型例证，服务于前半句的核心论点：现代科研具有鲜明的‘协同大协作本质（collaborative nature of modern research）’。因此该发现涉及并依赖于现代科研人员的集体协作努力（the joint effort of modern researchers），collaborative nature 精准同义替换为 joint effort。",
+        "vocab": [
+          {
+            "word": "joint",
+            "ipa": "[dʒɔɪnt]",
+            "meaning": "协同的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "controversies over the recipients' status.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。文中虽提到争论谁被忽视（who is ignored），但争议的焦点在于三人限额规则无法包容庞大的科研团队，而非争议获奖者本人的社会地位（status）。",
+        "vocab": [
+          {
+            "word": "controversies",
+            "ipa": "",
+            "meaning": "争议",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "status",
+            "ipa": "[ˈsteɪtəs]",
+            "meaning": "接受者（此处指获奖者）",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "the demonstration of research findings.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "字面陷阱。原文为‘as will be demonstrated by’（正如...所证明/表明的那样），选项抓取 demonstrate 单词进行生硬字面拼凑成‘科研成果的展示’，完全偏离论点实质。",
+        "vocab": [
+          {
+            "word": "demonstration",
+            "ipa": "[ˌdemənˈstreɪʃn]",
+            "meaning": "演示，展示",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "legitimate concerns over the new prizes.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。对新奖项的合理担忧是第四段第一、二句讨论生命科学突破奖时的议题，希格斯玻色子则是用来例证‘诺贝尔奖评选规则受限于现代大科学协作’的例子。",
+        "vocab": [
+          {
+            "word": "legitimate",
+            "ipa": "[lɪˈdʒɪtɪmət]",
+            "meaning": "正当合理的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "concerns",
+            "ipa": "",
+            "meaning": "关注",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "EXEMPLIFICATION",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "the joint effort of modern researchers": "the collaborative nature of modern research — as will be demonstrated by the inevitable row ... acknowledging the discovery of the Higgs boson (现代科研的大规模协作本质——正如希格斯玻色子的发现所印证的 -> 现代科研工作者的共同协作努力)"
+    },
+    "methodologyReview": "经典例证题。考研例证题的黄金铁律：‘例子本身并不重要，例子所服务的核心论点才是答案’。希格斯玻色子（Higgs boson）作为后置破折号举例（as will be demonstrated by ...），论证的正是破折号前的中心观点——现代科研的大协作属性（collaborative nature of modern research）。collaborative nature 完美改写为 joint effort。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "A",
+          "D": "C"
+        },
+        "source": "英语一_2014_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Higgs",
+          "ipa": "",
+          "meaning": "希格斯玻色子",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "typical",
+          "ipa": "[ˈtɪpɪk(ə)l]",
+          "meaning": "典型的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "which",
+          "ipa": "[wɪtʃ]",
+          "meaning": "涉及",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "According to Paragraph 4, which of the following is true of the Nobels?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "History has never cast doubt on them.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "与原文相反。第四段明确指出第四段第一句‘concerns about how science prizes — both new and old — are distributed’，以及其三人限额落后于时代等，说明历史上一再存在对其规则的质疑，绝非‘从未质疑’。",
+        "vocab": [
+          {
+            "word": "doubt",
+            "ipa": "[daʊt]",
+            "meaning": "对……产生怀疑",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "cast",
+            "ipa": "[kɑːst]",
+            "meaning": "产生怀疑，不确信",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "They are the most representative honor.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第四段虽然说新奖 unrepresentative，但并未断言诺奖就是‘最具代表性的荣誉’，反而指责诺奖每奖限三人落伍于协同大科学。",
+        "vocab": [
+          {
+            "word": "representative",
+            "ipa": "[ˌreprɪˈzentətɪv]",
+            "meaning": "有代表性的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Their legitimacy has long been in dispute.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第四段末句明确指出经过百年历练，时间已经赋予了其正统性（Time has given them legitimacy），选项却颠倒称‘其合法性长期存在争议’。",
+        "vocab": [
+          {
+            "word": "dispute",
+            "ipa": "[dɪˈspjuːt]",
+            "meaning": "处于争议中",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "legitimacy",
+            "ipa": "[lɪˈdʒɪtɪməsi]",
+            "meaning": "合理性",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Their endurance has done justice to them.",
+        "isCorrect": true,
+        "analysis": "定位至第四段末句：“The Nobels were, of course, themselves set up by a very rich individual who had decided what he wanted to do with his own money. Time, rather than intention, has given them legitimacy.” 诺贝尔奖最初也是富豪随意支配私产的产物，但百年漫长岁月的时间沉淀（Time），赋予了其不可动摇的公信正统性（legitimacy）。Time 对应 endurance（历经时间的持久磨砺），has given them legitimacy 对应 has done justice to them（公允地彰显并证明了其价值地位），B 为极具深度的高级同义改写。",
+        "vocab": [
+          {
+            "word": "endurance",
+            "ipa": "[ɪnˈdjʊərəns]",
+            "meaning": "耐久性（此处指经久不衰）",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "justice",
+            "ipa": "[ˈdʒʌstɪs]",
+            "meaning": "充分恰当地处理（此处指充分发挥）",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Their endurance has done justice to them": "Time, rather than intention, has given them legitimacy (是时间的洗礼而非设立初衷赋予了其正统合法性 -> 百年时间的经久考验充分彰显了其公允价值)"
+    },
+    "methodologyReview": "第四段事实细节题。难点在于末句的哲学提炼：‘Time, rather than intention, has given them legitimacy’。时间（Time）给它带来了正统与荣耀，即其经受住了时间的检验（Their endurance 经久不衰），时间为其正名并予以了充分恰当的评价（has done justice to them）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        },
+        "source": "英语一_2014_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "The author believes that the new awards are _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "harmful to the culture of research.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "混淆主体立场。指责新奖项有害（distort / harmful）是第二段中批评者（critics）的观点，作者在第五段反驳并重申‘wise to take such gifts’，绝不认为其有害。",
+        "vocab": [
+          {
+            "word": "harmful",
+            "ipa": "[ˈhɑːmf(ə)l]",
+            "meaning": "对…有害",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "acceptable despite the criticism.",
+        "isCorrect": true,
+        "analysis": "定位至尾段总结：“As much as some scientists may complain about the new awards, two things seem clear. First, most researchers would accept such a prize ... Second, it is surely a good thing that the money and attention come to science ... It is wise to take such gifts with gratitude and grace.” 作者在尾段鲜明表达了自己的包容接纳态度：尽管科学界对新奖项存在诸多批评争议（despite the criticism / As much as complain），但这笔钱汇入科学领域是好事，科学家应当抱以感恩之情体面笑纳，因此新奖项是完全正当、应当接纳的（acceptable despite the criticism）。",
+        "vocab": [
+          {
+            "word": "despite",
+            "ipa": "[dɪˈspaɪt]",
+            "meaning": "尽管",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "批评",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "acceptable",
+            "ipa": "[əkˈseptəbl]",
+            "meaning": "可接受的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "subject to undesirable changes.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。作者支持包容新奖项并肯定其积极意义，并未预测其‘容易遭受不良变动’。",
+        "vocab": [
+          {
+            "word": "subject",
+            "ipa": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
+            "meaning": "遭受……的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "undesirable",
+            "ipa": "[ˌʌndɪˈzaɪərəb(ə)l]",
+            "meaning": "不想要的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "unworthy of public attention.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第五段明确肯定‘it is surely a good thing that the money and attention come to science’，公众和资金关注科学是极好的事情，绝非‘不值得公众关注’。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "ATTITUDE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "acceptable despite the criticism": "As much as some scientists may complain ... it is surely a good thing that the money and attention come to science ... wise to take such gifts with gratitude and grace (尽管科学家批评抱怨，但这无疑是好事，明智之举是怀着感恩与风度欣然接纳 -> 尽管面临非议，但新奖项完全是可以接受并应当接纳的)"
+    },
+    "methodologyReview": "作者态度题。作者在末段展现了豁达务实的理性态度。以 ‘As much as some scientists may complain’（让步转折）定调，随后连用 ‘surely a good thing’ 与 ‘wise to take such gifts with gratitude and grace’，充分证明作者对新奖项是全盘支持接纳的（acceptable），选项 D 精准提炼了作者的客观包容立场。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "英语一_2014_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "awards",
+          "ipa": "",
+          "meaning": "奖项",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

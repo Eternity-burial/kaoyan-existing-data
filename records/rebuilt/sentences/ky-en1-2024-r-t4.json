@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction: the interaction of fresh and saline waters, and the mix of land and water.",
+    "translation": "切萨皮克湾的伟大奇迹并不在于其深邃的海水深度，而在于其自然构造的极度错综复杂性：淡水与咸水的交融互动，以及陆地与水域的鬼斧神工般交错结合。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges.",
+    "translation": "这里的广袤浅滩不仅为数百种珍稀野生生物提供了繁衍生息的宝贵家园，同时还能蓄积调蓄洪水、高效过滤水体中的有害污染物，并切实保护周边沿海社区免遭极具毁灭性的特大风暴潮侵袭（described as a valuable natural environment）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways.",
+    "translation": "然而，这一切宝贵生态在上个月底均被置于巨大的毁灭性风险之中——当时美国联邦最高法院在涉及爱达荷州的一起诉讼案件（萨基特案）中作出一项判决，大幅削减剥夺了美国环境保护署（EPA）依法监管湿地与水道的法定权威（weakens the EPA's regulatory power / far less authority to regulate）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a \"continuous surface connection to bodies of water.\" This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests that are often at odds with environmental rules. And it carries \"significant repercussions for water quality and flood control throughout the United States,\" as Justice Brett Kavanaugh observed.",
+    "translation": "具体而言，最高法院以5比4的微弱多数裁定：EPA 依据《清洁水法》管辖保护的湿地，必须与通航水体拥有“连续的地表水体连接”。这一监管范围的急剧大幅收窄，成为了房地产建筑商、采矿开发商以及其他长期与环保法规相抵触的商业利益集团的狂欢胜利；正如布雷特·卡瓦诺大法官所严肃指出的那样，该裁决将对“全美范围内的水质安全与防洪控制带来极其深远严重的灾难性恶果”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "In Maryland, the good news is that there are many state laws in place that provide wetlands protections. But that's a very short-sighted view, particularly when it comes to the Chesapeake Bay.",
+    "translation": "在马里兰州，看似利好的消息是该州自身拥有完备健全的州级法律来提供湿地保护。但这显然是一种极其短视狭隘的孤立视角，尤其在面对庞大的切萨皮克湾生态系统时更是如此。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The reality is that water, and the pollutants that so often come with it, don't respect state boundaries. The Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware. Will those jurisdictions extend the same protections now denied under Sackett v. EPA? Perhaps some, but all? That seems unlikely.",
+    "translation": "残酷的客观现实在于：水流以及水中所携带的致命污染物，根本不会理会行政州界的人为阻隔。切萨皮克湾的水源汇集自一个横跨6.4万平方英里的庞大流域，延伸纵深至弗吉尼亚州、宾夕法尼亚州、纽约州、西弗吉尼亚州、华盛顿特区以及特拉华州。这些跨辖区地方政府难道会主动填补在萨基特案中被剥夺的同等严格保护吗？或许有个别州会，但指望所有州都照做？这几乎是痴人说梦（That seems unlikely / author feels worried about the future）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors.",
+    "translation": "将此类最高法院判决轻描淡写地视为仅仅是在维护土地所有者的私有财产权，不仅极其幼稚简单，更是极其荒谬误导——因为该判决给其下游周边邻近地区所带来的恶果是如此毁灭性惨烈。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "And it's a reminder that the EPA's involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states. Pennsylvania farmers, to use one telling example, aren't thinking about next year's blue crab harvest in Maryland when they decide whether to spread animal waste on their fields, yet the runoff into nearby creeks can have enormous impact downstream.",
+    "translation": "这也再次深刻提醒世人：长期以来，EPA 深度介入切萨皮克湾综合治理计划，作为超越邻近各州财大气粗特殊利益集团地方保护主义干扰的核心手段，始终发挥着至关重要的统筹引领作用（crucial as means to transcend special interests / ensured the coordination of protection efforts）。举一个极其生动有力的例证：宾夕法尼亚州的农场主在决定是否往自家农田喷洒动物粪便肥料时，根本绝不会去替下游马里兰州明年的蓝蟹捕捞丰收着想；然而化肥农药径流流入附近溪流，却会对整个下游生态产生毁灭性的巨大冲击！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 5
+    },
+    "text": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stake involved.",
+    "translation": "因此，我们在此强烈大声呼吁从弗吉尼亚州首府里士满到纽约州首府奥尔巴尼的流域各州立法议员们（state lawmakers）：必须立刻重新审视健全各自州内的湿地保护法律，并亲眼看清其中所关乎的巨大生态与经济重大利害（attach due importance to wetlands protections）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat across them but teeming with aquatic life. It's worth the scenic drive.",
+    "translation": "我们非常欢迎他们亲自驱车前往位于多切斯特县的黑水国家野生动物保护区实地考察一番——在那里，白头海雕自由翱翔在浅到甚至连独木舟都无法划过的潮汐沼泽之上，但沼泽深处却孕育着生机勃勃、繁花似锦的丰富水生生命。这趟风景优美的生态之旅绝对值得他们亲身一走！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t4.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:69c093e5882d029d37713064ccdbc6fe870865a229038f44aaa2af5afd435879"
+    }
+  }
+]

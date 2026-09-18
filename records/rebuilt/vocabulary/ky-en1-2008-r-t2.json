@@ -1,0 +1,2940 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "straightforward",
+    "word": "straightforward",
+    "ipa": "/ˌstreɪtˈfɔːwəd/",
+    "pos": "adj.",
+    "sourceLocation": "P1 L1",
+    "contextMeaning": "简单明了的，不复杂的",
+    "examMeaning": "简单明了的，不复杂的",
+    "collocationOrDerivation": "直接的；坦率的；易懂的 | It used to be so straightforward. | a straightforward process / answer；反义：complicated, complex | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "laboratory",
+    "word": "laboratory",
+    "ipa": "/ləˈbɒrətri/",
+    "pos": "n.",
+    "sourceLocation": "P1 L2",
+    "contextMeaning": "实验室",
+    "examMeaning": "实验室",
+    "collocationOrDerivation": "进行实验、研究或检测的场所 | working together in the laboratory | research laboratory；laboratory research/tests；缩写 lab | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "affiliation",
+    "word": "affiliation",
+    "ipa": "/əˌfɪliˈeɪʃən/",
+    "pos": "n.",
+    "sourceLocation": "P1 L3",
+    "contextMeaning": "作者所属机构、单位",
+    "examMeaning": "作者所属机构、单位",
+    "collocationOrDerivation": "隶属关系；联系；加入某组织 | the authors’ names and affiliations | institutional/political affiliation；affiliate v. 使隶属 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "peer",
+    "word": "peer",
+    "ipa": "/pɪə/",
+    "pos": "n.",
+    "sourceLocation": "P1 L3",
+    "contextMeaning": "同领域的研究同行",
+    "examMeaning": "同领域的研究同行",
+    "collocationOrDerivation": "同龄人；同等地位的人 | send it to their peers for review | peer review 同行评审；peer pressure 同辈压力 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "decline",
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "pos": "v./n.",
+    "sourceLocation": "P1 L5",
+    "contextMeaning": "拒绝、不接受论文",
+    "examMeaning": "拒绝、不接受论文",
+    "collocationOrDerivation": "下降；衰退；婉言拒绝 | accept the paper for publication or decline it | decline an offer/invitation；a decline in sales；与 accept 构成反义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "rest with",
+    "word": "rest with",
+    "ipa": "/rest wɪð/",
+    "pos": "phr. v.",
+    "sourceLocation": "P1 L5",
+    "contextMeaning": "版权归期刊出版商所有",
+    "examMeaning": "版权归期刊出版商所有",
+    "collocationOrDerivation": "责任、决定权或所有权在于…… | Copyright rested with the journal publisher. | The final decision rests with the editor.；熟词僻义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "subscribe to",
+    "word": "subscribe to",
+    "ipa": "/səbˈskraɪb tə/",
+    "pos": "phr. v.",
+    "sourceLocation": "P1 L6",
+    "contextMeaning": "订阅期刊",
+    "examMeaning": "订阅期刊",
+    "collocationOrDerivation": "订阅服务；赞同某种观点 | subscribe to the journal | subscribe to a service；subscribe to the view that... | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "agency",
+    "word": "agency",
+    "ipa": "/ˈeɪdʒənsi/",
+    "pos": "n.",
+    "sourceLocation": "P2 L1",
+    "contextMeaning": "机构，尤指资助机构",
+    "examMeaning": "机构，尤指资助机构",
+    "collocationOrDerivation": "机关；代理处；专门部门 | pressure from funding agencies | government/news/employment agency | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "funding agency",
+    "word": "funding agency",
+    "ipa": "/ˈfʌndɪŋ ˌeɪdʒənsi/",
+    "pos": "n. phr.",
+    "sourceLocation": "P2 L1",
+    "contextMeaning": "科研资助机构",
+    "examMeaning": "科研资助机构",
+    "collocationOrDerivation": "提供和管理资金的机构 | pressure from funding agencies | research/public funding；receive funding from... | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "commercial",
+    "word": "commercial",
+    "ipa": "/kəˈmɜːʃəl/",
+    "pos": "adj./n.",
+    "sourceLocation": "P2 L2",
+    "contextMeaning": "商业性的、以营利为目的的",
+    "examMeaning": "商业性的、以营利为目的的",
+    "collocationOrDerivation": "商业的；贸易的；商业广告 | commercial publishers | commercial interests/value；commerce；commercialize | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "access",
+    "word": "access",
+    "ipa": "/ˈækses/",
+    "pos": "n./v.",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "获取、使用科研成果的机会或权利",
+    "examMeaning": "获取、使用科研成果的机会或权利",
+    "collocationOrDerivation": "进入；接触；访问、获取 | access to scientific results | have/gain/provide access to；accessible adj. 可获得的 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "reality",
+    "word": "reality",
+    "ipa": "/riˈæləti/",
+    "pos": "n.",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "成为现实的事物",
+    "examMeaning": "成为现实的事物",
+    "collocationOrDerivation": "现实；实际情况 | make access to scientific results a reality | become a reality；face reality；in reality | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "issue",
+    "word": "issue",
+    "ipa": "/ˈɪʃuː/",
+    "pos": "v./n.",
+    "sourceLocation": "P2 L4",
+    "contextMeaning": "正式发布、发表报告",
+    "examMeaning": "正式发布、发表报告",
+    "collocationOrDerivation": "问题；议题；期号；发布 | has just issued a report | issue a statement/report/warning/order；熟词僻义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "describe",
+    "word": "describe",
+    "ipa": "/dɪˈskraɪb/",
+    "pos": "v.",
+    "sourceLocation": "P2 L4-L5",
+    "contextMeaning": "描述、说明",
+    "examMeaning": "描述、说明",
+    "collocationOrDerivation": "描写；把……描述为…… | a report describing the far-reaching consequences | describe A as B；description n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "far-reaching",
+    "word": "far-reaching",
+    "ipa": "/ˌfɑːˈriːtʃɪŋ/",
+    "pos": "adj.",
+    "sourceLocation": "P2 L5",
+    "contextMeaning": "影响深远的、范围广泛的",
+    "examMeaning": "影响深远的、范围广泛的",
+    "collocationOrDerivation": "具有广泛而长期影响的 | far-reaching consequences | far-reaching effects/changes/reforms；近义 profound, extensive | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "consequence",
+    "word": "consequence",
+    "ipa": "/ˈkɒnsɪkwəns/",
+    "pos": "n.",
+    "sourceLocation": "P2 L5",
+    "contextMeaning": "后果、深远影响",
+    "examMeaning": "后果、深远影响",
+    "collocationOrDerivation": "结果；后果（常强调因果链） | the far-reaching consequences of this | have serious consequences；as a consequence；result 更中性 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "handsome profits",
+    "word": "handsome profits",
+    "ipa": "/ˈhænsəm ˈprɒfɪts/",
+    "pos": "n. phr.",
+    "sourceLocation": "P2 L7",
+    "contextMeaning": "丰厚、可观的利润",
+    "examMeaning": "丰厚、可观的利润",
+    "collocationOrDerivation": "handsome 还可指英俊的；数额可观的 | made handsome profits | a handsome salary/reward/sum；熟词僻义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "profit",
+    "word": "profit",
+    "ipa": "/ˈprɒfɪt/",
+    "pos": "n./v.",
+    "sourceLocation": "P2 L7",
+    "contextMeaning": "利润；获利",
+    "examMeaning": "利润；获利",
+    "collocationOrDerivation": "收益；利益；使受益 | made handsome profits | make/earn a profit；profit from；区别 benefit, revenue | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "endeavor",
+    "word": "endeavor",
+    "ipa": "/ɪnˈdevə/",
+    "pos": "n./v.",
+    "sourceLocation": "P2 L8",
+    "contextMeaning": "科学事业、科学探索",
+    "examMeaning": "科学事业、科学探索",
+    "collocationOrDerivation": "努力；尽力 | a key element of scientific endeavor | human/scientific endeavor；endeavor to do；英式 endeavour | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "distribution",
+    "word": "distribution",
+    "ipa": "/ˌdɪstrɪˈbjuːʃən/",
+    "pos": "n.",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "科研知识的传播、分发",
+    "examMeaning": "科研知识的传播、分发",
+    "collocationOrDerivation": "分配；分布；配送 | wide distribution | distribution of information/resources；distribute v. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "estimate",
+    "word": "estimate",
+    "ipa": "/ˈestɪmeɪt/",
+    "pos": "v.; n.",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "估计、估算",
+    "examMeaning": "估计、估算",
+    "collocationOrDerivation": "估价；估计数 | the market is estimated at... | estimate cost/value/number；名词 /ˈestɪmət/ | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "some + 数字",
+    "word": "some + 数字",
+    "ipa": "/sʌm/",
+    "pos": "det./adv.",
+    "sourceLocation": "P3 L6",
+    "contextMeaning": "大约、约有",
+    "examMeaning": "大约、约有",
+    "collocationOrDerivation": "一些；某个 | some 16,000 journals | 正式报道中表示 approximately/about | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "some 75%",
+    "word": "some 75%",
+    "ipa": "/sʌm ˌsevənti ˈfaɪv pəˈsent/",
+    "pos": "quant. phr.",
+    "sourceLocation": "P4 L1",
+    "contextMeaning": "大约75%",
+    "examMeaning": "大约75%",
+    "collocationOrDerivation": "some + 数字表示“大约” | some 75% of scholarly journals | 同 some 16,000；不是“一些75%” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "scholarly",
+    "word": "scholarly",
+    "ipa": "/ˈskɒləli/",
+    "pos": "adj.",
+    "sourceLocation": "P4 L1",
+    "contextMeaning": "学术的、学术研究性质的",
+    "examMeaning": "学术的、学术研究性质的",
+    "collocationOrDerivation": "有学问的；学者式的 | scholarly journals | scholarly research/work；scholar；scholarship | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "online",
+    "word": "online",
+    "ipa": "/ˌɒnˈlaɪn/",
+    "pos": "adj./adv.",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "可通过互联网访问的；在线",
+    "examMeaning": "可通过互联网访问的；在线",
+    "collocationOrDerivation": "在线的；联网地 | journals are now online | online access/services/publication；反义 offline | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "entirely",
+    "word": "entirely",
+    "ipa": "/ɪnˈtaɪəli/",
+    "pos": "adv.",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "完全地、彻底地",
+    "examMeaning": "完全地、彻底地",
+    "collocationOrDerivation": "完全；全然 | entirely new business models | an entirely different approach；近义 completely, wholly | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "emerge",
+    "word": "emerge",
+    "ipa": "/ɪˈmɜːdʒ/",
+    "pos": "v.",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "出现、兴起、逐渐形成",
+    "examMeaning": "出现、兴起、逐渐形成",
+    "collocationOrDerivation": "显现；从……中出来 | new business models are emerging | emerge as/from；emergence n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "identify",
+    "word": "identify",
+    "ipa": "/aɪˈdentɪfaɪ/",
+    "pos": "v.",
+    "sourceLocation": "P4 L3",
+    "contextMeaning": "识别、确定、指出",
+    "examMeaning": "识别、确定、指出",
+    "collocationOrDerivation": "认出；确认身份 | three main ones were identified | identify a problem/cause/trend；identification n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "the big deal",
+    "word": "the big deal",
+    "ipa": "/ðə ˌbɪɡ ˈdiːl/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L3",
+    "contextMeaning": "学术期刊一揽子捆绑订阅模式",
+    "examMeaning": "学术期刊一揽子捆绑订阅模式",
+    "collocationOrDerivation": "大事；重要的人或事 | the so-called big deal | It is no big deal.；本文为行业术语，属熟词僻义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "institutional",
+    "word": "institutional",
+    "ipa": "/ˌɪnstɪˈtjuːʃənəl/",
+    "pos": "adj.",
+    "sourceLocation": "P4 L4",
+    "contextMeaning": "机构的、单位层面的",
+    "examMeaning": "机构的、单位层面的",
+    "collocationOrDerivation": "制度的；机构性的 | institutional subscribers | institutional investors/reform/support；institution n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "title",
+    "word": "title",
+    "ipa": "/ˈtaɪtəl/",
+    "pos": "n.",
+    "sourceLocation": "P4 L4",
+    "contextMeaning": "一种具体期刊或出版物",
+    "examMeaning": "一种具体期刊或出版物",
+    "collocationOrDerivation": "标题；书名；头衔；职称 | a collection of online journal titles | 本文不是“标题”，而是期刊种类；熟词僻义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "archive",
+    "word": "archive",
+    "ipa": "/ˈɑːkaɪv/",
+    "pos": "n./v.",
+    "sourceLocation": "P4 L7",
+    "contextMeaning": "数字档案库、资料库",
+    "examMeaning": "数字档案库、资料库",
+    "collocationOrDerivation": "档案；把……归档 | open-access archives | digital archive；archive documents | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "support",
+    "word": "support",
+    "ipa": "/səˈpɔːt/",
+    "pos": "v./n.",
+    "sourceLocation": "P4 L8",
+    "contextMeaning": "资助、维持或运营知识库",
+    "examMeaning": "资助、维持或运营知识库",
+    "collocationOrDerivation": "支持观点；支撑重量；支持物 | laboratories support institutional repositories | support a project/argument；financial support；熟词多义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "repository",
+    "word": "repository",
+    "ipa": "/rɪˈpɒzɪtəri/",
+    "pos": "n.",
+    "sourceLocation": "P4 L8",
+    "contextMeaning": "信息、资料存储库",
+    "examMeaning": "信息、资料存储库",
+    "collocationOrDerivation": "仓库；知识或信息的集中保存处 | institutional repositories | data/digital/institutional repository | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "hybrid",
+    "word": "hybrid",
+    "ipa": "/ˈhaɪbrɪd/",
+    "pos": "n./adj.",
+    "sourceLocation": "P4 L8",
+    "contextMeaning": "混合形式、混合模式",
+    "examMeaning": "混合形式、混合模式",
+    "collocationOrDerivation": "杂交物；混合动力的 | hybrids of these three | a hybrid model/system/vehicle | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "routine",
+    "word": "routine",
+    "ipa": "/ruːˈtiːn/",
+    "pos": "n./adj.",
+    "sourceLocation": "Q26 B",
+    "contextMeaning": "惯常程序、常规流程",
+    "examMeaning": "惯常程序、常规流程",
+    "collocationOrDerivation": "日常惯例；例行的 | the publication routine of laboratory reports | daily routine；routine work/checks | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "criticize",
+    "word": "criticize",
+    "ipa": "/ˈkrɪtɪsaɪz/",
+    "pos": "v.",
+    "sourceLocation": "Q27 A",
+    "contextMeaning": "批评、指责",
+    "examMeaning": "批评、指责",
+    "collocationOrDerivation": "评论；批判 | criticizes government-funded research | criticize sb for doing；criticism n.；critical adj. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "upset",
+    "word": "upset",
+    "ipa": "/ʌpˈset/",
+    "pos": "v./adj.",
+    "sourceLocation": "Q27 C",
+    "contextMeaning": "使烦恼、使不安",
+    "examMeaning": "使烦恼、使不安",
+    "collocationOrDerivation": "打乱；弄翻；心烦的 | It upsets profit-making journal publishers. | upset sb；be upset about；upset the balance | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "considerably",
+    "word": "considerably",
+    "ipa": "/kənˈsɪdərəbli/",
+    "pos": "adv.",
+    "sourceLocation": "Q27 D",
+    "contextMeaning": "相当地、大幅度地",
+    "examMeaning": "相当地、大幅度地",
+    "collocationOrDerivation": "在很大程度上 | benefits scientific research considerably | increase/change considerably；considerable adj. 相当大的 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "mode",
+    "word": "mode",
+    "ipa": "/məʊd/",
+    "pos": "n.",
+    "sourceLocation": "Q30 B",
+    "contextMeaning": "模式、方式",
+    "examMeaning": "模式、方式",
+    "collocationOrDerivation": "方法；状态；（设备）模式 | a new mode of publication | mode of transport/communication；区别 model, means | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "channel",
+    "word": "channel",
+    "ipa": "/ˈtʃænəl/",
+    "pos": "n.",
+    "sourceLocation": "Q30 C",
+    "contextMeaning": "出版渠道、途径",
+    "examMeaning": "出版渠道、途径",
+    "collocationOrDerivation": "频道；海峡；水道 | the new channel for publication | communication/distribution channel；熟词僻义 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "render",
+    "word": "render",
+    "ipa": "/ˈrendə/",
+    "pos": "v.",
+    "sourceLocation": "Q30 D",
+    "contextMeaning": "使……变得、使成为",
+    "examMeaning": "使……变得、使成为",
+    "collocationOrDerivation": "给予；呈现；翻译；粉刷 | Publication is rendered easier... | render sth possible/useless；render + O + C；正式词 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "copyright",
+    "word": "copyright",
+    "ipa": "/ˈkɒpiraɪt/",
+    "pos": "n.",
+    "sourceLocation": "P1 L5",
+    "contextMeaning": "版权、著作权",
+    "examMeaning": "版权、著作权",
+    "collocationOrDerivation": "复制、出版和传播作品的法定权利 | Copyright rested with the journal publisher. | hold/own the copyright；copyright law/protection | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "government-funded",
+    "word": "government-funded",
+    "ipa": "/ˌɡʌvənmənt ˈfʌndɪd/",
+    "pos": "adj.",
+    "sourceLocation": "P2 L2",
+    "contextMeaning": "由政府出资、资助的",
+    "examMeaning": "由政府出资、资助的",
+    "collocationOrDerivation": "政府提供经费的 | government-funded research | state/publicly/privately funded；复合形容词 | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "economic",
+    "word": "economic",
+    "ipa": "/ˌiːkəˈnɒmɪk/",
+    "pos": "adj.",
+    "sourceLocation": "P2 L4",
+    "contextMeaning": "经济的",
+    "examMeaning": "经济的",
+    "collocationOrDerivation": "与经济、经济活动有关的 | Economic Co-operation and Development | economic growth/policy；区别 economical/economy/economics | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "investment",
+    "word": "investment",
+    "ipa": "/ɪnˈvestmənt/",
+    "pos": "n.",
+    "sourceLocation": "P3 L1",
+    "contextMeaning": "公共科研投入、投资",
+    "examMeaning": "公共科研投入、投资",
+    "collocationOrDerivation": "投资；投入；投资物 | public investment in research | investment in education/technology；invest v. | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "core",
+    "word": "core",
+    "ipa": "/kɔː/",
+    "pos": "adj./n.",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "核心的、主要的",
+    "examMeaning": "核心的、主要的",
+    "collocationOrDerivation": "核心；果核 | the core scientific publishing market | core issue/value；at the core of... | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "worldwide",
+    "word": "worldwide",
+    "ipa": "/ˌwɜːldˈwaɪd/",
+    "pos": "adj./adv.",
+    "sourceLocation": "P3 L5",
+    "contextMeaning": "在全世界范围内",
+    "examMeaning": "在全世界范围内",
+    "collocationOrDerivation": "遍及全球的；在全球 | publishers worldwide | a worldwide problem；operate worldwide | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "journal",
+    "word": "journal",
+    "ipa": "/ˈdʒɜːnəl/",
+    "pos": "n.",
+    "sourceLocation": "P3 L6",
+    "contextMeaning": "学术期刊",
+    "examMeaning": "学术期刊",
+    "collocationOrDerivation": "日报；杂志；日记 | some 16,000 journals | academic/scientific journal；journal article | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "ones",
+    "word": "ones",
+    "ipa": "/wʌnz/",
+    "pos": "pron.",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "代替 business models",
+    "examMeaning": "代替 business models",
+    "collocationOrDerivation": "代替前文复数可数名词 | three main ones | one/ones 避免重复；不可代替不可数名词 | 【绿】★ 了解即可",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "so-called",
+    "word": "so-called",
+    "ipa": "/ˌsəʊ ˈkɔːld/",
+    "pos": "adj.",
+    "sourceLocation": "P4 L3",
+    "contextMeaning": "所谓的、被称为……的",
+    "examMeaning": "所谓的、被称为……的",
+    "collocationOrDerivation": "有时暗含怀疑或讽刺 | the so-called big deal | 本文主要用于介绍行业术语 | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "site-licensing",
+    "word": "site-licensing",
+    "ipa": "/ˈsaɪt ˌlaɪsənsɪŋ/",
+    "pos": "adj.",
+    "sourceLocation": "P4 L5",
+    "contextMeaning": "机构或场所统一授权的",
+    "examMeaning": "机构或场所统一授权的",
+    "collocationOrDerivation": "机构购买许可后成员共享访问权 | site-licensing agreements | site licence；本文 site 不是普通“网站” | 【绿】★ 了解即可",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "It used to be...",
+    "word": "It used to be...",
+    "ipa": "/ɪt ˈjuːst tə biː/",
+    "pos": "sentence pattern",
+    "sourceLocation": "P1 L1",
+    "contextMeaning": "过去曾经是……，现在通常不再如此",
+    "examMeaning": "过去曾经是……，现在通常不再如此",
+    "collocationOrDerivation": "used to 表过去动作或状态 | It used to be so straightforward. | used to do/be；否定 didn’t use to；与 would 区分 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "submit sth to sb/sth",
+    "word": "submit sth to sb/sth",
+    "ipa": "/səbˈmɪt ... tə/",
+    "pos": "v. phr.",
+    "sourceLocation": "P1 L2",
+    "contextMeaning": "把某物提交给某人或机构",
+    "examMeaning": "把某物提交给某人或机构",
+    "collocationOrDerivation": "提交；呈递；也可指屈服 | submit the results ... to a journal | submit a paper/application/report；submit to authority | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "would + 动词原形",
+    "word": "would + 动词原形",
+    "ipa": "/wʊd/",
+    "pos": "sentence pattern",
+    "sourceLocation": "P1 L2-L6",
+    "contextMeaning": "表示过去反复发生的惯常动作",
+    "examMeaning": "表示过去反复发生的惯常动作",
+    "collocationOrDerivation": "还可表示意愿、推测、虚拟等 | would submit/remove/accept/have to subscribe | 叙述过去习惯时通常不表示状态；区别 used to | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "remove A from B",
+    "word": "remove A from B",
+    "ipa": "/rɪˈmuːv ... frəm/",
+    "pos": "v. phr.",
+    "sourceLocation": "P1 L3",
+    "contextMeaning": "从B中删除、移走A",
+    "examMeaning": "从B中删除、移走A",
+    "collocationOrDerivation": "移除；消除 | remove the authors’ names ... from the paper | remove information/a stain from... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "send sth to sb for review",
+    "word": "send sth to sb for review",
+    "ipa": "/send ... fə rɪˈvjuː/",
+    "pos": "v. phr.",
+    "sourceLocation": "P1 L3-L4",
+    "contextMeaning": "把某物送交某人评审",
+    "examMeaning": "把某物送交某人评审",
+    "collocationOrDerivation": "送去审核、复查 | send it to their peers for review | for review 表目的；it 指 the paper | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "depending on...",
+    "word": "depending on...",
+    "ipa": "/dɪˈpendɪŋ ɒn/",
+    "pos": "prep. phr.",
+    "sourceLocation": "P1 L4",
+    "contextMeaning": "根据……；取决于……",
+    "examMeaning": "根据……；取决于……",
+    "collocationOrDerivation": "由某因素决定 | Depending on the comments received | depending on circumstances/results | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "the comments received",
+    "word": "the comments received",
+    "ipa": "/ðə ˈkɒments rɪˈsiːvd/",
+    "pos": "n. phr.",
+    "sourceLocation": "P1 L4",
+    "contextMeaning": "收到的评审意见",
+    "examMeaning": "收到的评审意见",
+    "collocationOrDerivation": "过去分词后置修饰名词 | Depending on the comments received | = the comments that were received；压缩定语从句 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "accept sth for publication",
+    "word": "accept sth for publication",
+    "ipa": "/əkˈsept ... fə ˌpʌblɪˈkeɪʃən/",
+    "pos": "v. phr.",
+    "sourceLocation": "P1 L4-L5",
+    "contextMeaning": "接受论文并予以发表、录用",
+    "examMeaning": "接受论文并予以发表、录用",
+    "collocationOrDerivation": "接受某物用于出版 | accept the paper for publication | be accepted for publication；reject a manuscript | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "No longer.",
+    "word": "No longer.",
+    "ipa": "/nəʊ ˈlɒŋɡə/",
+    "pos": "sentence",
+    "sourceLocation": "P2 L1",
+    "contextMeaning": "现在不再如此",
+    "examMeaning": "现在不再如此",
+    "collocationOrDerivation": "不再 | No longer. | 承接 used to，构成强烈今昔对比 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "question why...",
+    "word": "question why...",
+    "ipa": "/ˈkwestʃən waɪ/",
+    "pos": "v. phr.",
+    "sourceLocation": "P2 L1-L2",
+    "contextMeaning": "质疑为什么……",
+    "examMeaning": "质疑为什么……",
+    "collocationOrDerivation": "question 作动词：怀疑、质疑 | who are questioning why commercial publishers... | question whether...；question the validity of... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "make money from...",
+    "word": "make money from...",
+    "ipa": "/meɪk ˈmʌni frəm/",
+    "pos": "v. phr.",
+    "sourceLocation": "P2 L2",
+    "contextMeaning": "从……中赚钱、获利",
+    "examMeaning": "从……中赚钱、获利",
+    "collocationOrDerivation": "通过某来源盈利 | make money from government-funded research | profit/earn money from... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "by doing sth",
+    "word": "by doing sth",
+    "ipa": "/baɪ ˈduːɪŋ/",
+    "pos": "prep. phr.",
+    "sourceLocation": "P2 L2-L3",
+    "contextMeaning": "通过做某事，以某种方式",
+    "examMeaning": "通过做某事，以某种方式",
+    "collocationOrDerivation": "说明手段或方式 | by restricting access to it | 区别 because of（原因） | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "restrict access to...",
+    "word": "restrict access to...",
+    "ipa": "/rɪˈstrɪkt ˈækses tə/",
+    "pos": "v. phr.",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "限制获取或使用……",
+    "examMeaning": "限制获取或使用……",
+    "collocationOrDerivation": "限制进入、接触 | restricting access to it | restrict access/use；反义 allow/provide access | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "make access to sth a reality",
+    "word": "make access to sth a reality",
+    "ipa": "/meɪk ˈækses tə ... ə riˈæləti/",
+    "pos": "sentence pattern",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "使获得某物真正成为现实",
+    "examMeaning": "使获得某物真正成为现实",
+    "collocationOrDerivation": "make + 宾语 + 宾补 | making access to scientific results a reality | make equal education a reality | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "issue a report",
+    "word": "issue a report",
+    "ipa": "/ˈɪʃuː ə rɪˈpɔːt/",
+    "pos": "v. phr.",
+    "sourceLocation": "P2 L4",
+    "contextMeaning": "正式发布一份报告",
+    "examMeaning": "正式发布一份报告",
+    "collocationOrDerivation": "机构正式公布文件 | has just issued a report | issue/release/publish a report | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "make heavy reading for sb",
+    "word": "make heavy reading for sb",
+    "ipa": "/meɪk ˈhevi ˈriːdɪŋ fə/",
+    "pos": "v. phr.",
+    "sourceLocation": "P2 L6",
+    "contextMeaning": "对某人来说读起来沉重、令人不快",
+    "examMeaning": "对某人来说读起来沉重、令人不快",
+    "collocationOrDerivation": "成为某种阅读材料 | makes heavy reading for publishers | make interesting/pleasant/depressing reading | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "so far",
+    "word": "so far",
+    "ipa": "/səʊ fɑː/",
+    "pos": "adv. phr.",
+    "sourceLocation": "P2 L7",
+    "contextMeaning": "到目前为止、迄今",
+    "examMeaning": "到目前为止、迄今",
+    "collocationOrDerivation": "从过去延续到现在 | who have, so far, made handsome profits | 常与现在完成时连用 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "go further than that",
+    "word": "go further than that",
+    "ipa": "/ɡəʊ ˈfɜːðə ðæn ðæt/",
+    "pos": "v. phr.",
+    "sourceLocation": "P2 L7",
+    "contextMeaning": "意义或影响不止如此、更加深入",
+    "examMeaning": "意义或影响不止如此、更加深入",
+    "collocationOrDerivation": "比前述层面走得更远 | But it goes further than that. | 递进转折；that 指前述不利于出版商 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "signal a change in...",
+    "word": "signal a change in...",
+    "ipa": "/ˈsɪɡnəl ə tʃeɪndʒ ɪn/",
+    "pos": "v. phr.",
+    "sourceLocation": "P2 L8",
+    "contextMeaning": "表明、预示……发生变化",
+    "examMeaning": "表明、预示……发生变化",
+    "collocationOrDerivation": "发出变化信号 | It signals a change in... | signal a shift/beginning/end | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "until now",
+    "word": "until now",
+    "ipa": "/ənˈtɪl naʊ/",
+    "pos": "adv. phr.",
+    "sourceLocation": "P2 L8",
+    "contextMeaning": "直到现在、迄今为止",
+    "examMeaning": "直到现在、迄今为止",
+    "collocationOrDerivation": "说明过去持续到现在 | what has, until now, been... | 常与现在完成时连用，暗示情况改变 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "a key element of...",
+    "word": "a key element of...",
+    "ipa": "/ə kiː ˈelɪmənt əv/",
+    "pos": "n. phr.",
+    "sourceLocation": "P2 L8",
+    "contextMeaning": "……的关键要素",
+    "examMeaning": "……的关键要素",
+    "collocationOrDerivation": "核心组成部分 | a key element of scientific endeavor | key element/factor/feature | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "the return on investment",
+    "word": "the return on investment",
+    "ipa": "/ðə rɪˈtɜːn ɒn ɪnˈvestmənt/",
+    "pos": "n. phr.",
+    "sourceLocation": "P3 L1",
+    "contextMeaning": "投资回报、投入收益",
+    "examMeaning": "投资回报、投入收益",
+    "collocationOrDerivation": "投入产生的经济或社会回报 | the return on the public investment in research | return on investment (ROI)；high/low return | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "investment in...",
+    "word": "investment in...",
+    "ipa": "/ɪnˈvestmənt ɪn/",
+    "pos": "n. phr.",
+    "sourceLocation": "P3 L1",
+    "contextMeaning": "对……的投资或投入",
+    "examMeaning": "对……的投资或投入",
+    "collocationOrDerivation": "资金、时间或资源投入 | public investment in research | investment in education/technology/infrastructure | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "depend, in part, upon...",
+    "word": "depend, in part, upon...",
+    "ipa": "/dɪˈpend ɪn pɑːt əˈpɒn/",
+    "pos": "v. phr.",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "部分取决于……",
+    "examMeaning": "部分取决于……",
+    "collocationOrDerivation": "由若干因素共同决定 | depends, in part, upon wide distribution... | depend on/upon；upon 更正式 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "in part",
+    "word": "in part",
+    "ipa": "/ɪn pɑːt/",
+    "pos": "adv. phr.",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "在一定程度上、部分地",
+    "examMeaning": "在一定程度上、部分地",
+    "collocationOrDerivation": "部分；不完全 | depends, in part, upon... | partly；to some extent；反义 entirely | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "wide distribution",
+    "word": "wide distribution",
+    "ipa": "/waɪd ˌdɪstrɪˈbjuːʃən/",
+    "pos": "n. phr.",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "广泛传播、广泛分发",
+    "examMeaning": "广泛传播、广泛分发",
+    "collocationOrDerivation": "大范围传播或分配 | upon wide distribution and ready access | wide dissemination/distribution of knowledge | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "ready access",
+    "word": "ready access",
+    "ipa": "/ˈredi ˈækses/",
+    "pos": "n. phr.",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "方便、及时、容易获得的渠道",
+    "examMeaning": "方便、及时、容易获得的渠道",
+    "collocationOrDerivation": "ready 此处意为易得的 | wide distribution and ready access | have/provide ready access to；熟词僻义 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "It is big business.",
+    "word": "It is big business.",
+    "ipa": "/ɪt ɪz bɪɡ ˈbɪznəs/",
+    "pos": "sentence",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "这是一个规模庞大、利润可观的产业",
+    "examMeaning": "这是一个规模庞大、利润可观的产业",
+    "collocationOrDerivation": "big business 可指大型、高利润商业活动 | It is big business. | It 指 scientific publishing；用于观点后接数据论证 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "be estimated at...",
+    "word": "be estimated at...",
+    "ipa": "/bi ˈestɪmeɪtɪd æt/",
+    "pos": "v. phr.",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "据估计为……",
+    "examMeaning": "据估计为……",
+    "collocationOrDerivation": "用来报告金额、数量或比例 | the market is estimated at between... | estimate A at B；be estimated to be... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "between A and B",
+    "word": "between A and B",
+    "ipa": "/bɪˈtwiːn ... ænd/",
+    "pos": "prep. pattern",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "在A和B之间",
+    "examMeaning": "在A和B之间",
+    "collocationOrDerivation": "表示范围 | between $7 billion and $11 billion | 不能写 between A to B | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "specialize in...",
+    "word": "specialize in...",
+    "ipa": "/ˈspeʃəlaɪz ɪn/",
+    "pos": "v. phr.",
+    "sourceLocation": "P3 L5",
+    "contextMeaning": "专门从事、专攻……",
+    "examMeaning": "专门从事、专攻……",
+    "collocationOrDerivation": "以某领域为专长 | specializing in these subjects | specialize in sth/doing；specialist n. | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "publishers specializing in...",
+    "word": "publishers specializing in...",
+    "ipa": "/ˈpʌblɪʃəz ˈspeʃəlaɪzɪŋ ɪn/",
+    "pos": "n. phr.",
+    "sourceLocation": "P3 L5",
+    "contextMeaning": "专门从事……的出版商",
+    "examMeaning": "专门从事……的出版商",
+    "collocationOrDerivation": "现在分词短语后置修饰 | publishers worldwide specializing in these subjects | = publishers who specialize in... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "This is now changing.",
+    "word": "This is now changing.",
+    "ipa": "/ðɪs ɪz naʊ ˈtʃeɪndʒɪŋ/",
+    "pos": "sentence",
+    "sourceLocation": "P4 L1",
+    "contextMeaning": "这一传统格局正在变化",
+    "examMeaning": "这一传统格局正在变化",
+    "collocationOrDerivation": "段首概括性转折 | This is now changing. | This 概括前文传统出版模式和市场格局 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "according to...",
+    "word": "according to...",
+    "ipa": "/əˈkɔːdɪŋ tə/",
+    "pos": "prep. phr.",
+    "sourceLocation": "P4 L1",
+    "contextMeaning": "根据……所说、按照……",
+    "examMeaning": "根据……所说、按照……",
+    "collocationOrDerivation": "引出信息来源 | According to the OECD report | 通常不说 according to me；用 in my opinion | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "business model",
+    "word": "business model",
+    "ipa": "/ˈbɪznəs ˌmɒdəl/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "商业模式",
+    "examMeaning": "商业模式",
+    "collocationOrDerivation": "组织提供产品、获取收入和维持运营的方式 | entirely new business models | develop/adopt/change a business model | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "There is..., where...",
+    "word": "There is..., where...",
+    "ipa": "/ðeər ɪz ... weə/",
+    "pos": "sentence pattern",
+    "sourceLocation": "P4 L3-L4",
+    "contextMeaning": "有一种……模式，在这种模式下……",
+    "examMeaning": "有一种……模式，在这种模式下……",
+    "collocationOrDerivation": "where 可指抽象情境而非真实地点 | There is the so-called big deal, where... | 用于解释制度、阶段、情形 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "pay for access to...",
+    "word": "pay for access to...",
+    "ipa": "/peɪ fər ˈækses tə/",
+    "pos": "v. phr.",
+    "sourceLocation": "P4 L4",
+    "contextMeaning": "付费获得访问或使用……的权利",
+    "examMeaning": "付费获得访问或使用……的权利",
+    "collocationOrDerivation": "为使用权付费 | pay for access to a collection of... | access 后用介词 to | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "a collection of...",
+    "word": "a collection of...",
+    "ipa": "/ə kəˈlekʃən əv/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L4-L5",
+    "contextMeaning": "一批、一组、一整套……",
+    "examMeaning": "一批、一组、一整套……",
+    "collocationOrDerivation": "收藏；集合 | a collection of online journal titles | a collection of data/articles/resources | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "through... agreements",
+    "word": "through... agreements",
+    "ipa": "/θruː əˈɡriːmənts/",
+    "pos": "prep. phr.",
+    "sourceLocation": "P4 L5",
+    "contextMeaning": "通过……协议",
+    "examMeaning": "通过……协议",
+    "collocationOrDerivation": "表示途径或方式 | through site-licensing agreements | through an agreement/arrangement/system | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "open-access publishing",
+    "word": "open-access publishing",
+    "ipa": "/ˌəʊpən ˈækses ˈpʌblɪʃɪŋ/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L5",
+    "contextMeaning": "开放获取出版",
+    "examMeaning": "开放获取出版",
+    "collocationOrDerivation": "读者通常免费访问，费用由作者方等承担 | There is open-access publishing... | 与 subscription publishing 相对 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "be supported by asking sb to do sth",
+    "word": "be supported by asking sb to do sth",
+    "ipa": "/bi səˈpɔːtɪd baɪ ˈɑːskɪŋ/",
+    "pos": "sentence pattern",
+    "sourceLocation": "P4 L5-L6",
+    "contextMeaning": "通过要求某人做某事获得支持或维持运营",
+    "examMeaning": "通过要求某人做某事获得支持或维持运营",
+    "collocationOrDerivation": "by doing 表方式 | typically supported by asking the author... to pay | be financed/sustained by doing | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "pay for the paper to be published",
+    "word": "pay for the paper to be published",
+    "ipa": "/peɪ fə ðə ˈpeɪpə tə bi ˈpʌblɪʃt/",
+    "pos": "v. phr.",
+    "sourceLocation": "P4 L6",
+    "contextMeaning": "支付论文发表费用",
+    "examMeaning": "支付论文发表费用",
+    "collocationOrDerivation": "为使论文被发表而付费 | to pay for the paper to be published | for + 名词 + to do；不定式被动 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "open-access archive",
+    "word": "open-access archive",
+    "ipa": "/ˌəʊpən ˈækses ˈɑːkaɪv/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L7-L8",
+    "contextMeaning": "开放获取档案库",
+    "examMeaning": "开放获取档案库",
+    "collocationOrDerivation": "免费检索、阅读科研成果的资料库 | there are open-access archives | 强调存储公开；区别 open-access publishing | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "institutional repository",
+    "word": "institutional repository",
+    "ipa": "/ˌɪnstɪˈtjuːʃənəl rɪˈpɒzɪtəri/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L8",
+    "contextMeaning": "机构知识库",
+    "examMeaning": "机构知识库",
+    "collocationOrDerivation": "大学或研究机构集中保存学术成果的数据库 | support institutional repositories | digital/institutional repository | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "models that are hybrids of...",
+    "word": "models that are hybrids of...",
+    "ipa": "/ˈmɒdəlz ðət ə ˈhaɪbrɪdz əv/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L8",
+    "contextMeaning": "属于……混合形式的模式",
+    "examMeaning": "属于……混合形式的模式",
+    "collocationOrDerivation": "that 引导定语从句 | models exist that are hybrids of these three | 定语从句因主句简短而后移 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "such as...",
+    "word": "such as...",
+    "ipa": "/sʌtʃ əz/",
+    "pos": "prep. phr.",
+    "sourceLocation": "P4 L9",
+    "contextMeaning": "例如",
+    "examMeaning": "例如",
+    "collocationOrDerivation": "列举某类别中的实例 | such as delayed open-access | 区别 for example（可独立作插入语） | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "delayed open-access",
+    "word": "delayed open-access",
+    "ipa": "/dɪˈleɪd ˌəʊpən ˈækses/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L9",
+    "contextMeaning": "延迟开放获取",
+    "examMeaning": "延迟开放获取",
+    "collocationOrDerivation": "先限订阅者阅读，期满后免费公开 | such as delayed open-access | delayed 为过去分词作形容词 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "allow only sb to do sth",
+    "word": "allow only sb to do sth",
+    "ipa": "/əˈlaʊ ˈəʊnli ... tə duː/",
+    "pos": "v. pattern",
+    "sourceLocation": "P4 L9-L10",
+    "contextMeaning": "只允许某人做某事",
+    "examMeaning": "只允许某人做某事",
+    "collocationOrDerivation": "限定许可对象 | allow only subscribers to read a paper | allow sb to do；不说 allow sb do | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "before doing sth",
+    "word": "before doing sth",
+    "ipa": "/bɪˈfɔː ˈduːɪŋ/",
+    "pos": "prep. pattern",
+    "sourceLocation": "P4 L10",
+    "contextMeaning": "在做某事之前",
+    "examMeaning": "在做某事之前",
+    "collocationOrDerivation": "表示动作先后顺序 | before making it freely available | 分词逻辑主语与主句主语一致 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "make sth freely available to sb",
+    "word": "make sth freely available to sb",
+    "ipa": "/meɪk ... ˈfriːli əˈveɪləbəl tə/",
+    "pos": "sentence pattern",
+    "sourceLocation": "P4 L10",
+    "contextMeaning": "使某物可供某人免费、自由获取",
+    "examMeaning": "使某物可供某人免费、自由获取",
+    "collocationOrDerivation": "make + 宾语 + 宾补 | making it freely available to everyone | make information publicly/widely available | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "All this",
+    "word": "All this",
+    "ipa": "/ɔːl ðɪs/",
+    "pos": "pron. phr.",
+    "sourceLocation": "P4 L11",
+    "contextMeaning": "这一切；概括前文全部变化",
+    "examMeaning": "这一切；概括前文全部变化",
+    "collocationOrDerivation": "篇章总结性指代 | All this could change... | 需向前概括多项内容，不只指最近一句 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "peer-review process",
+    "word": "peer-review process",
+    "ipa": "/ˌpɪə rɪˈvjuː ˈprəʊses/",
+    "pos": "n. phr.",
+    "sourceLocation": "P4 L11",
+    "contextMeaning": "同行评审过程",
+    "examMeaning": "同行评审过程",
+    "collocationOrDerivation": "由同领域专家审查论文质量的程序 | the traditional form of the peer-review process | 与 P1 peers for review 相呼应 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "at least",
+    "word": "at least",
+    "ipa": "/ət ˈliːst/",
+    "pos": "adv. phr.",
+    "sourceLocation": "P4 L11",
+    "contextMeaning": "至少；用于限制结论范围",
+    "examMeaning": "至少；用于限制结论范围",
+    "collocationOrDerivation": "最低限度；退一步说 | at least for the publication of papers | at most 至多；使论述更严谨 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "be true of...",
+    "word": "be true of...",
+    "ipa": "/bi truː əv/",
+    "pos": "adj. phr.",
+    "sourceLocation": "Q27 题干",
+    "contextMeaning": "适用于……；关于……是正确的",
+    "examMeaning": "适用于……；关于……是正确的",
+    "collocationOrDerivation": "某种说法对……成立 | Which ... is true of the OECD report? | The same is true of... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "be significant in that...",
+    "word": "be significant in that...",
+    "ipa": "/bi sɪɡˈnɪfɪkənt ɪn ðæt/",
+    "pos": "sentence pattern",
+    "sourceLocation": "Q28 题干",
+    "contextMeaning": "其重要性在于……；因为……而重要",
+    "examMeaning": "其重要性在于……；因为……而重要",
+    "collocationOrDerivation": "in that 引出原因或具体体现 | online publication is significant in that... | A is significant in that it... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "crucial",
+    "word": "crucial",
+    "ipa": "/ˈkruːʃəl/",
+    "pos": "adj.",
+    "sourceLocation": "Q28 C",
+    "contextMeaning": "至关重要的、决定性的",
+    "examMeaning": "至关重要的、决定性的",
+    "collocationOrDerivation": "极其重要的 | the crucial role of scientific knowledge | play a crucial role in；be crucial to/for | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "facilitate",
+    "word": "facilitate",
+    "ipa": "/fəˈsɪlɪteɪt/",
+    "pos": "v.",
+    "sourceLocation": "Q28 D",
+    "contextMeaning": "促进、使……更容易",
+    "examMeaning": "促进、使……更容易",
+    "collocationOrDerivation": "为某过程提供便利 | facilitates public investment | facilitate communication/access/development；正式于 help | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "be required to do sth",
+    "word": "be required to do sth",
+    "ipa": "/bi rɪˈkwaɪəd tə duː/",
+    "pos": "v. pattern",
+    "sourceLocation": "Q29 题干",
+    "contextMeaning": "被要求做某事",
+    "examMeaning": "被要求做某事",
+    "collocationOrDerivation": "制度、规则要求 | the author ... is required to... | require sb to do；be required by law to... | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "cover the cost of...",
+    "word": "cover the cost of...",
+    "ipa": "/ˈkʌvə ðə kɒst əv/",
+    "pos": "v. phr.",
+    "sourceLocation": "Q29 A",
+    "contextMeaning": "承担、支付……的费用",
+    "examMeaning": "承担、支付……的费用",
+    "collocationOrDerivation": "足以支付；覆盖成本 | cover the cost of its publication | cover treatment/travel/operating costs | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "best summarize the text",
+    "word": "best summarize the text",
+    "ipa": "/best ˈsʌməraɪz ðə tekst/",
+    "pos": "v. phr.",
+    "sourceLocation": "Q30 题干",
+    "contextMeaning": "最准确地概括全文",
+    "examMeaning": "最准确地概括全文",
+    "collocationOrDerivation": "抓住全文中心而非局部细节 | Which ... best summarizes the text? | 主旨题需覆盖全文范围和作者重点 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "surface": "pose a threat to...",
+    "word": "pose a threat to...",
+    "ipa": "/pəʊz ə θret tə/",
+    "pos": "v. phr.",
+    "sourceLocation": "Q30 A",
+    "contextMeaning": "对……构成威胁",
+    "examMeaning": "对……构成威胁",
+    "collocationOrDerivation": "造成风险、挑战或问题 | The Internet is posing a threat to publishers. | pose a risk/challenge/problem to；pose 此处非“摆姿势” | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  }
+]

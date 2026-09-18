@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to \"put everything out,\" he recalled. But when Swetnam enrolled in graduate school at the University of Arizona's Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent.",
+    "translation": "当汤姆·斯威特纳姆在20世纪70年代加入美国国家森林局工作时，他回忆道当时上级赋予他的唯一铁律指令便是“扑灭眼前的一切林火”。然而，当斯威特纳姆后来进入亚利桑那大学著名的树木年轮研究实验室攻读研究生时，他却极其震惊地发现：在欧洲殖民者最初踏上北美大陆之前的数百年间，这片土地上竟然密集存在着反复发生的大量野火历史记录（surprised by the number of wildfires in precolonial times）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+    "translation": "在他所深入检测分析的若干古树年轮中，有的古树在不同圈层的年轮间竟然触目惊心地留下了整整20多道历经大火洗礼的深重“火疤”（fire scars）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The fact that fires happened so often meant they couldn't have been severe enough to kill most trees. Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+    "translation": "火灾发生得如此频繁这一客观事实本身就证明：这些野火的烈度绝不可能严重到足以烧死绝大多数树木的程度。恰恰相反，越来越多的前沿科研成果雄辩地表明：频繁发生的“低强度低烈度火灾”（frequent, low-severity fires），反而让许多森林生态系统变得远为更加健康强韧（Paragraph 2 focuses on the benefits of low-severity fires）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease. Because flammable material couldn't build up on the landscape, blazes tended to move slowly and peter out when they reached the footprints of previous burns.",
+    "translation": "这些低烈度小火能够及时清除森林中枯死及患病的残木，大幅减少树种间的恶性养分竞争，并有效遏制树木病虫害的肆意蔓延。而且正因为地表易燃枯枝落叶等可燃物没有机会长期大量堆积，野火的蔓延速度往往十分缓慢，并在烧到此前曾过火的隔离区域边界时便会自然而然地逐渐自行熄灭。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent. Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month.",
+    "translation": "2022年，斯威特纳姆与其他科学家携手组建团队，系统汇总构建了覆盖全北美大陆的树木火疤数据库。他们建立的“北美树木年轮火疤网络”（NAFSN），为上个月重磅发表的一篇权威学术论文奠定了坚实的数据基石。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall. The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+    "translation": "在该项研究中，科研人员将历史上的野火发生节律与过去几十年所记录到的实际野火数据进行了跨时空对比，赫然发现了一个触目惊心的巨大“火灾短缺/赤字”（striking shortfall）。在数据库所涵盖的监测样点中，过去几十年实际经历的野火频次，竟然还不到如果没有人为灭火干预情况下预期发生自然火灾数量的四分之一（wildfires' frequency has markedly decreased）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire. \"Yet the combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.\"",
+    "translation": "国际荒野火灾协会前主席凯利·马丁表示，这种火灾频次的骤减确实是现代消防灭火高效力的有力佐证。“然而，一味灭火压制与气候变化两者叠加造成的恶果，却反而严重削弱侵蚀了人类压制扑灭森林大火的能力——尤其是那些在最为危险致命的极端恶劣气象条件下所引爆引燃的特大暴烈火灾（modern firefighting may make severe fires harder to put out）！”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it. At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+    "translation": "为了防止整个森林生态系统在特大火灾中化为灰烬，马丁深刻指出：人类必须主动将有益健康的良性火灾重新引回那些需要火的林区。在优胜美地国家公园（Yosemite National Park），马丁亲自统筹主导了所谓的“受控引火/规定烧除”（prescribed burns），以极大提升整片森林景观的生态韧性。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had built up around the important park's facilities. Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+    "translation": "这些引火行动均经过极其周密的科学规划，并在气象条件确保火势极易受控的安全窗口期内被有意点燃；它们成功清除了公园重点设施周围长期积聚的大量易燃燃料载量。科学研究表明，这些受控引火即便在后来遭遇最极端危险的气象条件时，也能显著大幅降低后续突发野火的破坏烈度！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said. \"It's a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,\" said Susan Prichard, a fire ecologist at the University of Washington.",
+    "translation": "然而专家们指出，尽管广大科学家与政府官员如今越来越高度一致地认同在我们的森林中需要引入更多良性火灾，但气候变化却正在让这一策略的执行变得愈发艰难。“这是一把名副其实的双刃剑——因为在气候变化下野火正变得愈发猛烈和庞大，我们因而比以往任何时候都更加迫切需要这项受控引火工作；但与此同时，开展该项工作的窗口期与难度也随之变得极具挑战，”华盛顿大学火灾生态学家苏珊·普里查德深刻总结道（Both Martin and Prichard agree that it is necessary to introduce prescribed burns）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  }
+]

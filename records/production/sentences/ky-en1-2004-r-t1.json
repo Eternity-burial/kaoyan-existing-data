@@ -1,0 +1,692 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Hunting for a job late last year, lawyer Gant Redmon stumbled across CareerBuilder, a job database on the Internet.",
+    "translation": "去年年底，Gant Redmon 律师在寻找工作时偶然发现了 CareerBuilder，这是互联网上的一个工作数据库。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "He searched it with no success but was attracted by the site's \"personal search agent\".",
+    "translation": "他搜索没有成功，但被该网站的“个人搜索代理”所吸引。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database.",
+    "translation": "它是一种交互式功能，允许访问者输入工作条件，例如地点、职位和薪水，然后在数据库中发布匹配的职位时向他们发送电子邮件。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Redmon chose the keywords legal, intellectual property and Washington, D.C.",
+    "translation": "雷德蒙选择了关键词“法律”、“知识产权”和“华盛顿特区”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Three weeks later, he got his first notification of an opening.",
+    "translation": "三周后，他收到了第一份空缺通知。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "\"I struck gold,\" says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.",
+    "translation": "“我找到了金子，”雷德蒙说，他通过电子邮件将简历发送给雇主，并赢得了一家公司内部法律顾问的职位。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient.",
+    "translation": "互联网上有数以千计的职业相关网站，寻找有前途的空缺职位可能既耗时又低效。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Search agents reduce the need for repeated visits to the databases.",
+    "translation": "搜索代理减少了重复访问数据库的需要。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "But although a search agent worked for Redmon, career experts see drawbacks.",
+    "translation": "不过，尽管雷德蒙公司有一名猎头代理，但职业专家却看到了它的缺点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Narrowing your criteria, for example, may work against you: \"Every time you answer a question you eliminate a possibility,\" says one expert.",
+    "translation": "例如，缩小你的标准可能会对你不利：“每次你回答一个问题，你就消除了一种可能性，”一位专家说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "For any job search, you should start with a narrow concept—what you think you want to do—then broaden it.",
+    "translation": "对于任何求职，你都应该从一个狭隘的概念开始——你认为你想做的事情——然后扩大它。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "\"None of these programs do that,\" says another expert.",
+    "translation": "另一位专家表示：“这些程序都没有做到这一点。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "\"There's no career counseling implicit in all of this.\" Instead, the best strategy is to use the agent as a kind of tip service to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again.",
+    "translation": "“这一切并不隐含职业咨询。”相反，最好的策略是使用代理作为一种小费服务，以随时了解特定数据库中的工作情况；当您收到电子邮件时，请将其视为再次检查数据库的提醒。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "\"I would not rely on agents for finding everything that is added to a database that might interest me,\" says the author of a job-searching guide.",
+    "translation": "“我不会依靠代理来查找数据库中添加的我可能感兴趣的所有内容，”求职指南的作者说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Some sites design their agents to tempt job hunters to return.",
+    "translation": "一些网站设计其代理来吸引求职者回国。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs—those it considers the best matches.",
+    "translation": "例如，当 CareerSite 的代理向那些注册其服务的人发送消息时，它只包含三个潜在的工作——它认为最匹配的工作。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "There may be more matches in the database; job hunters will have to visit the site again to find them—and they do.",
+    "translation": "数据库中可能还有更多匹配项；求职者将不得不再次访问该网站才能找到他们——他们确实做到了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "\"On the day after we send our messages, we see a sharp increase in our traffic,\" says Seth Peets, vice president of marketing for CareerSite.",
+    "translation": "CareerSite 营销副总裁 Seth Peets 表示：“发送消息后的第二天，我们发现流量急剧增加。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Even those who aren't hunting for jobs may find search agents worthwhile.",
+    "translation": "即使那些不寻找工作的人也可能会发现搜索代理是值得的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise.",
+    "translation": "有些人用它们来密切关注自己工作的需求，或者收集薪酬信息，以便在谈判加薪时武装自己。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "Although happily employed, Redmon maintains his agent at CareerBuilder.",
+    "translation": "尽管雷德蒙的工作很愉快，但他的经纪人仍留在 CareerBuilder。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "\"You always keep your eyes open,\" he says.",
+    "translation": "“你总是睁大眼睛，”他说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 9,
+      "ps": "P3-S9"
+    },
+    "sourceLocator": {
+      "sIndex": 9,
+      "id": "P3-S9",
+      "pIndex": 3
+    },
+    "text": "Working with a personal search agent means having another set of eyes looking out for you.",
+    "translation": "与个人搜索代理合作意味着有另一双眼睛在注视着您。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  }
+]

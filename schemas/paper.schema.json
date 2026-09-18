@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KaoyanExistingPaperRecord",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "source",
+    "paperKey",
+    "exam",
+    "track",
+    "year",
+    "title",
+    "articleKeys",
+    "provenance"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "kaoyan-existing-paper-1.0"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["production"]
+    },
+    "paperKey": {
+      "type": "string",
+      "pattern": "^ky-en1-\\d{4}$"
+    },
+    "exam": {
+      "type": "string",
+      "const": "kaoyan"
+    },
+    "track": {
+      "type": "string",
+      "enum": ["legacy", "englishOne"]
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1998,
+      "maximum": 2026
+    },
+    "title": {
+      "type": "string"
+    },
+    "subject": {
+      "type": ["string", "null"]
+    },
+    "articleKeys": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "rawFields": {
+      "type": "object"
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["sourceLayer", "sourceFile", "year", "extractedAt", "contentHash"],
+      "properties": {
+        "sourceLayer": { "type": "string" },
+        "sourceFile": { "type": "string" },
+        "year": { "type": "integer" },
+        "extractedAt": { "type": "string" },
+        "contentHash": { "type": "string" }
+      }
+    }
+  }
+}

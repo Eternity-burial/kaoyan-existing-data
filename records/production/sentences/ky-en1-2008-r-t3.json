@@ -1,0 +1,502 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "In the early 1960s Wilt Chamberlain was one of the only three players in the National Basketball Association (NBA) listed at over seven feet.",
+    "translation": "在20世纪60年代初，威尔特·张伯伦是美国男子职业篮球联赛（NBA）在册登记身高超过7英尺的仅有的三名球员之一。",
+    "syntaxAnalysis": "主系表结构。In the early 1960s 为时间状语；主语 Wilt Chamberlain；系动词 was；表语 one of the only three players；in the NBA 为范围状语；listed at over seven feet 为过去分词短语作后置定语修饰 players。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "If he had played last season, however, he would have been one of 42.",
+    "translation": "然而，如果他在上个赛季打球的话，他只会是全联盟42名超7英尺高个球员中的普通一员。",
+    "syntaxAnalysis": "与过去事实相反的虚拟语气条件复合句。however 为插入转折副词；If 引导从句，使用过去完成时 had played；主句谓语 would have been；表语 one of 42。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "The bodies playing major professional sports have changed dramatically over the years, and managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.",
+    "translation": "多年以来，从事主要职业体育运动的运动员体格发生了翻天覆地的剧烈变化，而球队经理人们也非常乐于调整球队比赛服，以适应日益增多的大块头与修长骨架身材。",
+    "syntaxAnalysis": "and 连接的并列复合句。分句1主语 The bodies，playing major professional sports 为现在分词作后置定语，谓语 have changed dramatically，时间状语 over the years；分句2主语 managers，谓语 have been more than willing to do sth，不定式短语 to fit... 作目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The trend in sports, though, may be obscuring an unrecognized reality: Americans have generally stopped growing.",
+    "translation": "然而，体育界的这一表象趋势可能掩盖了一个尚未为人所意识到的冷酷现实：美国人总体上已经停止长高了。",
+    "syntaxAnalysis": "主谓宾复合句 + 同位语解释。主语 The trend in sports；though 为插入转折副词；谓语 may be obscuring；宾语 an unrecognized reality；冒号后 Americans have generally stopped growing 为同位语从句解释 reality。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Though typically about two inches taller now than 140 years ago, today's people—especially those born to families who have lived in the U.S. for many generations—apparently reached their limit in the early 1960s.",
+    "translation": "尽管如今的美国人通常比140年前高出大约两英寸，但当今的人群——尤其是那些出生于在美国繁衍了多代的世居家庭的人——显然早在20世纪60年代初就已经达到了身高生长的极限。",
+    "syntaxAnalysis": "让步状语复合长难句。Though 引导省略形式让步状语（省略 they are）；主句主语 today's people；破折号之间 especially those born to families who have lived in the U.S. for many generations 为强调插入语（包含 who 定语从句）；主句谓语 reached；宾语 their limit；时间状语 in the early 1960s。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "And they aren't likely to get any taller.",
+    "translation": "而且他们今后也不太可能再长得更高了。",
+    "syntaxAnalysis": "并列主系表结构。they 为主语；aren't likely to do 为系表谓语结构；get 为系动词，any taller 为比较级表语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "\"In the general population today, at this genetic, environmental level, we've pretty much gone as far as we can go,\" says anthropologist William Cameron Chumlea of Wright State University.",
+    "translation": "赖特州立大学的人类学家威廉·卡梅隆·查姆利指出：“在当今普通大众中，基于目前的基因和环境水平，我们的身高差不多已经达到了极限（走到了能走的最远距离）。”",
+    "syntaxAnalysis": "直接引语倒装句。引号内为主干：we've pretty much gone as far as we can go（包含 as far as we can go 比较范围状语）；引号后 says 为谓语，anthropologist... 为主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "In the case of NBA players, their increase in height appears to result from the increasingly common practice of recruiting players from all over the world.",
+    "translation": "至于NBA球员身高的持续攀升，这似乎主要归因于从全世界各地广泛招募球员这一越来越普遍的做法。",
+    "syntaxAnalysis": "主谓表复合句。In the case of NBA players 为主题状语；主语 their increase in height；谓语 appears to result from；宾语 the increasingly common practice of recruiting players from all over the world。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Growth, which rarely continues beyond the age of 20, demands calories and nutrients—notably, protein—to feed expanding tissues.",
+    "translation": "人体的身体发育很少会持续超过20岁，它需要大量的卡路里热量与营养成分——尤其是蛋白质——来滋养不断扩张生长的身体组织。",
+    "syntaxAnalysis": "主谓宾复合句。主语 Growth；which rarely continues beyond the age of 20 为非限制性定语从句；谓语 demands；宾语 calories and nutrients；破折号之间 notably, protein 为强调插入语；不定式短语 to feed expanding tissues 作目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "At the start of the 20th century, under-nutrition and childhood infections got in the way.",
+    "translation": "在20世纪初期，营养不良与儿童时期的传染性疾病阻碍了身高的正常发育。",
+    "syntaxAnalysis": "主谓短语结构。时间状语 At the start of the 20th century；并列主语 under-nutrition and childhood infections；谓语动词短语 got in the way（意为‘阻碍/妨碍’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height.",
+    "translation": "但随着饮食营养与医疗卫生状况的显著改善，儿童和青少年平均每20年身高就增长约1.5英寸，这种模式在人类学上被称为‘身高长期趋势’。",
+    "syntaxAnalysis": "时间状语从句 + 主句 + 同位语。as diet and health improved 为伴随状语从句；主句主语 children and adolescents；on average 为插入语；谓语 have increased in height；幅度状语 by about an inch and a half every 20 years；逗号后 a pattern known as the secular trend in height 为同位语修饰前面的整段增长现象。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Yet according to the Centers for Disease Control and Prevention, average height—5' 9\" for men, 5' 4\" for women—hasn't really changed since 1960.",
+    "translation": "然而根据美国疾病控制与预防中心的数据，自1960年以来，美国人的平均身高——男性为5英尺9英寸，女性为5英尺4英寸——实际上就再也没有发生过改变。",
+    "syntaxAnalysis": "主谓状简单句。Yet 为转折连词；according to... 为来源状语；主语 average height；破折号之间 5' 9\" for men, 5' 4\" for women 为具体数值同位语；谓语 hasn't really changed；时间状语 since 1960。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Genetically speaking, there are advantages to avoiding substantial height.",
+    "translation": "从遗传学角度来说，避免长得过高其实具有巨大的生存适应优势。",
+    "syntaxAnalysis": "there be 结构。Genetically speaking 为独立分词评注性状语；there are advantages to doing sth 结构中 to 为介词，后接动名词短语 avoiding substantial height。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "During childbirth, larger babies have more difficulty passing through the birth canal.",
+    "translation": "在分娩过程中，体型过大的婴儿在通过产道时会遭遇大得多的困难（难产风险）。",
+    "syntaxAnalysis": "主谓宾短语结构。During childbirth 为时间状语；主语 larger babies；谓语 have more difficulty doing sth（做某事有更大困难）；动名词短语 passing through the birth canal 作介词宾语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs.",
+    "translation": "此外，尽管人类直立行走已有数百万年之久，但我们的双脚与脊背依然在与这种双足直立姿势艰难搏斗，根本无法轻易承受过大四肢所施加的反复重压劳损。",
+    "syntaxAnalysis": "主从复合长难句。Moreover 为递进副词；even though 引导让步从句（humans have been upright for millions of years）；主句主语 our feet and back；并列谓语1 continue to struggle with bipedal posture；并列谓语2 cannot easily withstand repeated strain；imposed by oversize limbs 为过去分词短语作后置定语修饰 strain。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "\"There are some real constraints that are set by the genetic architecture of the individual organism,\" says anthropologist William Leonard of Northwestern University.",
+    "translation": "西北大学的人类学家威廉·伦纳德指出：“每一个独立生物体的遗传结构中，都设立了一些实实在在的硬性生理约束。”",
+    "syntaxAnalysis": "引语复合句。引号内为 there be 句型：There are some real constraints；that 引导定语从句修饰 constraints，谓语 are set by the genetic architecture of the individual organism；引号后 says 为谓语，anthropologist... 为主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Genetic maximums can change, but don't expect this to happen soon.",
+    "translation": "遗传上的身高最大极限虽然并非一成不变，但千万不要指望这种改变会在短期内迅速发生。",
+    "syntaxAnalysis": "转折祈使复合句。前一分句 Genetic maximums can change；but 连接祈使句 don't expect this to happen soon（expect sb/sth to do sth）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, Mass., ensures that 90 percent of the uniforms and workstations fit recruits without alteration.",
+    "translation": "马萨诸塞州纳蒂克陆军研究中心的高级人类学家克莱尔·C·戈登，负责确保90%的军服与工作台无需修改即可完全适合新兵。",
+    "syntaxAnalysis": "主从复合句。主语 Claire C. Gordon，senior anthropologist... 为同位语；谓语 ensures；that 引导宾语从句：90 percent of the uniforms and workstations fit recruits without alteration。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "She says that, unlike those for basketball, the length of military uniforms has not changed for some time.",
+    "translation": "她表示，与篮球运动服不同，美军军服的长度尺码已经有很长一段时间没有任何改变了。",
+    "syntaxAnalysis": "主从复合句。主语 She；谓语 says；that 引导宾语从句；unlike those for basketball 为对比插入介词短语；从句主语 the length of military uniforms，谓语 has not changed，时间状语 for some time。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, \"you could use today's data and feel fairly confident.\"",
+    "translation": "戈登还指出，如果你在不久的将来为了设计某件装备而需要预测人类的身高，那么大体上“你可以放心使用当今的数据，而且尽可感到相当有把握”。",
+    "syntaxAnalysis": "条件复合主从句。And if you need to predict human height in the near future to design a piece of equipment 为条件与目的状语从句；主句主谓 Gordon says；that 引导宾语从句，by and large 为插入副词（意为‘大体上/总的来说’），从句主干 you could use today's data and feel fairly confident。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  }
+]

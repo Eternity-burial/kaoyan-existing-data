@@ -1,0 +1,627 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The US$3-million Fundamental Physics Prize is indeed an interesting experiment, as Alexander Polyakov said when he accepted this year's award in March.",
+    "translation": "正如亚历山大·波利亚科夫在今年三月领奖时所言，奖金高达300万美元的基础物理学奖确实是一次饶有趣味的探索尝试。",
+    "syntaxAnalysis": "主干为 The Fundamental Physics Prize is indeed an interesting experiment。as Alexander Polyakov said 为非限制性定语从句；when he accepted this year's award in March 为时间状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "And it is far from the only one of its type.",
+    "translation": "而且，它绝非此类巨额奖项中的孤例。",
+    "syntaxAnalysis": "简单句。far from 意为‘远非/绝非’，only one of its type 意为‘同类型的独一个’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "As a News Feature article in Nature discusses, a string of lucrative awards for researchers have joined the Nobel Prizes in recent years.",
+    "translation": "正如《自然》杂志上一篇深度特写报道所探讨的那样，近年来一系列面向科研工作者的丰厚奖项纷纷涌现，加入了诺贝尔奖的行列。",
+    "syntaxAnalysis": "主从复合句。As a News Feature article ... discusses 为方式/非限制性定语从句；主句主干 a string of lucrative awards ... have joined the Nobel Prizes in recent years；lucrative awards 意为‘丰厚的/高额回报的奖项’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Many, like the Fundamental Physics Prize, are funded from the telephone-number-sized bank accounts of Internet entrepreneurs.",
+    "translation": "其中许多奖项就像基础物理学奖一样，是由那些银行账户数字堪比电话号码般天文数字的互联网巨贾出资设立的。",
+    "syntaxAnalysis": "主干 Many ... are funded from the ... bank accounts of Internet entrepreneurs。like the Fundamental Physics Prize 为举例插入语；telephone-number-sized 为复合形容词，形象比喻金额如电话号码般庞大。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "These benefactors have succeeded in their chosen fields, they say, and they want to use their wealth to draw attention to those who have succeeded in science.",
+    "translation": "据称，这些慷慨的赞助人早已在各自选定的商业赛道中功成名就，如今他们希望利用自身积累的庞大财富，让全社会更加关注那些在科学领域取得卓越成就的科研人员。",
+    "syntaxAnalysis": "and 连接的并列复合句。前分句 These benefactors have succeeded ...，they say 为插入语；后分句 they want to use their wealth to draw attention to those ...，who have succeeded in science 为定语从句修饰 those。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "What's not to like?",
+    "translation": "这难道还有什么不令人满意的吗？",
+    "syntaxAnalysis": "修辞疑问句（设问句）。以反诘开篇，引发下文对学界质疑声浪的盘点。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "Quite a lot, according to a handful of scientists quoted in the News Feature.",
+    "translation": "按照《自然》特写报道中所援引的一小撮科学家的说法，让人不爽的地方还真不少。",
+    "syntaxAnalysis": "省略回答句。Quite a lot (is not to like)；according to a handful of scientists ... 为状语，quoted in the News Feature 为过去分词短语作后置定语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "You cannot buy class, as the old saying goes, and these upstart entrepreneurs cannot buy their prizes the prestige of the Nobels.",
+    "translation": "常言道，金钱买不来贵族气质与高贵阶层；同样，这些骤然暴富的新贵企业家们，也绝无法用金钱为其所设的奖项买来诺贝尔奖那般崇高的历史声望。",
+    "syntaxAnalysis": "and 连接的并列句。前分句 You cannot buy class 为谚语引用，as the old saying goes 为插入语；后分句 buy their prizes the prestige 为双宾语结构（buy sb. sth.）；upstart 为名词作定语修饰 entrepreneurs（暴发户企业家）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "The new awards are an exercise in self-promotion for those behind them, say scientists.",
+    "translation": "不少科学家尖锐地指出，设立这些新奖项无非是幕后出资人进行的一场冠冕堂皇的自我公关与形象营销罢了。",
+    "syntaxAnalysis": "主干为 The new awards are an exercise in self-promotion for those behind them。an exercise in 熟词僻义，意为‘...的举动/操练’；say scientists 为主谓倒装插入语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "They could distort the achievement-based system of peer-review-led research.",
+    "translation": "他们可能会严重扭曲原本以学术成就为基石、以同行评议为主导的正规科研评价体系。",
+    "syntaxAnalysis": "简单句。主语 They 指代这些暴发户奖项，谓语 could distort，宾语 the achievement-based system of peer-review-led research。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "They could cement the status quo of peer-reviewed research.",
+    "translation": "他们可能会将现行同行评议科研中论资排辈的陈腐现状进一步固化僵死。",
+    "syntaxAnalysis": "简单句。谓语 could cement（cement 熟词僻义动词：加固/使...僵化不变）；status quo 意为‘现状’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "They do not fund peer-reviewed research.",
+    "translation": "这些奖项根本不是在切实资助那些经由严密同行评议的常规科研探索。",
+    "syntaxAnalysis": "简单陈述句。do not fund 强调否定。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 8,
+      "ps": "P2-S8"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "They perpetuate the myth of the lone genius.",
+    "translation": "他们只是在片面迎合大众趣味，进一步助长和固化了所谓的“孤胆独行天才”的虚妄神话。",
+    "syntaxAnalysis": "简单句。谓语 perpetuate（使...永存/使长久），宾语 the myth of the lone genius。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "The goals of the prize-givers seem as scattered as the criticism.",
+    "translation": "各路颁奖嘉宾的初衷诉求，看起来就如同外界对他们的尖锐批评一样参差分散、莫衷一是。",
+    "syntaxAnalysis": "同级比较句。主语 The goals of the prize-givers，系动词 seem，表语 as scattered as the criticism（scattered 零散分散的）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Some want to shock, others to draw people into science, or to better reward those who have made their careers in research.",
+    "translation": "有的旨在语不惊人死不休地制造轰动效应，有的试图吸引公众投身科学殿堂，还有的则是为了更好地奖赏那些毕生致力于科研事业的学者。",
+    "syntaxAnalysis": "Some ... others ... 并列省略句。Some want to shock；others (want) to draw ... or to better reward those ...，who have made their careers in research 为定语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "As Nature has pointed out before, there are some legitimate concerns about how science prizes — both new and old — are distributed.",
+    "translation": "正如《自然》杂志先前所指出的那样，关于各大科学奖项——无论新设大奖还是百年老奖——究竟应当如何遴选颁发，确实存在一些合情合理的合理关切。",
+    "syntaxAnalysis": "主从复合句。As Nature has pointed out before 为方式状语从句；there are some legitimate concerns about ...，破折号内 both new and old 作插入语修饰 prizes，how 引导介词宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "The Breakthrough Prize in Life Sciences, launched this year, takes an unrepresentative view of what the life sciences include.",
+    "translation": "今年新鲜出炉的“生命科学突破奖”，其对生命科学应涵盖学科范畴的界定就显失偏颇、缺乏广泛代表性。",
+    "syntaxAnalysis": "主干 The Breakthrough Prize in Life Sciences ... takes an unrepresentative view of ...。launched this year 为过去分词短语作后置定语修饰主语；what the life sciences include 为宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "But the Nobel Foundation's limit of three recipients per prize, each of whom must still be living, has long been outgrown by the collaborative nature of modern research — as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledging the discovery of the Higgs boson.",
+    "translation": "然而，诺贝尔基金会所定下的单项奖得主不得超过三人且每位必须健在的死板陈规，早已远远落后于现代科研讲求多方大规模协同协作的本质——正如一旦论及对希格斯玻色子发现的功绩表彰时，必将不可避免地掀起一场关于究竟是哪位关键科学家遭到了无端漠视与遗忘的激烈论战所生动印证的那样。",
+    "syntaxAnalysis": "主从复合句。主语 the Nobel Foundation's limit ...，each of whom must still be living 为独立主格/插入定语修饰 recipients；谓语 has long been outgrown by ...（outgrow 熟词僻义：长得过大而不适应/落后淘汰于）；破折号后 as will be demonstrated by ... 为非限制性定语从句，从句主干 the inevitable row over who is ignored when it comes to ...",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "The Nobels were, of course, themselves set up by a very rich individual who had decided what he wanted to do with his own money.",
+    "translation": "当然，诺贝尔奖本身归根结底也是由一位超级富豪凭个人意愿设立的，这位巨贾自行决定了如何支配这笔属于他自己的私产。",
+    "syntaxAnalysis": "主从复合句。主干 The Nobels were ... set up by a very rich individual；themselves 为反身代词强调主语；who 引导定语从句，内嵌 what he wanted to do with his own money 宾语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 20
+    },
+    "text": "Time, rather than intention, has given them legitimacy.",
+    "translation": "最终赋予诺贝尔奖无上正统性与合法地位的是漫长岁月的积淀，而绝非其最初创立时的个人动机意图。",
+    "syntaxAnalysis": "主谓宾句。主语 Time，rather than intention 为插入排除语，谓语 has given，双宾语 them legitimacy。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 21
+    },
+    "text": "As much as some scientists may complain about the new awards, two things seem clear.",
+    "translation": "尽管某些学者可能会对这些新兴大奖怨声载道，但有两点事实却是清晰无疑的。",
+    "syntaxAnalysis": "主从复合句。As much as 引导让步状语从句（相当于 Although / Much as）；主句 two things seem clear 为主系表结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 22
+    },
+    "text": "First, most researchers would accept such a prize if they were offered one.",
+    "translation": "其一，一旦有幸被授予此类奖项，绝大多数科研人员都会欣然笑纳。",
+    "syntaxAnalysis": "虚拟条件句。主句 most researchers would accept such a prize，if 引导虚拟条件状语从句 if they were offered one。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 23
+    },
+    "text": "Second, it is surely a good thing that the money and attention come to science rather than go elsewhere.",
+    "translation": "其二，巨额财富与社会聚光灯能够汇流涌向科学殿堂而非挥霍他处，这无论如何都是一件利国利民的大好事。",
+    "syntaxAnalysis": "it 形式主语复合句。it is surely a good thing 为主系表结构；that 引导真正的主语从句，从句中 come to science rather than go elsewhere 为并列谓语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 24
+    },
+    "text": "It is fair to criticize and question the mechanism — that is the culture of research, after all — but it is the prize-givers' money to do with as they please.",
+    "translation": "对评奖机制展开理性批判与科学质疑固然无可厚非——毕竟追根究底本就是科学探索的文化基因所在——但这终究是属于颁奖者个人的真金白银，他们完全有权随心所欲地处置。",
+    "syntaxAnalysis": "并列复合句。前分句 It is fair to criticize ...，破折号内 that is the culture ... 为补充评注；but 连接后分句 it is the prize-givers' money to do with as they please（as they please 随他们高兴）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 25
+    },
+    "text": "It is wise to take such gifts with gratitude and grace.",
+    "translation": "满怀感恩之心与体面风度去接纳这些珍贵馈赠，方为科研工作者的明智之举。",
+    "syntaxAnalysis": "主系表结构。It 为形式主语，is wise 为表语，动词不定式短语 to take such gifts with gratitude and grace 充当真正的主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

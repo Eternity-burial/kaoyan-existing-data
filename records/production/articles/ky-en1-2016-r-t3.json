@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2016-r-t3",
+  "year": 2016,
+  "textNumber": 3,
+  "title": "Corporate Social Responsibility and Penalty Leniency in Corruption Cases",
+  "chineseTitle": "企业社会责任（CSR）的“光环效应”与海外行贿司法量刑宽免",
+  "topic": "商业伦理与公司法制 / 企业社会责任（CSR）、光环效应、美国《反海外腐败法》（FCPA）与量刑博弈",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文基于对美国《反海外腐败法》（FCPA）跨国商业行贿起诉案件的实证研究，探讨了企业社会责任（CSR）的司法价值。诺贝尔经济学奖得主米尔顿·弗里德曼曾提出企业唯一的社会责任就是为股东赚取利润，然而最新学术研究揭示，健全完善的CSR政策能够产生广泛的‘光环效应’。当涉案企业遭到司法起诉时，良好的道德声誉与履责记录能够促使检方做出显著从轻的量刑建议（刑事罚金平均降低约40%）。实证分析排除了政治献金的干扰，证实良好企业品格确实能为触犯法律的公司提供‘隐形保险’，换取成本代价更低的惩罚。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 19,
+  "vocabularyCount": 32,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 3,
+        "sentenceId": "P1-S3",
+        "english": "But even if you accept Friedman's premise and regard corporate social responsibility (CSR) policies as a waste of shareholders' money, things may not be absolutely clear-cut.",
+        "chinese": "但即便你全盘接受弗里德曼的前提假设，并将企业社会责任（CSR）政策视为对股东资金的纯粹浪费，现实中的利弊得失也绝非这般非黑即白、一清二楚。",
+        "structureType": "主从复合句（even if引导的让步状语从句 + 并列谓语 + 主系表主句）",
+        "mainClause": "things may not be absolutely clear-cut.",
+        "modifiers": "even if 引导让步状语从句；accept Friedman's premise 和 regard... as... 为 and 连接的两个并列动宾短语；corporate social responsibility (CSR) policies 为 regard 的宾语；as a waste of shareholders' money 为介词短语作宾语补足语；main clause 中 things 为主语，may not be 为系表谓语，clear-cut 为表语形容词。",
+        "corePattern": "even if...（即使/哪怕……）；accept one's premise（接受某人的前提假定）；regard A as B（把A视为B）；a waste of money（对金钱的浪费）；clear-cut（界限分明、一目了然）。"
+      },
+      {
+        "sentenceIndex": 4,
+        "sentenceId": "P1-S4",
+        "english": "New research suggests that CSR may create monetary value for companies in at least one relatively untracked way: by smoothing their path on the occasions when they fall foul of the law.",
+        "chinese": "最新实证研究表明，CSR至少能在一种相对未受关注的途径中为企业创造直接的货币价值：即当企业触犯法律陷入诉讼困境时，为它们铺平化解危机之道。",
+        "structureType": "主谓宾复合句 + that宾语从句 + 冒号同位阐述 + by引导的方式状语 + when引导的定语从句",
+        "mainClause": "New research suggests that CSR may create monetary value for companies...",
+        "modifiers": "that CSR may create monetary value... 为 suggests 的宾语从句；in at least one relatively untracked way 为介词短语作方式状语；冒号后为具体途径阐释；by smoothing their path 为方式状语；on the occasions 为时间介词短语；when they fall foul of the law 为限制性定语从句修饰 occasions。",
+        "corePattern": "suggest that...（表明/指出……）；create monetary value（创造直接货币价值）；smooth one's path（为某人铺平道路/扫清障碍）；fall foul of the law（触犯法律/遭遇法律制裁）。"
+      },
+      {
+        "sentenceIndex": 9,
+        "sentenceId": "P2-S5",
+        "english": "And third, through a more diffuse halo effect whereby its good deeds earn it greater consideration from consumers and others.",
+        "chinese": "第三，则是通过一种更为广泛弥散的‘光环效应’（halo effect），使企业的行善义举为其从消费者及全社会其他利益相关方处赢得更多善意关照与信任好感。",
+        "structureType": "省略句（承前省略 This could add value） + 介词短语 + whereby引导的限制性定语从句 + 双宾语结构",
+        "mainClause": "[This could add value] through a more diffuse halo effect...",
+        "modifiers": "And third 为承接上文的序数词状语；through a more diffuse halo effect 为方式介词短语；whereby（借此/凭此）引导定语从句修饰 halo effect；its good deeds 为从句主语，earn 为谓语，it 为间接宾语，greater consideration 为直接宾语；from consumers and others 为介词短语修饰 consideration。",
+        "corePattern": "through a halo effect（通过光环效应）；whereby...（凭此……）；good deeds（行善义举）；earn sb. consideration（为某人赢得关照/宽容/好感）。"
+      },
+      {
+        "sentenceIndex": 12,
+        "sentenceId": "P3-S3",
+        "english": "It argues that since prosecutors do not consume a company's products as part of their investigations, they could be influenced only by the halo effect.",
+        "chinese": "该研究论证指出，由于司法检察官在行使调查职权时绝不会消费涉案企业的产品，因此检方唯一可能受到影响的，便只有弥漫在企业周围的‘光环效应’。",
+        "structureType": "主从复合句（that引导的宾语从句 + since引导的原因状语从句 + 被动语态主句）",
+        "mainClause": "It argues that they could be influenced only by the halo effect.",
+        "modifiers": "that 引导 argues 的宾语从句；since prosecutors do not consume... 为原因状语从句插在从句主语前；as part of their investigations 为介词短语作方式/目的修饰；from consumer-bias 被剥离；they（指代 prosecutors）为从句主语；could be influenced 为被动语态谓语；only by the halo effect 为介词短语作状语。",
+        "corePattern": "argue that...（论证指出……）；since...（鉴于/由于……）；as part of investigations（作为调查的一部分）；be influenced by the halo effect（受光环效应的影响）。"
+      },
+      {
+        "sentenceIndex": 13,
+        "sentenceId": "P4-S1",
+        "english": "The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties.",
+        "chinese": "这项实证研究发现：在遭到FCPA起诉的涉案企业中，那些拥有最健全完善CSR项目的公司，往往能获得显著更为轻微宽大的司法处罚。",
+        "structureType": "主谓宾复合句 + that宾语从句 + 介词短语范围状语 + 介词短语定语",
+        "mainClause": "The study found that those tended to get more lenient penalties.",
+        "modifiers": "that 引导 found 的宾语从句；among prosecuted firms 为介词短语作范围状语；those 为从句主语；with the most comprehensive CSR programmes 为介词短语作 those 的后置定语；tended to get 为谓语动词短语；more lenient penalties 为宾语，其中 lenient 为核心考点词。",
+        "corePattern": "the study found that...（研究发现……）；prosecuted firms（遭到起诉的企业）；comprehensive programmes（全面系统的项目计划）；lenient penalties（宽大从轻的处罚）。"
+      },
+      {
+        "sentenceIndex": 14,
+        "sentenceId": "P4-S2",
+        "english": "Their analysis ruled out the possibility that it was firms' political influence, rather than their CSR stand, that accounted for the leniency: Companies that contributed more to political campaigns did not receive lower fines.",
+        "chinese": "研究者的量化分析彻底排除了是企业的‘政治影响力’而非‘CSR良好立场’促成量刑从宽的可能性：实证数据表明，那些向政治竞选活动捐献更多献金的公司，并未因此获得更低的罚金。",
+        "structureType": "主谓宾复合句 + that引导的同位语从句 + 强调句型（it was... that...） + 冒号解释句（带that定语从句）",
+        "mainClause": "Their analysis ruled out the possibility...",
+        "modifiers": "ruled out 意为‘排除了’；the possibility 为宾语；that it was... 为同位语从句解释说明 possibility 的内容；从句采用 it was A, rather than B, that... 强调句型；accounted for 为从句谓语，the leniency 为宾语；冒号后 Companies that contributed more... 为独立补充说明句，that contributed more to political campaigns 为定语从句修饰 Companies。",
+        "corePattern": "rule out the possibility that...（排除……的可能性）；it is A rather than B that...（正是A而不是B……）；account for（解释……的原因/促成）；political campaigns（政治竞选活动）。"
+      },
+      {
+        "sentenceIndex": 15,
+        "sentenceId": "P5-S1",
+        "english": "In all, the study concludes that whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company's record in CSR.",
+        "chinese": "总而言之，研究得出的核心结论是：尽管从法理上讲检察官应当仅仅依据案件本身的案情事实（merits）做出公正评估，但他们实际上确实显著受到了涉案公司既往CSR履约记录的潜移默化影响。",
+        "structureType": "主谓宾复合句 + that宾语从句 + whereas引导的让步/对比从句 + 强调动词do",
+        "mainClause": "In all, the study concludes that they do seem to be influenced by a company's record in CSR.",
+        "modifiers": "In all 为总结副词短语；that 引导 concludes 的宾语从句；whereas 引导对比让步状语从句；based on its merits 为过去分词短语作状语修饰 evaluate a case；从句主句中 do 为助动词表示强力强调，seem to be influenced 为系表谓语短语，by a company's record in CSR 为介词短语作施动者。",
+        "corePattern": "conclude that...（得出结论认为……）；whereas...（然而/尽管……）；evaluate a case based on its merits（依据案件本身的是非曲直/事实依据做出裁决）；do seem to be influenced（确实显著受到影响）。"
+      },
+      {
+        "sentenceIndex": 18,
+        "sentenceId": "P6-S2",
+        "english": "Nor does it reveal how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies.",
+        "chinese": "这项研究也未能揭示企业在制定行善政策时，究竟有多大程度上是在指望依赖光环效应，而非谋求其他潜在的商业回报。",
+        "structureType": "否定副词Nor置于句首的部分倒装句 + how much引导的宾语从句 + when时间状语从句",
+        "mainClause": "Nor does it reveal how much companies are banking on the halo effect...",
+        "modifiers": "Nor 置于句首，助动词 does 提前引起部分倒装；how much companies are banking on... 为 reveal 的宾语从句；bank on 意为‘依赖/指望’；rather than the other possible benefits 为排除对比介词短语；when they decide their do-gooding policies 为时间状语从句修饰 are banking on。",
+        "corePattern": "Nor does it...（它也未能……）；bank on sth.（依赖/指望某事）；rather than（而不是）；do-gooding policies（行善/履责政策）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2016.js",
+    "year": 2016,
+    "articleKey": "ky-en1-2016-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+  }
+}

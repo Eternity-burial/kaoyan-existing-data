@@ -1,0 +1,586 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "The author expressed great surprise at some scientists'",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "unwillingness to cut carbon emissions.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】这些科学家正是过于激进地渴望减少碳排放，甚至不惜因此自断手臂削减科研。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "intention to reduce their research.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 开篇第一句明确点题：'I was shocked to learn recently that some scientists want to scale back their research in an effort to decrease carbon emissions'（我最近震惊地获悉，某些科学家为了降低碳排放居然想缩减削减自身的科学研究）。shocked（感到震惊）与 expressed great surprise 完全同义；want to scale back their research 与 intention to reduce their research（缩减其科研工作的意图）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "suspicions about sustainable energy.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及对可持续能源怀有怀疑态度。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "waste of electricity in their projects.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】科研用电是探索世界的必要投入，非盲目浪费电能（waste of electricity）。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "情感态度题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "I was shocked to learn scientists want to scale back their research = expressed great surprise at intention to reduce their research。",
+      "methodSummary": "首句题眼提取：shocked 对应 expressed great surprise，scale back research 转换为 reduce research。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author expressed great surprise at some scientists'"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The author believes that carbon emissions from research",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "have caused grave consequences.",
+        "isCorrect": false,
+        "distractorType": "褒贬颠倒",
+        "analysis": "【干扰特征: 贬义偏差】作者强调科研碳排带来了长远拯救地球的巨大红利，绝非造成严重恶果。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "have aroused groundless worries.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 概念偏差】高能耗是客观事实，作者并非批评担忧毫无根据，而是论证这笔投入从长远看完全物有所值。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "are hard to handle at present.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偏离主线】文章后文展示了芬兰超算等成熟解决途径，非当前难以处理。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "are justifiable in the long run.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S1 和 P3-S2 明确阐述作者的核心论断：'this is a price we must pay for understanding the world... The carbon emissions from technological research are well spent: ultimately this research will safeguard the future of our planet'（这是我们认知世界必须付出的代价，科技研发的碳排放完全物有所值，终将拯救守护地球未来）。well spent / price we must pay / safeguard future 与 are justifiable in the long run（从长远来看是完全正当合理的）完全同义对应。D选项精准吻合。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "price we must pay + well spent + safeguard future of planet = are justifiable in the long run。",
+      "methodSummary": "核心观点提炼：price must pay / well spent 抽象概括为 justifiable in the long run。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author believes",
+        "carbon emissions from research"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "The example of Green in Paragraph 5 is used to illustrate",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the achievements of great scientists.",
+        "isCorrect": false,
+        "distractorType": "以偏概全人物成就",
+        "analysis": "【干扰特征: 局限于个人】举例的宏观论证目的是证明‘科学探索投入能够带来巨大的环境与减排丰硕回报’，非单纯颂扬个人功绩。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the urgency of addressing climate change.",
+        "isCorrect": false,
+        "distractorType": "偷换论点",
+        "analysis": "【干扰特征: 偏离论点】案例展示的是科研成果带来的解决胜算与红利，非强调应对危机的紧迫性。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the rewards of scientific endeavours.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P4-S2 提出论点'demonstrating the efficacy of science will be crucial if we are to solve humanity's greatest challenges'（证明科学的巨大效力对于解决人类挑战至关重要）；P5-S1 和 P5-S2 举出千禧年科技奖得主格林教授发明 PERC 太阳能电池大幅降低全球碳排的实证。引用该案例正是为了生动论证：坚定的科学探索努力必将给全人类带来极其丰硕的伟大回报与减排红利（the rewards of scientific endeavours）。C选项完全精准对应论点。",
+        "refSentences": [
+          "P4-S2",
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the value of fostering human ingenuity.",
+        "isCorrect": false,
+        "distractorType": "次要修饰细节",
+        "analysis": "【干扰特征: 次要背景】celebration of human ingenuity 是千禧年科技奖的仪式修饰语，案例核心落在格林发明带来的实质减排回报上。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P4-S2",
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Green invented PERC solar cells which gives real chance to decrease world emissions = the rewards of scientific endeavours（科学探索的丰硕回报）。",
+      "methodSummary": "例证题前段论点锁定：demonstrating efficacy of science 结合太阳能减排巨大成果，提炼为 the rewards of scientific endeavours。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "example of Green in Paragraph 5",
+        "used to illustrate"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "It can be learned from the last two paragraphs that LUMI",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "is a model of sustainability efforts.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P6-S2 明确阐明 LUMI 的标杆地位：'A great example of this is Europe's largest supercomputer, LUMI in Finland, which is astonishingly carbon negative... powered by river, heat warms town'（其绝佳典范便是芬兰超算 LUMI，实现了负碳排放，水力驱动，余热供暖）；P7-S1 进一步呼吁'deliver sustainable computing and deliver more LUMIs'（实现可持续计算并打造更多 LUMI）。A选项 is a model of sustainability efforts（是可持续发展努力的杰出典范/标杆）与 A great example... sustainable computing 完全同义对应。",
+        "refSentences": [
+          "P6-S2",
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "is a triumph against energy shortage.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】LUMI 解决的是算力的高能耗与碳排放污染问题，非战胜能源短缺危机。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "owes much to global net-zero initiatives.",
+        "isCorrect": false,
+        "distractorType": "因果倒置",
+        "analysis": "【干扰特征: 因果颠倒】是全球净零目标需要依赖复制 LUMI 这样的可持续超算，非 LUMI 归功于全球倡议。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "aims to explore the power of intelligence.",
+        "isCorrect": false,
+        "distractorType": "字面望文生义",
+        "analysis": "【干扰特征: 字面拼凑】power our intelligence 是 P6-S1 的哲学修辞，LUMI 的核心事实特征在于其绿色负碳排的运作模式。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P6-S2",
+      "P7-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "LUMI is great example of carbon negative computing + deliver sustainable computing and more LUMIs = is a model of sustainability efforts。",
+      "methodSummary": "标杆典范事实对应：great example of sustainable computing 转换为 model of sustainability efforts。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "learned from the last two paragraphs",
+        "LUMI"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Which of the following statements would the author agree with?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Emission-free modelling demands extra funding.",
+        "isCorrect": false,
+        "distractorType": "无中生有资金",
+        "analysis": "【干扰特征: 概念偏差】未提及零排放建模需要额外资金支持。",
+        "refSentences": [
+          "P1-S2",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The need for supercomputers is difficult to meet.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】文章强调的是要用清洁能源实现超算的可持续化（sustainable computing），非超算需求难以满足。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Energy-intensive research work is inevitable.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文核心论点高度概括】全文开篇作者严词驳斥削减高能耗科研建模的荒谬意图（P1），并在 P2-S1 明确指出科研工具消耗巨大能量是客观必然的（'It is unarguable that our laboratories, instruments, rockets... demand significant energy'——这是无可辩驳的必然事实）；并在 P3-S1 盖棺定论'this is a price we must pay for understanding the world'（这是我们认知世界必须付出的代价）。C选项 Energy-intensive research work is inevitable（高能耗的科学研究工作在客观上是不可避免的）是对作者贯穿全篇核心科学立场的精准提炼。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1",
+          "P3-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The goals of researchers ought to be realistic.",
+        "isCorrect": false,
+        "distractorType": "空泛泛指",
+        "analysis": "【干扰特征: 过于宽泛】文章鼓励科研人员放眼长远抱负拯救地球，非空泛劝诫务实。",
+        "refSentences": [
+          "P3-S2",
+          "P7-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点推断题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1",
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "instruments demand significant energy is unarguable + price we must pay to understand world = Energy-intensive research work is inevitable。",
+      "methodSummary": "全文核心立场归纳：抓准 unarguable demand energy 与 price must pay 对应的 inevitable。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author agree with"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  }
+]

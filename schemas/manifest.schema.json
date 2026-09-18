@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KaoyanExistingManifestRecord",
+  "type": "object",
+  "required": [
+    "sourceFile",
+    "sourceLayer",
+    "year",
+    "status",
+    "contentHash",
+    "recordsProduced"
+  ],
+  "properties": {
+    "sourceFile": { "type": "string" },
+    "sourceLayer": { "type": "string", "enum": ["production", "rebuilt"] },
+    "year": { "type": "integer" },
+    "status": { "type": "string", "enum": ["parsed", "failed"] },
+    "contentHash": { "type": "string" },
+    "recordsProduced": {
+      "type": "object",
+      "required": ["articles", "sentences", "vocabulary", "phrases", "questions"],
+      "properties": {
+        "articles": { "type": "integer" },
+        "sentences": { "type": "integer" },
+        "vocabulary": { "type": "integer" },
+        "phrases": { "type": "integer" },
+        "questions": { "type": "integer" }
+      }
+    }
+  }
+}

@@ -1,0 +1,1344 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "toxic",
+    "word": "toxic",
+    "ipa": "/ˈtɒksɪk/",
+    "pos": "adj.",
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "有毒的；不良的（次贷有毒资产）",
+    "examMeaning": "有毒的；极有害的",
+    "collocationOrDerivation": "toxic assets / toxicity n.",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "capitulation",
+    "word": "capitulation",
+    "ipa": "/kəˌpɪtʃuˈleɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "投降，屈服",
+    "examMeaning": "有条件的投降；屈从",
+    "collocationOrDerivation": "capitulation to political forces / capitulate v.",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "bruising",
+    "word": "bruising",
+    "ipa": "/ˈbruːzɪŋ/",
+    "pos": "adj.",
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "激烈的，伤痕累累的",
+    "examMeaning": "十分激烈的；使人受挫的",
+    "collocationOrDerivation": "bruising encounter / bruise n./v.",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "illiquid",
+    "word": "illiquid",
+    "ipa": "/ɪˈlɪkwɪd/",
+    "pos": "adj.",
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "缺乏流动性的，变现困难的",
+    "examMeaning": "无流动资金的；难变现的",
+    "collocationOrDerivation": "illiquid assets / liquidity n.",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "reckoning",
+    "word": "reckoning",
+    "ipa": "/ˈrekənɪŋ/",
+    "pos": "n.",
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "清算，算账",
+    "examMeaning": "算账；估计；清算之日",
+    "collocationOrDerivation": "day of reckoning / reckon v.",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "fudge",
+    "word": "fudge",
+    "ipa": "/fʌdʒ/",
+    "pos": "v./n.",
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "歪曲，含糊篡改，搪塞",
+    "examMeaning": "含糊其辞；欺骗；篡改",
+    "collocationOrDerivation": "fudge the rules",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "prolong",
+    "word": "prolong",
+    "ipa": "/prəˈlɒŋ/",
+    "pos": "v.",
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "延长，拖延",
+    "examMeaning": "拉长；使延续",
+    "collocationOrDerivation": "prolong the crisis / prolonged adj.",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "sympathy",
+    "word": "sympathy",
+    "ipa": "/ˈsɪmpəθi/",
+    "pos": "n.",
+    "sourceLocation": "Q40",
+    "contextMeaning": "同情，怜悯；赞同",
+    "examMeaning": "同情；支持",
+    "collocationOrDerivation": "feel sympathy for / sympathetic adj.",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "complained",
+    "word": "complained",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-Stem",
+    "contextMeaning": "抱怨",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "they",
+    "word": "they",
+    "ipa": "[ðeɪ]",
+    "pos": "",
+    "sourceLocation": "Q36-Stem",
+    "contextMeaning": "被迫",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "asset",
+    "word": "asset",
+    "ipa": "[ˈæset]",
+    "pos": "",
+    "sourceLocation": "Q36-A",
+    "contextMeaning": "资产",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "payments",
+    "word": "payments",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-B",
+    "contextMeaning": "款",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "cooperate",
+    "word": "cooperate",
+    "ipa": "[kəʊˈɒpəreɪt]",
+    "pos": "",
+    "sourceLocation": "Q36-C",
+    "contextMeaning": "合作",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "assets",
+    "word": "assets",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q36-D",
+    "contextMeaning": "资产",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "According",
+    "word": "According",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q37-Stem",
+    "contextMeaning": "根据",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "author",
+    "word": "author",
+    "ipa": "[ˈɔːθə(r)]",
+    "pos": "",
+    "sourceLocation": "Q37-Stem",
+    "contextMeaning": "作者",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "result",
+    "word": "result",
+    "ipa": "[rɪˈzʌlt]",
+    "pos": "",
+    "sourceLocation": "Q37-Stem",
+    "contextMeaning": "导致",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "management",
+    "word": "management",
+    "ipa": "[ˈmænɪdʒmənt]",
+    "pos": "",
+    "sourceLocation": "Q37-A",
+    "contextMeaning": "管理层",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "asset",
+    "word": "asset",
+    "ipa": "[ˈæset]",
+    "pos": "",
+    "sourceLocation": "Q37-C",
+    "contextMeaning": "资产",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "independence",
+    "word": "independence",
+    "ipa": "[ˌɪndɪˈpendəns]",
+    "pos": "",
+    "sourceLocation": "Q37-D",
+    "contextMeaning": "独立性",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "According",
+    "word": "According",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q38-Stem",
+    "contextMeaning": "根据",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "Paragraph",
+    "word": "Paragraph",
+    "ipa": "[ˈpærəɡrɑːf]",
+    "pos": "",
+    "sourceLocation": "Q38-Stem",
+    "contextMeaning": "段",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "objects",
+    "word": "objects",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q38-Stem",
+    "contextMeaning": "反对",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "attempt",
+    "word": "attempt",
+    "ipa": "[əˈtempt]",
+    "pos": "",
+    "sourceLocation": "Q38-Stem",
+    "contextMeaning": "意图",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "keep",
+    "word": "keep",
+    "ipa": "[kiːp]",
+    "pos": "",
+    "sourceLocation": "Q38-A",
+    "contextMeaning": "远离",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "influences",
+    "word": "influences",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q38-A",
+    "contextMeaning": "影响",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-A 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "evade",
+    "word": "evade",
+    "ipa": "[ɪˈveɪd]",
+    "pos": "",
+    "sourceLocation": "Q38-B",
+    "contextMeaning": "逃避",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-B 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "pressure",
+    "word": "pressure",
+    "ipa": "[ˈpreʃə(r)]",
+    "pos": "",
+    "sourceLocation": "Q38-B",
+    "contextMeaning": "压力",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "peers",
+    "word": "peers",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q38-B",
+    "contextMeaning": "同行",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "their",
+    "word": "their",
+    "ipa": "[ðeə(r)]",
+    "pos": "",
+    "sourceLocation": "Q38-C",
+    "contextMeaning": "依靠自己",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "gradual",
+    "word": "gradual",
+    "ipa": "[ˈɡrædʒuəl]",
+    "pos": "",
+    "sourceLocation": "Q38-D",
+    "contextMeaning": "渐进式的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "reform",
+    "word": "reform",
+    "ipa": "[rɪˈfɔːm]",
+    "pos": "",
+    "sourceLocation": "Q38-D",
+    "contextMeaning": "改革",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q38-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "author",
+    "word": "author",
+    "ipa": "[ˈɔːθə(r)]",
+    "pos": "",
+    "sourceLocation": "Q39-Stem",
+    "contextMeaning": "作者",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "on",
+    "word": "on",
+    "ipa": "[ɒn]",
+    "pos": "",
+    "sourceLocation": "Q39-Stem",
+    "contextMeaning": "脱离实际",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "planet",
+    "word": "planet",
+    "ipa": "[ˈplænɪt]",
+    "pos": "",
+    "sourceLocation": "Q39-Stem",
+    "contextMeaning": "因为",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "exaggerated",
+    "word": "exaggerated",
+    "ipa": "[ɪɡˈzædʒəreɪtɪd]",
+    "pos": "",
+    "sourceLocation": "Q39-B",
+    "contextMeaning": "夸大",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-B 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "assets",
+    "word": "assets",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q39-B",
+    "contextMeaning": "资产",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-B 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "neglected",
+    "word": "neglected",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q39-C",
+    "contextMeaning": "忽视",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "existence",
+    "word": "existence",
+    "ipa": "[ɪɡˈzɪstəns]",
+    "pos": "",
+    "sourceLocation": "Q39-C",
+    "contextMeaning": "存在",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "debts",
+    "word": "debts",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q39-C",
+    "contextMeaning": "账",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-C 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "denied",
+    "word": "denied",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q39-D",
+    "contextMeaning": "否认",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "assets",
+    "word": "assets",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q39-D",
+    "contextMeaning": "资产",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "author's",
+    "word": "author's",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q40-Stem",
+    "contextMeaning": "作者",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "attitude",
+    "word": "attitude",
+    "ipa": "[ˈætɪtjuːd]",
+    "pos": "",
+    "sourceLocation": "Q40-Stem",
+    "contextMeaning": "态度",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-Stem 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "sympathy",
+    "word": "sympathy",
+    "ipa": "[ˈsɪmpəθi]",
+    "pos": "",
+    "sourceLocation": "Q40-D",
+    "contextMeaning": "同情",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-D 选项/题干考点",
+    "frequencyRating": "★★",
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green",
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "unfavorable",
+    "word": "unfavorable",
+    "ipa": "[ʌnˈfeɪvərəb(ə)l]",
+    "pos": "",
+    "sourceLocation": "Q36-A",
+    "contextMeaning": "不利的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q36-A 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "diminishing",
+    "word": "diminishing",
+    "ipa": "[dɪˈmɪnɪʃɪŋ]",
+    "pos": "",
+    "sourceLocation": "Q37-A",
+    "contextMeaning": "逐渐削弱的",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q37-A 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "misinterpreted",
+    "word": "misinterpreted",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q39-A",
+    "contextMeaning": "误解",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-A 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "booking",
+    "word": "booking",
+    "ipa": "",
+    "pos": "",
+    "sourceLocation": "Q39-D",
+    "contextMeaning": "账面",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q39-D 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "surface": "objectiveness",
+    "word": "objectiveness",
+    "ipa": "[əbdˈʒektɪvnəs]",
+    "pos": "",
+    "sourceLocation": "Q40-C",
+    "contextMeaning": "客观",
+    "examMeaning": "",
+    "collocationOrDerivation": "Q40-C 选项/题干考点",
+    "frequencyRating": "★★★",
+    "isSelfAnnotated": true,
+    "rawFields": {
+      "level": "red",
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  }
+]

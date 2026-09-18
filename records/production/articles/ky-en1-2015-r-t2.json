@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2015-r-t2",
+  "year": 2015,
+  "textNumber": 2,
+  "title": "Smartphone Privacy and the Fourth Amendment in the Digital Era",
+  "chineseTitle": "数字时代的智能手机隐私权与宪法第四修正案适用之争",
+  "topic": null,
+  "topicDomain": "宪政法律与数字隐私",
+  "subTopic": "加州政府主张警方无证搜查手机 vs 最高法院法官与作者主张对宪法保护进行创新诠释以保护公民数字数据",
+  "overview": null,
+  "wordCount": 420,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.3/5.0",
+  "sourcePublication": "选自 The Washington Post (《华盛顿邮报》) 专栏社论《The Supreme Court should protect cellphones from warrantless searches》",
+  "paragraphCount": 7,
+  "sentenceCount": 21,
+  "vocabularyCount": 80,
+  "phraseCount": 20,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "本文探讨美国宪政史上的标志性判例——2014年美国联邦最高法院裁决的“赖利诉加利福尼亚州案”（Riley v. California）。根据美国宪法第四修正案（Fourth Amendment），公民享有免受政府“无理搜查与扣押（unreasonable searches and seizures）”的宪法权利，警方执法搜查通常必须出示法院签发的搜查令（warrant）。然而，传统判例确立了一项重要例外：“随身搜查原则（Search Incident to Arrest, SITA）”，即警察在逮捕嫌疑人时，有权无搜查令搜查其贴身物品（如钱包、烟盒、手提包），以保护警员安全并防止嫌犯销毁罪证。加利福尼亚州政府据此极力辩称：智能手机不过是嫌疑人的随身财物，翻看手机等同于翻查钱包，敦促最高法院不要打破旧判例。作者在社论中对加州的荒谬论调予以严厉批驳：一部现代智能手机是一个汇集个人阅读史、财务、病历和详细通信记录的“庞大数字信息库”，翻查手机绝非翻查钱包，其侵入性实质上等同于“闯入私宅”。随着21世纪数字信息与云计算的普及，最高法院绝不能“鲁莽自谦”，而必须像20世纪面对汽车普及确立新规那样，对宪法第四修正案进行与时俱进的创新诠释，给公权力划定严密的技术与法律边界。",
+      "coreDisputeOrTheme": "核心争论在于现代智能手机中的海量敏感数字数据是否应继续适用针对物理实物（如钱包）的传统“逮捕随身无证搜查”例外。加州主张沿用旧例、不予限制；作者与法学专家坚决主张颠覆性新技术要求对宪法保护进行重新诠释，无搜查令不得任意侵入公民数字隐私。",
+      "keyTerminology": [
+        {
+          "term": "Fourth Amendment",
+          "explanation": "美国宪法第四修正案：确立公民人身、住宅、文件和财产免受政府无理搜查与扣押的宪法基石。"
+        },
+        {
+          "term": "Warrant",
+          "explanation": "搜查令/拘票：法官根据执法机关提供的合理依据（probable cause）签发、明确限定搜查范围的正当法律授权书。"
+        },
+        {
+          "term": "Search Incident to Arrest (SITA)",
+          "explanation": "逮捕附随搜查原则：普通法系判例确立的例外，允许警察在实施逮捕时无需搜查令即刻搜查嫌疑人身体及随身物品。"
+        },
+        {
+          "term": "Riley v. California",
+          "explanation": "赖利诉加州案：2014年美国联邦最高法院全体大法官一致裁定警方搜查被捕者智能手机必须事先获取搜查令的历史性判决。"
+        },
+        {
+          "term": "Line-drawing",
+          "explanation": "司法划线/界限划定：司法裁判在保障执法效率与捍卫公民基本宪法权利之间划定清晰边界的法理裁量。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "宪法权利、刑事诉讼与数字法学 (Constitutional Rights, Criminal Procedure & Cyber Law)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "dis- (否定/除去前缀)",
+          "examples": [
+            "discard (弃置/抛弃)",
+            "disruptive (颠覆性的)",
+            "discernable (可辨识的)"
+          ]
+        },
+        {
+          "affix": "in- / un- (否定前缀)",
+          "examples": [
+            "invalidate (使作废/使无效)",
+            "unreasonable (无理的/不合理的)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "司法审判与宪政原则",
+          "words": [
+            "Constitution",
+            "Supreme Court",
+            "justices",
+            "ruling",
+            "Fourth Amendment",
+            "prohibition"
+          ]
+        },
+        {
+          "theme": "警务执法与程序规则",
+          "words": [
+            "arrest",
+            "warrant",
+            "suspect",
+            "arrestee",
+            "guidelines",
+            "line-drawing"
+          ]
+        },
+        {
+          "theme": "数据隐私与颠覆性技术",
+          "words": [
+            "digital data",
+            "smartphone",
+            "storehouse",
+            "cloud computing",
+            "accessibility",
+            "novel applications"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2015.js",
+    "year": 2015,
+    "articleKey": "ky-en1-2015-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+  }
+}

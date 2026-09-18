@@ -1,0 +1,782 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "A great deal of attention is being paid today to the so-called digital divide—the division of the world into the info (information) rich and the info poor.",
+    "translation": "如今，人们对所谓的数字鸿沟给予了极大的关注——将世界划分为信息富国和信息贫国。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "And that divide does exist today.",
+    "translation": "这种鸿沟今天确实存在。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "My wife and I lectured about this looming danger twenty years ago.",
+    "translation": "二十年前，我和妻子就曾就这种迫在眉睫的危险进行过演讲。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "What was less visible then, however, were the new, positive forces that work against the digital divide.",
+    "translation": "然而，当时不太明显的是消除数字鸿沟的新的积极力量。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "There are reasons to be optimistic.",
+    "translation": "我们有理由保持乐观。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "There are technological reasons to hope the digital divide will narrow.",
+    "translation": "有技术原因希望数字鸿沟能够缩小。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "As the Internet becomes more and more commercialized, it is in the interest of business to universalize access—after all, the more people online, the more potential customers there are.",
+    "translation": "随着互联网变得越来越商业化，普及接入符合企业的利益——毕竟，上网的人越多，潜在客户就越多。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 8,
+      "ps": "P1-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P1-S8",
+      "pIndex": 1
+    },
+    "text": "More and more governments, afraid their countries will be left behind, want to spread Internet access.",
+    "translation": "越来越多的政府担心自己的国家会落后，希望普及互联网接入。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Within the next decade or two, one to two billion people on the planet will be netted together.",
+    "translation": "在未来的一两年内，地球上的一到二十亿人将被聚集在一起。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "As a result, I now believe the digital divide will narrow rather than widen in the years ahead.",
+    "translation": "因此，我现在相信数字鸿沟在未来几年将会缩小而不是扩大。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we've ever had.",
+    "translation": "这是一个非常好的消息，因为互联网很可能是我们有史以来消除世界贫困的最有力工具。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Of course, the use of the Internet isn't the only way to defeat poverty.",
+    "translation": "当然，使用互联网并不是消除贫困的唯一方法。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "And the Internet is not the only tool we have.",
+    "translation": "互联网并不是我们拥有的唯一工具。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "But it has enormous potential. To take advantage of this tool, some impoverished countries will have to get over their outdated anti-colonial prejudices with respect to foreign investment.",
+    "translation": "但它具有巨大的潜力。为了利用这一工具，一些贫困国家必须克服对外国投资过时的反殖民偏见。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure (the basic structural foundations of a society) in the United States.",
+    "translation": "仍然认为外国投资是对其主权的侵犯的国家不妨研究一下美国基础设施（社会的基本结构基础）的历史。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 8,
+      "ps": "P2-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P2-S8",
+      "pIndex": 2
+    },
+    "text": "When the United States built its industrial infrastructure, it didn't have the capital to do so.",
+    "translation": "当美国建设工业基础设施时，它没有资金这样做。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "And that is why America's Second Wave infrastructure—including roads, harbors, highways, ports and so on—were built with foreign investment.",
+    "translation": "这就是为什么美国的第二波基础设施——包括道路、港口、高速公路、港口等——都是由外国投资建造的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The English, the Germans, the Dutch and the French were investing in Britain's former colony.",
+    "translation": "英国人、德国人、荷兰人和法国人都在英国的前殖民地投资。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "They financed them.",
+    "translation": "他们资助了他们。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Immigrant Americans built them.",
+    "translation": "美国移民建造了它们。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Guess who owns them now?",
+    "translation": "猜猜现在谁拥有它们？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "The Americans.",
+    "translation": "美国人。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "I believe the same thing would be true in places like Brazil or anywhere else for that matter.",
+    "translation": "我相信在巴西或其他任何地方也会发生同样的情况。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you're going to be.",
+    "translation": "你拥有越多的外国资本来帮助你建设你的第三次浪潮基础设施（今天是电子基础设施），你的生活就会越好。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 9,
+      "ps": "P3-S9"
+    },
+    "sourceLocator": {
+      "sIndex": 9,
+      "id": "P3-S9",
+      "pIndex": 3
+    },
+    "text": "That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled.",
+    "translation": "这并不意味着袖手旁观、被愚弄，或者让外国公司不受控制地运营。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2001-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 10,
+      "ps": "P3-S10"
+    },
+    "sourceLocator": {
+      "sIndex": 10,
+      "id": "P3-S10",
+      "pIndex": 3
+    },
+    "text": "But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet.",
+    "translation": "但这确实意味着认识到它们在建设充分利用互联网所需的能源和电信基础设施方面的重要性。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2001.js",
+      "year": 2001,
+      "articleKey": "ky-en1-2001-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5a2c1911d69a28b8b824d35c5138024b9b11ad53f32aa3c4864cafb447a302fd"
+    }
+  }
+]

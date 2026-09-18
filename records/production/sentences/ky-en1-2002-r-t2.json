@@ -1,0 +1,452 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, burdensome, or just plain nasty.",
+    "translation": "自从人类的聪明才智诞生以来，人们发明了越来越狡猾的工具来应对危险、无聊、繁重或纯粹令人讨厌的工作。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "That compulsion has resulted in robotics—the science of conferring various human capabilities on machines.",
+    "translation": "这种冲动催生了机器人技术——将人类的各种能力赋予机器的科学。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.",
+    "translation": "如果科学家们还没有创造出科幻小说的机械版本，那么他们已经开始接近了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "As a result, the modern world is increasingly populated by intelligent gizmos whose presence we barely notice but whose universal existence has removed much human labor.",
+    "translation": "结果，现代世界中越来越多的智能小玩意儿出现，我们几乎没有注意到它们的存在，但它们的普遍存在却消除了许多人类劳动。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Our factories hum to the rhythm of robot assembly arms.",
+    "translation": "我们的工厂随着机器人装配臂的节奏而嗡嗡作响。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction.",
+    "translation": "我们的银行业务是在自动柜员机上完成的，自动柜员机会以机械礼貌的方式感谢我们的交易。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Our subway trains are controlled by tireless robot-drivers.",
+    "translation": "我们的地铁列车由不知疲倦的机器人司机控制。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "And thanks to the continual miniaturization of electronics and micro-mechanics, there are already robot systems that can perform some kinds of brain and bone surgery with submillimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.",
+    "translation": "由于电子和微机械的不断小型化，已经有机器人系统可以以亚毫米精度执行某些类型的大脑和骨骼手术，其精度远远高于技术精湛的医生仅靠双手所能达到的精度。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "But if robots are to reach the next stage of laborsaving utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves—goals that pose a real challenge.",
+    "translation": "但如果机器人要达到节省劳动力的下一阶段，它们将必须在更少的人类监督下运行，并且能够至少自己做出一些决定——这些目标构成了真正的挑战。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "\"While we know how to tell a robot to handle a specific error,\" says Dave Lavery, manager of a robotics program at NASA, \"we can't yet give a robot enough 'common sense' to reliably interact with a dynamic world.\" Indeed the quest for true artificial intelligence has produced very mixed results.",
+    "translation": "NASA 机器人项目经理 Dave Lavery 表示：“虽然我们知道如何告诉机器人处理特定错误，但我们还无法赋予机器人足够的‘常识’来与动态世界可靠地交互。”事实上，对真正人工智能的追求已经产生了非常复杂的结果。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Despite a spell of initial optimism in the 1960s and 1970s when it appeared that transistor circuits and microprocessors might be able to copy the action of the human brain by the year 2010, researchers lately have begun to extend that forecast by decades if not centuries.",
+    "translation": "尽管在 20 世纪 60 年代和 1970 年代，晶体管电路和微处理器可能能够在 2010 年复制人脑的行为，人们对此抱有最初的乐观态度，但研究人员最近开始将这一预测延长了数十年甚至数百年。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined.",
+    "translation": "他们在尝试建立思维模型时发现，人类大脑的大约 1000 亿个神经细胞比以前想象的要聪明得多，人类的感知也复杂得多。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "They have built robots that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment.",
+    "translation": "他们制造的机器人可以在受控的工厂环境中识别机器面板的零点几毫米的误差。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "But the human mind can glimpse a rapidly changing scene and immediately disregard the 98 percent that is irrelevant, instantaneously focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd.",
+    "translation": "但人类的大脑可以瞥见快速变化的场景，并立即忽略98％的无关紧要的内容，立即将注意力集中在蜿蜒的林道旁的猴子或人群中的一张可疑的面孔上。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2002-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "The most advanced computer systems on Earth can't approach that kind of ability, and neuroscientists still don't know quite how we do it.",
+    "translation": "地球上最先进的计算机系统无法达到这种能力，神经科学家仍然不知道我们是如何做到这一点的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2002.js",
+      "year": 2002,
+      "articleKey": "ky-en1-2002-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+    }
+  }
+]

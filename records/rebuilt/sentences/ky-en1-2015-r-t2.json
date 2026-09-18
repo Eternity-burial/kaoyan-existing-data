@@ -1,0 +1,527 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Just how much does the Constitution protect your digital data?",
+    "translation": "宪法究竟能在多大程度上保护你的数字数据？",
+    "syntaxAnalysis": "特殊疑问句。Just how much 为程度疑问短语作状语；助动词 does 提前；主语 the Constitution，谓语 protect，宾语 your digital data。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest.",
+    "translation": "美国联邦最高法院即将审理：在实施逮捕过程中，如果手机在嫌疑人身上或其身旁，警察是否可以在未获得搜查令的情况下搜查手机内的内容。",
+    "syntaxAnalysis": "主从复合句。主句主干 The Supreme Court will now consider whether...；whether 引导宾语从句；从句中 without a warrant 为方式状语，if the phone is on or around a person during an arrest 为条件状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest.",
+    "translation": "加利福尼亚州政府已敦促大法官们避免做出一刀切的全面裁决，尤其是不要推翻“执法当局在逮捕嫌疑人时有权搜查其随身物品”这一旧有司法推定。",
+    "syntaxAnalysis": "复合句。主句 California has asked the justices to refrain from a sweeping ruling；particularly one... 为同位语修饰 a sweeping ruling；that upsets... 为定语从句；that authorities may search... 为同位语从句解释 the old assumption；at the time of their arrest 为时间状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "It is hard, the state argues, for judges to assess the implications of new and rapidly changing technologies.",
+    "translation": "加州政府辩称，法官们难以准确评估瞬息万变的新技术所带来的深远影响。",
+    "syntaxAnalysis": "复合句。the state argues 为插入语；主句为形式主语结构：It 为形式主语，is hard 为系表结构，for judges to assess the implications of new and rapidly changing technologies 为真正的主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "The court would be recklessly modest if it followed California's advice.",
+    "translation": "最高法院如果采纳加州的建议，那将是一种极不负责任、鲁莽愚蠢的谦逊与退缩。",
+    "syntaxAnalysis": "虚拟语气条件句。主句 The court would be recklessly modest；if it followed California's advice 为虚拟条件从句（与当下事实相反，谓语用过去式）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "Enough of the implications are discernable, even obvious, so that the justices can and should provide updated guidelines to police, lawyers and defendants.",
+    "translation": "其实已有足够多的影响是清晰可辨、甚至是显而易见的，因此大法官们完全能够且理应向警方、律师和被告人提供与时俱进的最新司法指导方针。",
+    "syntaxAnalysis": "结果状语复合句。主句 Enough of the implications are discernable, even obvious；so that 引导结果状语从句：the justices can and should provide updated guidelines to police, lawyers and defendants。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "They should start by discarding California's lame argument that exploring the contents of a smartphone — a vast storehouse of digital information — is similar to, say, going through a suspect's purse.",
+    "translation": "法官们首先应当彻底摒弃加州政府站不住脚的荒谬论调——即认为翻查智能手机（一个庞大的数字信息库）的内容，类似于翻检嫌疑人的钱包皮夹。",
+    "syntaxAnalysis": "复合句。主干 They should start by discarding California's lame argument...；that 引导同位语从句解释 argument；破折号中 a vast storehouse of digital information 为同位语解释 smartphone；say 为插入语（‘比如/好比说’）；going through a suspect's purse 为动名词短语作介词 to 的宾语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "The court has ruled that police don't violate the Fourth Amendment when they go through the wallet or pocketbook of an arrestee without a warrant.",
+    "translation": "最高法院此前曾裁定，警察在未持搜查令的情况下翻查被捕者的钱包或手提包，并不违反宪法第四修正案。",
+    "syntaxAnalysis": "主从复合句。主句 The court has ruled that...；that 引导宾语从句；when they go through the wallet or pocketbook of an arrestee without a warrant 为时间状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "But exploring one's smartphone is more like entering his or her home.",
+    "translation": "然而，翻查一个人的智能手机，实际上更等同于闯入他或她的私有住宅。",
+    "syntaxAnalysis": "转折简单句。动名词短语 exploring one's smartphone 为主语；系动词 is，表语 more like entering his or her home。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "A smartphone may contain an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence.",
+    "translation": "一部智能手机可能囊括了被捕者的阅读浏览记录、财务账目历史、医疗病历档案以及近期所有通信往来的详尽记录。",
+    "syntaxAnalysis": "简单句。主语 A smartphone，谓语 may contain，并列宾语由 reading history, financial history, medical history and comprehensive records of recent correspondence 组成。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "The development of \"cloud computing\", meanwhile, has made that exploration so much the easier.",
+    "translation": "与此同时，“云计算”技术的发展更是让此类个人数据搜查变得极其轻而易举。",
+    "syntaxAnalysis": "复合句。主语 The development of \"cloud computing\"；meanwhile 为副词插入语；谓语 has made；宾语 that exploration；宾语补足语 so much the easier。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "Americans should take steps to protect their digital privacy.",
+    "translation": "美国公民确实应当主动采取措施保护自身的数字隐私。",
+    "syntaxAnalysis": "简单句。主干 Americans should take steps to protect their digital privacy。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "But keeping sensitive information on these devices is increasingly a requirement of normal life.",
+    "translation": "但在这些智能设备上存储敏感私密信息，正日益成为维持现代正常生活不可或缺的刚性需求。",
+    "syntaxAnalysis": "转折简单句。动名词短语 keeping sensitive information on these devices 作主语；系动词 is；表语 increasingly a requirement of normal life。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "Citizens still have a right to expect private documents to remain private and protected by the Constitution's prohibition on unreasonable searches.",
+    "translation": "公民依然拥有一项神圣权利——即期盼个人的私密文件能够保持隐秘，并受到宪法关于禁止无理搜查条款的严格庇护。",
+    "syntaxAnalysis": "复杂简单句。主语 Citizens，谓语 have，宾语 a right；不定式短语 to expect private documents to remain private and protected by... 作定语修饰 a right；remain 为系动词，后接并列表语 private 和 protected by...。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "As so often is the case, stating that principle doesn't ease the challenge of line-drawing.",
+    "translation": "正如诸多情况一样，仅仅重申上述宪政原则并不能化解司法实践中明确划定边界的棘手挑战。",
+    "syntaxAnalysis": "复合句。As so often is the case 为非限制性定语从句作状语（‘情况往往如此’）；主语为动名词短语 stating that principle；谓语 doesn't ease；宾语 the challenge of line-drawing。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "In many cases, it would not be overly burdensome for authorities to obtain a warrant to search through phone contents.",
+    "translation": "在绝大多数案件中，执法当局申领一份搜查手机内容的搜查令，根本谈不上会带来过重的办案负担。",
+    "syntaxAnalysis": "形式主语复合句。In many cases 为状语；it 为形式主语，系表结构 would not be overly burdensome；for authorities to obtain a warrant to search through phone contents 为真正的主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant.",
+    "translation": "在面临严重、紧急的突发危急情形时，警方依然可以暂停适用第四修正案的保护；而且在等候搜查令签发期间，他们完全可以采取合理防范措施确保手机数据不被远程抹除或篡改。",
+    "syntaxAnalysis": "并列复合句。第一个分句：They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances（when facing... 为分词短语作时间状语）；and 连接第二个分句：they could take reasonable measures to ensure that...（that 引导宾语从句，从句内含 while waiting for a warrant 时间状语）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "The court, though, may want to allow room for police to cite situations where they are entitled to more freedom.",
+    "translation": "不过，最高法院或许仍希望留出一定弹性裁量空间，允许警方援引那些赋予其更多执法自由的特殊情形。",
+    "syntaxAnalysis": "复合句。though 为副词插入语；主语 The court，谓语 may want to allow room for police to cite situations...；where 引导定语从句修饰 situations。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "But the justices should not swallow California's argument whole.",
+    "translation": "然而，大法官们绝不应当对加州政府的论点全盘盲从接纳。",
+    "syntaxAnalysis": "简单句。主语 the justices，谓语 should not swallow，宾语 California's argument，状语 whole（全盘/完整地）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 20
+    },
+    "text": "New, disruptive technology sometimes demands novel applications of the Constitution's protections.",
+    "translation": "崭新且具颠覆性的前沿技术，有时必然要求对宪法的保护条例做出开创性的全新应用与诠释。",
+    "syntaxAnalysis": "简单句。主语 New, disruptive technology，谓语 demands，宾语 novel applications of the Constitution's protections。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t2",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 21
+    },
+    "text": "Orin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st century with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to specify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth Amendment applies to digital information now.",
+    "translation": "法学教授奥林·克尔将21世纪数字信息的爆炸性增长与极易获取性，与20世纪汽车被确立为实质上的生活必需品进行了深刻类比：当年，大法官们不得不为私家轿车这一崭新的个人隐私领域量身确立开创性规则；而今天，他们同样必须彻底厘清第四修正案应当如何切实适用于全新的数字信息时代。",
+    "syntaxAnalysis": "并列解释复合句。主句 Orin Kerr, a law professor, compares A with B；冒号后为并列句详细阐释该类比：第一个分句 The justices had to specify novel rules... then；分号连接第二个分句 they must sort out how the Fourth Amendment applies to digital information now（how 引导宾语从句）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t2.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1b413af2ec8eec23f5d6203e13d45c9c230041093debe907f032b5c3b12a2f17"
+    }
+  }
+]

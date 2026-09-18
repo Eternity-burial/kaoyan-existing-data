@@ -1,0 +1,502 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "King Juan Carlos of Spain once insisted \"kings don't abdicate, they die in their sleep.\"",
+    "translation": "西班牙国王胡安·卡洛斯曾坚称：“国王绝不退位，他们只会在睡梦中死去。”",
+    "syntaxAnalysis": "主从复合句。主干为 King Juan Carlos of Spain once insisted...；直接引语中由两个并列分句构成：\"kings don't abdicate, they die in their sleep\"。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down.",
+    "translation": "然而，令人难堪的丑闻以及在近期欧洲议会选举中左翼共和势力的崛起，迫使他收回前言、黯然退位。",
+    "syntaxAnalysis": "转折复合结构。并列主语 embarrassing scandals 和 the popularity of the republican left in the recent Euro-elections；谓语 have forced；宾语 him；动词不定式短语 to eat his words and stand down 作宾语补足语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "So, does the Spanish crisis suggest that monarchy is seeing its last days?",
+    "translation": "那么，这场西班牙危机是否意味着君主制正在走向穷途末路？",
+    "syntaxAnalysis": "一般疑问句。助动词 does 提前；主语 the Spanish crisis，谓语 suggest；that 引导宾语从句：monarchy is seeing its last days（其中 see its last days 意为‘走向日暮穷途’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Does that mean the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyles?",
+    "translation": "这是否意味着所有身着华丽制服、过着威严奢华生活的欧洲王室成员，都已大祸临头？",
+    "syntaxAnalysis": "疑问复合句。主语 that，谓语 mean；后接省略 that 的宾语从句 the writing is on the wall for all European royals（the writing is on the wall 为习惯用语，意为‘大祸临头/不祥之兆’）；介词短语 with their magnificent uniforms and majestic lifestyles 作伴随定语修饰 royals。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "The Spanish case provides arguments both for and against monarchy.",
+    "translation": "西班牙的案例为支持与反对君主制都提供了充分的论据。",
+    "syntaxAnalysis": "简单句。主语 The Spanish case，谓语 provides，宾语 arguments；介词短语 both for and against monarchy 作后置定语修饰 arguments。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above \"mere\" politics and \"embody\" a spirit of national unity.",
+    "translation": "当公众舆论极度两极分化时——正如当年佛朗哥独裁政权宣告终结后那样——君主能够超脱‘纯粹的’党派政治，成为国家团结精神的象征与化身。",
+    "syntaxAnalysis": "主从复合句。When 引导时间状语从句，从句中 as it was following the end of the Franco regime 为方式/非限制性定语从句插入语；主句主干为 monarchs can rise above \"mere\" politics and \"embody\" a spirit of national unity。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state.",
+    "translation": "正是这种在政治上显而易见的超脱性，解释了君主作为国家元首为何能够享有持久的拥戴。",
+    "syntaxAnalysis": "强调句型：It is + 被强调部分 (this apparent transcendence of politics) + that + 句子其余部分 (explains monarchs' continuing popularity as heads of state)。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "And so, the Middle East excepted, Europe is the most monarch-infested region in the world, with 10 kingdoms (not counting Vatican City and Andorra).",
+    "translation": "因此，除中东地区以外，欧洲是世界上君主政体最为密集泛滥的地区，拥有多达10个王国（尚不计梵蒂冈城国与安道尔公国）。",
+    "syntaxAnalysis": "简单句。the Middle East excepted 为独立主格结构作状语；主干 Europe is the most monarch-infested region in the world；with 10 kingdoms... 为伴随状语；括号内 not counting... 为现在分词作补充说明。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "But unlike their absolutist counterparts in the Gulf and Asia, most royal families have survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure.",
+    "translation": "但与海湾和亚洲地区的专制君主不同，欧洲绝大多数王室之所以得以幸存，是因为他们使选民免去了费力寻找一位无可置疑且备受尊重的公众人物的麻烦。",
+    "syntaxAnalysis": "对比复合句。unlike their absolutist counterparts in the Gulf and Asia 为介词短语作对比状语；主句主干 most royal families have survived；because 引导原因状语从句：they allow voters to avoid the difficult search for a non-controversial but respected public figure。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "Even so, kings and queens undoubtedly have a downside.",
+    "translation": "即便如此，国王与王后们也毫无疑问存在其不利的阴暗面。",
+    "syntaxAnalysis": "简单句。Even so 为状语；undoubtedly 为副词插入语；主干 kings and queens have a downside。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "Symbolic of national unity as they claim to be, their very history — and sometimes the way they behave today — embodies outdated and indefensible privileges and inequalities.",
+    "translation": "尽管他们自称是国家团结的象征，但他们自身的历史——乃至有时他们今时今日的行为举止——却体现了早已过时且站不住脚的特权与不平等。",
+    "syntaxAnalysis": "复合句。Symbolic of national unity as they claim to be 为 as 引导的让步倒装从句（表语前置）；主句主语 their very history — and sometimes the way they behave today —，谓语 embodies，宾语 outdated and indefensible privileges and inequalities。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states.",
+    "translation": "当托马斯·皮凯蒂等一众经济学家正在警告不平等日益加剧以及世袭财富权力不断膨胀之际，显赫富有的贵族世家竟然依然充当着现代民主国家的核心象征，这显得极其怪异与讽刺。",
+    "syntaxAnalysis": "主从复合句。At a time when... 为时间状语从句；主句为形式主语结构：it 为形式主语，is 为系动词，bizarre 为表语；that wealthy aristocratic families should still be the symbolic heart of modern democratic states 为真正的主语从句（其中 should 表惊讶，意为‘竟然/居然’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "The most successful monarchies strive to abandon or hide their old aristocratic ways.",
+    "translation": "最成功的君主政体无不极力摒弃或隐藏其昔日的旧式贵族作风。",
+    "syntaxAnalysis": "简单句。主语 The most successful monarchies，谓语 strive to abandon or hide，宾语 their old aristocratic ways。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "Princes and princesses have day-jobs and ride bicycles, not horses (or helicopters).",
+    "translation": "王子和公主们从事着普通的全职日常工作，骑自行车出行而非骑马（或搭乘直升机）。",
+    "syntaxAnalysis": "简单句。并列谓语结构：have day-jobs 和 ride bicycles, not horses (or helicopters)。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Even so, these are wealthy families who party with the international 1%, and media intrusiveness makes it increasingly difficult to maintain the right image.",
+    "translation": "即便如此，他们依然是与全球排名前1%的顶级富豪们饮宴社交的巨富家族，而媒体无孔不入的侵扰更使他们维持良好的公众形象变得日益艰难。",
+    "syntaxAnalysis": "并列复合句。第一个分句 these are wealthy families who party with...（who 引导定语从句）；and 连接第二个分句：media intrusiveness (主语) makes (谓语) it (形式宾语) increasingly difficult (宾补) to maintain the right image (真正宾语)。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "While Europe's monarchies will no doubt be smart enough to survive for some time to come, it is the British royals who have most to fear from the Spanish example.",
+    "translation": "尽管欧洲各国王室毫无疑问足够精明，能够在未来一段时期内继续偏安存续，但最该从西班牙的前车之鉴中感受到极度恐慌的，当属英国王室。",
+    "syntaxAnalysis": "主从复合句。While 引导让步状语从句（While Europe's monarchies will no doubt be smart enough to survive...）；主句为强调句型：it is the British royals who have most to fear from the Spanish example。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "It is only the Queen who has preserved the monarchy's reputation with her rather ordinary (if well-heeled) granny style.",
+    "translation": "唯有女王凭借其相当朴素（尽管身价不菲）的‘老奶奶’亲民风格，方才勉力维护住了英国君主制的公众声誉。",
+    "syntaxAnalysis": "强调句型：It is only the Queen who has preserved the monarchy's reputation...；with her rather ordinary (if well-heeled) granny style 作方式状语，括号内 if well-heeled 为让步插入语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "The danger will come with Charles, who has both an expensive taste of lifestyle and a pretty hierarchical view of the world.",
+    "translation": "真正的致命危机将随着查尔斯的继位而降临——他既崇尚穷奢极欲的生活方式，又秉持一套森严分明的阶层等级世界观。",
+    "syntaxAnalysis": "主从复合句。主句主干 The danger will come with Charles；who 引导非限制性定语从句修饰 Charles，从句谓语为 has both... and... 并列结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "He has failed to understand that monarchies have largely survived because they provide a service — as non-controversial and non-political heads of state.",
+    "translation": "他始终未能理解：君主政体之所以大体得以幸存，是因为他们提供了一项极其特殊的公共服务——充当毫无争议、超脱党争政治的国家元首。",
+    "syntaxAnalysis": "主从复合句。主句 He has failed to understand that...；that 引导宾语从句，从句中包含 because 引导的原因状语从句；破折号后 as non-controversial and non-political heads of state 作同位语解释 a service。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 4,
+      "ps": "P7-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 20
+    },
+    "text": "Charles ought to know that as English history shows, it is kings, not republicans, who are the monarchy's worst enemies.",
+    "translation": "查尔斯理应明白：正如漫长的英国历史所昭示的那样，恰恰是国王自己，而非共和党人，才是君主制最为致命的掘墓人与大敌。",
+    "syntaxAnalysis": "复合句。Charles ought to know that... 中 that 引导宾语从句；as English history shows 为方式插入语；从句内部为强调句：it is kings, not republicans, who are the monarchy's worst enemies（被强调部分为并列对照主语 kings, not republicans）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  }
+]

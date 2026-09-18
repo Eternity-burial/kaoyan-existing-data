@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KaoyanExistingSentenceRecord",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "source",
+    "articleKey",
+    "location",
+    "sourceLocator",
+    "text",
+    "provenance"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "kaoyan-existing-sentence-1.0"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["production", "rebuilt"]
+    },
+    "articleKey": {
+      "type": "string",
+      "pattern": "^ky-en1-\\d{4}-r-t\\d+$"
+    },
+    "location": {
+      "type": "object",
+      "required": ["paragraph", "sentence", "ps"],
+      "properties": {
+        "paragraph": { "type": "integer" },
+        "sentence": { "type": "integer" },
+        "ps": { "type": "string", "pattern": "^P\\d+-S\\d+$" }
+      }
+    },
+    "sourceLocator": {
+      "type": "object"
+    },
+    "text": {
+      "type": "string"
+    },
+    "translation": {
+      "type": ["string", "null"]
+    },
+    "syntaxAnalysis": {
+      "type": ["object", "string", "null"]
+    },
+    "rawFields": {
+      "type": "object"
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["sourceLayer", "sourceFile", "year", "articleKey", "extractedAt", "contentHash"]
+    }
+  }
+}

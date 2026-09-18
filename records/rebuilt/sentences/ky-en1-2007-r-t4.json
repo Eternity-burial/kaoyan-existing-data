@@ -1,0 +1,352 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "It never rains but it pours.",
+    "translation": "不雨则已，一雨倾盆（祸不单行）。",
+    "syntaxAnalysis": "谚语倒装/省略否定结构。It 为形式主语；rains 为谓语；but 相当于 except that 或 without，表示‘每次下雨都必定是倾盆大雨’，常考生动引语借以引出后文连锁危机的爆发。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them—especially in America—the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+    "translation": "正当企业老板和董事会好不容易理顺了最棘手的会计和合规麻烦、改善了原本薄弱的公司治理机制之际，一个新的问题却又气势汹汹地威胁要给他们——尤其是在美国——招来那种不可避免会导致高管层引咎辞职的糟糕头条丑闻：这就是数据不安全。",
+    "syntaxAnalysis": "主从复合长难句。Just as 引导时间对比状语从句，从句包含两个并列谓语结构 have finally sorted out... and improved...；主句主语为 a new problem，谓语为 threatens to earn，them 为间接宾语，especially in America 为插入语，the sort of nasty headlines 为直接宾语；that 引导定语从句修饰 headlines，从句谓语 lead to，宾语为 heads rolling in the executive suite；冒号后 data insecurity 为同位语解释 a new problem。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Left, until now, to odd, low-level IT staff to put right, and seen as a concern only of data-rich industries such as banking, telecoms and air travel, information protection is now high on the boss's agenda in businesses of every variety.",
+    "translation": "直到最近，信息保护还一直被甩给那些不起眼的底层IT员工去排查修补，并被视为仅仅是银行、电信和民航等数据密集型行业才需要关心的琐事；然而在今天，信息保护却已高高列入各行各业各类企业老板的议事日程之首。",
+    "syntaxAnalysis": "并列过去分词短语作状语 + 主谓宾复合结构。句首 Left... to... 和 seen as... 为两个并列的过去分词短语作让步状语；主句主语为 information protection；系动词 is；表语结构 high on the boss's agenda；in businesses of every variety 为范围状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Several massive leakages of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+    "translation": "今年爆发的数起大规模客户与员工数据泄露事件——涉及的机构涵盖从时代华纳、美国国防承包商科学应用国际公司，甚至到加利福尼亚大学伯克利分校等形形色色的组织——令管理者们不得不匆忙审视自身错综复杂的IT系统与业务流程，排查潜在的脆弱漏洞。",
+    "syntaxAnalysis": "主谓宾补复合长难句。主句主语为 Several massive leakages of customer and employee data；破折号之间 from organizations as diverse as... 为举例插入语；have left 为现在完成时谓语；managers 为宾语；hurriedly peering into... 为现在分词短语作宾语补足语；in search of potential vulnerabilities 为介词短语作目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "\"Data is becoming an asset which needs to be guarded as much as any other asset,\" says Haim Mendelson of Stanford University's Graduate School of Business.",
+    "translation": "斯坦福大学商学院的海姆·门德尔松表示：“数据正在成为一种资产，需要像守护其他任何资产一样加以严密保护。”",
+    "syntaxAnalysis": "引语主从复合句。引号内为直接引语：主干 Data is becoming an asset；which 引导定语从句修饰 asset，从句包含 as much as any other asset 的比较状语结构；引号后 says 为谓语，Haim Mendelson 为主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"The ability to protect customer data is the key to market value, which the board is responsible for on behalf of shareholders.\"",
+    "translation": "“保护客户数据的能力是决定公司市场价值的关键，而董事会正是代表广大股东对公司的市场价值承担受托责任的。”",
+    "syntaxAnalysis": "主从复合句。主句主语为 The ability to protect customer data（不定式作定语修饰 ability）；is 为系动词；the key to market value 为表语；which 引导非限制性定语从句修饰 market value，从句谓语 is responsible for，on behalf of shareholders 为介词状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York's Columbia Business School.",
+    "translation": "纽约哥伦比亚大学商学院的埃利·诺姆更是建议道：确实，正如存在‘公认会计原则’（GAAP）一样，或许现在已经是确立‘公认安全实践’（GASP）的时候了。",
+    "syntaxAnalysis": "类比复合句 + 倒装引述句。just as 引导方式/类比从句 there is the concept of...；主句 it is time for GASP...；suggested 为谓语，Eli Noam 为主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "\"Setting the proper norms has become a management issue,\" agrees Mr Mendelson.",
+    "translation": "门德尔松先生对此表示赞同：“树立妥善的信息安全规范已经演变成一个事关全局的管理问题。”",
+    "syntaxAnalysis": "动名词作主语简单引语。Setting the proper norms 为动名词短语作主语；has become 为谓语；a management issue 为表语；agrees Mr Mendelson 为倒装引述谓语与主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The mystery is that this should come as a surprise to any boss.",
+    "translation": "令人百思不得其解的是，这件事情竟然会让任何一位企业老板感到意外吃惊。",
+    "syntaxAnalysis": "主系表复合句。The mystery 作主语；is 为系动词；that 引导表语从句，从句中 should 表示竟然/居然的情感色彩，come as a surprise to sb 为固定搭配。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore—and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands.",
+    "translation": "显而易见，即便是最愚钝的企业高管也理当心知肚明：信任，作为最具经济价值的核心资产，极易遭到摧毁，而恢复起来却代价连城——而且，没有什么比一家公司任由敏感个人数据落入不法之徒手中更容易摧毁这种信任的了。",
+    "syntaxAnalysis": "形式主语长难句。it 为形式主语；should be obvious to the dimmest executive 为系表结构；that 引导两个并列的真正主语从句：从句1中 that most valuable of economic assets 为同位语修饰 trust，谓语为 is easily destroyed and hugely expensive to restore；and 连接主语从句2：that few things are more likely to destroy trust than...（否定词 few 构成的比较级表示最高级含义）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The current state of affairs may have been encouraged—though not justified—by the lack of legal penalty (in America, but not Europe) for data leakage.",
+    "translation": "数据泄露在美国（而非欧洲）缺乏法律惩戒机制，这一现状或许助长了当前的恶劣事态——尽管这并不能成为企业推卸责任的正当借口。",
+    "syntaxAnalysis": "被动语态简单句 + 破折号让步插入语。The current state of affairs 为主语；may have been encouraged 为情态动词完成时被动谓语；though not justified 为让步状语插入语；by the lack of legal penalty 为行为主体状语；括号内 in America, but not Europe 为对比状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Until California recently passed a law, American firms did not have to tell anyone, even the victim, when data went astray.",
+    "translation": "在加利福尼亚州最近通过一项法律之前，美国企业在数据发生遗失外泄时，甚至根本无需通知任何人，连受害客户本人也不例外。",
+    "syntaxAnalysis": "主从复合句。Until California recently passed a law 为时间状语从句；American firms 为主语；did not have to tell 为谓语；anyone 为间接宾语，even the victim 为同位语加强语气；when data went astray 为时间状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "That may change fast: lots of proposed data-security legislation is now doing the rounds in Washington, D.C.",
+    "translation": "这种局面可能会迅速发生改变：大量拟议中的数据安全立法目前正在华盛顿特区国会山紧锣密鼓地展开审议游说。",
+    "syntaxAnalysis": "冒号解释并列句。前半句 That may change fast 为主干；冒号后解释原因，lots of proposed data-security legislation 作主语，is now doing the rounds 为谓语习语（意为‘流传/展开一轮轮游说与审议’），in Washington, D.C. 为地点状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2007-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision a day earlier by America's Federal Trade Commission (FTC) that puts corporate America on notice that regulators will act if firms fail to provide adequate data security.",
+    "translation": "与此同时，6月17日披露的高达4000万个美国信用卡账户信息失窃丑闻，使得前一天美国联邦贸易委员会（FTC）做出的一项极其重要的决定相形见绌——该决定正式向全美企业发出严厉通告：一旦公司未能提供充分的数据安全保障，监管机构将铁腕采取惩罚行动。",
+    "syntaxAnalysis": "多重主从复合长难句。Meanwhile 为时间副词；the theft of information... 为主句主语，disclosed on June 17th 为过去分词短语作后置定语；overshadowed 为主句谓语；a hugely important decision... 为宾语；that puts corporate America on notice 为定语从句修饰 decision；put sb on notice that... 结构后接宾语从句 that regulators will act；if firms fail to provide adequate data security 为条件状语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2007_t4.json",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:a043656c617fefce6a824a048e81d039a10890cbee5b00fef1c3a83dadcd4723"
+    }
+  }
+]

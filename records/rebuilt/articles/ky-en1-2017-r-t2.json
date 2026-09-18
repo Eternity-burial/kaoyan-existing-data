@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2017-r-t2",
+  "year": 2017,
+  "textNumber": 2,
+  "title": "The Thirty Meter Telescope on Mauna Kea and Hawaiian Culture",
+  "chineseTitle": "夏威夷莫纳克亚山三十米望远镜（TMT）与本土文化冲突",
+  "topic": "科技与文化冲突 / 莫纳克亚山天文观测基地、原住民圣地信仰与主权创伤反思",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文探讨了在夏威夷莫纳克亚山建造世界顶尖的“三十米望远镜”（TMT）所引发的激烈冲突。天文学家看重该地无可比拟的地理与气象优势，但部分夏威夷原住民将这座休眠火山视为神圣的连接天地之脐（piko），望远镜的建造唤醒了他们被强占主权的沉痛历史记忆。作者指出天文学界未能妥善尊重当地生态与文化，但在深层精神上，现代天文探索与夏威夷古老文明对于“我们从何而来、将向何处去”的追问是相通的。文章赞许天文学界拆除旧望远镜、削减数量并缩小影响的妥协善意，期待双方走向和解。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 21,
+  "vocabularyCount": 0,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 4,
+        "sentenceId": "P1-S4",
+        "english": "Protests have erupted over construction of the Thirty Meter Telescope (TMT), a giant observatory that promises to revolutionize humanity's view of the cosmos.",
+        "chinese": "当地已经爆发了抗议活动，反对建造三十米望远镜（TMT）——一个可能会彻底改变人类对宇宙认识和看法的巨型天文台。",
+        "structureType": "主谓结构+介词短语+同位语从句与定语从句",
+        "mainClause": "Protests have erupted over construction of the Thirty Meter Telescope (TMT)...",
+        "modifiers": "over construction... 作原因状语；a giant observatory 为 TMT 的同位语；that promises to revolutionize humanity's view of the cosmos 为定语从句修饰 observatory。",
+        "corePattern": "protests erupt over sth.（围绕……爆发抗议）；promise to do sth.（有望做某事）。"
+      },
+      {
+        "sentenceIndex": 5,
+        "sentenceId": "P2-S1",
+        "english": "At issue is the TMT's planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens.",
+        "chinese": "争论的焦点是TMT规划的选址就在莫纳克亚山上——这是一座休眠火山，被一些夏威夷人尊奉为“脐带”，连接着夏威夷群岛与天空。",
+        "structureType": "完全倒装句+同位语+过去分词后置定语+定语从句",
+        "mainClause": "The TMT's planned location on Mauna Kea is at issue.（完全倒装）",
+        "modifiers": "At issue 置于句首引起倒装；a dormant volcano 为 Mauna Kea 的同位语；worshiped by some Hawaiians as the piko 为过去分词短语作后置定语；that connects the Hawaiian Islands to the heavens 为定语从句修饰 piko。",
+        "corePattern": "At issue is sth.（争议的焦点在于……）；connect A to B（将A连接到B）。"
+      },
+      {
+        "sentenceIndex": 7,
+        "sentenceId": "P2-S3",
+        "english": "Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity.",
+        "chinese": "莫纳克亚山坐落于太平洋，其顶峰高耸于地球大部分稠密的大气层之上，那里的条件使得望远镜能够获得无与伦比的清晰图像。",
+        "structureType": "过去分词状语+非限制性定语从句复合句",
+        "mainClause": "Mauna Kea's peak rises above the bulk of our planet's dense atmosphere...",
+        "modifiers": "Rested in the Pacific Ocean 作地点状语；above the bulk of... 作介词状语；where 引导非限制性定语从句修饰 peak/atmosphere；allow sth. to do 为宾语补足语结构。",
+        "corePattern": "rise above（高耸于……之上）；unsurpassed clarity（无与伦比的清晰度）。"
+      },
+      {
+        "sentenceIndex": 9,
+        "sentenceId": "P3-S2",
+        "english": "A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation.",
+        "chinese": "一个由夏威夷人和环境保护主义者组成的人数不多、但却敢于直言的群体，一直以来都把它们的存在视为对圣地的亵渎以及对曾经的主权国家被占领的痛苦回忆。",
+        "structureType": "主谓宾补复合句（含介词宾语从句）",
+        "mainClause": "A small but vocal group... have long viewed their presence as disrespect... and a painful reminder...",
+        "modifiers": "A small but vocal group... 作主语；have long viewed 为谓语；their presence 为宾语；as 引导并列补足语；what was once a sovereign nation 作 of 的宾语从句。",
+        "corePattern": "view A as B（将A视作B）；a reminder of sth.（对……的提醒）。"
+      },
+      {
+        "sentenceIndex": 11,
+        "sentenceId": "P4-S2",
+        "english": "In their eagerness to build bigger telescopes, they forgot that science is not the only way of understanding the world.",
+        "chinese": "他们渴望建造更大的望远镜，然而他们却忘记了科学并不是了解世界的唯一方式。",
+        "structureType": "介词状语+宾语从句复合句",
+        "mainClause": "they forgot that science is not the only way of understanding the world.",
+        "modifiers": "In their eagerness to build bigger telescopes 作原因/心理状态状语；that 引导宾语从句；of understanding the world 作定语修饰 way。",
+        "corePattern": "in one's eagerness to do（急于做某事）；the only way of doing（做某事的唯一方式）。"
+      },
+      {
+        "sentenceIndex": 16,
+        "sentenceId": "P5-S3",
+        "english": "Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going.",
+        "chinese": "拆除莫纳克亚山上所有望远镜或者禁止在那里进一步开发的呼吁忽视了这一现实，就是天文学和夏威夷文化都试图回答几个重大的问题：我们是谁，从何而来以及要去往何处。",
+        "structureType": "并列不定式定语主语+同位语从句+并列疑问从句",
+        "mainClause": "Calls... ignore the reality that astronomy and Hawaiian culture both seek to answer big questions...",
+        "modifiers": "to disassemble... or to ban... 为并列不定式短语修饰 Calls；that 引导同位语从句修饰 reality；who we are, where we come from and where we are going 为三个并列从句作 about 的宾语。",
+        "corePattern": "seek to do sth.（试图/寻求做某事）；ignore the reality that...（忽视了……的现实）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+    "year": 2017,
+    "articleKey": "ky-en1-2017-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+  }
+}

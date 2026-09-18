@@ -1,0 +1,808 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "worthwhile",
+    "word": "worthwhile",
+    "ipa": "/ˌwɜːθˈwaɪl/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "有价值的，值得做的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "assess",
+    "word": "assess",
+    "ipa": "/əˈses/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "评估，考量",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "timely",
+    "word": "timely",
+    "ipa": "/ˈtaɪmli/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "及时的，适时的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "as a result",
+    "word": "as a result",
+    "ipa": "/əz ə rɪˈzʌlt/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "因此，结果",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "annoyed",
+    "word": "annoyed",
+    "ipa": "/əˈnɔɪd/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "使困扰，使烦恼",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "flawed",
+    "word": "flawed",
+    "ipa": "/flɔːd/",
+    "pos": null,
+    "sourceLocation": "P2-S2",
+    "contextMeaning": "有缺陷的，不完善的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "envy",
+    "word": "envy",
+    "ipa": "/ˈenvi/",
+    "pos": null,
+    "sourceLocation": "P2-S3",
+    "contextMeaning": "羡慕的对象，令人艳羡",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "prospects",
+    "word": "prospects",
+    "ipa": "/ˈprɒspekts/",
+    "pos": null,
+    "sourceLocation": "P2-S4",
+    "contextMeaning": "前景，发展前景",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "vote for",
+    "word": "vote for",
+    "ipa": "/vəʊt fɔː/",
+    "pos": null,
+    "sourceLocation": "P2-S4",
+    "contextMeaning": "投票赞成，投票支持",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "convert",
+    "word": "convert",
+    "ipa": "/kənˈvɜːt/",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "转化，转变",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "well-being",
+    "word": "well-being",
+    "ipa": "/ˈwel biːɪŋ/",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "福祉，幸福感，生活安康",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "translated",
+    "word": "translated",
+    "ipa": "/trænzˈleɪtɪd/",
+    "pos": null,
+    "sourceLocation": "P3-S2",
+    "contextMeaning": "转化，转变为（实际效益）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "criteria",
+    "word": "criteria",
+    "ipa": "/kraɪˈtɪəriə/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "评估标准，评价准则",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "engagement",
+    "word": "engagement",
+    "ipa": "/ɪnˈɡeɪdʒmənt/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "参与，投入",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "rounded",
+    "word": "rounded",
+    "ipa": "/ˈraʊndɪd/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "全面的，综合完整的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "rather than",
+    "word": "rather than",
+    "ipa": "/ˈrɑːðə ðæn/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "而不是，并非仅",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "civil society",
+    "word": "civil society",
+    "ipa": "/ˈsɪv(ə)l səˈsaɪəti/",
+    "pos": null,
+    "sourceLocation": "P3-S3",
+    "contextMeaning": "公民社会",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "budding",
+    "word": "budding",
+    "ipa": "/ˈbʌdɪŋ/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "萌芽的，初露头角的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "decline",
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "衰退，下滑",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "crash",
+    "word": "crash",
+    "ipa": "/kræʃ/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "（经济）崩溃，金融危机",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "indicators",
+    "word": "indicators",
+    "ipa": "/ˈɪndɪkeɪtəz/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "指标，衡量标准",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "sole",
+    "word": "sole",
+    "ipa": "/səʊl/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "唯一的，仅有的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "economic activity",
+    "word": "economic activity",
+    "ipa": "/ˌiːkəˈnɒmɪk ækˈtɪvəti/",
+    "pos": null,
+    "sourceLocation": "P6-S1",
+    "contextMeaning": "经济活动，经济活力",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "outcomes",
+    "word": "outcomes",
+    "ipa": "/ˈaʊtkʌmz/",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "成果，成效，产出",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "contribute to",
+    "word": "contribute to",
+    "ipa": "/kənˈtrɪbjuːt tuː/",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "促成，有助于，构成……的部分",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "everyday services",
+    "word": "everyday services",
+    "ipa": "/ˈevrideɪ ˈsɜːvɪsɪz/",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "日常公共服务（医疗/公交/市政等）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "lead to",
+    "word": "lead to",
+    "ipa": "/liːd tuː/",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "导致，造成",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "depend on",
+    "word": "depend on",
+    "ipa": "/dɪˈpend ɒn/",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "依赖，依靠",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "refocus",
+    "word": "refocus",
+    "ipa": "/ˌriːˈfəʊkəs/",
+    "pos": null,
+    "sourceLocation": "P7-S2",
+    "contextMeaning": "重新聚焦，调整重心",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "doom",
+    "word": "doom",
+    "ipa": "/duːm/",
+    "pos": null,
+    "sourceLocation": "P7-S2",
+    "contextMeaning": "毁灭，灾难，厄运",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t3",
+    "surface": "forecasted",
+    "word": "forecasted",
+    "ipa": "/ˈfɔːkɑːstɪd/",
+    "pos": null,
+    "sourceLocation": "P7-S2",
+    "contextMeaning": "预期的，被预测的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  }
+]

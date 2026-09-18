@@ -1,0 +1,427 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The journal Science is adding an extra round of statistical checks to its peer-review process, editor-in-chief Marcia McNutt announced today.",
+    "translation": "《科学》杂志总编辑玛西娅·麦克纳特今日宣布，该期刊将在其常规同行评审流程中增加一轮额外的统计学专项审查。",
+    "syntaxAnalysis": "主从复合句。主干为 editor-in-chief Marcia McNutt announced today；直接引语或宾语从句为 The journal Science is adding an extra round of statistical checks to its peer-review process。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "The policy follows similar efforts from other journals, after widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings.",
+    "translation": "在学界普遍忧虑数据分析中的基础性低级错误正导致大批已发表科研成果无法复制之后，该政策效仿了其他期刊所采取的类似举措。",
+    "syntaxAnalysis": "复合句。主干 The policy follows similar efforts from other journals；after 引导时间状语短语，其后 concern 跟有 that 引导的同位语从句：that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "\"Readers must have confidence in the conclusions published in our journal,\" writes McNutt in an editorial.",
+    "translation": "麦克纳特在一篇社论中写道：“读者必须对发表在我们杂志上的科研结论抱有充分的信心。”",
+    "syntaxAnalysis": "简单句。直接引语作宾语；writes McNutt in an editorial 为引述句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Working with the American Statistical Association, the journal has appointed seven experts to a statistics board of reviewing editors (SBoRE).",
+    "translation": "通过与美国统计协会携手合作，《科学》杂志已任命了七位资深专家，组建了“统计审查编辑委员会”（简称SBoRE）。",
+    "syntaxAnalysis": "简单句。Working with the American Statistical Association 为现在分词短语作伴随状语；主干 the journal has appointed seven experts to a statistics board of reviewing editors (SBoRE)。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers.",
+    "translation": "投递的论文稿件如果被该刊的内部编辑、既有的审稿编辑委员会或外部同行评议人标出存在疑点，将接受额外的严密审查。",
+    "syntaxAnalysis": "被动语态复合结构。主语 Manuscripts；谓语 will be flagged up；for additional scrutiny 为目的状语；by 后连接三个并列的施动者主体。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "The SBoRE panel will then find external statisticians to review these manuscripts.",
+    "translation": "随后，SBoRE专家小组物色外部专业统计学家来专门复核审阅这些问题论文稿件。",
+    "syntaxAnalysis": "简单句。主语 The SBoRE panel；时间副词 then；谓语 will find；宾语 external statisticians；动词不定式 to review these manuscripts 作后置定语/宾补。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "Asked whether any particular papers had impelled the change, McNutt said: \"The creation of the 'statistics board' was motivated by concerns broadly with the application of statistics and data analysis in scientific research and is part of Science's overall drive to increase reproducibility in the research we publish.\"",
+    "translation": "在被问及是否是由某些特定论文触发了这项政策变革时，麦克纳特回应道：“设立‘统计委员会’是源于学界对统计学与数据分析在科研中广泛应用的深切关切，这也是《科学》杂志为提升所发表论文研究可重复性而做出的全面努力的一部分。”",
+    "syntaxAnalysis": "复合句。Asked whether any particular papers had impelled the change 为过去分词短语作状语（含 whether 引导的宾语从句）；主句 McNutt said... 后接长引用从句，从句内部由 and 连接两个并列谓语结构 was motivated by... 和 is part of...。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "Giovanni Parmigiani, a biostatistician at the Harvard School of Public Health, a member of the SBoRE group, says he expects the board to \"play primarily an advisory role.\"",
+    "translation": "哈佛大学公共卫生学院生物统计学家、SBoRE专家组成员乔瓦尼·帕玛强尼表示，他期望该委员会“主要发挥顾问咨询作用”。",
+    "syntaxAnalysis": "复合句。主语 Giovanni Parmigiani 后跟两个并列同位语；谓语 says，后接省略 that 的宾语从句 he expects the board to \"play primarily an advisory role\"。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "He agreed to join because he \"found the foresight behind the establishment of the SBoRE to be novel, unique and likely to have a lasting impact.",
+    "translation": "他之所以欣然同意加入，是因为他“认为组建SBoRE背后的远见卓识极具开创性与独特性，并且极有可能产生持久深远的影响。",
+    "syntaxAnalysis": "复合句。主句 He agreed to join；because 引导原因状语从句；从句中 found the foresight... to be... 为复合宾语结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "This impact will not only be through the publications in Science itself, but hopefully through a larger group of publishing places that may want to model their approach after Science.\"",
+    "translation": "这种影响不仅将体现在《科学》杂志自身的出版物上，而且更有望波及更多希望效仿《科学》做法的其他学术出版机构。”",
+    "syntaxAnalysis": "并列复合句。主干 This impact will not only be through..., but hopefully through... 并列介词短语；that may want to model their approach after Science 为定语从句修饰 a larger group of publishing places。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "John Ioannidis, a physician who studies research methodology at Stanford University in California, says that the policy is \"a most welcome step forward\" and \"long overdue.\"",
+    "translation": "在加州斯坦福大学专攻研究方法论的医学学者约翰·约安尼季斯表示，这项政策是“迈出的极受欢迎的一步”，而且“早就该出台了”。",
+    "syntaxAnalysis": "主从复合句。主语 John Ioannidis，who 引导定语从句修饰 a physician；谓语 says；that 引导宾语从句，从句表语由并列形容词短语组成。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "\"Most journals are weak in statistical review, and this damages the quality of what they publish.",
+    "translation": "“绝大多数学术期刊在统计学审查方面都极其薄弱，而这直接损害了它们所刊发学术论文的质量。",
+    "syntaxAnalysis": "并列复合句。第一个分句 Most journals are weak in statistical review；and 连接第二个分句 this damages the quality of what they publish（what 引导宾语从句）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "I think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review,\" he says.",
+    "translation": "我认为，对于当今的绝大多数科学论文而言，统计审查甚至比传统的专家同行评审更为不可或缺。”他说道。",
+    "syntaxAnalysis": "复合句。主句 I think that...；that 从句中 for the majority of scientific papers nowadays 为状语；从句主干 statistical review is more essential than expert review。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "But he noted that biomedical journals such as Annals of Internal Medicine, the Journal of the American Medical Association and The Lancet pay strong attention to statistical review.",
+    "translation": "不过他也指出，诸如《内科学年鉴》、《美国医学会杂志》和《柳叶刀》等顶级生物医学期刊一直对统计审查高度重视。",
+    "syntaxAnalysis": "主从复合句。主干 he noted that...；that 引导宾语从句，从句主语 biomedical journals 后接 such as 引导的三份期刊作为例证；谓语 pay strong attention to statistical review。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Professional scientists are expected to know how to analyze data, but statistical errors are alarmingly common in published research, according to David Vaux, a cell biologist.",
+    "translation": "细胞生物学家大卫·沃克斯指出，专业科研工作者理应懂得如何规范分析数据，然而在已经发表的学术研究成果中，统计学错误之普遍达到了令人触目惊心的地步。",
+    "syntaxAnalysis": "并列复合句。第一个分句 Professional scientists are expected to know how to analyze data；but 连接第二个分句 statistical errors are alarmingly common in published research；according to... 作状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "Researchers should improve their standards, he wrote in 2012, but journals should also take a tougher line, \"engaging reviewers who are statistically literate and editors who can verify the process\".",
+    "translation": "他在2012年撰文指出，科研人员应当提升自身专业准则，但学术期刊同样理应采取更加强硬严厉的举措，“引入精通统计学的审稿人以及能够对统计流程进行专业核实的编辑”。",
+    "syntaxAnalysis": "复合句。Researchers should improve their standards 和 but journals should also take a tougher line 构成转折并列；engaging... 为现在分词短语作伴随状语，其后包含两个由 who 引导的定语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2015-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "Vaux says that Science's idea to pass some papers to statisticians \"has some merit, but a weakness is that it relies on the board of reviewing editors to identify 'the papers that need scrutiny' in the first place\".",
+    "translation": "沃克斯认为，《科学》杂志将部分论文交由统计学家把关的做法“确实有其可取之处，但一个潜在缺陷在于，它过分依赖审稿编委会首先准确识别出‘哪些论文需要细审’”。",
+    "syntaxAnalysis": "主从复合句。主句 Vaux says that...；that 从句中主干为 Science's idea... has some merit, but a weakness is that...；that 引导表语从句，从句中又包含 that need scrutiny 定语从句修饰 the papers。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2015.js",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+    }
+  }
+]

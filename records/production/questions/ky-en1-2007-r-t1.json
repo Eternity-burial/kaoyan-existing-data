@@ -1,0 +1,885 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "The birthday phenomenon found among soccer players is mentioned to",
+    "stemTranslation": "文中提到在足球运动员中发现的生日现象，其目的是为了______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "stress the importance of professional training.",
+        "translation": "强调专业训练的重要性。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】文章强调的是科学系统的‘刻意练习’（deliberate practice），而非泛泛的一般性‘职业培训’（professional training）。",
+        "vocab": [
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "强调",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "professional",
+            "ipa": "[prəˈfeʃənl]",
+            "meaning": "专业的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "spotlight the soccer superstars in the World Cup.",
+        "translation": "聚焦突出世界杯中的足球超级巨星。",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "distractorDisplayName": "原词陷阱/就事论事",
+        "analysis": "【原词陷阱/就事论事】例证题最经典的浅层干扰项。世界杯球星（soccer superstars）只是文章开头用来引人入胜的切入案例（hook），例子的目的是为了论证后面的篇章中心，而不是为了介绍案例本身。",
+        "vocab": [
+          {
+            "word": "spotlight",
+            "ipa": "[ˈspɒtlaɪt]",
+            "meaning": "突出",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "introduce the topic of what makes expert performance.",
+        "translation": "引出“是什么造就了卓越表现”这一核心论题。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】例证题核心法则：例子本身不重要，关键看例子所服务的篇章中心论点。第1段列举足球运动员生日怪象，第2段推翻伪假设，第3至5段通过埃里克森的研究引申出全文核心：究竟是什么造就了专家级卓越表现（expert performance）。",
+        "vocab": [
+          {
+            "word": "topic",
+            "ipa": "[ˈtɒpɪk]",
+            "meaning": "话题",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "expert",
+            "ipa": "[ˈekspɜːt]",
+            "meaning": "出色的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "performance",
+            "ipa": "[pəˈfɔːməns]",
+            "meaning": "表现",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "explain why some soccer teams play better than others.",
+        "translation": "解释为什么某些足球队比其他球队踢得更好。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】文章研究的是个体卓越技能习得的认知心理机制，从未对比不同足球队之间的团队胜负战术原因。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "EXEMPLIFICATION",
+    "type": "例证题",
+    "targetSentences": [
+      "P1-S1",
+      "P5-S3",
+      "P5-S4"
+    ],
+    "verbatimEvidence": "P1-S1: 'elite soccer players are more likely to have been born in the earlier months...' -> P5-S3: 'the trait we commonly call talent is highly overrated.' -> P5-S4: 'expert performers... are nearly always made, not born.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P5-S1: studying expert performers in a wide range of pursuits... P5-S4: expert performers... are nearly always made, not born.",
+        "optionQuote": "C: introduce the topic of what makes expert performance.",
+        "semanticEquivalence": "expert performers are made ↔ what makes expert performance"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "例证题黄金法则：识别例证标记（mentioned to / in order to），坚决排除就事论事谈论例子细节本身的干扰项（如选项B、D），垂直检索寻找例子所服务的宏观论点句（Topic Sentence）。",
+      "trapPattern": "就事论事陷阱（拿例子中的原型词汇设计选项，诱使考生因记忆留存而误选）。",
+      "reviewChecklist": [
+        "是否识别出题干 mentioned to 的例证题属性，主动跳过足球细节？",
+        "是否定位到了第5段篇章论点句 expert performers are made not born？",
+        "是否识别出选项B属于典型的‘就事论事’干扰？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "phenomenon",
+          "ipa": "[fəˈnɒmɪnən]",
+          "meaning": "现象",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "The word \"mania\" (Line 5, Paragraph 2) most probably means",
+    "stemTranslation": "第2段第5行中的单词“mania”最有可能的意思是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "fun.",
+        "translation": "乐趣。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "程度失真/范围失真",
+        "analysis": "【程度失真】fun 仅表示普通的好玩或娱乐乐趣，语义过轻，完全达不到与 soccer-mad（疯狂热衷）相匹配的狂热程度。"
+      },
+      {
+        "key": "B",
+        "text": "craze.",
+        "translation": "狂热，狂潮。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 语境语义场对齐】前缀修饰语 soccer-mad（酷爱足球的）与 annual peak of soccer mania（每年足球狂热的高峰）构成紧密同根语义场，craze 准确表达出狂热潮流的内涵。"
+      },
+      {
+        "key": "C",
+        "text": "hysteria.",
+        "translation": "歇斯底里。",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "distractorDisplayName": "词义过激/绝对化",
+        "analysis": "【词义过激】hysteria 带有严重的病理性和负面失控色彩（歇斯底里、癔症），偏离了球迷对体育赛事积极狂热支持的正常语义语境。",
+        "vocab": [
+          {
+            "word": "hysteria",
+            "ipa": "[hɪˈsteriəˌhɪˈstɪriə]",
+            "meaning": "歇斯底里",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "excitement.",
+        "translation": "兴奋。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真/程度偏淡",
+        "analysis": "【范围失真】excitement 仅指常规的兴奋、激动情绪，属于宽泛词，未能精准表达出达到巅峰（peak）的风靡狂潮。",
+        "vocab": [
+          {
+            "word": "excitement",
+            "ipa": "[ɪkˈsaɪtmənt]",
+            "meaning": "兴奋",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "VOCAB",
+    "type": "词汇题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": "P2-S2: 'soccer-mad parents are more likely to conceive children in springtime, at the annual peak of soccer mania'",
+    "synonymMapping": [
+      {
+        "textQuote": "soccer-mad parents... annual peak of soccer mania",
+        "optionQuote": "B: craze.",
+        "semanticEquivalence": "mad ↔ mania ↔ craze（狂热、热潮）"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "词汇题解题法则：字面生词看微观上下文。通过前后的并列、修饰（soccer-mad）、对比或因果关系锁定情感色彩与强度等级，排除语义过轻（fun）或病理性过激（hysteria）的选项。",
+      "trapPattern": "程度失真陷阱与病态贬义陷阱。",
+      "reviewChecklist": [
+        "是否根据上下文中的 soccer-mad 准确锁定了积极狂热的感情色彩？",
+        "是否辨析了 craze 与 hysteria 的本质区别（健康热潮 vs 病理性歇斯底里）？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "According to Ericsson, good memory",
+    "stemTranslation": "根据埃里克森的观点，良好的记忆力______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "depends on meaningful processing of information.",
+        "translation": "依赖于对信息的有意义加工处理。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P4-S2 指出先天差异被各自编码信息的能力所掩盖（swamped by how well each person encodes the information），P4-S3 紧接着强调 encode information meaningfully。认知心理学中 encode 即 processing of information。",
+        "vocab": [
+          {
+            "word": "depends",
+            "ipa": "",
+            "meaning": "依赖于",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "results from intuitive rather than cognitive exercises.",
+        "translation": "来自于直觉活动而非认知练习。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P4-S1 明确说明：'more of a cognitive exercise than an intuitive one'（更多是一种认知活动，而非直觉活动），选项把 cognitive 和 intuitive 的位置完全颠倒！",
+        "vocab": [
+          {
+            "word": "results",
+            "ipa": "",
+            "meaning": "来自于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "cognitive",
+            "ipa": "[ˈkɒɡnətɪv]",
+            "meaning": "认知的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "is determined by genetic rather than psychological factors.",
+        "translation": "是由基因遗传而非心理因素决定的。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/直接相悖",
+        "analysis": "【正反颠倒】P4-S1 明确指出研究表明 'memory itself is not genetically determined'（记忆本身不是由基因决定的），选项直接唱反调。",
+        "vocab": [
+          {
+            "word": "genetic",
+            "ipa": "[dʒəˈnetɪk]",
+            "meaning": "基因的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "factors",
+            "ipa": "",
+            "meaning": "因素",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "requires immediate feedback and a high degree of concentration.",
+        "translation": "需要及时的反馈和高度集中的注意力。",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】P4-S5 中提到 immediate feedback 和 concentration 是 deliberate practice（刻意练习）的运作属性，题干问的是 good memory 本身由什么决定，属于偷换主体对象。",
+        "vocab": [
+          {
+            "word": "feedback",
+            "ipa": "[ˈfiːdbæk]",
+            "meaning": "反馈",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2",
+      "P4-S3",
+      "P4-S5"
+    ],
+    "verbatimEvidence": "P4-S1: 'the act of memorizing is more of a cognitive exercise than an intuitive one.' P4-S2: 'those differences are swamped by how well each person \"encodes\" the information.' P4-S3: 'the best way to learn how to encode information meaningfully... deliberate practice.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P4-S2: how well each person 'encodes' the information + P4-S3: encode information meaningfully",
+        "optionQuote": "A: depends on meaningful processing of information.",
+        "semanticEquivalence": "encode information meaningfully ↔ meaningful processing of information; swamped by ↔ depends on"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "细节题解题法则：定位到句，精细核对逻辑关系。注意考研英语最经典的‘A rather than B’反转陷阱和‘主语客体张冠李戴’陷阱。",
+      "trapPattern": "倒置非此即彼关系（B选项）与主体特征嫁接（D选项）。",
+      "reviewChecklist": [
+        "是否精读了 P4-S1 中的 more of A than B 结构？",
+        "是否识破了选项B将 cognitive 与 intuitive 倒置的伎俩？",
+        "是否分清了刻意练习的特征 vs 记忆力本身的决定机制？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      }
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "Ericsson and his colleagues believe that",
+    "stemTranslation": "埃里克森和他的同事们认为______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "talent is a dominating factor for professional success.",
+        "translation": "天赋是职业成功的决定性因素。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/主旨相反",
+        "analysis": "【正反颠倒】P5-S3 明确断言：'the trait we commonly call talent is highly overrated'（天赋被严重高估了），选项声称天赋是决定性因素，与全文结论背道而驰。",
+        "vocab": [
+          {
+            "word": "talent",
+            "ipa": "[ˈtælənt]",
+            "meaning": "天赋",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "factor",
+            "ipa": "[ˈfæktə(r)]",
+            "meaning": "因素",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "professional",
+            "ipa": "[prəˈfeʃənl]",
+            "meaning": "职业的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "biographical data provide the key to excellent performance.",
+        "translation": "个人生平传记资料提供了取得卓越表现的关键。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念/因果混淆",
+        "analysis": "【偷换概念】P5-S2 提到研究者搜集 biographical details，这只是科学研究搜集的数据材料，而非选手取得卓越表现的‘关键方法’。",
+        "vocab": [
+          {
+            "word": "performance",
+            "ipa": "[pəˈfɔːməns]",
+            "meaning": "表现",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the role of talent tends to be overlooked.",
+        "translation": "天赋的作用往往被忽视。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/词义反转",
+        "analysis": "【正反颠倒】原文是 overrated（被高估），选项用了 overlooked（被忽视/被低估），两词词义截然相反。",
+        "vocab": [
+          {
+            "word": "talent",
+            "ipa": "[ˈtælənt]",
+            "meaning": "天赋",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "tends",
+            "ipa": "",
+            "meaning": "往往会",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "overlooked",
+            "ipa": null,
+            "meaning": "忽视",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "high achievers owe their success mostly to nurture.",
+        "translation": "卓越成就者将他们的成功主要归功于后天的培养训练。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义改写】哲学经典对立概念：nature（先天自然/天赋）vs nurture（后天教养/训练）。made, not born 完美对等 owe success to nurture。",
+        "vocab": [
+          {
+            "word": "owe",
+            "ipa": "[əʊ]",
+            "meaning": "把.归功于.",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "mostly",
+            "ipa": "[ˈməʊstli]",
+            "meaning": "主要地",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "nurture",
+            "ipa": "[ˈnɜːtʃə(r)]",
+            "meaning": "后天的培养",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P5-S3",
+      "P5-S4"
+    ],
+    "verbatimEvidence": "P5-S3: 'the trait we commonly call talent is highly overrated.' P5-S4: 'expert performers... are nearly always made, not born.'",
+    "synonymMapping": [
+      {
+        "textQuote": "P5-S4: expert performers... are nearly always made, not born.",
+        "optionQuote": "D: high achievers owe their success mostly to nurture.",
+        "semanticEquivalence": "expert performers ↔ high achievers; made, not born ↔ owe their success to nurture"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "推断题核心法则：推断不等于脱离原文瞎想，绝大多数推断题本质依然是高阶同义改写。抓住高频哲学二元对立词（nature vs nurture, born vs made）。",
+      "trapPattern": "词形相近反义词陷阱（overrated vs overlooked）。",
+      "reviewChecklist": [
+        "是否敏锐捕捉到 overrated 与 overlooked 的相反词义？",
+        "是否掌握了 made not born 对应 nurture 的考研经典哲学对等？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "colleagues",
+          "ipa": "",
+          "meaning": "同事",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2007-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Which of the following proverbs is closest to the message the text tries to convey?",
+    "stemTranslation": "下列哪句谚语与本文试图传达的信息最为接近？",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"Faith will move mountains.\".",
+        "translation": "“精诚所至，金石为开。”（信念能移山）",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】该谚语强调精神信念（faith）的力量，而本文强调的是科学、系统、持续的‘刻意练习’（deliberate practice）。"
+      },
+      {
+        "key": "B",
+        "text": "\"One reaps what one sows.\".",
+        "translation": "“种瓜得瓜，种豆得豆。”（一份耕耘，一份收获）",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "范围失真/过于泛化",
+        "analysis": "【过于宽泛】泛谈因果与付出，未能体现‘通过针对性重复和反馈训练达到卓越技艺’的特定内涵。",
+        "vocab": [
+          {
+            "word": "reaps",
+            "ipa": "",
+            "meaning": "收获",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "sows",
+            "ipa": "",
+            "meaning": "播种",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "\"Practice makes perfect.\".",
+        "translation": "“熟能生巧。”（刻意练习造就完美）",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 精准概括主旨】全文核心高频词 deliberate practice 贯穿后半程，完美对应 Practice makes perfect。"
+      },
+      {
+        "key": "D",
+        "text": "\"Like father, like son.\".",
+        "translation": "“有其父，必有其子。”",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/背道而驰",
+        "analysis": "【与主旨背道而驰】该谚语强调血统和先天遗传基因的决定性，恰好是本文极力批驳的天赋决定论。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨题",
+    "targetSentences": [
+      "P4-S3",
+      "P4-S5",
+      "P5-S3",
+      "P5-S4"
+    ],
+    "verbatimEvidence": "P4-S3: 'a process known as deliberate practice.' P5-S4: 'expert performers... are nearly always made, not born.'",
+    "synonymMapping": [
+      {
+        "textQuote": "deliberate practice + expert performers are made not born",
+        "optionQuote": "C: 'Practice makes perfect.'",
+        "semanticEquivalence": "deliberate practice makes expert performance ↔ Practice makes perfect"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "谚语主旨题解题法则：主旨题必须包含篇章核心主题词（deliberate practice）。排除过度泛化的哲学大道理（选项B）和与作者观点反向的遗传决定论谚语（选项D）。",
+      "trapPattern": "泛哲理化陷阱与观点对立谚语陷阱。",
+      "reviewChecklist": [
+        "是否在谚语中快速锁定了全文核心词 practice？",
+        "是否排除了选项D强调遗传血统的反向观点？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2007_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2007_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "convey",
+          "ipa": "[kənˈveɪ]",
+          "meaning": "传达",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "proverbs",
+          "ipa": "",
+          "meaning": "谚语",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2007.js",
+      "year": 2007,
+      "articleKey": "ky-en1-2007-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b406fdb85f38bc2516d439cab0fd078dd71c2a276371de0fc810d3a51d6dbec6"
+    }
+  }
+]

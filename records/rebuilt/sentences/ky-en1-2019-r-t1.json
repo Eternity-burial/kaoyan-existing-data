@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks. Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing.",
+    "translation": "英国金融监管机构对大型商业银行的高管出台了一项颇不寻常的新规：从明年起，若银行因涉嫌违规不法行为遭到监管调查，高管的任何既定保底奖金都可能被强制延期长达10年发放。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The main purpose of this \"clawback\" rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions. Yet officials also hope for a much larger benefit: more long-term decisionmaking, not only by banks but by all corporations, to build a stronger economy for future generations.",
+    "translation": "这项“奖金追回”（clawback）新规的核心宗旨，在于让银行家为其从事的有害过度冒险承担责任（hold bankers accountable / enhance responsibility），并重塑公众对金融机构的信任。然而，官方还寄望于由此收获一项更为深远的巨大红利：不仅推动银行、更引导全社会所有企业做出更具远见的长期战略决策（long-term decisionmaking），从而为子孙后代构筑起一个更加强健韧性的经济体。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "\"Short-termism\" or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England's top economist, Andrew Haldane.",
+    "translation": "英格兰银行首席经济学家安德鲁·霍尔丹指出：上市企业内部那种追逐快钱速利的“短期主义”（Short-termism）风气已愈演愈烈。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like \"children who pick the plums out of their pudding to eat them at once\" rather than putting them aside to be eaten last.",
+    "translation": "他援引古典经济学巨擘阿尔弗雷德·马歇尔的名言，将这种金融急躁心态形象地比作“贪吃的孩童迫不及待地把布丁里的李子一颗颗挑出来立即吃光”，而不是留到最后再细细享用——以此深刻揭示经济活动中急功近利的短期主义（short-termism）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades.",
+    "translation": "他指出，近几十年来，美英两国投资者的平均持股周期已经从过去的整整七年骤降到了区区七个月。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research or to build up customer loyalty. This has been dubbed \"quarterly capitalism.\"",
+    "translation": "那些一味向企业索要高额季度回报的短期投机投资者（transient investors），往往会严重妨碍阻挠（hinder/adverse impact）一家企业在长期研发创新或培养客户忠诚度方面的扎实投入。这种恶劣倾向被形象地戏称为“季度资本主义”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets. \"There seems to be a predominance of short-term thinking at the expense of long-term investing,\" said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.",
+    "translation": "此外，新兴数字科技催生了更为迅捷的股票高频交易与瞬时信息利用，从而导致金融市场的关注周期变得空前短暂。美国证券交易委员会（SEC）委员丹尼尔·加拉格尔在本周的一次演讲中指出：“当下的金融市场似乎充斥着以牺牲长期投资为惨重代价的短期思维压倒性主导。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce \"short-termism.\" In its latest survey of CEO pay, The Wall Street Journal finds that \"a substantial part\" of executive pay is now tied to performance.",
+    "translation": "在美国，2002年颁布的《萨班斯-奥克斯利法案》促使绝大多数上市公司将高管的绩效奖金递延约一年发放，在一定程度上微幅遏制了短期主义。《华尔街日报》对 CEO 薪酬的最新调查显示，高管薪酬中“相当可观的一部分”如今已与长期绩效紧密挂钩。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Much more could be done to encourage \"long-termism,\" such as changes in the tax code and quicker disclosure of stock acquisitions. In France, shareholders who hold onto a company investment for at least two years can sometimes earn more voting rights in a company.",
+    "translation": "为了进一步激励“长期主义”，各国还有诸多切实可行的途径可循——例如修订税法、加快股权收购信息披露等。在法国，凡持有某家公司投资至少两年的长期股东，有时能够获得该公司的额外投票表决权奖励。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2019-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders. Britain's new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+    "translation": "在企业内部，科学合理的薪酬制度设计能够为高管提供强大激励，促使其超越自己在任的短暂时期、代表所有利益相关方的长远利益来深谋远虑。英国的这项新规正是对银行家的当头棒喝与庄严提醒：全社会对其经营业绩怀有深切关切，这种关切绝非着眼于眼前的短期收益，而是关乎国家与经济的长远未来。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2019_t1.json",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:387a9367f0a470bb4e5a9da2b6cd51bd8c1393dea7ae1894b14d8741f43acf28"
+    }
+  }
+]

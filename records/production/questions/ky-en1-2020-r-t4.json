@@ -1,0 +1,575 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The French Senate has passed a bill to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "regulate digital services platforms.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】法案是征税（impose a tax），非出台平台日常运营监管法规（regulate）。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "impose a levy on tech multinationals.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P1-S1 和 P1-S3 明确指出法案的核心要旨：'passed a digital services tax, which would impose an entirely new tax on large multinationals... primarily to Google, Apple, Facebook and Amazon'（通过数字服务税，对提供数字化服务的大型跨国巨头征收新税，主要针对 GAFA 等科技跨国公司）。impose a levy on tech multinationals（对跨国科技巨头征税）与原文完全精准吻合（levy 即 tax）。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "protect French companies' interests.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 偏离法案内容】核心在于开辟数字税源并解决跨国避税，非单纯保护本土企业。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "curb the influence of advertising.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局部征税对象】定向广告是征税收入来源之一，非抑制广告影响。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "impose entirely new tax on large multinationals (Google, Apple, Facebook, Amazon) = impose a levy on tech multinationals。",
+      "methodSummary": "首段题眼同义改写：impose a tax on tech multinationals 转换为 impose a levy on tech multinationals。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "French Senate has passed a bill to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "It can be learned from Paragraph 2 that the digital services tax",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "will prompt the tech giants to quit France.",
+        "isCorrect": false,
+        "distractorType": "过度推断夸大",
+        "analysis": "【干扰特征: 夸大后果】巨头不会轻易放弃庞大的法国市场，文章未提及退出法国。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "aims to ease international trade tensions.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】该法案直接加剧了美法之间的贸易紧张摩擦，绝非缓和局势（ease）。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "is apt to arouse criticism at home and abroad.",
+        "isCorrect": false,
+        "distractorType": "张冠李戴国内支持",
+        "analysis": "【干扰特征: 国内外混淆】国内政界和总统均大力支持（Macron expressed support），批评反弹主要来自美国政府和企业。",
+        "refSentences": [
+          "P1-S3",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "may trigger countermeasures against France.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S2 明确指出该税项招致的后果：'with the United States trade representative opening an investigation... which in turn could lead to trade sanctions against France'（美国贸易代表已启动调查，这进而可能导致对法国实施贸易制裁）。A选项 may trigger countermeasures against France（可能引发针对法国的反制措施/制裁）是对 lead to trade sanctions against France 最精准的同义改写。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "could lead to trade sanctions against France = may trigger countermeasures against France。",
+      "methodSummary": "反制制裁细节题：trade sanctions against France 转换为 countermeasures against France。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "英语一_2020_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 2",
+        "digital services tax"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "The countries adopting the unilateral measures share the opinion that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the current international tax system needs upgrading.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 明确阐述各国采取单边行动的共同根源：'they all share a view that the international tax system has failed to keep up with the current economy'（它们都普遍持有同一观点：现行国际税收体系已经严重跟不上当代数字经济的发展）。B选项 the current international tax system needs upgrading（现行的国际税收体系需要升级重塑）是对 failed to keep up with current economy 最完美的同义转述。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "redistribution of tech giants' revenue must be ensured.",
+        "isCorrect": false,
+        "distractorType": "概念偏差",
+        "analysis": "【干扰特征: 偷换概念】焦点在于对跨国数字收入确立合法征税权，非财富二次再分配。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "tech multinationals' monopoly should be prevented.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 混淆反垄断与税收】各国立法旨在解决税收流失与征税权，非反垄断拆分。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "all countries ought to enjoy equal taxing rights.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 抽象概念】核心在于适应数字经济新现实，非要求绝对均等的税收权。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P4-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "share a view that international tax system has failed to keep up with current economy = current international tax system needs upgrading。",
+      "methodSummary": "共识观点原句提取：failed to keep up with economy 转换为 needs upgrading。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "countries adopting unilateral measures",
+        "share the opinion that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "It can be learned from Paragraph 5 that the OECD's current work",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "is being resisted by US companies.",
+        "isCorrect": false,
+        "distractorType": "主体混淆",
+        "analysis": "【干扰特征: 偷换对象】美企抵制的是法国等国的单边数字税，美法两国政府均在参与 OECD 的多边协商。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "is faced with uncertain prospects.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P5-S1 明确描述 OECD 工作的严峻现实：尽管 OECD 正努力在131国间达成国际共识，但'France's digital services tax and the American response raise questions about what the future holds for the international tax system'（法国的单边开征与美方的激烈反弹，给国际税收体系的未来走向打上了巨大问号）。raise questions about what future holds 意为“使未来走向充满疑云与变数”，精准对应 C 选项 is faced with uncertain prospects（正面临着极不确定的前景）。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "needs to be readjusted immediately.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】OECD 正在按照原计划推进2020年底共识，未提及立即重新调整其工作路线。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "needs to involve more countries.",
+        "isCorrect": false,
+        "distractorType": "事实相反",
+        "analysis": "【干扰特征: 数量充足】已经有131个国家深度参与其中（working with 131 countries），国家数量极为庞大充足。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "raise questions about what the future holds = is faced with uncertain prospects（面临不确定的前景）。",
+      "methodSummary": "习语推断法：raise questions about what the future holds 对应 is faced with uncertain prospects。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 5",
+        "OECD's current work"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Which of the following might be the best title for this text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "France Leads the Charge on Digital Tax.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨概括】全文通篇以法国率先立法开征数字服务税（GAFA 税）为核心主角与贯穿全篇的焦点脉络（P1-2），随后深入指出法国此举正是领衔带动全球多国单边税收立法浪潮（P3-4）、倒逼 OECD 加速国际税制重塑并向全球发出警示信号的领头羊行动（P5-6）。B选项 France Leads the Charge on Digital Tax（法国领衔打响数字税冲锋战）以极其生动精炼的笔触统领全文的核心事件与引领地位，为最佳标题。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S2",
+          "P5-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "France Is Confronted with Trade Sanctions.",
+        "isCorrect": false,
+        "distractorType": "次要危害细节",
+        "analysis": "【干扰特征: 局部细节】贸易制裁仅为第二段提到的美方潜在反击，未能统领全文关于全球税改大势与 OECD 谈判的核心主线。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "France Demands a Role in the Digital Economy.",
+        "isCorrect": false,
+        "distractorType": "偏离税收主题",
+        "analysis": "【干扰特征: 偏离税改核心】法国争夺的是数字时代的税收管辖权（taxing rights），非争夺数字产业角色。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "France Says \"No\" to Tech Multinationals.",
+        "isCorrect": false,
+        "distractorType": "偷换概念偏激",
+        "analysis": "【干扰特征: 概念偏差】法国并不是拒绝或赶走跨国科技巨头，而是依法要求其对数字服务收入缴纳合理税款。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "主旨标题题",
+    "targetSentences": [
+      "P1-S1",
+      "P3-S2",
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "France passes digital services tax + part of larger trend + clear warning / follow suit = France Leads the Charge on Digital Tax。",
+      "methodSummary": "主旨标题题核心事件提取：抓住核心主角（France）与核心行动（Leads the Charge on Digital Tax）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "英语一_2020_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "D",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "best title",
+        "this text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  }
+]

@@ -1,0 +1,720 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "In Paragraphs 1 and 2, the text shows PTK's",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "easy availability.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“at his local drugstore”、“without prescriptions”、“over-the-counter”与“sell directly to the public”共同印证了该产品具有极高的大众可获取性（easy availability）。"
+      },
+      {
+        "key": "B",
+        "text": "flexibility in pricing.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】第2段提到价格从几百美元到2500美元不等，是指不同商业公司各类DNA检测服务的总体市场定价范围，并非指PTK试剂盒自身价格灵活多变。"
+      },
+      {
+        "key": "C",
+        "text": "successful promotion.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中虽提及一年内有超过6万人购买，但完全未将销量归因于商家高超成功的商业广告营销与促销宣传（promotion）。"
+      },
+      {
+        "key": "D",
+        "text": "popularity with households.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【夸大范围/偷换概念】全美有6万人购买，属于特定消费群体，不能由此夸大为在千家万户的家庭中广受欢迎普及（popularity with households）。",
+        "vocab": [
+          {
+            "word": "households",
+            "ipa": "",
+            "meaning": "家庭",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore—and another $120 to get the results. More than 60,000 people have purchased the PTKs since they first became available without prescriptions last year... which makes the over-the-counter kits.",
+      "explanation": "【王晶婷六大题型·事实细节题精析】\n题干考查第1段和第2段中PTK所呈现的特征。定位至第1段第2句：“All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore...”（他所要做的只是在当地药店花30美元买一套PTK）；第2段进一步补充：“available without prescriptions”（无需处方即可购买）、“makes the over-the-counter kits”（非处方柜台试剂盒）、以及“sell DNA tests directly to the public”（直接向公众销售）。这些客观细节反复强调该检测产品无需医生开处方、在普通药房柜台即可轻松购得，极其容易获取（easy availability）。因此 [A] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Paragraphs",
+          "ipa": "",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "PTK is used to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "locate one's birth place.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】PTK是亲子生物学血缘检测，用于确定父母子女关系，而非用来确认某人出生的地理地点（birth place）。",
+        "vocab": [
+          {
+            "word": "locate",
+            "ipa": "[ləʊˈkeɪt]",
+            "meaning": "找出…的位置",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "promote genetic research.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】PTK属于民用商业化检测产品，其直接目的不是为了推动遗传学与基因医学的纯科学基础研究。",
+        "vocab": [
+          {
+            "word": "promote",
+            "ipa": "[prəˈməʊt]",
+            "meaning": "促进",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "genetic",
+            "ipa": "[dʒəˈnetɪk]",
+            "meaning": "遗传的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "identify parent-child kinship.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“confirm that he's the kid's dad”与“paternity testing”精准对应“identify parent-child kinship（确认亲子亲属关系）”。",
+        "vocab": [
+          {
+            "word": "identify",
+            "ipa": "[aɪˈdentɪfaɪ]",
+            "meaning": "确认",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "choose children for adoption.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/事实曲解】第3段指出被收养的孩子可用它寻找生身父母，或领养家庭寻找当年送养的孩子，并非用于在领养前“挑选要收养的儿童”。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "confirm that he's the kid's dad... Among the most popular: paternity and kinship testing, which adopted children can use to find their biological relatives and families can use to track down kids put up for adoption.",
+      "explanation": "【王晶婷六大题型·事实细节题精析】\n题干询问PTK试剂盒的实际用途。定位至第1段第1句：“confirm that he's the kid's dad”（确认自己是否是孩子的亲生父亲），以及第3段第1句关于其核心功能的说明：“paternity and kinship testing, which adopted children can use to find their biological relatives...”（亲子与亲属关系检测，用于寻找有血缘关系的亲属）。这表明PTK试剂盒的根本用途在于确认父母与子女之间的生物学生理亲缘关系（identify parent-child kinship）。因此 [C] 为正确答案。",
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "Skeptical observers believe that ancestry testing fails to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "trace distant ancestors.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文中指出检测确实能通过Y染色体或线粒体追溯到远古某一两条谱系的祖先，问题在于它遗漏了绝大多数其他祖先，因此不能简单说其未能追踪远祖。",
+        "vocab": [
+          {
+            "word": "trace",
+            "ipa": "[treɪs]",
+            "meaning": "追踪",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "ancestors",
+            "ipa": "",
+            "meaning": "祖先",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "rebuild reliable bloodlines.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】达斯特批评的核心是检测公司对结果精确度的虚假夸大（false precision），而非要求其“重建可靠的血统”。",
+        "vocab": [
+          {
+            "word": "reliable",
+            "ipa": "[rɪˈlaɪəbl]",
+            "meaning": "可靠的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "fully use genetic information.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【以偏概全/偷换概念】虽然只检测了Y染色体或线粒体，但达斯特的落脚点是批判商家夸大其词兜售假精准，而非单纯指责遗传信息的利用率不足。",
+        "vocab": [
+          {
+            "word": "genetic",
+            "ipa": "[dʒəˈnetɪk]",
+            "meaning": "基因的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "achieve the claimed accuracy.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“false precision being hawked”直接同义替换“fails to achieve the claimed accuracy（未能达到其声称的精准度）”。",
+        "vocab": [
+          {
+            "word": "claimed",
+            "ipa": "",
+            "meaning": "声称",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "accuracy",
+            "ipa": "[ˈækjərəsi]",
+            "meaning": "准确性",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "\"There is a kind of false precision being hawked by people claiming they are doing ancestry testing,\" says Troy Duster, a New York University sociologist.",
+      "explanation": "【王晶婷六大题型·观点细节题精析】\n题干考查持怀疑态度的观察人士认为祖源检测未能做到什么。定位至第5段第2句纽约大学社会学家特洛伊·达斯特的原话：“'There is a kind of false precision being hawked by people claiming they are doing ancestry testing,' says Troy Duster...”（那些声称开展祖源检测的人正在兜售一种‘虚假的精确性’）。达斯特随后阐述，人类有成百上千位祖先，而祖源检测仅仅追踪单一一条谱系（仅能反映一两位祖先），因此所谓的精确祖源结论完全是站不住脚的噱头。换言之，祖源检测根本未能实现其所宣称的精确度（fails to achieve the claimed accuracy）。因此 [D] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Skeptical",
+          "ipa": "[ˈskeptɪk(ə)l]",
+          "meaning": "怀疑的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "ancestry",
+          "ipa": "[ˈænsestri]",
+          "meaning": "家谱检测",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "fails",
+          "ipa": "",
+          "meaning": "未能",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "In the last paragraph, a problem commercial genetic testing faces is",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "disorganized data collection.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“don't rely on data collected systematically but rather lump together”完美同义替换“disorganized data collection（杂乱无序、非系统的数据采集）”。",
+        "vocab": [
+          {
+            "word": "collection",
+            "ipa": "[kəˈlekʃn]",
+            "meaning": "采集",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "overlapping database building.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中指出的是数据杂乱拼凑、各区域样本分布不均，并未提及数据库构建中的重叠重合问题。",
+        "vocab": [
+          {
+            "word": "overlapping",
+            "ipa": "",
+            "meaning": "重叠的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "excessive sample comparison.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【反向干扰】批评者指出参照数据库数据不足且不均衡，样本比对缺乏充分科学依据，而非样本比对“过多过滥（excessive）”。",
+        "vocab": [
+          {
+            "word": "excessive",
+            "ipa": "[ɪkˈsesɪv]",
+            "meaning": "过多的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "sample",
+            "ipa": "[ˈsɑːmpl]",
+            "meaning": "样本",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "comparison",
+            "ipa": "[kəmˈpærɪs(ə)n]",
+            "meaning": "比较",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "lack of patent evaluation.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/断章取义】末句指出计算机估算程序已受专利保护，因而免于外部评估（patented and not subject to outside evaluation），而非指责“缺乏专利评估”。",
+        "vocab": [
+          {
+            "word": "patent",
+            "ipa": "[ˈpæt(ə)nt]",
+            "meaning": "专利权",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects. This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results.",
+      "explanation": "【王晶婷六大题型·事实细节题精析】\n题干考查最后一段中商业基因检测面临的困境。定位至第6段第2~3句：“Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects. This means that a DNA database may have a lot of data from some regions and not others...”（某些公司所用的数据库并非基于系统采集的数据，而是将来自不同科研项目的信息杂乱胡乱拼凑在一起；这导致某些地区数据繁多而另一些地区严重缺失）。“don't rely on data collected systematically but rather lump together”精确同义改写为数据采集缺乏系统性、杂乱无序（disorganized data collection）。因此 [A] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "commercial",
+          "ipa": "[kəˈmɜːʃ(ə)l]",
+          "meaning": "商业的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "genetic",
+          "ipa": "[dʒəˈnetɪk]",
+          "meaning": "基因的",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "An appropriate title for the text is most likely to be",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fors and Againsts of DNA Testing.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【概念失当】文章并非两派观点的正反辩论交锋，而是客观报道商业化DNA检测的现实应用，进而深入剖析其内在的技术与科学缺陷。",
+        "vocab": [
+          {
+            "word": "Fors",
+            "ipa": "",
+            "meaning": "利与弊",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "DNA Testing and Its Problems.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解全面概括】既涵盖了前四段DNA检测在民间的商业繁荣（DNA Testing），又精准契合了后两段批评家对其技术与伦理硬伤的剖析（Its Problems）。"
+      },
+      {
+        "key": "C",
+        "text": "DNA Testing Outside the Lab.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】仅能概括前两段检测产品走向民间药店的商业现象，完全遗漏了后半部分关于科学漏洞与批评质疑的核心主旨。"
+      },
+      {
+        "key": "D",
+        "text": "Lies Behind DNA Testing.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "【绝对极端/以偏概全】作者态度理性客观，指出检测存在“false precision”和数据缺陷，但并未全盘否定DNA检测的科学价值，将其全盘斥为“谎言（Lies）”过于夸大偏激。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom... But some observers are skeptical... Critics also argue that commercial genetic testing is only as good as the reference collections...",
+      "explanation": "【王晶婷六大题型·主旨大意标题题精析】\n题干要求为全文选择最恰当的标题。全文脉络清晰严整：第1~4段介绍了商业化DNA检测（如非处方PTK、家谱溯源）在民间的迅速兴起与广泛应用；第5~6段通过转折词“But some observers are skeptical”与“Critics also argue”，深入揭露了祖源检测的虚假精确性、数据库缺乏系统性、以及私有算法未受同行评审等严重硬伤与隐患。整篇文章呈现典型的“现象+问题剖析”架构，涵盖了“DNA Testing”与“Its Problems”两大不可或缺的核心要素。因此 [B] DNA Testing and Its Problems 为最恰当全面的标题。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "appropriate",
+          "ipa": "[əˈprəʊpriət]",
+          "meaning": "合适的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "most",
+          "ipa": "[məʊst]",
+          "meaning": "可能",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  }
+]

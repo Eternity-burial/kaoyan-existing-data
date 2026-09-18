@@ -1,0 +1,498 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "In his book The Tipping Point, Malcolm Gladwell argues that \"social epidemics\" are driven in large part by the actions of a tiny minority of special individuals, often called influentials, who are unusually informed, persuasive, or well-connected.",
+    "translation": "马尔科姆·格拉德威尔在其著作《引爆点》中提出，“社会流行风潮”在很大程度上是由极少数特殊个体（通常被称为‘意见领袖/关键人物’）的行为推动的，这些人往往格外博学多才、极具说服力或人脉四通八达。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 介词状语 + 宾语从句 + 过去分词定语 + 定语从句",
+      "mainClause": "Malcolm Gladwell argues that 'social epidemics' are driven in large part by the actions...",
+      "subordinateClauses": [
+        "宾语从句: that 'social epidemics' are driven in large part by...",
+        "过去分词定语: often called influentials 修饰 individuals",
+        "非限制性定语从句: who are unusually informed, persuasive, or well-connected 修饰 influentials"
+      ],
+      "corePattern": "argue that... / driven in large part by / well-connected"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire.",
+    "translation": "所谓引爆点，就是观念、风尚或社会行为跨越临界阈值、发生质变翻转并如野火般迅速蔓延的那一神奇时刻。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 定语从句",
+      "mainClause": "The tipping point is that magic moment",
+      "subordinateClauses": [
+        "时间定语从句: when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire 修饰 moment"
+      ],
+      "corePattern": "cross a threshold / spread like wildfire"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "The supposed importance of influentials derives from a plausible-sounding wonder: How does a spark trigger a blaze?",
+    "translation": "所谓意见领袖的重要性，源于一个听起来貌似合情合理的追问：一粒微弱的火星是如何引发滔天烈焰的？",
+    "syntaxAnalysis": {
+      "structureType": "主谓简单句 + 冒号解释同位语",
+      "mainClause": "The supposed importance of influentials derives from a plausible-sounding wonder",
+      "subordinateClauses": [],
+      "corePattern": "supposed importance / derive from / plausible-sounding"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "In the reasoning of the New Yorker staff writer, they are the social equivalent of a few individuals who introduced a virulent disease to a population.",
+    "translation": "在这位《纽约客》特约撰稿人的逻辑推理中，这些意见领袖在社交网络中的角色，正等同于将一种致命病毒传入人群之中的极少数零号感染源。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 定语从句",
+      "mainClause": "they are the social equivalent of a few individuals",
+      "subordinateClauses": [
+        "定语从句: who introduced a virulent disease to a population 修饰 individuals"
+      ],
+      "corePattern": "the social equivalent of / introduce disease to"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "In their day, the proponents of the two-step-flow theory of communication argued that interpersonal influence was far more persuasive than mass media.",
+    "translation": "当年，‘两级传播理论’的倡导者们坚决主张，人际间的人际影响力远比大众媒体更具说服力。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 宾语从句",
+      "mainClause": "the proponents of the two-step-flow theory argued that...",
+      "subordinateClauses": [
+        "宾语从句: that interpersonal influence was far more persuasive than mass media"
+      ],
+      "corePattern": "proponents of / two-step-flow theory / far more persuasive than"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "In their recent work, however, some researchers have come up with the finding that the influentials' impact is not as significant as previously thought.",
+    "translation": "然而，一些研究人员在最近的研究中得出了一个令人诧异的新结论：意见领袖的实际影响力远没有人们此前所认为的那样显著重要。",
+    "syntaxAnalysis": {
+      "structureType": "转折主谓宾复合句 + 同位语从句",
+      "mainClause": "some researchers have come up with the finding",
+      "subordinateClauses": [
+        "同位语从句: that the influentials' impact is not as significant as previously thought 解释 finding"
+      ],
+      "corePattern": "come up with the finding that / not as significant as previously thought"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32,
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The researchers' argument stems from a simple observation about social influence: with the exception of a few celebrities, who have vast media exposure, most people are influenced by their peers.",
+    "translation": "研究人员的论点源于对社会影响力机制的一个简单观察：除了少数拥有海量媒体曝光度的极少数名流之外，绝大多数普通人主要受到自身同伴圈层（peers）的影响。",
+    "syntaxAnalysis": {
+      "structureType": "主谓复合句 + 冒号同位解释 + 非限制性定语从句",
+      "mainClause": "The researchers' argument stems from a simple observation about social influence",
+      "subordinateClauses": [
+        "同位解释主句: most people are influenced by their peers",
+        "非限制性定语从句: who have vast media exposure 修饰 celebrities"
+      ],
+      "corePattern": "stem from a simple observation / with the exception of / influenced by peers"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Building on this observation, Duncan Watts, a sociologist at Columbia University, built a series of computer simulations of social epidemics.",
+    "translation": "基于这一观察，哥伦比亚大学社会学家邓肯·沃茨建立了一系列针对社会流行风潮的计算机模型模拟仿真。",
+    "syntaxAnalysis": {
+      "structureType": "现在分词伴随短语 + 主谓宾简单句 + 同位语",
+      "mainClause": "Duncan Watts built a series of computer simulations of social epidemics",
+      "subordinateClauses": [
+        "分词短语作状语: Building on this observation",
+        "同位语: a sociologist at Columbia University 修饰 Watts"
+      ],
+      "corePattern": "building on / computer simulations of"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "In his models, he found that social epidemics cascade through a network only when a critical mass of easily influenced individuals are present.",
+    "translation": "在他的模型中，他发现只有当网络中存在达到关键临界规模的一批‘极易受影响的个体’时，社会流行风潮才会像瀑布般级联式蔓延开来。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 宾语从句 + 条件状语从句",
+      "mainClause": "he found that social epidemics cascade through a network",
+      "subordinateClauses": [
+        "条件状语从句: only when a critical mass of easily influenced individuals are present"
+      ],
+      "corePattern": "cascade through a network / critical mass of easily influenced individuals"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34,
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "These people are influenced by the initial message, and then in turn influence others, creating a cascade.",
+    "translation": "这批人先是受到最初信息的感召与影响，随后又反过来转而影响身边的其他人，从而催生出一场连锁式的级联反应。",
+    "syntaxAnalysis": {
+      "structureType": "并列谓语简单句 + 现在分词结果状语",
+      "mainClause": "These people are influenced..., and then in turn influence others",
+      "subordinateClauses": [
+        "现在分词短语作结果状语: creating a cascade"
+      ],
+      "corePattern": "in turn influence others / create a cascade"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "A critical mass of susceptible people, not the presence of influentials, is the crucial factor.",
+    "translation": "达到临界规模的易感易受影响人群的存在，而非意见领袖的到场出现，才是促成流行风潮的核心决定性因素。",
+    "syntaxAnalysis": {
+      "structureType": "主系表简单句 + 插入比较否定成分",
+      "mainClause": "A critical mass of susceptible people is the crucial factor",
+      "subordinateClauses": [
+        "插入否定比较语: not the presence of influentials"
+      ],
+      "corePattern": "critical mass of susceptible people / crucial factor"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "If people are not ready to be influenced, no amount of influence will create a trend.",
+    "translation": "如果普通大众尚未做好被影响和接纳新观念的心态准备，那么无论施加多么巨大的外在影响力，都不可能凭空创造出一股潮流。",
+    "syntaxAnalysis": {
+      "structureType": "条件状语从句 + 主句",
+      "mainClause": "no amount of influence will create a trend",
+      "subordinateClauses": [
+        "条件状语从句: If people are not ready to be influenced"
+      ],
+      "corePattern": "ready to be influenced / no amount of... will..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  }
+]

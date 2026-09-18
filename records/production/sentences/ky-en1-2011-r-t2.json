@@ -1,0 +1,1015 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "When Liam McGee departed as president of Bank of America in August, his explanation was surprisingly straight up.",
+    "translation": "利亚姆·麦基今年八月卸任美国银行总裁时，他给出的解释直白得出人意料。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (时间状语从句 + 主系表结构)",
+      "mainClause": "his explanation was surprisingly straight up",
+      "subordinateClauses": [
+        "时间状语从句: When Liam McGee departed as president of Bank of America in August"
+      ],
+      "corePattern": "depart as / surprisingly straight up"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        26
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Rather than cloaking his exit in the usual vague excuses, he came right out and said he was leaving \"to pursue my goal of running a company.\"",
+    "translation": "他没有用惯常那种含糊的托词来掩饰自己的离去，而是直言不讳地表示，他离职是“为了实现自己经营一家公司的目标”。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (Rather than 介词短语状语 + 并列谓语 + 宾语从句)",
+      "mainClause": "he came right out and said (that) he was leaving...",
+      "subordinateClauses": [
+        "状语: Rather than cloaking his exit in the usual vague excuses",
+        "宾语从句: (that) he was leaving to pursue my goal of running a company",
+        "目的不定式: to pursue my goal of running a company"
+      ],
+      "corePattern": "rather than doing sth / cloak sth in excuses / come right out / pursue one's goal"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        26,
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Broadcasting his ambition was \"very much my decision,\" McGee says.",
+    "translation": "麦基说，公开表明自己的抱负“完全是我自己的决定”。",
+    "syntaxAnalysis": {
+      "structureType": "直接引语 + 插入语",
+      "mainClause": "Broadcasting his ambition was \"very much my decision\"",
+      "subordinateClauses": [
+        "主语: Broadcasting his ambition (动名词短语作主语)"
+      ],
+      "corePattern": "broadcast one's ambition / be one's decision"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        26
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Within two weeks, he was talking for the first time with the board of Hartford Financial Services Group, which named him CEO and chairman on September 29.",
+    "translation": "不到两周，他就首次与哈特福德金融服务集团董事会展开接洽，该集团于9月29日任命他为首席执行官兼董事长。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (时间状语 + 主句 + 非限制性定语从句)",
+      "mainClause": "Within two weeks, he was talking for the first time with the board of Hartford Financial Services Group",
+      "subordinateClauses": [
+        "非限制性定语从句: which named him CEO and chairman on September 29 (修饰 Hartford Financial Services Group)"
+      ],
+      "corePattern": "talk with the board / name sb CEO and chairman"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "McGee says leaving without a position lined up gave him time to reflect on what kind of company he wanted to run.",
+    "translation": "麦基说，在没有找到下家的情况下离职，让他有时间思考自己想经营什么样的公司。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (动名词短语作主语 + 双宾语 + 宾语从句)",
+      "mainClause": "McGee says (that) leaving without a position lined up gave him time to reflect on...",
+      "subordinateClauses": [
+        "从句主语: leaving without a position lined up (with复合结构: position + lined up)",
+        "介词宾语从句: on what kind of company he wanted to run"
+      ],
+      "corePattern": "without a position lined up / reflect on"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "It also sent a clear message to the outside world about his aspirations.",
+    "translation": "此举也向外界清楚地传达了他的抱负。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (主谓宾 + 介词短语状语)",
+      "mainClause": "It also sent a clear message to the outside world about his aspirations",
+      "subordinateClauses": [],
+      "corePattern": "send a clear message to sb about sth"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "And McGee isn't alone.",
+    "translation": "而且，麦基并非个例。",
+    "syntaxAnalysis": {
+      "structureType": "过渡简单句",
+      "mainClause": "And McGee isn't alone",
+      "subordinateClauses": [],
+      "corePattern": "sb isn't alone"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "In recent weeks the No.2 executives at Avon and American Express quit with the explanation that they were looking for a CEO post.",
+    "translation": "最近几周，雅芳和美国运通的二号高管相继辞职，理由都是想去谋求首席执行官的职位。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (同位语从句)",
+      "mainClause": "the No.2 executives at Avon and American Express quit with the explanation...",
+      "subordinateClauses": [
+        "同位语从句: that they were looking for a CEO post (解释 explanation)"
+      ],
+      "corePattern": "No.2 executive / quit with the explanation that / look for a CEO post"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "As boards scrutinize succession plans in response to shareholder pressure, executives who don't get the nod also may wish to move on.",
+    "translation": "由于董事会迫于股东压力而仔细审查继任计划，那些未获认可的高管可能也想离职另谋出路。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (原因/时间状语从句 + 定语从句)",
+      "mainClause": "executives who don't get the nod also may wish to move on",
+      "subordinateClauses": [
+        "状语从句: As boards scrutinize succession plans in response to shareholder pressure",
+        "限制性定语从句: who don't get the nod (修饰 executives)"
+      ],
+      "corePattern": "scrutinize succession plans / in response to / get the nod / move on"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        27
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "A turbulent business environment also has senior managers cautious of letting vague pronouncements cloud their reputations.",
+    "translation": "动荡的商业环境也使得高层管理者十分谨慎，不愿让含糊的声明损害自己的声誉。",
+    "syntaxAnalysis": {
+      "structureType": "复杂简单句 (have + 宾语 + 形容词作宾补 + 动名词复合结构)",
+      "mainClause": "A turbulent business environment also has senior managers cautious of letting vague pronouncements cloud their reputations",
+      "subordinateClauses": [
+        "宾语补足语: cautious of letting vague pronouncements cloud their reputations",
+        "letting复合结构: let (pronouncements) cloud (their reputations) (cloud为动词原形)"
+      ],
+      "corePattern": "have sb cautious of / let sth cloud one's reputation"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "As the first signs of recovery begin to take hold, deputy chiefs may be more willing to make the jump without a net.",
+    "translation": "随着经济复苏的最初迹象逐步显现，副手们也许更愿意在没有退路的情况下放手一搏。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (时间状语从句 + 主系表)",
+      "mainClause": "deputy chiefs may be more willing to make the jump without a net",
+      "subordinateClauses": [
+        "时间状语从句: As the first signs of recovery begin to take hold"
+      ],
+      "corePattern": "take hold / deputy chiefs / make the jump without a net"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "In the third quarter, CEO turnover was down 23% from a year ago as nervous boards stuck with the leaders they had, according to Liberum Research.",
+    "translation": "根据利伯姆研究公司的数据，第三季度首席执行官更替率较去年同期下降了23%，因为紧张的董事会都留用了现有的领导人。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (原因状语从句 + 定语从句 + 插入语)",
+      "mainClause": "CEO turnover was down 23% from a year ago",
+      "subordinateClauses": [
+        "原因状语从句: as nervous boards stuck with the leaders they had",
+        "定语从句: (that) they had (修饰 leaders)"
+      ],
+      "corePattern": "CEO turnover / stick with sb / according to"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "As the economy picks up, opportunities will abound for aspiring leaders.",
+    "translation": "随着经济好转，对有抱负的领导者来说，机会将大量涌现。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (时间状语从句 + 主谓结构)",
+      "mainClause": "opportunities will abound for aspiring leaders",
+      "subordinateClauses": [
+        "时间状语从句: As the economy picks up"
+      ],
+      "corePattern": "pick up / abound for sb / aspiring leaders"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The decision to quit a senior position to look for a better one is unconventional.",
+    "translation": "辞去高级职位另谋更好去处的做法并不常见。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 (不定式作后置定语与状语)",
+      "mainClause": "The decision is unconventional",
+      "subordinateClauses": [
+        "定语: to quit a senior position",
+        "目的状语: to look for a better one"
+      ],
+      "corePattern": "decision to do sth / unconventional"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "For years executives and headhunters have adhered to the rule that the most attractive CEO candidates are the ones who must be poached.",
+    "translation": "多年来，高管和猎头们一直遵循这样一条准则：最抢手的首席执行官人选是那些必须挖角才能挖来的人。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (同位语从句 + 定语从句)",
+      "mainClause": "For years executives and headhunters have adhered to the rule...",
+      "subordinateClauses": [
+        "同位语从句: that the most attractive CEO candidates are the ones who must be poached (解释 rule)",
+        "限制性定语从句: who must be poached (修饰 the ones)"
+      ],
+      "corePattern": "adhere to the rule / attractive candidates / be poached"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        28
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Says Korn/Ferry senior partner Dennis Carey: \"I can't think of a single search I've done where a board has not instructed me to look at sitting CEOs first.\"",
+    "translation": "光辉国际高级合伙人丹尼斯·凯里说：“在我做过的所有猎聘项目中，我想不出有哪一次董事会没有要求我先物色在任的首席执行官。”",
+    "syntaxAnalysis": {
+      "structureType": "倒装引述句 + 双重否定定语从句",
+      "mainClause": "Says Korn/Ferry senior partner Dennis Carey (全部倒装)",
+      "subordinateClauses": [
+        "定语从句1: (that) I've done (修饰 search)",
+        "定语从句2: where a board has not instructed me to look at sitting CEOs first (修饰 search，双重否定表肯定)"
+      ],
+      "corePattern": "cannot think of a single... where... not... / instruct sb to do sth / sitting CEOs"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        28
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Those who jumped without a job haven't always landed in top positions quickly.",
+    "translation": "那些没有找到工作就跳槽的人，并非总能很快登上高管职位。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (定语从句 + 部分否定)",
+      "mainClause": "Those haven't always landed in top positions quickly",
+      "subordinateClauses": [
+        "限制性定语从句: who jumped without a job (修饰 Those)"
+      ],
+      "corePattern": "jump without a job / land in top positions / not always"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Ellen Marram quit as chief of Tropicana a decade ago, saying she wanted to be a CEO.",
+    "translation": "十年前，艾伦·马拉姆辞去纯果乐公司总裁一职，说她想当首席执行官。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 + 现在分词伴随状语",
+      "mainClause": "Ellen Marram quit as chief of Tropicana a decade ago",
+      "subordinateClauses": [
+        "伴随状语: saying she wanted to be a CEO (含宾语从句)"
+      ],
+      "corePattern": "quit as chief / say that..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "It was a year before she became head of a tiny Internet-based commodities exchange.",
+    "translation": "过了一年，她才成为一家小型互联网商品交易所的负责人。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (It was + 时间段 + before 从句)",
+      "mainClause": "It was a year",
+      "subordinateClauses": [
+        "时间状语从句: before she became head of a tiny Internet-based commodities exchange"
+      ],
+      "corePattern": "It was ... before ... (过了多久才...)"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "Robert Willumstad left Citigroup in 2005 with ambitions to be a CEO.",
+    "translation": "2005年，罗伯特·威伦斯塔德怀着成为首席执行官的抱负离开了花旗集团。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (主谓宾 + 介词短语状语)",
+      "mainClause": "Robert Willumstad left Citigroup in 2005 with ambitions to be a CEO",
+      "subordinateClauses": [],
+      "corePattern": "leave with ambitions to be a CEO"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P5-S5",
+      "pIndex": 5
+    },
+    "text": "He finally took that post at a major financial institution three years later.",
+    "translation": "三年之后，他终于在一家大型金融机构谋得该职位。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (主谓宾 + 介词短语状语 + 时间状语)",
+      "mainClause": "He finally took that post at a major financial institution three years later",
+      "subordinateClauses": [],
+      "corePattern": "take that post at / financial institution"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Many recruiters say the old disgrace is fading for top performers.",
+    "translation": "许多招聘人员表示，对于表现优异的高管来说，过去那种失业的耻辱感正在消退。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (宾语从句)",
+      "mainClause": "Many recruiters say (that) the old disgrace is fading for top performers",
+      "subordinateClauses": [
+        "宾语从句: the old disgrace is fading for top performers"
+      ],
+      "corePattern": "old disgrace is fading / top performers"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "The financial crisis has made it more acceptable to be between jobs or to leave a bad one.",
+    "translation": "金融危机使得处于两份工作之间的空档期，或从一份糟糕的工作中抽身离开变得更容易被人接受。",
+    "syntaxAnalysis": {
+      "structureType": "复杂简单句 (make + it形式宾语 + 形容词宾补 + 不定式真正宾语)",
+      "mainClause": "The financial crisis has made it more acceptable to be between jobs or to leave a bad one",
+      "subordinateClauses": [
+        "真正宾语并列: to be between jobs or to leave a bad one",
+        "代词: one 指代 job"
+      ],
+      "corePattern": "make it more acceptable to do sth / be between jobs"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        29
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "\"The traditional rule was it's safer to stay where you are, but that's been fundamentally inverted,\" says one headhunter.",
+    "translation": "一位猎头说：“过去的规则是待在原地更稳妥，但如今这一点已经彻底颠倒过来了。”",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 (直接引语 + 并列句 + 地点状语从句)",
+      "mainClause": "The traditional rule was (that) it's safer to stay where you are, but that's been fundamentally inverted",
+      "subordinateClauses": [
+        "表语从句: (that) it's safer to stay where you are",
+        "地点状语从句: where you are",
+        "代词: that 指代传统规则"
+      ],
+      "corePattern": "traditional rule was / stay where you are / fundamentally inverted"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        29,
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P6-S4",
+      "pIndex": 6
+    },
+    "text": "\"The people who've been hurt the worst are those who've stayed too long.\"",
+    "translation": "“受伤害最深的，恰恰是那些待得太久的人。”",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (双重定语从句结构)",
+      "mainClause": "The people are those",
+      "subordinateClauses": [
+        "定语从句1: who've been hurt the worst (修饰 The people)",
+        "定语从句2: who've stayed too long (修饰 those)"
+      ],
+      "corePattern": "be hurt the worst / stay too long"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        29,
+        30
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  }
+]

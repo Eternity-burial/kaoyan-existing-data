@@ -1,0 +1,362 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "From the early days of broadband, advocates for consumers and web-based companies worried that the cable and phone companies selling broadband connections had the power and incentive to favor affiliated websites over their rivals'.",
+    "translation": "自宽带技术问世伊始，消费者权益倡导者以及互联网企业就深感忧虑：销售宽带网络接入服务的有线电视与电信巨头，完全有能力且有强烈动力去偏袒优待其自营关联网站（favor affiliated websites / show partiality in treating clients），而残酷打压其竞争对手。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "That's why there has been such a strong demand for rules that would prevent broadband providers from picking winners and losers online, preserving the freedom and innovation that have been the lifeblood of the Internet.",
+    "translation": "正因如此，社会上才会产生如此强烈的呼声，迫切要求出台硬性规则来严禁宽带运营商在网络上随意‘钦点输赢赢家’，从而切实捍卫作为互联网生命线源泉的开放自由与开拓创新精神。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Yet that demand has been almost impossible to fill—in part because of pushback from broadband providers, anti-regulatory conservatives and the courts. A federal appeals court weighed in again Tuesday, but instead of providing a badly needed resolution, it only prolonged the fight.",
+    "translation": "然而，这一合理诉求却几乎难以得到满足——部分是由于来自宽带运营商、反监管保守派以及法院系统的强大阻挠反弹。联邦上诉法院周二再度介入裁决，但它非但未能提供迫切需要的终局解决方案，反而仅仅拉长拖延了这场旷日持久的法律战火。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "An issue before the U.S. Court of Appeals for the District of Columbia Circuit was the latest take of the Federal Communications Commission (FCC) on net neutrality, adopted on a party-line vote in 2017.",
+    "translation": "哥伦比亚特区联邦巡回上诉法院所面临的核心争议，正是联邦通信委员会（FCC）在2017年依党派界线投票通过的关于网络中立性的最新立场。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "The Republican-penned order not only eliminated the strict net neutrality rules the FCC had adopted when it had a Democratic majority in 2015, but rejected the commission's authority to require broadband providers to do much of anything. The order also declared that state and local governments couldn't regulate broadband providers either.",
+    "translation": "这项由共和党人主笔起草的行政命令，不仅彻底废除了 FCC 在2015年民主党占多数时期所通过的严格网络中立规则，而且全盘否定了委员会自身要求宽带运营商履行任何监管作为的法定权威（takes an anti-regulatory stance）。该命令甚至还悍然宣称：各州和地方政府同样一律不得对宽带运营商实施任何监管。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The commission argued that other agencies would protect against anti-competitive behavior, such as a broadband-providing conglomerate like AT&T favoring its own video-streaming service at the expense of Netflix and Apple TV.",
+    "translation": "联邦通信委员会辩解称，其他政府机构自然会防范反竞争行为——例如像 AT&T 这样集宽带与内容于一身的综合性企业巨头，以牺牲奈飞（Netflix）和苹果电视（Apple TV）等竞争对手为惨重代价来偏袒扶持自家的流媒体视频服务（engages in anti-competitive practices）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Yet the FCC also ended the investigations of broadband providers that imposed data caps on their rivals' streaming services but not their own.",
+    "translation": "然而令人大跌眼镜的是，FCC 随后竟然直接草草终止了针对那些对竞争对手流媒体服务强加数据流量上限（data caps）、却对自身关联服务彻底免流的宽带运营商的反垄断调查！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "On Tuesday, the appeals court unanimously upheld the 2017 order deregulating broadband providers, citing a Supreme Court ruling from 2005 that upheld a similarly deregulatory move.",
+    "translation": "周二，联邦上诉法院全体一致维持了2017年对宽带运营商予以‘去监管化’的行政命令，援引了最高法院2005年支持类似去监管举措的一项旧判例。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "But Judge Patricia Millett rightly argued in a concurring opinion that \"the result is unhinged from the realities of modern broadband service,\" and said Congress or the Supreme Court could intervene to \"avoid trapping Internet regulation in technological anachronism.\"",
+    "translation": "然而帕特里夏·米莱特法官在协同意见书中极其一针见血且正确地指出：“这一判决结果已经完全脱离了现代宽带服务的客观现实（unhinged from realities / out of touch with reality）”，并明确表示国会或最高法院应当主动介入干预，“以避免使互联网监管沦为技术时代错乱的荒谬囚徒”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "In the meantime, the court threw out the FCC's attempt to block all state rules on net neutrality, while preserving the commission's power to preempt individual state laws that undermine its order.",
+    "translation": "与此同时，法院直接驳回了 FCC 企图全面封杀各州网络中立立法规则的图谋，但同时保留了委员会推翻那些削弱其命令的个别州法律的联邦优先权。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "That means more battles like the one now going on between the Justice Department and California, which enacted a tough net neutrality law in the wake of the FCC's abdication.",
+    "translation": "这意味着未来必将爆发更多类似司法部与加州之间的激烈法律战火——在 FCC 彻底放弃监管职责（abdication）之后，加州迅速自主颁布了一部极其严苛的州级网络中立法。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2021-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "The endless legal battles and back-and-forth at the FCC cry out for Congress to act. It needs to give the commission explicit authority once and for all to bar broadband providers from meddling in the traffic on their network and to create clear rules protecting openness and innovation online.",
+    "translation": "无休止的法律诉讼缠斗以及 FCC 内部朝令夕改的反复倒退，都在极度迫切地大声呼唤国会必须果断采取行动（cry out for Congress to act / Congress needs to take action to ensure net neutrality）！国会必须一劳永逸地赋予该委员会明确法定的监管授权，严禁宽带运营商随意插手干预其网络上的流量分发，并制定清晰刚性的规则以切实保护互联网的开放透明与开拓创新！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2021.js",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:febcd065305371e26c7df9504b1fa879e1314ca4e0363840468ddf69951fb3d6"
+    }
+  }
+]

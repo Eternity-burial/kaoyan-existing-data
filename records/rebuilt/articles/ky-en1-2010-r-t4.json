@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2010-r-t4",
+  "year": 2010,
+  "textNumber": 4,
+  "title": "Accounting Standard-Setters Under Political Pressure",
+  "chineseTitle": "政治施压下的会计准则倒退：次贷危机中的公允价值保卫战",
+  "topic": null,
+  "topicDomain": "商经政法",
+  "subTopic": "金融监管与公允价值会计准则危机",
+  "overview": null,
+  "wordCount": 412,
+  "readingTimeEstimate": "8-10 min",
+  "difficultyRating": "★★★★★",
+  "sourcePublication": "The Economist (Finance and Economics / Accounting Special)",
+  "paragraphCount": 6,
+  "sentenceCount": 12,
+  "vocabularyCount": 8,
+  "phraseCount": 11,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "次贷危机深水区：当会计准则沦为政治绞肉机的牺牲品",
+      "subtitle": "‘公允价值计价’（Mark-to-Market）为何险些葬送华尔街？",
+      "coreNarrative": "2008年席卷全球的次贷金融海啸，不仅是一场资产流动性危机，更是一场触及资本主义市场基石的‘会计哲学大决战’。在现代金融会计体系中，最神圣的原则是‘公允价值计量’（Fair-Value Accounting，俗称以市值计价 Mark-to-Market）。该规则要求金融机构每一季度必须按照当时公开市场上能够实际成交的真实客观市价，对其持有的次贷衍生品（MBS、CDO等）重新评估账面价值。如果市价跌了，就必须毫不留情地从当期净利润中扣除账面亏损。然而次贷危机爆发后，市场彻底陷入流动性冰封，许多复杂金融产品的交易价格断崖式暴跌至一文不值。各大银行如果严格遵守公允价值规则，就必须立刻在财报上计提天文数字的巨额资产减值，导致银行资本充足率瞬间穿透监管红线，直接触发破产清算清偿！",
+      "thePoliticalCapitulationExplained": "面对灭顶之灾，华尔街银行家们展开了人类金融史上最疯狂的‘政界围魏救赵’游说行动：他们组织庞大说客团冲向美国国会山，将灾难全盘甩锅给会计准则制定机构 FASB，威胁议员‘如果你们不勒令修改规则，全美银行将在下周集体倒闭，大萧条将彻底降临’。在国会议员极其野蛮粗暴的政治听证会施压（bruising encounter）下，原本独立于政界、执掌资本市场度量衡的 FASB 终于被迫举旗投降（capitulation），放宽规则允许银行‘用自己的内部数学模型自己给自己估值’，并推迟亏损确认。欧洲各国政府财长随即强逼 IASB 亦步亦趋。这篇《经济学人》社论以冷峻犀利的笔触揭露：这不过是在用篡改度量衡尺子的方式自欺欺人，将有毒资产在账簿上掩耳盗铃，虽然暂时推迟了算账清算之日（day of reckoning），却严重摧毁了资本市场最核心的生命线——财务透明度与准则独立性。",
+      "crossExamLinks": [
+        {
+          "year": "2014 Text 3",
+          "theme": "企业社会责任与透明度监督",
+          "relevance": "探讨商业机构在公众利益与短期资本私利之间的博弈"
+        },
+        {
+          "year": "2008 Text 3",
+          "theme": "美国经济监管体制与大萧条反思",
+          "relevance": "探讨政商关系对独立监管与金融稳定的破坏机制"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "商经政法 · 金融监管与会计制度",
+      "coreConceptRoots": [
+        {
+          "root": "count- / put-",
+          "meaning": "计算，考虑",
+          "words": [
+            "accounting (会计)",
+            "accountant (会计师)",
+            "dispute (争议)",
+            "reputation (声誉)"
+          ]
+        },
+        {
+          "root": "liqu-",
+          "meaning": "流动，液体",
+          "words": [
+            "illiquid (无流动性的/难变现的)",
+            "liquidity (流动性)",
+            "liquidate (清算/清偿)"
+          ]
+        },
+        {
+          "root": "val- / vail-",
+          "meaning": "价值，力量",
+          "words": [
+            "value (价值)",
+            "evaluate (评估)",
+            "prevail (盛行)",
+            "valid (有效的)"
+          ]
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "word": "toxic",
+          "pos": "adj.",
+          "meaning": "有毒的；不良资产",
+          "examTips": "次贷金融危机专属高频隐喻词，如 toxic assets, toxic debts"
+        },
+        {
+          "word": "reckoning",
+          "pos": "n.",
+          "meaning": "清算，算账",
+          "examTips": "常用于 day of reckoning，指逃避后的最终惩罚结算"
+        },
+        {
+          "word": "transparency",
+          "pos": "n.",
+          "meaning": "透明度",
+          "examTips": "现代金融与政治治理核心高频词，反义词 opacity"
+        },
+        {
+          "word": "capitulate",
+          "pos": "v.",
+          "meaning": "屈服，投降",
+          "examTips": "高阶政治法治词汇，常与 to 连用"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2010_t4.json",
+    "year": 2010,
+    "articleKey": "ky-en1-2010-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:e44438140d60373c9abc2c598c28203dec1934c364c40b4f8bea5ac90179145a"
+  }
+}

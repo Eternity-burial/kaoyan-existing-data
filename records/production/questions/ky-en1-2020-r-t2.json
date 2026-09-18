@@ -1,0 +1,584 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "Scientific publishing is seen as \"a licence to print money\" partly because",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "its funding has enjoyed a steady increase.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】是大学的订阅支出暴增，非出版商获得的资助增长。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "its marketing strategy has been successful.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偏离核心】暴利根源在于免费获取生产资料并垄断分发，非营销策略高明。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "its payment for peer review is reduced.",
+        "isCorrect": false,
+        "distractorType": "程度偏差与正反颠倒",
+        "analysis": "【干扰特征: 事实相反】同行评审从一开始就是彻底免费的（perform work also for free），根本无需任何报酬支付，非减少报酬。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "its content acquisition costs nothing.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P1-S1 和 P1-S2 明确阐述“印钞执照”的核心奥秘：'supply the articles without monetary reward... peer review also for free... With the content of papers secured for free'（科学家无偿提供文章，同行评审完全免费，论文核心内容获取完全零成本）。D选项 its content acquisition costs nothing（其内容获取成本为零）是对 secured for free 与 without monetary reward 最精准的同义改写。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2",
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节原因题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "supply articles without monetary reward + peer review for free + content secured for free = content acquisition costs nothing。",
+      "methodSummary": "暴利因果定位：抓准 without monetary reward 与 secured for free 对应的 costs nothing。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Scientific publishing",
+        "licence to print money",
+        "partly because"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "According to Paragraphs 2 and 3, scientific publishers Elsevier have",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "thrived mainly on university libraries.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 和 P3-S1 明确指出出版巨头的暴利源泉：'university libraries were not very price sensitive... report profit margins approaching 40%... UK universities alone spent more than £210m in 2016 to access research'（大学图书馆对价格不敏感使得出版商狂赚40%暴利，仅英国各大学就每年狂掷2.1亿英镑订阅）。A选项 thrived mainly on university libraries（主要依靠大学图书馆繁荣滋养）精准概括了这一依赖高校图书馆垄断高价的暴利模式。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "gone through an existential crisis.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒张冠李戴",
+        "analysis": "【干扰特征: 颠倒主体】深陷生存危机的是出版行业的其他领域（rest of publishing industry），而学术出版商利润逼近40%。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "revived the publishing industry.",
+        "isCorrect": false,
+        "distractorType": "无中生有夸大",
+        "analysis": "【干扰特征: 无端拔高】它只是自身狂揽暴利，并未复兴整个出版行业。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "financed researchers generously.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒荒谬",
+        "analysis": "【干扰特征: 事实完全颠倒】科研人员是无偿奉献且反遭盘剥，资助科研的是政府公共资金（publicly funded）。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S1",
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "university libraries not price sensitive + UK universities spent £210m = thrived mainly on university libraries。",
+      "methodSummary": "暴利买家定位法：抓准 university libraries not sensitive 与 UK universities spent £210m。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraphs 2 and 3",
+        "scientific publishers Elsevier have"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "How does the author feel about the success of Sci-Hub?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Relieved.",
+        "isCorrect": false,
+        "distractorType": "态度不准",
+        "analysis": "【干扰特征: 宽慰排除】Sci-Hub 彻底违法（thoroughly illegal）且标志着整个版权生态失序，作者绝非感到如释重负（relieved）。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Puzzled.",
+        "isCorrect": false,
+        "distractorType": "困惑排除",
+        "analysis": "【干扰特征: 困惑排除】作者非常清楚其成功背后的深层原因，毫无困惑不解（puzzled）。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Concerned.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 态度精准匹配】P4-S1 和 P4-S2 明确展现作者的深沉反思：指出 Sci-Hub 属于彻底违法的极端对抗（thoroughly illegal），它的流行深刻揭示出“现行合法生态系统在用户中已彻底丧失合法正当性，必须予以重塑”（legal ecosystem has lost legitimacy among users and must be transformed）。作者对这种由于体制垄断导致整个合法学术生态崩溃与失序的严峻危机充满了深切的忧虑与关切（Concerned）。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Encouraged.",
+        "isCorrect": false,
+        "distractorType": "支持非法排除",
+        "analysis": "【干扰特征: 鼓励违法排除】作者绝未鼓励违法侵权行为，而是借此反思法律生态的合法性危机。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "thoroughly illegal + legal ecosystem has lost legitimacy and must be transformed = Concerned（忧虑的/关切的）。",
+      "methodSummary": "生态危机态度题：legal ecosystem lost legitimacy and must be transformed 表达了对体制失序的深切忧虑（Concerned）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author feel about",
+        "success of Sci-Hub"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "It can be learned from Paragraphs 5 and 6 that open access terms",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "allow publishers some room to make money.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P5-S1 明确说明开放获取条款的妥协性规定：'paywalled for a year or more so that the publishers can make a profit before being placed on general release'（设置一年或更久的付费墙，以便出版商在公开发布前能够赚取利润）。A选项 allow publishers some room to make money（允许出版商保留一些赚钱空间）是对 make a profit 句最精准的同义改写。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "render publishing much easier for scientists.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】出版商向科学家收取昂贵版面费（£500至$5000），出版变得更加沉重困难。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "reduce the cost of publication substantially.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】第六段明确指出并未变得便宜（not worked out any cheaper），费用涨幅超通胀。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "free universities from financial burdens.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】大学开销并未减少，仍需承担订阅费和加工费双重重负。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "paywalled for a year or more so publishers can make a profit = allow publishers some room to make money。",
+      "methodSummary": "原句细节对应：so that publishers can make a profit 转换为 allow publishers some room to make money。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraphs 5 and 6",
+        "open access terms"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2020-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Which of the following characterizes the scientific publishing model?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Trial subscription is offered.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】未提及试用订阅机制。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Labour triumphs over status.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】劳动者是为了换取虚幻的声誉地位而无偿付出劳动（in exchange for the hope of status）。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Costs are well controlled.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】成本和收费涨幅远超通货膨胀失控攀升，绝非控制良好。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The few feed on the many.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全篇主旨高度升华】P7-S1 在全篇总结中提炼学术出版的核心剥削特征：'labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places'（广大科研人员免费奉献劳动，而极少数掌控平台的巨头企业却赚取滔天暴利）。D选项 The few feed on the many（极少数人靠盘剥大多数人牟取暴利）以极其深刻犀利的哲理概括了全篇揭露的学术垄断剥削本质。",
+        "refSentences": [
+          "P1-S1",
+          "P7-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "篇章主旨概括题",
+    "targetSentences": [
+      "P1-S1",
+      "P7-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "labour is free for status + huge profits made by a few big firms = The few feed on the many（少数人盘剥多数人）。",
+      "methodSummary": "末段本质概括法：抓准 a few big firms make huge profits while labour is free 对应的 The few feed on the many。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "characterizes",
+        "scientific publishing model"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2020.js",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0a18ece0d029f47e3259aa055dd9c27730efd1325077bcd6bd5f0fe5a923496f"
+    }
+  }
+]

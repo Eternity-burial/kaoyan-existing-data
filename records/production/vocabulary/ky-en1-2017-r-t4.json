@@ -1,0 +1,1146 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "unanimous",
+    "word": "unanimous",
+    "ipa": "/juˈnænɪməs/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "全体一致的，无异议的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "overturned",
+    "word": "overturned",
+    "ipa": "/ˌəʊvəˈtɜːnd/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "推翻，撤销（判决）",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "conviction",
+    "word": "conviction",
+    "ipa": "/kənˈvɪkʃn/",
+    "pos": null,
+    "sourceLocation": "P1-S1",
+    "contextMeaning": "定罪，判罪",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "ethics",
+    "word": "ethics",
+    "ipa": "/ˈeθɪks/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "道德准则，行为规范",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "conduct",
+    "word": "conduct",
+    "ipa": "/ˈkɒndʌkt/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "行为，举止",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "access",
+    "word": "access",
+    "ipa": "/ˈækses/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "接近机会，接见渠道",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "holding its nose",
+    "word": "holding its nose",
+    "ipa": "/ˈhəʊldɪŋ ɪts nəʊz/",
+    "pos": null,
+    "sourceLocation": "P1-S2",
+    "contextMeaning": "捏住鼻子忍受，嗤之以鼻",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "official acts",
+    "word": "official acts",
+    "ipa": "/əˈfɪʃl ækts/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "公务行为，官方公职决议",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "specific",
+    "word": "specific",
+    "ipa": "/spəˈsɪfɪk/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "特定的，具体的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "unsettled",
+    "word": "unsettled",
+    "ipa": "/ʌnˈsetld/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "待定的，未决的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "duties",
+    "word": "duties",
+    "ipa": "/ˈdjuːtiz/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "公职职责，职务义务",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "trial",
+    "word": "trial",
+    "ipa": "/ˈtraɪəl/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "庭审，案件审理",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "jury",
+    "word": "jury",
+    "ipa": "/ˈdʒʊəri/",
+    "pos": null,
+    "sourceLocation": "P2-S1",
+    "contextMeaning": "陪审团",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "pressure",
+    "word": "pressure",
+    "ipa": "/ˈpreʃə(r)//",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "施加行政压力，强力施压",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "justices",
+    "word": "justices",
+    "ipa": "/ˈdʒʌstɪsɪz/",
+    "pos": null,
+    "sourceLocation": "P3-S1",
+    "contextMeaning": "最高法院大法官",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "distasteful",
+    "word": "distasteful",
+    "ipa": "/dɪsˈteɪstfl/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "令人反感的，令人不齿的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "nasty",
+    "word": "nasty",
+    "ipa": "/ˈnɑːsti/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "卑鄙的，龌龊的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "in return for",
+    "word": "in return for",
+    "ipa": "/ɪn rɪˈtɜːn fɔː/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "作为对……的回报/报答",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "opening doors",
+    "word": "opening doors",
+    "ipa": "/ˈəʊpnɪŋ dɔːz/",
+    "pos": null,
+    "sourceLocation": "P4-S1",
+    "contextMeaning": "牵线搭桥，行方便，开后门",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "concrete",
+    "word": "concrete",
+    "ipa": "/ˈkɒŋkriːt/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "具体的，实实在在的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "regulation",
+    "word": "regulation",
+    "ipa": "/ˌreɡjuˈleɪʃn/",
+    "pos": null,
+    "sourceLocation": "P4-S2",
+    "contextMeaning": "规章，行政法令",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "favoritism",
+    "word": "favoritism",
+    "ipa": "/ˈfeɪvərɪtɪzəm/",
+    "pos": null,
+    "sourceLocation": "P5-S1",
+    "contextMeaning": "偏袒，徇私照顾",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "bureaucratic",
+    "word": "bureaucratic",
+    "ipa": "/ˌbjʊərəˈkrætɪk/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "官僚体制的，繁文缛节的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "prosecution",
+    "word": "prosecution",
+    "ipa": "/ˌprɒsɪˈkjuːʃn/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "起诉，检控",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "bribery",
+    "word": "bribery",
+    "ipa": "/ˈbraɪbəri/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "受贿，行贿，贿赂罪",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "deal with",
+    "word": "deal with",
+    "ipa": "/diːl wɪð/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "协助解决，应对处理",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "without fear of",
+    "word": "without fear of",
+    "ipa": "/wɪðˈaʊt fɪə(r) əv/",
+    "pos": null,
+    "sourceLocation": "P5-S2",
+    "contextMeaning": "不用担心，无惧于",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "compact",
+    "word": "compact",
+    "ipa": "/ˈkɒmpækt/",
+    "pos": null,
+    "sourceLocation": "P5-S3",
+    "contextMeaning": "契约，政治立约",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "constituents",
+    "word": "constituents",
+    "ipa": "/kənˈstɪtʃʊənts/",
+    "pos": null,
+    "sourceLocation": "P5-S3",
+    "contextMeaning": "选民，选区居民",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "representative",
+    "word": "representative",
+    "ipa": "/ˌreprɪˈzentətɪv/",
+    "pos": null,
+    "sourceLocation": "P5-S3",
+    "contextMeaning": "代议制的，代表制的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "act on",
+    "word": "act on",
+    "ipa": "/ækt ɒn/",
+    "pos": null,
+    "sourceLocation": "P5-S3",
+    "contextMeaning": "依据……行事，落实关切",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "donation",
+    "word": "donation",
+    "ipa": "/dəʊˈneɪʃn/",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "政治献金，竞选捐赠",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "play favorites",
+    "word": "play favorites",
+    "ipa": "/pleɪ ˈfeɪvərɪts/",
+    "pos": null,
+    "sourceLocation": "P6-S2",
+    "contextMeaning": "厚此薄彼，拉偏架，徇私偏袒",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "integrity",
+    "word": "integrity",
+    "ipa": "/ɪnˈteɡrəti/",
+    "pos": null,
+    "sourceLocation": "P6-S3",
+    "contextMeaning": "廉正，正直操守",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "transparency",
+    "word": "transparency",
+    "ipa": "/trænsˈpærənsi/",
+    "pos": null,
+    "sourceLocation": "P6-S3",
+    "contextMeaning": "政务公开度，透明度",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "lobbying",
+    "word": "lobbying",
+    "ipa": "/ˈlɒbiɪŋ/",
+    "pos": null,
+    "sourceLocation": "P6-S3",
+    "contextMeaning": "游说活动，院外游说",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "source of wealth",
+    "word": "source of wealth",
+    "ipa": "/sɔːs əv welθ/",
+    "pos": null,
+    "sourceLocation": "P6-S3",
+    "contextMeaning": "个人财富来源，财产申报",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "perceptions",
+    "word": "perceptions",
+    "ipa": "/pəˈsepʃnz/",
+    "pos": null,
+    "sourceLocation": "P7-S1",
+    "contextMeaning": "公众认知，社会感知",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "double standards",
+    "word": "double standards",
+    "ipa": "/ˈdʌbl ˈstændədz/",
+    "pos": null,
+    "sourceLocation": "P7-S3",
+    "contextMeaning": "双重标准，差别待遇",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "undermined",
+    "word": "undermined",
+    "ipa": "/ˌʌndəˈmaɪnd/",
+    "pos": null,
+    "sourceLocation": "P7-S4",
+    "contextMeaning": "遭到削弱，动摇侵蚀",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "premise",
+    "word": "premise",
+    "ipa": "/ˈpremɪs/",
+    "pos": null,
+    "sourceLocation": "P7-S4",
+    "contextMeaning": "立国前提，基石先决条件",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "inherent",
+    "word": "inherent",
+    "ipa": "/ɪnˈherənt/",
+    "pos": null,
+    "sourceLocation": "P7-S5",
+    "contextMeaning": "固有的，内在的",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "red"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "governance",
+    "word": "governance",
+    "ipa": "/ˈɡʌvənəns/",
+    "pos": null,
+    "sourceLocation": "P7-S5",
+    "contextMeaning": "国家治理，施政管治",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "green"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "surface": "step forward",
+    "word": "step forward",
+    "ipa": "/step ˈfɔːwəd/",
+    "pos": null,
+    "sourceLocation": "P8-S1",
+    "contextMeaning": "向前迈进的重要一步，积极进展",
+    "examMeaning": null,
+    "collocationOrDerivation": null,
+    "frequencyRating": null,
+    "isSelfAnnotated": false,
+    "rawFields": {
+      "level": "purple"
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  }
+]

@@ -1,0 +1,476 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2008-r-t4",
+  "year": 2008,
+  "textNumber": 4,
+  "title": "Founding Fathers and the Dilemma of Slavery",
+  "chineseTitle": "开国元勋与奴隶制道德困境：从华盛顿换牙透视建国初期的历史妥协",
+  "topic": null,
+  "topicDomain": "早期美国历史与政治伦理",
+  "subTopic": "开国元勋与奴隶制的道德悖论、制宪会议五分之三条款的妥协、选举人团制度的政治红利与华盛顿杰斐逊的复杂人性",
+  "overview": null,
+  "wordCount": 382,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 19,
+  "vocabularyCount": 105,
+  "phraseCount": 63,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {
+    "year": 2008,
+    "textIndex": 4,
+    "source": "选自 The New York Times (《纽约时报》) 历史文化专栏评论",
+    "backgroundKnowledge": {
+      "historicalBackground": "1776年《独立宣言》庄严宣告‘人人生而平等’（all men are created equal），享有不可剥夺的生命、自由与追求幸福的权利；然而在1787年费城制宪会议上，为了换取南方蓄奴各州加入美利坚合众国联邦，开国元勋们达成了著名的‘五分之三妥协’（Three-Fifths Compromise），规定在按人口分配众议院席位和选举人票时，每名黑奴按五分之三自由人折算。这一妥协虽然在脆弱的建国初生期保全了联邦统一，却让奴隶制深深嵌入了美国的政治与经济基石，最终在八十年后酿成南北内战。",
+      "coreFigures": "乔治·华盛顿（George Washington）：美利坚合众国首任总统、大陆军总司令，名下拥有弗农山庄数百黑奴，晚年在遗嘱中释放所有奴隶；托马斯·杰斐逊（Thomas Jefferson）：《独立宣言》主要起草人、第三任总统，通过1803年路易斯安那购地案扩大了蓄奴州版图，与黑奴萨莉·海明斯（Sally Hemings）育有多名私生子；亨利·温切克（Henry Wiencek）：著名历史传记作家，《不完美的神》（An Imperfect God）作者，深入挖掘了开国领袖在道德与制度之间的纠葛。",
+      "historiographicalTurn": "20世纪70年代以来，史学界兴起‘自下而上’（from the bottom up）的新社会史与微观史学范式，突破了将华盛顿、杰斐逊等建国元勋奉为‘砍樱桃树从不撒谎’的超人神话叙事。结合现代分子生物学DNA证据对私生活与血缘关系的实证检验，现代史学将开国一代放置在历史的具体局限与制度脆弱性中，还原了其既深怀理性启蒙理念、又在经济利益与权力斗争中不断妥协妥协再妥协的复杂人性。"
+    },
+    "wordFamilyCapsules": [
+      {
+        "root": "promise / compromis- (诺言/妥协)",
+        "meaning": "表示允诺、妥协与折中",
+        "words": [
+          {
+            "word": "compromise",
+            "pos": "n./v.",
+            "meaning": "妥协，折中；危害，连累"
+          },
+          {
+            "word": "uncompromising",
+            "pos": "adj.",
+            "meaning": "不妥协的，坚定的，强硬的"
+          },
+          {
+            "word": "promise",
+            "pos": "n./v.",
+            "meaning": "许诺，前途，希望"
+          }
+        ]
+      },
+      {
+        "root": "hamper / imped- (阻碍/束缚)",
+        "meaning": "表示妨碍、束缚与牵制",
+        "words": [
+          {
+            "word": "hamper",
+            "pos": "v.",
+            "meaning": "妨碍，束缚，牵制"
+          },
+          {
+            "word": "impede",
+            "pos": "v.",
+            "meaning": "阻碍，妨碍，阻止"
+          },
+          {
+            "word": "impediment",
+            "pos": "n.",
+            "meaning": "妨碍，阻碍物"
+          }
+        ]
+      },
+      {
+        "root": "peculiar (特有的/古怪的)",
+        "meaning": "表示独特的、特有的或古怪反常的",
+        "words": [
+          {
+            "word": "peculiar",
+            "pos": "adj.",
+            "meaning": "独特的；古怪的；特有的"
+          },
+          {
+            "word": "peculiarity",
+            "pos": "n.",
+            "meaning": "独特性，古怪，怪癖"
+          },
+          {
+            "word": "peculiarly",
+            "pos": "adv.",
+            "meaning": "特有地，古怪地，极其"
+          }
+        ]
+      },
+      {
+        "root": "found / fund- (基础/建立)",
+        "meaning": "表示底座、基础与创立",
+        "words": [
+          {
+            "word": "found",
+            "pos": "v.",
+            "meaning": "建立，创立，创办"
+          },
+          {
+            "word": "founder",
+            "pos": "n./v.",
+            "meaning": "创建者；沉没，破产，失败"
+          },
+          {
+            "word": "foundation",
+            "pos": "n.",
+            "meaning": "基础，地基，基金会"
+          },
+          {
+            "word": "bedrock",
+            "pos": "n.",
+            "meaning": "岩床，基础，根本原则"
+          }
+        ]
+      }
+    ],
+    "nuances": [
+      {
+        "word": "image",
+        "location": "P2 L1",
+        "familiarMeaning": "图片，图像",
+        "examMeaning": "人物形象，公众印象",
+        "contextCollocation": "a far different image"
+      },
+      {
+        "word": "chop",
+        "location": "P2 L1",
+        "familiarMeaning": "切碎",
+        "examMeaning": "砍，劈",
+        "contextCollocation": "cherry-tree-chopping George"
+      },
+      {
+        "word": "lives",
+        "location": "P2 L3",
+        "familiarMeaning": "生命数量",
+        "examMeaning": "生活、人生经历",
+        "contextCollocation": "in the lives of ..."
+      },
+      {
+        "word": "fragile",
+        "location": "P2 L8",
+        "familiarMeaning": "易碎的",
+        "examMeaning": "脆弱的，不稳固的",
+        "contextCollocation": "fragile nature"
+      },
+      {
+        "word": "infancy",
+        "location": "P2 L8",
+        "familiarMeaning": "婴儿期",
+        "examMeaning": "国家或制度的初期",
+        "contextCollocation": "the country’s infancy"
+      },
+      {
+        "word": "bedrock",
+        "location": "P3 L3",
+        "familiarMeaning": "基岩",
+        "examMeaning": "深层根基，基础",
+        "contextCollocation": "political and economic bedrock"
+      },
+      {
+        "word": "afford",
+        "location": "P4 L1",
+        "familiarMeaning": "买得起",
+        "examMeaning": "承担得起某种损失或后果",
+        "contextCollocation": "could not afford to part with"
+      },
+      {
+        "word": "peculiar institution",
+        "location": "P4 L4",
+        "familiarMeaning": "奇怪的机构",
+        "examMeaning": "委婉指奴隶制这一特殊制度",
+        "contextCollocation": "the “peculiar institution”"
+      },
+      {
+        "word": "clause",
+        "location": "P4 L4",
+        "familiarMeaning": "从句",
+        "examMeaning": "法律/宪法条款",
+        "contextCollocation": "including a clause"
+      },
+      {
+        "word": "formula",
+        "location": "P4 L6",
+        "familiarMeaning": "数学公式",
+        "examMeaning": "政治计算方案、制度安排",
+        "contextCollocation": "three-fifths formula"
+      },
+      {
+        "word": "narrow",
+        "location": "P4 L7",
+        "familiarMeaning": "狭窄的",
+        "examMeaning": "微弱的，险胜的",
+        "contextCollocation": "narrow victory"
+      },
+      {
+        "word": "inflating",
+        "location": "P4 L7",
+        "familiarMeaning": "充气，使膨胀",
+        "examMeaning": "虚增，抬高数字",
+        "contextCollocation": "inflating the votes"
+      },
+      {
+        "word": "Electoral College",
+        "location": "P4 L8",
+        "familiarMeaning": "college=大学",
+        "examMeaning": "选举人团",
+        "contextCollocation": "in the Electoral College"
+      },
+      {
+        "word": "extended",
+        "location": "P4 L8",
+        "familiarMeaning": "延长时间",
+        "examMeaning": "扩大制度/影响范围",
+        "contextCollocation": "extended slavery"
+      },
+      {
+        "word": "was carved into",
+        "location": "P4 L9",
+        "familiarMeaning": "雕刻成",
+        "examMeaning": "被划分成",
+        "contextCollocation": "land was carved into states"
+      },
+      {
+        "word": "Still",
+        "location": "P5 L1",
+        "familiarMeaning": "仍然",
+        "examMeaning": "尽管如此，然而",
+        "contextCollocation": "Still, Jefferson freed ..."
+      },
+      {
+        "word": "freed",
+        "location": "P5 L1",
+        "familiarMeaning": "free=自由的/免费的",
+        "examMeaning": "释放，使获得自由",
+        "contextCollocation": "freed Hemings’s children"
+      },
+      {
+        "word": "observing",
+        "location": "P5 L3",
+        "familiarMeaning": "观察",
+        "examMeaning": "还可表示遵守/评论；本文为观察到",
+        "contextCollocation": "after observing the bravery"
+      },
+      {
+        "word": "grant",
+        "location": "P5 L4",
+        "familiarMeaning": "补助金",
+        "examMeaning": "授予，给予",
+        "contextCollocation": "grant his slaves their freedom"
+      },
+      {
+        "word": "stress",
+        "location": "Q36 C",
+        "familiarMeaning": "压力，重音",
+        "examMeaning": "强调",
+        "contextCollocation": "stress the role"
+      },
+      {
+        "word": "delicate",
+        "location": "Q37 B",
+        "familiarMeaning": "精致的",
+        "examMeaning": "微妙的，棘手的",
+        "contextCollocation": "delicate situations"
+      },
+      {
+        "word": "founding",
+        "location": "P2 L3",
+        "familiarMeaning": "易误认为 finding",
+        "examMeaning": "创立的，建国的",
+        "contextCollocation": "founding generation"
+      },
+      {
+        "word": "will",
+        "location": "P5 L5",
+        "familiarMeaning": "将要；意志",
+        "examMeaning": "遗嘱",
+        "contextCollocation": "in his will"
+      },
+      {
+        "word": "stained",
+        "location": "Q38 D",
+        "familiarMeaning": "弄脏衣服",
+        "examMeaning": "玷污名誉/声望",
+        "contextCollocation": "stained his prestige"
+      },
+      {
+        "word": "stand",
+        "location": "Q40 D",
+        "familiarMeaning": "站立；忍受",
+        "examMeaning": "立场，态度",
+        "contextCollocation": "political stand"
+      },
+      {
+        "word": "spurred",
+        "location": "P2 L4",
+        "familiarMeaning": "马刺",
+        "examMeaning": "推动，促使",
+        "contextCollocation": "spurred by DNA evidence"
+      },
+      {
+        "word": "from the bottom up",
+        "location": "P2 L6",
+        "familiarMeaning": "从底部向上",
+        "examMeaning": "从底层群体角度审视",
+        "contextCollocation": "examined history from the bottom up"
+      },
+      {
+        "word": "moral compromises",
+        "location": "P2 L7",
+        "familiarMeaning": "compromise=妥协",
+        "examMeaning": "也含损害原则、道德让步",
+        "contextCollocation": "moral compromises"
+      },
+      {
+        "word": "part with",
+        "location": "P4 L1",
+        "familiarMeaning": "part=部分",
+        "examMeaning": "放弃，割舍",
+        "contextCollocation": "part with its slaves"
+      },
+      {
+        "word": "hand sb. sth.",
+        "location": "P4 L7",
+        "familiarMeaning": "hand=手",
+        "examMeaning": "使某人获得某物",
+        "contextCollocation": "handed Jefferson his victory"
+      },
+      {
+        "word": "Once in office",
+        "location": "P4 L8",
+        "familiarMeaning": "office=办公室",
+        "examMeaning": "就任公职/在任",
+        "contextCollocation": "Once in office"
+      },
+      {
+        "word": "make up",
+        "location": "Q37 C",
+        "familiarMeaning": "组成；化妆",
+        "examMeaning": "编造",
+        "contextCollocation": "made up some stories"
+      }
+    ],
+    "confusions": [
+      {
+        "pair": "slave / slavery / enslavement",
+        "analysis": "slave 是“奴隶”；slavery 是“奴隶制”；enslavement 是“奴役状态/过程”。本文核心是 slavery 的制度作用，而不只是单个 slaves。"
+      },
+      {
+        "pair": "found / founded / find / found",
+        "analysis": "found 作动词表示“建立”，过去式/过去分词是 founded；find 表示“发现/找到”，过去式和过去分词是 found。本文 founding generation 表“建国一代”。"
+      },
+      {
+        "pair": "scholar / student / historian",
+        "analysis": "scholar 是有研究能力的“学者”；student 是学生；historian 是历史学家。选项和原文中 scholar/historian 都指研究者。"
+      },
+      {
+        "pair": "reveal / show / demonstrate / stress",
+        "analysis": "reveal 强调揭示隐藏事实；show 泛指显示；demonstrate 强调证明或说明；stress 强调突出重点。Q36 中 dental surgery 的目的接近 stress the role。"
+      },
+      {
+        "pair": "fragile / delicate",
+        "analysis": "fragile 强调容易受损或崩溃；delicate 强调微妙、敏感、需谨慎处理。Q37 的 delicate situations 概括 P2 的 fragile nature。"
+      },
+      {
+        "pair": "afford / offer / provide",
+        "analysis": "afford 表“承担得起/买得起”；offer 表“主动提供”；provide 表“供应、提供”。could not afford to do 表“承受不起做某事”。"
+      },
+      {
+        "pair": "clause: legal clause / grammar clause",
+        "analysis": "legal clause 是法律或合同条款；grammar clause 是语法从句。本文 Constitution 语境中 clause 是“条款”。"
+      },
+      {
+        "pair": "formula / form / format",
+        "analysis": "formula 可表公式、配方、方案；form 是形式或表格；format 是格式。本文 formula 指政治计算方案。"
+      },
+      {
+        "pair": "narrow / narrow-minded",
+        "analysis": "narrow 可表示狭窄，也可表示差距很小，如 narrow victory；narrow-minded 表心胸狭窄。"
+      },
+      {
+        "pair": "inflate / inflation",
+        "analysis": "inflate 可表示充气、膨胀、虚增；inflation 常指通货膨胀。本文 inflating the votes 指虚增/抬高票数。"
+      },
+      {
+        "pair": "extend / expand",
+        "analysis": "extend 可指时间延长或范围扩大；expand 更突出规模、体积扩张。本文 extended slavery 指扩大奴隶制范围。"
+      },
+      {
+        "pair": "observe / obey / comment",
+        "analysis": "observe 可表示观察、遵守或评论说；obey 只强调服从/遵守。本文 observing 是“观察到”。"
+      },
+      {
+        "pair": "opposition / opponent / opposite",
+        "analysis": "opposition 是反对或反对派；opponent 是对手/反对者；opposite 是相反的。本文 opposition of relatives 指亲属反对。"
+      },
+      {
+        "pair": "grant / admit / allow",
+        "analysis": "grant 强调正式授予或准许；admit 是承认或准入；allow 是允许。grant freedom/rights 常用于权利语境。"
+      },
+      {
+        "pair": "infer / imply",
+        "analysis": "imply 是说话者或文本“暗示”；infer 是读者“推断”。题干 infer 提醒答案要做同义概括而非机械照抄。"
+      },
+      {
+        "pair": "throughout / during / in",
+        "analysis": "throughout 表“贯穿整个……”，范围很大；during 只表在某期间；in 泛指在……中。选项 throughout 常见范围扩大。"
+      },
+      {
+        "pair": "will / willing / willingness",
+        "analysis": "will 作名词可为“意志”或“遗嘱”；willing 是愿意的；willingness 是意愿。P5 in his will 是遗嘱。"
+      },
+      {
+        "pair": "prestige / reputation / fame",
+        "analysis": "prestige 强调声望和威望；reputation 是名声，可好可坏；fame 偏知名度。"
+      },
+      {
+        "pair": "stand / standpoint / stance",
+        "analysis": "stand 可作名词“立场”；standpoint 是观点角度；stance 也指立场，常用于政治或争议话题。"
+      },
+      {
+        "pair": "hire / rent / employ",
+        "analysis": "hire sb. 表雇人；rent sth. 表租物；employ 更正式，常指长期雇佣。P1 中 hire a dentist to do sth. 是雇牙医。"
+      },
+      {
+        "pair": "role ... play in / function / position",
+        "analysis": "the role X plays in Y 表“X在Y中的作用”；function 更偏功能；position 是位置/职位/立场。"
+      },
+      {
+        "pair": "spur / hamper / hinder / impede",
+        "analysis": "spur 表推动、刺激；hamper/hinder/impede 表阻碍。P2 是研究被 DNA 证据推动，P3 是开国者受时代文化限制。"
+      },
+      {
+        "pair": "bottom-up / top-down / from the ground up",
+        "analysis": "bottom-up 表自下而上；top-down 表自上而下；from the ground up 常表从零开始或从基础开始。"
+      },
+      {
+        "pair": "compromise: n. / v.",
+        "analysis": "compromise 可作名词“妥协”，也可作动词“损害、危及”。moral compromises 指道德妥协/原则让步。"
+      },
+      {
+        "pair": "part with / part from",
+        "analysis": "part with sth. 多指割舍某物；part from sb. 多指与人分别。"
+      },
+      {
+        "pair": "count A as B / regard A as B / see A as B",
+        "analysis": "count A as B 更强调计算和认定；regard/see/view A as B 更强调看作或认为。"
+      },
+      {
+        "pair": "hand sb. sth. / hand over",
+        "analysis": "hand sb. sth. 可抽象表示“使某人获得”；hand over 表移交。本文 handed Jefferson his victory 是抽象给予。"
+      },
+      {
+        "pair": "carve into / carve out",
+        "analysis": "carve A into B 表把A划分/切成B；carve out 常表开创事业、开辟空间。"
+      },
+      {
+        "pair": "make up / make up for",
+        "analysis": "make up 可表编造、组成、化妆、和解；make up for 表弥补。Q37 C 中 made up stories 是编造。"
+      }
+    ]
+  },
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2008_t4.json",
+    "year": 2008,
+    "articleKey": "ky-en1-2008-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:0254c775271dd4c408c97aebea5fa78ec58c671b7390328d1fc96264660a4238"
+  }
+}

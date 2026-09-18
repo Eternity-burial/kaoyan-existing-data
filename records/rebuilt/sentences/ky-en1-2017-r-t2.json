@@ -1,0 +1,704 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "\"The ancient Hawaiians were astronomers,\" wrote Queen Liliuokalani, Hawaii's last reigning monarch, in 1897.",
+    "translation": "“古代夏威夷人都是天文学家”，夏威夷最后一位执政君主利留卡拉尼女王于1897年写道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Star watchers were among the most esteemed members of Hawaiian society.",
+    "translation": "观星者曾经是夏威夷社会中最受尊敬的成员之一。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Sadly, all is not well with astronomy in Hawaii today.",
+    "translation": "遗憾的是，在现如今的夏威夷，天文学的发展并不尽如人意。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Protests have erupted over construction of the Thirty Meter Telescope (TMT), a giant observatory that promises to revolutionize humanity's view of the cosmos.",
+    "translation": "当地已经爆发了抗议活动，反对建造三十米望远镜（TMT）——一个可能会彻底改变人类对宇宙认识和看法的巨型天文台。",
+    "syntaxAnalysis": {
+      "structureType": "主谓结构+介词短语+同位语从句与定语从句",
+      "mainClause": "Protests have erupted over construction of the Thirty Meter Telescope (TMT)...",
+      "modifiers": "over construction... 作原因状语；a giant observatory 为 TMT 的同位语；that promises to revolutionize humanity's view of the cosmos 为定语从句修饰 observatory。",
+      "corePattern": "protests erupt over sth.（围绕……爆发抗议）；promise to do sth.（有望做某事）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "At issue is the TMT's planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens.",
+    "translation": "争论的焦点是TMT规划的选址就在莫纳克亚山上——这是一座休眠火山，被一些夏威夷人尊奉为“脐带”，连接着夏威夷群岛与天空。",
+    "syntaxAnalysis": {
+      "structureType": "完全倒装句+同位语+过去分词后置定语+定语从句",
+      "mainClause": "The TMT's planned location on Mauna Kea is at issue.（完全倒装）",
+      "modifiers": "At issue 置于句首引起倒装；a dormant volcano 为 Mauna Kea 的同位语；worshiped by some Hawaiians as the piko 为过去分词短语作后置定语；that connects the Hawaiian Islands to the heavens 为定语从句修饰 piko。",
+      "corePattern": "At issue is sth.（争议的焦点在于……）；connect A to B（将A连接到B）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "But Mauna Kea is also home to some of the world's most powerful telescopes.",
+    "translation": "但是，莫纳克亚山也是世界上一些最强大的望远镜的所在地。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity.",
+    "translation": "莫纳克亚山坐落于太平洋，其顶峰高耸于地球大部分稠密的大气层之上，那里的条件使得望远镜能够获得无与伦比的清晰图像。",
+    "syntaxAnalysis": {
+      "structureType": "过去分词状语+非限制性定语从句复合句",
+      "mainClause": "Mauna Kea's peak rises above the bulk of our planet's dense atmosphere...",
+      "modifiers": "Rested in the Pacific Ocean 作地点状语；above the bulk of... 作介词状语；where 引导非限制性定语从句修饰 peak/atmosphere；allow sth. to do 为宾语补足语结构。",
+      "corePattern": "rise above（高耸于……之上）；unsurpassed clarity（无与伦比的清晰度）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Opposition to telescopes on Mauna Kea is nothing new.",
+    "translation": "反对在莫纳克亚山上建造望远镜并不是什么新鲜事儿。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation.",
+    "translation": "一个由夏威夷人和环境保护主义者组成的人数不多、但却敢于直言的群体，一直以来都把它们的存在视为对圣地的亵渎以及对曾经的主权国家被占领的痛苦回忆。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾补复合句（含介词宾语从句）",
+      "mainClause": "A small but vocal group... have long viewed their presence as disrespect... and a painful reminder...",
+      "modifiers": "A small but vocal group... 作主语；have long viewed 为谓语；their presence 为宾语；as 引导并列补足语；what was once a sovereign nation 作 of 的宾语从句。",
+      "corePattern": "view A as B（将A视作B）；a reminder of sth.（对……的提醒）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Some blame for the current controversy belongs to astronomers.",
+    "translation": "对当前争议的一些指责针对的是天文学家。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "In their eagerness to build bigger telescopes, they forgot that science is not the only way of understanding the world.",
+    "translation": "他们渴望建造更大的望远镜，然而他们却忘记了科学并不是了解世界的唯一方式。",
+    "syntaxAnalysis": {
+      "structureType": "介词状语+宾语从句复合句",
+      "mainClause": "they forgot that science is not the only way of understanding the world.",
+      "modifiers": "In their eagerness to build bigger telescopes 作原因/心理状态状语；that 引导宾语从句；of understanding the world 作定语修饰 way。",
+      "corePattern": "in one's eagerness to do（急于做某事）；the only way of doing（做某事的唯一方式）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "They did not always prioritize the protection of Mauna Kea's fragile ecosystems or its holiness to the islands' inhabitants.",
+    "translation": "他们一直没有优先考虑保护莫纳克亚山脆弱的生态系统，除此之外，他们也没有优先考虑莫纳克亚山在岛上居民心中所具有的神圣地位。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "Hawaiian culture is not a relic of the past; it is a living culture undergoing a renaissance today.",
+    "translation": "夏威夷文化不是过去的遗迹；它是在经历复兴的鲜活文化。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Yet science has a cultural history, too, with roots going back to the dawn of civilization.",
+    "translation": "然而，科学也有文化历史，其根源可以追溯到文明的开端。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "The same curiosity to find what lies beyond the horizon that first brought early Polynesians to Hawaii's shores inspires astronomers today to explore the heavens.",
+    "translation": "探寻地平线之外世界的好奇心最初将早期的波利尼西亚人带到了夏威夷海岸，正是同样的好奇心现在又激励着当今的天文学家探索天空。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going.",
+    "translation": "拆除莫纳克亚山上所有望远镜或者禁止在那里进一步开发的呼吁忽视了这一现实，就是天文学和夏威夷文化都试图回答几个重大的问题：我们是谁，从何而来以及要去往何处。",
+    "syntaxAnalysis": {
+      "structureType": "并列不定式定语主语+同位语从句+并列疑问从句",
+      "mainClause": "Calls... ignore the reality that astronomy and Hawaiian culture both seek to answer big questions...",
+      "modifiers": "to disassemble... or to ban... 为并列不定式短语修饰 Calls；that 引导同位语从句修饰 reality；who we are, where we come from and where we are going 为三个并列从句作 about 的宾语。",
+      "corePattern": "seek to do sth.（试图/寻求做某事）；ignore the reality that...（忽视了……的现实）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "Perhaps that is why we explore the starry skies, as if answering a primal calling to know ourselves and our true ancestral homes.",
+    "translation": "或许这就是我们探索星空的原因，仿佛是在回应了解我们自己和我们祖先真正家园的召唤。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "The astronomy community is making compromises to change its use of Mauna Kea.",
+    "translation": "天文学界正在改变对莫纳克亚山的使用而做出妥协。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "The TMT site was chosen to minimize the telescope's visibility around the island and to avoid archaeological and environmental impact.",
+    "translation": "TMT建造地点的选择最大程度地降低望远镜在岛屿四周的能见度来避免对考古和环境造成影响。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "To limit the number of telescopes on Mauna Kea, old ones will be removed at the end of their lifetimes and their sites returned to their natural state.",
+    "translation": "为了限制莫纳克亚山上望远镜数量，旧望远镜在达到使用年限之后将会被拆除，它们原先所在的地址也会被恢复到自然状态。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P6-S4",
+      "pIndex": 6
+    },
+    "text": "More has to be done, but these are good steps in the right direction.",
+    "translation": "尽管还需要做更多工作，但这些都是朝正确方向迈出的坚实步伐。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t2.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7d0062edc84581f46fc9b73dbd96e74c52d06ba327f0054ea479a3290406827"
+    }
+  }
+]

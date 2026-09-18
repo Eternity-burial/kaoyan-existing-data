@@ -1,0 +1,330 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2009-r-t2",
+  "year": 2009,
+  "textNumber": 2,
+  "title": "DNA Testing and Its Commercial Dilemmas",
+  "chineseTitle": "商业化DNA基因检测热潮与技术伦理漏洞",
+  "topic": null,
+  "topicDomain": "生物技术与消费伦理",
+  "subTopic": "非处方亲子鉴定试剂盒（PTK）的泛滥、祖源溯源的虚假精确性、非系统化拼凑数据库与未受同行评议的专利算法风险",
+  "overview": null,
+  "wordCount": 385,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 17,
+  "vocabularyCount": 115,
+  "phraseCount": 56,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {
+    "year": 2009,
+    "textIndex": 2,
+    "source": "选自 The Washington Post (《华盛顿邮报》) 科技与健康专栏",
+    "backgroundKnowledge": {
+      "directToConsumerGenetics": "直接面向消费者（Direct-to-Consumer, DTC）基因检测的兴起：传统上，基因检测属于严谨的临床医疗手段，必须由执业医师开具处方并在专业医学实验室进行；然而自2007年前后起，随着基因测序成本的大幅骤降，Identigene、23andMe等生物科技公司开始绕过医院，将亲子鉴定试剂盒（PTK）和祖源测试直接投放到普通药房货架及电商平台，掀起了消费级基因狂潮，但也引发了巨大的隐私与监管伦理争议。",
+      "singleLineageTrackingLimitations": "单系遗传追踪的科学局限：商业祖源测试主要依赖两种标记物——男性父系遗传的Y染色体（仅沿父传子单一路径传递）和母系遗传的线粒体DNA（mtDNA，仅由母亲传给子女）。然而，根据二进制定律，仅回溯四代人（高祖辈），每个人就拥有16位直系祖先；回溯十代，直系祖先超过千人。单系测序只能捕捉到这庞大祖先网络中极其边缘的1~2位的信息，借此宣称能够精确还原一个人的全貌祖源，在统计遗传学上属于典型的‘虚假精确性’（false precision）。",
+      "referenceDatabasesAndPeerReview": "数据库代表性偏差与黑箱专利算法：商业DNA公司判定血缘的依据是将客户样本与公司私有的‘参考数据库’（reference database）比对。由于早期数据主要拼凑自零散科研项目，存在严重的地域与族群代表性失衡（如欧美白人样本过载而其他族群极度匮乏）；加之商业公司以商业机密为由对核心估算算法申请专利垄断，拒绝提交给学术界进行双盲同行评审（peer review），导致同一份唾液样本寄往不同公司往往会得出相互矛盾的检测结果。"
+    },
+    "wordFamilyCapsules": [
+      {
+        "root": "patern- / patr- (父亲/父系)",
+        "meaning": "表示父亲、父系与父爱",
+        "words": [
+          {
+            "word": "paternal",
+            "pos": "adj.",
+            "meaning": "父亲的，身为人父的，父系的"
+          },
+          {
+            "word": "paternity",
+            "pos": "n.",
+            "meaning": "父子关系，亲子身份，父权"
+          },
+          {
+            "word": "patriarchy",
+            "pos": "n.",
+            "meaning": "父权制，家长统治"
+          },
+          {
+            "word": "patron",
+            "pos": "n.",
+            "meaning": "赞助人，老主顾，庇护人"
+          }
+        ]
+      },
+      {
+        "root": "gene- / gen- (出生/起源/基因)",
+        "meaning": "表示产生、起源、血统与遗传",
+        "words": [
+          {
+            "word": "gene",
+            "pos": "n.",
+            "meaning": "基因，遗传因子"
+          },
+          {
+            "word": "genetic",
+            "pos": "adj.",
+            "meaning": "基因的，遗传学的"
+          },
+          {
+            "word": "genealogy",
+            "pos": "n.",
+            "meaning": "家谱学，系谱，宗谱"
+          },
+          {
+            "word": "genealogist",
+            "pos": "n.",
+            "meaning": "家谱研究者，系谱学者"
+          }
+        ]
+      },
+      {
+        "root": "scribe / script (写/规定/文字)",
+        "meaning": "表示书写、开药方与规定",
+        "words": [
+          {
+            "word": "prescribe",
+            "pos": "v.",
+            "meaning": "开处方；规定，指明"
+          },
+          {
+            "word": "prescription",
+            "pos": "n.",
+            "meaning": "处方，药方；法规，指令"
+          },
+          {
+            "word": "describe",
+            "pos": "v.",
+            "meaning": "描述，记述，描写"
+          },
+          {
+            "word": "transcript",
+            "pos": "n.",
+            "meaning": "成绩单，文字记录，转录本"
+          }
+        ]
+      },
+      {
+        "root": "hawk / peddle (叫卖/兜售)",
+        "meaning": "表示街头叫卖、兜售与推销",
+        "words": [
+          {
+            "word": "hawk",
+            "pos": "v./n.",
+            "meaning": "沿街叫卖，兜售；鹰，鹰派人物"
+          },
+          {
+            "word": "hawker",
+            "pos": "n.",
+            "meaning": "沿街叫卖的小贩"
+          },
+          {
+            "word": "peddle",
+            "pos": "v.",
+            "meaning": "兜售，叫卖，宣扬（观点）"
+          }
+        ]
+      }
+    ],
+    "nuances": [
+      {
+        "word": "boost",
+        "location": "P1 L1",
+        "familiarMeaning": "向上推；推动",
+        "examMeaning": "增强；提升；促进",
+        "contextCollocation": "boost his paternal wisdom"
+      },
+      {
+        "word": "prescription",
+        "location": "P2 L2",
+        "familiarMeaning": "药方",
+        "examMeaning": "处方；规定；方案",
+        "contextCollocation": "without prescriptions"
+      },
+      {
+        "word": "over-the-counter",
+        "location": "P2 L3",
+        "familiarMeaning": "柜台上的（逐字误解）",
+        "examMeaning": "非处方的；可直接购买的",
+        "contextCollocation": "over-the-counter kits"
+      },
+      {
+        "word": "adopted",
+        "location": "P3 L1",
+        "familiarMeaning": "采纳的；采用的",
+        "examMeaning": "被收养的",
+        "contextCollocation": "adopted children"
+      },
+      {
+        "word": "rage",
+        "location": "P3 L3",
+        "familiarMeaning": "愤怒；狂怒",
+        "examMeaning": "风靡一时的事物；热潮",
+        "contextCollocation": "the latest rage"
+      },
+      {
+        "word": "lineage",
+        "location": "P5 L5",
+        "familiarMeaning": "线条（易误联想）",
+        "examMeaning": "血统；世系",
+        "contextCollocation": "a single lineage"
+      },
+      {
+        "word": "hawked",
+        "location": "P5 L1-L2",
+        "familiarMeaning": "鹰（hawk 作名词）",
+        "examMeaning": "兜售；叫卖；推销",
+        "contextCollocation": "false precision being hawked"
+      },
+      {
+        "word": "lump together",
+        "location": "P6 L3",
+        "familiarMeaning": "块；肿块",
+        "examMeaning": "把……混在一起；笼统归并",
+        "contextCollocation": "lump together information"
+      },
+      {
+        "word": "estimate",
+        "location": "P6 L6",
+        "familiarMeaning": "估价",
+        "examMeaning": "估算；判断关系",
+        "contextCollocation": "estimate relationships"
+      },
+      {
+        "word": "identify",
+        "location": "Q27 C",
+        "familiarMeaning": "认同",
+        "examMeaning": "确认；识别",
+        "contextCollocation": "identify parent-child kinship"
+      },
+      {
+        "word": "trace",
+        "location": "Q28 A",
+        "familiarMeaning": "痕迹",
+        "examMeaning": "追踪；追溯",
+        "contextCollocation": "trace distant ancestors"
+      },
+      {
+        "word": "inherited",
+        "location": "P5 L5",
+        "familiarMeaning": "继承财产",
+        "examMeaning": "遗传得到的",
+        "contextCollocation": "chromosome inherited through men"
+      },
+      {
+        "word": "note that",
+        "location": "P5 L3",
+        "familiarMeaning": "记笔记",
+        "examMeaning": "指出；特别提到",
+        "contextCollocation": "He notes that..."
+      },
+      {
+        "word": "numbering in the hundreds",
+        "location": "P5 L3-L4",
+        "familiarMeaning": "数字；号码",
+        "examMeaning": "数量达到数百个",
+        "contextCollocation": "ancestors—numbering in the hundreds"
+      },
+      {
+        "word": "geographic roots",
+        "location": "P3 L4",
+        "familiarMeaning": "植物的根",
+        "examMeaning": "根源；祖籍；出身",
+        "contextCollocation": "a family’s geographic roots"
+      },
+      {
+        "word": "be subject to",
+        "location": "P6 L7",
+        "familiarMeaning": "学科；主题",
+        "examMeaning": "受……约束；接受……审查",
+        "contextCollocation": "not subject to peer review"
+      }
+    ],
+    "confusions": [
+      {
+        "pair": "paternal / maternal / paternity",
+        "analysis": "paternal 指父亲的、父系的；maternal 指母亲的、母系的；paternity 指父亲身份，常见搭配为 paternity test。"
+      },
+      {
+        "pair": "purchase / buy",
+        "analysis": "purchase 比 buy 更正式，常用于商业、消费、采购语境；buy 更口语、范围更广。"
+      },
+      {
+        "pair": "prescription / over-the-counter",
+        "analysis": "prescription 强调“处方”；over-the-counter 指“非处方、可直接购买”，常缩写为 OTC。"
+      },
+      {
+        "pair": "drugstore / pharmacy",
+        "analysis": "drugstore 偏美式，常指兼售日用品的药店；pharmacy 更正式，也强调药房和药剂服务。"
+      },
+      {
+        "pair": "adopt / adapt",
+        "analysis": "adopt = 收养；采纳；采用。adapt = 适应；改编。adopted children 是“被收养的孩子”。"
+      },
+      {
+        "pair": "kinship / relationship",
+        "analysis": "kinship 强调血缘或亲属关系；relationship 范围更广，可指人际、恋爱、国际关系等。"
+      },
+      {
+        "pair": "genealogist / geneticist",
+        "analysis": "genealogist 是族谱研究者，关注家族谱系；geneticist 是遗传学家，研究基因与遗传机制。"
+      },
+      {
+        "pair": "compare with / compare to",
+        "analysis": "compare with 偏比较异同；compare to 既可表示“与……相比”，也可表示“把……比作……”。"
+      },
+      {
+        "pair": "skeptical / critical",
+        "analysis": "skeptical 强调“不轻信、持怀疑态度”；critical 可指“批评的”，也可指“关键的、危急的”。"
+      },
+      {
+        "pair": "ancestor / descendant",
+        "analysis": "ancestor = 祖先；descendant = 后代。二者方向相反。"
+      },
+      {
+        "pair": "accuracy / precision",
+        "analysis": "accuracy 强调结果是否正确；precision 强调精确程度或细致程度。false precision 对应题目 claimed accuracy。"
+      },
+      {
+        "pair": "patent / patient",
+        "analysis": "patent = 专利；patented = 获得专利保护的。patient = 病人；有耐心的。"
+      },
+      {
+        "pair": "evaluation / peer review",
+        "analysis": "evaluation 是一般评估；peer review 是同行评议，强调同领域专家审查。"
+      },
+      {
+        "pair": "house / household",
+        "analysis": "house 是房子；household 是家庭单位或住户，常见 household income / household goods。"
+      },
+      {
+        "pair": "promotion: 推广 / 晋升",
+        "analysis": "promotion 在商业语境中可指促销、推广；在人事语境中指职位晋升。"
+      },
+      {
+        "pair": "PTK / DNA testing",
+        "analysis": "PTK 是 paternity testing kit，重点是亲子鉴定套装；DNA testing 范围更广，包括亲子、亲缘、祖源检测等。"
+      },
+      {
+        "pair": "lump together / collect systematically",
+        "analysis": "lump together 强调拼凑、笼统混合；collect systematically 强调系统、有方法地收集。"
+      },
+      {
+        "pair": "trace / track down",
+        "analysis": "trace 强调追溯来源、轨迹；track down 强调经过搜寻后找到具体对象或信息。"
+      }
+    ]
+  },
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2009.js",
+    "year": 2009,
+    "articleKey": "ky-en1-2009-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+  }
+}

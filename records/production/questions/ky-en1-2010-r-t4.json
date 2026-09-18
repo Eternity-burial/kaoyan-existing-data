@@ -1,0 +1,961 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "Bankers complained that they were forced to",
+    "stemTranslation": "银行家们抱怨他们被迫去______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "follow unfavorable asset evaluation rules.",
+        "translation": "遵守对其极为不利的资产评估规则。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】银行在幕后指责会计准则（pointing the finger at accounting rules），特别是公允价值计价（fair-value accounting），因为该规则逼迫银行按崩盘的市价对其不良资产计提减值，对其业绩极为不利（unfavorable asset evaluation rules）。",
+        "vocab": [
+          {
+            "word": "asset",
+            "ipa": "[ˈæset]",
+            "meaning": "资产",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "unfavorable",
+            "ipa": "[ʌnˈfeɪvərəb(ə)l]",
+            "meaning": "不利的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "collect payments from third parties.",
+        "translation": "向第三方催收账款。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】文章讨论的是资产账面计价规则，而非催收债务。",
+        "vocab": [
+          {
+            "word": "payments",
+            "ipa": "",
+            "meaning": "款",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "cooperate with the price managers.",
+        "translation": "与价格监管管理者通力合作。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】原文未涉及 price managers 这一主体。",
+        "vocab": [
+          {
+            "word": "cooperate",
+            "ipa": "[kəʊˈɒpəreɪt]",
+            "meaning": "合作",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "reevaluate some of their assets.",
+        "translation": "对其部分资产重新进行评估。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/轻描淡写",
+        "analysis": "【以偏概全】银行抱怨的不是‘重新评估’这一中性动作本身，而是痛恨该规则强制按低迷市价确认巨额账面亏损（unfavorable rules）。",
+        "vocab": [
+          {
+            "word": "assets",
+            "ipa": "",
+            "meaning": "资产",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P1-S2",
+      "P3-S1"
+    ],
+    "verbatimEvidence": "P1-S2: 'they have been pointing the finger at accounting rules.' P3-S1: 'relaxed its rules on fair-value accounting. These gave banks more freedom to use models to value illiquid assets...'",
+    "synonymMapping": [
+      {
+        "textQuote": "pointing finger at accounting rules + rules on fair-value accounting",
+        "optionQuote": "A: follow unfavorable asset evaluation rules.",
+        "semanticEquivalence": "accounting rules on fair-value ↔ unfavorable asset evaluation rules"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "细节题解题通则：锁定抱怨的靶子。银行指责 accounting rules，结合上下文得知指公允价值规则对其不利。",
+      "trapPattern": "将带强烈负向损益的规则轻描淡写为中性动作（选项D）。",
+      "reviewChecklist": [
+        "是否发现银行反对的核心是该规则对其造成惨重账面亏损？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "complained",
+          "ipa": "",
+          "meaning": "抱怨",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "they",
+          "ipa": "[ðeɪ]",
+          "meaning": "被迫",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "According to the author, the rule changes of the FASB may result in",
+    "stemTranslation": "在作者看来，FASB的规则变动可能导致______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "the diminishing role of management.",
+        "translation": "管理层话语权与地位的削弱。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P3-S2 明确说明这给了银行更大自由度用模型估值，管理层的自由裁量权实际上大大增加了，而非被削弱（diminished）。",
+        "vocab": [
+          {
+            "word": "management",
+            "ipa": "[ˈmænɪdʒmənt]",
+            "meaning": "管理层",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "diminishing",
+            "ipa": "[dɪˈmɪnɪʃɪŋ]",
+            "meaning": "逐渐削弱的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the revival of the banking system.",
+        "translation": "银行金融体系的全面复兴。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/脱离作者立场",
+        "analysis": "【正反颠倒】P6-S2 作者指出这种篡改规则推迟清算只会延长危机（prolong the crisis），绝不可能带来复兴。"
+      },
+      {
+        "key": "C",
+        "text": "the banks' long-term asset losses.",
+        "translation": "银行长期资产亏损的立刻发生。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/时间倒错",
+        "analysis": "【正反颠倒】P3-S2 说明新规 delayed a requirement to recognize long-term losses，即帮助银行推迟遮掩了长期亏损，而非导致亏损。",
+        "vocab": [
+          {
+            "word": "asset",
+            "ipa": "[ˈæset]",
+            "meaning": "资产",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the weakening of its independence.",
+        "translation": "准则制定委员会自身独立性的严重削弱。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义推断】P2-S2 指出准则制定者处于政治压力之下（under political pressure），P5-S2 痛斥规则改变是对政治势力的彻底屈服投降（capitulation to political forces）。独立专业机构向政界低头，意味着其最宝贵的独立性遭受毁灭性打击（weakening of independence）。",
+        "vocab": [
+          {
+            "word": "independence",
+            "ipa": "[ˌɪndɪˈpendəns]",
+            "meaning": "独立性",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P2-S2",
+      "P5-S2"
+    ],
+    "verbatimEvidence": "P2-S2: 'standard-setters are under political pressure.' P5-S2: 'The rule change was a capitulation to political forces and distorted the financial reality.'",
+    "synonymMapping": [
+      {
+        "textQuote": "under political pressure + capitulation to political forces",
+        "optionQuote": "D: the weakening of its independence.",
+        "semanticEquivalence": "capitulation to political forces ↔ weakening of its independence"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "推断题通则：紧扣作者强烈批判的价值取向。capitulation to political forces 直接等同于 weakening of its independence。",
+      "trapPattern": "与作者批判立场唱反调（选项B）与混淆事实走向（选项A、C）。",
+      "reviewChecklist": [
+        "是否读出了作者将准则退让视为‘向政治屈服’的批判核心？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "result",
+          "ipa": "[rɪˈzʌlt]",
+          "meaning": "导致",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "According to Paragraph 4, McCreevy objects to the IASB's attempt to",
+    "stemTranslation": "根据第4段，麦克里维反对IASB试图去______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "keep away from political influences.",
+        "translation": "远离外界政治势力的干预影响。",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴/偷换主客体",
+        "analysis": "【偷换概念】麦克里维本人正是施加政治压力的政客，他反对的是准则委员会特立独行不跟进美国放宽准则，而非反对远离政治。",
+        "vocab": [
+          {
+            "word": "keep",
+            "ipa": "[kiːp]",
+            "meaning": "远离",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influences",
+            "ipa": "",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "evade the pressure from their peers.",
+        "translation": "逃避来自同行同业者的压力。",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】压力来自欧洲各国政府财长和欧盟专员（政客），非同行（peers）。",
+        "vocab": [
+          {
+            "word": "evade",
+            "ipa": "[ɪˈveɪd]",
+            "meaning": "逃避",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "pressure",
+            "ipa": "[ˈpreʃə(r)]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "peers",
+            "ipa": "",
+            "meaning": "同行",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "act on their own in rule-setting.",
+        "translation": "在制定规则时自行其是、独立独断。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P4-S2 明确记录麦克里维的恐吓：'warned that European banks would be at a competitive disadvantage if standard-setters acted independently.'，acted independently 精准同义对齐 act on their own in rule-setting。",
+        "vocab": [
+          {
+            "word": "their",
+            "ipa": "[ðeə(r)]",
+            "meaning": "依靠自己",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "take gradual measures in reform.",
+        "translation": "在体制改革中采取渐进稳妥措施。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文只字未提渐进改革（gradual measures）。",
+        "vocab": [
+          {
+            "word": "gradual",
+            "ipa": "[ˈɡrædʒuəl]",
+            "meaning": "渐进式的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reform",
+            "ipa": "[rɪˈfɔːm]",
+            "meaning": "改革",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P4-S2"
+    ],
+    "verbatimEvidence": "P4-S2: 'warned that European banks would be at a competitive disadvantage if standard-setters acted independently.'",
+    "synonymMapping": [
+      {
+        "textQuote": "warned European banks would be at disadvantage if standard-setters acted independently",
+        "optionQuote": "C: act on their own in rule-setting.",
+        "semanticEquivalence": "acted independently in setting rules ↔ act on their own in rule-setting"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "观点细节题解题通则：精准提取人物反对的具体行为。acted independently $\\leftrightarrow$ act on their own。",
+      "trapPattern": "施压主体与承受主体张冠李戴（选项A、B）。",
+      "reviewChecklist": [
+        "是否发现 acted independently 与 act on their own 的完美同义对仗？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "objects",
+          "ipa": "",
+          "meaning": "反对",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attempt",
+          "ipa": "[əˈtempt]",
+          "meaning": "意图",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "The author thinks the banks were \"on the wrong planet\" in that they",
+    "stemTranslation": "作者认为各大银行“活在另一个星球上”，是因为它们______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "misinterpreted market price indicators.",
+        "translation": "错误解读了解释了市场价格指标。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】银行不是‘解读错误’，而是明知故犯地想要在账簿上美化粉饰资产价值。",
+        "vocab": [
+          {
+            "word": "misinterpreted",
+            "ipa": "",
+            "meaning": "误解",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "exaggerated the real value of their assets.",
+        "translation": "肆意夸大了吹高了其资产的真实价值。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 紧随破折号后的伴随定语给出了最直接的定义解释：'with accounts that vastly overstated the value of their toxic assets.'，vastly overstated（极其严重高估）精准同义改写为 exaggerated the real value。",
+        "vocab": [
+          {
+            "word": "exaggerated",
+            "ipa": "[ɪɡˈzædʒəreɪtɪd]",
+            "meaning": "夸大",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "assets",
+            "ipa": "",
+            "meaning": "资产",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "neglected the likely existence of bad debts.",
+        "translation": "忽视了不良债务坏账可能存在的客观事实。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】银行清楚坏账存在，核心问题是在账面上强行高估有毒资产价值。",
+        "vocab": [
+          {
+            "word": "neglected",
+            "ipa": "",
+            "meaning": "忽视",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "existence",
+            "ipa": "[ɪɡˈzɪstəns]",
+            "meaning": "存在",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "debts",
+            "ipa": "",
+            "meaning": "账",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "denied booking losses in their sale of assets.",
+        "translation": "在资产出售变现中拒绝将亏损记入账簿。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒/与语境矛盾】正是因为资产无法在市场上按原价出售变现（illiquid），银行才企图通过自建估值模型拒绝按公允市价计提减值。",
+        "vocab": [
+          {
+            "word": "denied",
+            "ipa": "",
+            "meaning": "否认",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "assets",
+            "ipa": "",
+            "meaning": "资产",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "booking",
+            "ipa": "",
+            "meaning": "账面",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": "P5-S1: 'It was banks that were on the wrong planet, with accounts that vastly overstated the value of their toxic assets.'",
+    "synonymMapping": [
+      {
+        "textQuote": "accounts that vastly overstated the value of their toxic assets",
+        "optionQuote": "B: exaggerated the real value of their assets.",
+        "semanticEquivalence": "vastly overstated the value ↔ exaggerated the real value"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "比喻习语题解题通则：紧看比喻词后的修饰定语从句。on the wrong planet 紧跟 with accounts that vastly overstated...，锁定 overstate $\\leftrightarrow$ exaggerate。",
+      "trapPattern": "偏离直接定语解释的过度引申（选项A、C）。",
+      "reviewChecklist": [
+        "是否直接锁定了 P5-S1 原句中的 vastly overstated？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "on",
+          "ipa": "[ɒn]",
+          "meaning": "脱离实际",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "planet",
+          "ipa": "[ˈplænɪt]",
+          "meaning": "因为",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2010-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "The author's attitude towards standard-setters is one of",
+    "stemTranslation": "作者对会计准则制定者的态度是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "satisfaction.",
+        "translation": "感到满意。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】作者对准则修改感到痛心疾首（capitulation, distort reality），绝非满意。"
+      },
+      {
+        "key": "B",
+        "text": "skepticism.",
+        "translation": "怀疑不信任。",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴/对象混淆",
+        "analysis": "【张冠李戴】作者怀疑和抨击的对象是银行家（banks on the wrong planet）和妥协后的虚假账目，对准则制定者本身则是同情其遭受政客围攻撕咬的弱势处境。"
+      },
+      {
+        "key": "C",
+        "text": "objectiveness.",
+        "translation": "客观中立。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "空泛中立/脱离作者情感",
+        "analysis": "【空泛中立】文章通篇充满对准则制定者遭遇政治施压的同情和对银行贪婪政客干预的愤怒抨击，绝非无动于衷的死板客观。",
+        "vocab": [
+          {
+            "word": "objectiveness",
+            "ipa": "[əbdˈʒektɪvnəs]",
+            "meaning": "客观",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "sympathy.",
+        "translation": "同情（怜悯与理解其遭遇政客围攻的高压困境）。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 精准情感态度定位】作者在描写准则制定者时，使用 bruising encounter（伤痕累累的交锋）、under political pressure（承受政界重压）、capitulation（屈服于强权），字里行间深刻理解其作为技术官僚面对国会与财长围攻时的身不由己，对其抱以深切同情（sympathy）。",
+        "vocab": [
+          {
+            "word": "sympathy",
+            "ipa": "[ˈsɪmpəθi]",
+            "meaning": "同情",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "ATTITUDE",
+    "type": "态度观点题",
+    "targetSentences": [
+      "P2-S2",
+      "P3-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": "P2-S2: 'standard-setters are under political pressure.' P3-S1: 'After a bruising encounter with Congress...' P5-S2: 'a capitulation to political forces'",
+    "synonymMapping": [
+      {
+        "textQuote": "under political pressure + bruising encounter with Congress + capitulation to political forces",
+        "optionQuote": "D: sympathy.",
+        "semanticEquivalence": "bruising encounter / under political pressure ↔ sympathy（同情其遭遇高压）"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "态度观点题解题通则：严格分清作者对不同实体的多元情感。对银行家：批判抨击（critical）；对政客干预：愤怒反对；对准则制定机构（standard-setters）：痛惜与同情（sympathy）。",
+      "trapPattern": "评价主体混淆（把对银行的批判套在准则委员会头上，误选B）。",
+      "reviewChecklist": [
+        "是否分清了文章对待‘银行家’与对待‘准则制定机构’截然不同的情感态度？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2010_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2010_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "author's",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2010.js",
+      "year": 2010,
+      "articleKey": "ky-en1-2010-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:fc4f080fc0a9bed314f19f7a32df9287ed91f5030b1c55ea1f3b9f744620386f"
+    }
+  }
+]

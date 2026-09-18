@@ -1,0 +1,574 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "In Paragraph 1, the weather in Texas is mentioned to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "forecast a policy shift in Texas schools.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 偷换概念】首段修辞旨在描绘会议剑拔弩张的气氛，非直接预报政策转向。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "stress the consequences of climate change.",
+        "isCorrect": false,
+        "distractorType": "字面望文生义",
+        "analysis": "【干扰特征: 字面局限】极端高温只是转折对比的引子，重点落在会议现场的火热争吵。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "indicate the atmosphere at the board meeting.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 修辞功能对应】P1-S1 运用了精妙的隐喻双关对比：'The weather in Texas may have cooled... but the temperature will be high at the State Board of Education meeting... as officials debate'（虽然自然天气降温了，但教委会会议上的温度却会很高，因为官员们正激烈辩论）。提及自然天气降温正是为了以乐景衬哀情、用温差反衬出教委会会议现场剑拔弩张、火爆激烈的辩论气氛（indicate the atmosphere at the board meeting）。C选项精准契合修辞目的。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "draw the public's attention to energy shortages.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及能源短缺问题。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "修辞目的题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "weather cooled, but temperature will be high at board meeting as officials debate = indicate the atmosphere at the board meeting。",
+      "methodSummary": "双关隐喻功能识别：自然温度对比会议火热氛围，直接锁定 indicate the atmosphere。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "weather in Texas",
+        "mentioned to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "What does Quinn think of Hardy?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "She exaggerates the existing panic.",
+        "isCorrect": false,
+        "distractorType": "偷换主体立场",
+        "analysis": "【干扰特征: 颠倒立场】宣称存在科学恐慌的是哈迪自身（P2-S2），奎因批评的是她全盘抹杀科学家的科研成果。",
+        "refSentences": [
+          "P2-S2",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "She denies the value of scientific work.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确引述奎因的强烈批评：Board members like her 'casually dismiss the career work of scholars and scientists as just another misguided opinion'（轻率随意地将学者和科学家毕生的职业科研心血斥为又一种被误导的意见）。casually dismiss the career work of scientists 与 She denies the value of scientific work（她否定了科学研究工作的价值）完全同义对应吻合。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "She shows no concern for pre-teens.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偏离批评核心】哈迪阻挠的是面向青少年的科学大纲，奎因的核心驳斥焦点在于她践踏科学界研究成果。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "She expresses self-contradictory views.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】哈迪立场极其顽固一致（维护能源利益），奎因谴责其否定科学，非自相矛盾。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "casually dismiss the career work of scholars and scientists = She denies the value of scientific work。",
+      "methodSummary": "观点态度原句提炼：dismiss career work of scientists 转换为 denies the value of scientific work。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Quinn think of Hardy"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "The study mentioned in Paragraph 5 shows that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "climate education is insufficient at state public schools.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确交代调查结论：'how state public schools across the country address climate change in science classes, gave barely half of US states a grade B+ or higher'（全美公立学校在科学课涉及气候变化方面，仅有勉强半数州获评良好，多个人口大州不及格挂科）。A选项 climate education is insufficient at state public schools（各州公立学校的气候教育严重不足）是对该调查糟糕评级现状最精准客观的概括。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "policymakers have little drive for science education.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 泛化主体】第四段明确提到许多政策制定者正在呼吁加强气候教育（step up demands），非缺乏动力。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Texas is reluctant to rewrite its science textbooks.",
+        "isCorrect": false,
+        "distractorType": "以偏概全局部州",
+        "analysis": "【干扰特征: 局部细节】得州挂科只是全国性调研中的一个负面典型，整个 study 的宏观结论涵盖全美公立学校。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "environmental teaching in some states lacks supervision.",
+        "isCorrect": false,
+        "distractorType": "无中生有监管",
+        "analysis": "【干扰特征: 偷换概念】调查评估的是课程标准内容本身的质量，非缺乏监督机制。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "barely half of US states grade B+ or higher = climate education is insufficient at state public schools。",
+      "methodSummary": "调研宏观结论概括：仅半数及格良好直接对应 insufficient。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "study mentioned in Paragraph 5",
+        "shows that"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "According to Branch, state-level science standards in the US",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "call for regular revision.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偷换概念】未提及需要定期修订。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "require urgent application.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】强调的是即使标准优秀也难落地的局限性，非呼吁紧急应用。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "have limited influence.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P6-S1 明确引述布兰奇的原话：'setting state-level science standards is only one limited benchmark in a country that decentralises decisions... Even if high performer... that does not mean it will be taught'（制定州级科学标准只是一个极其有限的基准，因为权力下放给地方，高分标准绝不意味着课堂真会教）。C选项 have limited influence（具有极其有限的影响力）完美契合 limited benchmark 与 does not mean it will be taught 的含义。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "cater to local needs.",
+        "isCorrect": false,
+        "distractorType": "偷换因果",
+        "analysis": "【干扰特征: 偷换因果】地方学区分散了决策权，但州级标准本身往往脱离课堂实际，非迎合地方需求。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "only one limited benchmark... does not mean it will be taught = have limited influence。",
+      "methodSummary": "原词原义对应法：limited benchmark 直接转换为 have limited influence。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "According to Branch",
+        "state-level science standards in the US"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "It is implied in the last paragraph that climate change teaching in some schools",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "agrees to major public demands.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】带有偏见的能源赞助教材违背了公众要求教授气候客观事实的主流诉求（P4-S1）。",
+        "refSentences": [
+          "P4-S1",
+          "P8-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "reflects teachers' personal biases.",
+        "isCorrect": false,
+        "distractorType": "偷换偏差源头",
+        "analysis": "【干扰特征: 偷换源头】偏见教材来自能源行业协会等外部赞助方分发给教师，非教师个人的主观偏见。",
+        "refSentences": [
+          "P8-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "may misrepresent the energy sector.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】是能源行业协会赞助教材来歪曲气候事实以维护自身利益，非学校歪曲能源行业。",
+        "refSentences": [
+          "P8-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "can be swayed by external forces.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P8-S1 明确揭示非官方偏见教材的渗透：'unofficial educational materials that convey more slanted perspectives are being distributed to teachers. They include materials sponsored by energy industry associations'（传达偏颇观点的非官方材料被分发给教师，包括能源行业协会赞助的材料）。据此可严密推断出：某些学校的气候变化教学深受外部利益集团与赞助势力（external forces）的左右、操纵与不良渗透（can be swayed by external forces）。D选项精准契合推断。",
+        "refSentences": [
+          "P8-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P8-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "slanted materials sponsored by energy industry associations distributed to teachers = can be swayed by external forces。",
+      "methodSummary": "利益渗透推断法：energy industry sponsored materials 抽象概括为 external forces，slanted perspectives 对应 can be swayed。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "implied in the last paragraph",
+        "climate change teaching in some schools"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  }
+]

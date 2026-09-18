@@ -1,0 +1,812 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "When it comes to the slowing economy, Ellen Spero isn't biting her nails just yet.",
+    "translation": "谈到经济放缓，艾伦·斯佩罗 (Ellen Spero) 还没有咬指甲。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either.",
+    "translation": "但这位 47 岁的美甲师也没有按照自己的意愿剪、锉或抛光指甲。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up.",
+    "translation": "她的大多数客户每周花费 12 至 50 美元，但上个月，两位长期客户突然不再出现。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Spero blames the softening economy.",
+    "translation": "斯佩罗将此归咎于经济疲软。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "\"I'm a good economic indicator,\" she says.",
+    "translation": "“我是一个很好的经济指标，”她说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 6,
+      "ps": "P1-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P1-S6",
+      "pIndex": 1
+    },
+    "text": "\"I provide a service that people can do without when they're concerned about saving some dollars.\" So Spero is downscaling, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus.",
+    "translation": "“当人们担心节省一些钱时，我提供的服务是可以不需要的。”因此，斯佩罗正在缩小规模，在她位于克利夫兰郊区的家附近的中产阶级迪拉德百货公司购物，而不是在尼曼·马库斯 (Neiman Marcus)。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 7,
+      "ps": "P1-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P1-S7",
+      "pIndex": 1
+    },
+    "text": "\"I don't know if other clients are going to abandon me, too,\" she says.",
+    "translation": "“我不知道其他客户是否也会抛弃我，”她说。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 8,
+      "ps": "P1-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P1-S8",
+      "pIndex": 1
+    },
+    "text": "Even before Alan Greenspan's admission that America's red-hot economy is cooling, lots of working folks had already seen signs of the slowdown themselves.",
+    "translation": "甚至在艾伦·格林斯潘承认美国炙手可热的经济正在降温之前，许多工薪阶层就已经看到了经济放缓的迹象。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 9,
+      "ps": "P1-S9"
+    },
+    "sourceLocator": {
+      "sIndex": 9,
+      "id": "P1-S9",
+      "pIndex": 1
+    },
+    "text": "From car dealerships to Gap outlets, sales have been lagging for months as shoppers temper their spending.",
+    "translation": "从汽车经销店到 Gap 专卖店，由于购物者减少支出，销售已经滞后数月。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the cautious approach is coming at a crucial time.",
+    "translation": "对于去年感恩节和圣诞节之间收入占总收入 24% 的零售商来说，他们在关键时刻采取了谨慎的态度。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Already, experts say, holiday sales are off 7 percent from last year's pace.",
+    "translation": "专家表示，假日销售已经比去年下降了 7%。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "But don't sound any alarms just yet.",
+    "translation": "但暂时不要拉响任何警报。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "Consumers seem only mildly concerned, not panicked, and many say they remain optimistic about the economy's long-term prospects even as they do some modest belt-tightening.",
+    "translation": "消费者似乎只是轻度担忧，并不惊慌，许多人表示，尽管他们适度勒紧裤腰带，但他们对经济的长期前景仍然持乐观态度。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good.",
+    "translation": "消费者表示，他们并不绝望，因为尽管有可怕的头条新闻，但他们自己的命运仍然不错。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Home prices are holding steady in most regions.",
+    "translation": "大多数地区的房价保持稳定。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "In Manhattan, \"there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses,\" says broker Barbara Corcoran.",
+    "translation": "经纪人芭芭拉·科克伦 (Barbara Corcoran) 表示，在曼哈顿，“新一轮淘金热正在兴起，价值 400 万至 1000 万美元，主要由华尔街奖金推动”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 8,
+      "ps": "P2-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P2-S8",
+      "pIndex": 2
+    },
+    "text": "In San Francisco, prices are still rising even as frenzied overbidding quiets.",
+    "translation": "在旧金山，尽管疯狂的竞价平静下来，但价格仍在上涨。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 9,
+      "ps": "P2-S9"
+    },
+    "sourceLocator": {
+      "sIndex": 9,
+      "id": "P2-S9",
+      "pIndex": 2
+    },
+    "text": "\"Instead of 20 to 30 offers, now maybe you only get two or three,\" says John Tealdi, a Bay Area real-estate broker.",
+    "translation": "湾区房地产经纪人约翰·蒂尔迪 (John Tealdi) 表示：“现在你可能只会收到两到三个报价，而不是 20 到 30 个。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "And most folks still feel pretty comfortable about their ability to find and keep a job.",
+    "translation": "大多数人仍然对自己找到并保住工作的能力感到非常满意。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Many folks see silver linings to this slowdown.",
+    "translation": "许多人看到了经济放缓的一线希望。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Potential home buyers would cheer for lower interest rates.",
+    "translation": "潜在的购房者将为较低的利率欢呼。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Employers wouldn't mind a little fewer bubbles in the job market.",
+    "translation": "雇主不会介意就业市场的泡沫少一点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a sustained boom.",
+    "translation": "许多消费者似乎受到股市波动的影响，投资者现在认为股市波动是持续繁荣的必要因素。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Diners might see an upside, too.",
+    "translation": "食客也可能会看到好处。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "Getting a table at Manhattan's hot new Alain Ducasse restaurant used to be impossible.",
+    "translation": "过去，在曼哈顿新开的热门阿兰·杜卡斯餐厅 (Alain Ducasse) 订到一张桌子是不可能的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 8,
+      "ps": "P3-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P3-S8",
+      "pIndex": 3
+    },
+    "text": "Not anymore.",
+    "translation": "不再。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2004-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 9,
+      "ps": "P3-S9"
+    },
+    "sourceLocator": {
+      "sIndex": 9,
+      "id": "P3-S9",
+      "pIndex": 3
+    },
+    "text": "For that, Greenspan & Co. may still be worth toasting.",
+    "translation": "就这一点而言，格林斯潘公司可能仍然值得庆贺。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2004.js",
+      "year": 2004,
+      "articleKey": "ky-en1-2004-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e9483a77ec893eed4ad6d499f2c0aadf895b80020720b29bbfe3ef99a8c864ac"
+    }
+  }
+]

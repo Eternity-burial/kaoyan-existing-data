@@ -1,0 +1,582 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "What can be learned about Rutkowski from the first two paragraphs?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "He is enthusiastic about using AI models.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】鲁特科夫斯基是古典数字画家，对 AI 盗用画风深恶痛绝（had enough / concerning），绝非热衷使用 AI。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "He is popular with users of an AI art generator.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S2 和 P2-S1 明确交代其在 AI 领域的火爆现象：'become a sudden hit in the new world of text-to-image AI... His distinctive style is now one of the most commonly used prompts in Stable Diffusion'（在文生图 AI 中一夜爆红，其画风成为最常用的提示词之一）。B选项 He is popular with users of an AI art generator（他在 AI 艺术生成器用户群体中极其受欢迎/被大量调用）完全精准概括了这一事实。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "He attracts admiration from other illustrators.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偷换主体】强调的是 AI 用户的狂热调用，非其他插画同行对他的个人崇拜。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "He specializes in classical painting digitalization.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】他是用古典绘画风格创作数字游戏奇幻插画（uses classical painting styles to create landscapes），非专门从事古典名画的数字化扫描复原。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S2",
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "sudden hit in AI world + style is one of most commonly used prompts = He is popular with users of an AI art generator。",
+      "methodSummary": "原句细节同义改写：commonly used prompts in Stable Diffusion 转换为 popular with users of an AI art generator。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "learned about Rutkowski",
+        "first two paragraphs"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "The problem with open-source AI art generators is that they",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "lack flexibility in responding to prompts.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】第二段展示其能极其灵活逼真地根据任何提示词生成画作，问题在于版权侵权而非缺乏灵活性。",
+        "refSentences": [
+          "P2-S2",
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "produce artworks in unpredictable styles.",
+        "isCorrect": false,
+        "distractorType": "事实相反",
+        "analysis": "【干扰特征: 事实相反】生成效果与鲁特科夫斯基风格几乎一模一样（not a million miles away），完全可预测模仿。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "make unauthorized use of online images.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P3-S1 明确揭示开源 AI 模型的致命侵权问题：'built by scraping images from the Internet, often without permission and proper attribution to artists'（通过在网上大肆抓取图像构建而成，且往往未经授权许可，更未给予艺术家合理署名）。scraping images without permission 与 make unauthorized use of online images（未经授权使用网络图像）完全同义对应。C选项完全精准吻合。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "collect user information without consent.",
+        "isCorrect": false,
+        "distractorType": "偷换概念隐私",
+        "analysis": "【干扰特征: 偷换概念】盗取的是艺术家的画作图像（images），非收集 AI 软件用户的个人隐私信息。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "scraping images from Internet without permission = make unauthorized use of online images。",
+      "methodSummary": "核心弊端细节对应：without permission scrape images 转换为 unauthorized use of online images。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "problem with open-source AI art generators"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "After searching online, Rutkowski found",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a unique way to reach audiences.",
+        "isCorrect": false,
+        "distractorType": "早先初期天真想法",
+        "analysis": "【干扰特征: 初始想法】触达受众是他在搜网之前的一厢情愿想法（initially thought），搜网后发现的是侵权残酷现实。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "a new method to identify AI images.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及发明鉴别 AI 图片的新方法。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "AI-generated work bearing his name.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S3 明确交代其搜索发现：'The online search brought back work that had his name attached to it but wasn't his'（网络搜索带回了大量附带其名字但根本不是他本人创作的画作）。work that had his name attached to it but wasn't his 与 AI-generated work bearing his name（冠有他名字的 AI 生成作品）完全同义对应。C选项精准吻合。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "heated disputes regarding his copyright.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】他搜到的是大量冒牌仿冒画作本身，非公众围绕其版权展开的争吵辩论。",
+        "refSentences": [
+          "P4-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P4-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "work that had his name attached to it but wasn't his = AI-generated work bearing his name。",
+      "methodSummary": "原句细节直接对应：work with his name attached but not his 转换为 AI work bearing his name。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "After searching online",
+        "Rutkowski found"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "According to Ortiz, AI companies are advised to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "campaign for new policies or regulation.",
+        "isCorrect": false,
+        "distractorType": "主体颠倒",
+        "analysis": "【干扰特征: 实施主体颠倒】推动出台监管政策的是受害的艺术家联盟组织（P6-S1: coalition growing... pushing for regulations），非给 AI 公司的建议。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "offer their services to public institutions.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】是建议 AI 公司与博物馆合作获取合法授权数据，非向公共机构推销 AI 服务。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "strengthen their relationships with AI users.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及加强与 AI 用户的关系，重点在于解决与原创艺术家的版权冲突。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "adopt a different strategy for AI model training.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P6-S2 明确引述奥尔蒂斯给 AI 公司的具体建议：'One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists'（建议 AI 模型使用公有领域图像进行训练，并与博物馆及艺术家建立合作关系）。放弃未授权网络扒图、转向公有领域图像与授权合作，本质上正是要求 AI 公司“采用一种截然不同的全新 AI 模型训练策略”（adopt a different strategy for AI model training）。D选项完全精准吻合。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点建议题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "trained on images in public domain and forge partnerships = adopt a different strategy for AI model training。",
+      "methodSummary": "建议概括同义转换：trained on public domain 代替 scraping from internet 概括为 a different strategy for model training。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "According to Ortiz",
+        "AI companies are advised to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "What is the text mainly about?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Artists' responses to AI art generation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全篇主旨概括】全文通篇以波兰艺术家鲁特科夫斯基及整个艺术创意行业为叙事核心：第1-2段展现其画风在文生图 AI 中被狂热调用的爆红背景；第3段指出 AI 扒图侵权导致艺术家彻底忍无可忍（artists had enough）；第4-5段详述鲁特科夫斯基搜出海量冒牌画作后的震惊与对未来的深切忧虑；第6段展现艺术家行业迅速组建联盟积极推动监管和合法训练（artists' coalition）。A选项 Artists' responses to AI art generation（艺术家们对 AI 艺术生成的应对、反思与抗争）全面、深刻且周延地概括了全文的主旨脉络。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1",
+          "P3-S1",
+          "P4-S3",
+          "P5-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "AI's expanded role in artistic creation.",
+        "isCorrect": false,
+        "distractorType": "偏离批判视角",
+        "analysis": "【干扰特征: 偏离主体】文章站在受侵害艺术家的批判维权视角展开，非正面赞美 AI 在艺术创作中的拓展作用。",
+        "refSentences": [
+          "P3-S1",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Privacy issues in the application of AI.",
+        "isCorrect": false,
+        "distractorType": "偷换概念隐私",
+        "analysis": "【干扰特征: 偷换概念】文章讨论的是版权侵权与署名权（ethics and copyright），非个人隐私问题（privacy）。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Opposing views on AI development.",
+        "isCorrect": false,
+        "distractorType": "空泛泛指",
+        "analysis": "【干扰特征: 过于宽泛】未能点明文章聚焦于‘艺术行业与插画艺术家群体’对 AI 盗图的特定维权应对。",
+        "refSentences": [
+          "P3-S1",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P1-S2",
+      "P2-S1",
+      "P3-S1",
+      "P4-S3",
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Rutkowski's concern + artists had enough + artists coalition pushing for regulations = Artists' responses to AI art generation。",
+      "methodSummary": "主旨中心提炼：抓住核心主体（Artists）与核心态度行为（responses to AI art generation）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "text mainly about"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  }
+]

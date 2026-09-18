@@ -1,0 +1,602 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "All around the world, lawyers generate more hostility than the members of any other profession — with the possible exception of journalism.",
+    "translation": "在世界各地，律师所招致的社会敌意比任何其他行业的从业者都要多——新闻媒体行业或许是个唯一的可能例外。",
+    "syntaxAnalysis": "主干为 lawyers generate more hostility than the members of any other profession。All around the world 为地点状语；破折号后 with the possible exception of journalism 为介词短语作让步插入语；more ... than any other 表示最高级涵义。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "But there are few places where clients have more grounds for complaint than America.",
+    "translation": "然而，几乎没有任何地方的委托当事人比美国的客户拥有更多理由来抱怨抗议了。",
+    "syntaxAnalysis": "主从复合句。there are few places 为否定主干（几乎没有地方）；where 引导定语从句修饰 places，从句中 have more grounds for complaint than America（grounds 熟词僻义复数：理由/依据）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation.",
+    "translation": "在金融危机爆发前的十年间，美国在法律服务方面的支出增长速度竟然相当于同期通胀率的两倍。",
+    "syntaxAnalysis": "简单句。During the decade before the economic crisis 为时间状语；主语 spending on legal services in America；谓语 grew；twice as fast as inflation 为倍数比较状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "The best lawyers made skyscrapers-full of money, tempting ever more students to pile into law schools.",
+    "translation": "最顶尖的精英律师赚取的财富足以堆满摩天大楼，这极大地诱惑着越来越多的年轻人如过江之鲫般蜂拥挤进法学院的大门。",
+    "syntaxAnalysis": "主干为 The best lawyers made skyscrapers-full of money（夸张修辞表达极度富有）；tempting ever more students to pile into law schools 为现在分词短语作结果状语；pile into 意为‘涌入/蜂拥挤进’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "But most law graduates never get a big-firm job.",
+    "translation": "然而，绝大多数法学院毕业生却终其一生也无法在顶级大型律师事务所谋得一席之地。",
+    "syntaxAnalysis": "简单句。But 表转折；主语 most law graduates；谓语 get；宾语 a big-firm job。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "Many of them instead become the kind of nuisance-lawsuit filer that makes the tort system a costly nightmare.",
+    "translation": "相反，他们当中的许多人只能沦为专打骚扰碰瓷诉讼的诉棍，导致整个民事侵权法律体系彻底变质为一场耗资不菲的社会噩梦。",
+    "syntaxAnalysis": "主从复合句。主干 Many of them instead become the kind of nuisance-lawsuit filer；that 引导定语从句修饰 filer，从句内嵌 makes the tort system a costly nightmare（make + 宾语 + 宾补 结构）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "There are many reasons for this.",
+    "translation": "导致这一荒谬现状的原因不一而足。",
+    "syntaxAnalysis": "过渡起承句。There be 句型，this 指代上文客户抱怨多、律师收费高昂以及缠诉泛滥的行业现状。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "One is the excessive costs of a legal education.",
+    "translation": "首要原因之一，便是法律专业教育本身过于高昂的就读成本。",
+    "syntaxAnalysis": "主系表结构。One 为代词作主语，系动词 is，表语 the excessive costs of a legal education。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "There is just one path for a lawyer in most American states: a four-year undergraduate degree in some unrelated subject, then a three-year law degree at one of 200 law schools authorized by the American Bar Association and an expensive preparation for the bar exam.",
+    "translation": "在全美绝大多数州，通往执业律师的道路只有千篇一律的一条：先攻读四年毫不相干的本科专业学位，继而在全美律师协会认可的200所高价法学院中任选一所攻读三年法律学位，最后再斥巨资参加司法考试考前培训班。",
+    "syntaxAnalysis": "冒号前后同位阐释结构。主干 There is just one path ...；冒号后列举三大固定流程：四年无关本科学位、三年ABA认可法学院法律学位、昂贵司法考试备考（bar exam）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "This leaves today’s average law-school graduate with $100,000 of debt on top of undergraduate debts.",
+    "translation": "这导致如今一名普通的法学院毕业生在原有的本科学贷之外，还要再额外背负高达10万美元的法学院债务大山。",
+    "syntaxAnalysis": "主谓宾补结构。This 指代漫长学制，谓语 leaves，宾语 today's average law-school graduate，宾补 with $100,000 of debt；on top of 意为‘在...之上/附加’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "Law-school debt means that they have to work fearsomely hard.",
+    "translation": "沉重的法学院债务意味着，他们不得不拼尽全力、极其痛苦地拼命劳作来偿还利息本金。",
+    "syntaxAnalysis": "主从复合句。主语 Law-school debt，谓语 means，that 引导宾语从句；fearsomely hard 意为‘极其拼命/可怕地辛苦’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "Reforming the system would help both lawyers and their customers.",
+    "translation": "对这一陈腐体制进行大刀阔斧的改革，不仅将造福年轻律师，也将惠及广大当事人客户。",
+    "syntaxAnalysis": "主谓宾结构。动名词短语 Reforming the system 作主语，谓语 would help，宾语 both lawyers and their customers。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them.",
+    "translation": "许多切合实际的合理构想早已存在多时，然而掌管该行业的各州监管机构却思想过于僵化保守，根本不愿予以采纳实施。",
+    "syntaxAnalysis": "but 连接的并列复合句。前分句 Sensible ideas have been around ...；后分句主语 the state-level bodies，that govern the profession 为定语从句，谓语 have been too conservative to implement them（too ... to 结构：太保守以至于不肯实施）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "One idea is to allow people to study law as an undergraduate degree.",
+    "translation": "其中一项设想，是允许学生直接在本科阶段将法学作为专业学位来攻读。",
+    "syntaxAnalysis": "主系表结构。主语 One idea，系动词 is，表语为不定式短语 to allow people to study law as an undergraduate degree。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Another is to let students sit for the bar after only two years of law school.",
+    "translation": "另一项方案则是允许法学院学生在仅修读两年之后便有资格直接参加司法资格考试。",
+    "syntaxAnalysis": "主系表结构。Another (idea) is to let students sit for the bar ...；sit for the bar 熟词僻义，意为‘参加律师资格考试’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "If the bar exam is truly a stern enough test for a would-be lawyer, those who can sit it earlier should be allowed to do so.",
+    "translation": "假使司法考试当真能对准律师构成足够严格充分的全面检验，那么有能力提早应试的人理应被允许提前应考。",
+    "syntaxAnalysis": "主从复合句。If 引导条件状语从句；主句主语 those，who can sit it earlier 为定语从句修饰 those，谓语 should be allowed to do so；stern enough 意为‘足够严格/严厉’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 6,
+      "ps": "P4-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "Students who do not need the extra training could cut their debt mountain by a third.",
+    "translation": "那些根本不需要额外一年多余培训的学生，完全可以将自身背负的债务大山足足砍掉三分之一。",
+    "syntaxAnalysis": "主从复合句。主语 Students，who do not need the extra training 为定语从句，谓语 could cut，宾语 their debt mountain，状语 by a third。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "The other reason why costs are so high is the restrictive guild-like ownership structure of the business.",
+    "translation": "导致法律费用居高不下的另一个深层原因，在于该行业具有排他垄断特征的中世纪行会式所有权架构。",
+    "syntaxAnalysis": "主系表复合句。主语 The other reason，why costs are so high 为定语从句；系动词 is，表语 the restrictive guild-like ownership structure of the business（guild-like 行会式的；restrictive 限制性的）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "Except in the District of Columbia, non-lawyers may not own any share of a law firm.",
+    "translation": "除哥伦比亚特区（华盛顿特区）之外，任何非执业律师的局外人不得持有任何律师事务所的股份。",
+    "syntaxAnalysis": "简单句。Except in the District of Columbia 为介词短语状语；主语 non-lawyers，情态谓语 may not own，宾语 any share of a law firm。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 20
+    },
+    "text": "This keeps fees high and innovation slow.",
+    "translation": "这种垄断格局致使律师咨询费常年高烧不退，且行业内部的创新步伐极其迟缓滞后。",
+    "syntaxAnalysis": "主谓双宾补结构。主语 This 指代行会式所有权垄断；谓语 keeps；宾语 fees 与 innovation；形容词 high 和 slow 充当宾语补足语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 21
+    },
+    "text": "There is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically.",
+    "translation": "尽管行业内部要求变革的呼声日渐高涨，然而监管机构内部的保守反对派却冥顽不化地坚称：将门外汉拒之于律所大门之外，方能使律师免受唯利是图的赚钱压力，从而恪守职业道德为当事人服务。",
+    "syntaxAnalysis": "but 连接的并列复合句。前分句 There is pressure for change ...；后分句主干为 opponents ... insist that ...；that 引导宾语从句，从句主语为动名词短语 keeping outsiders out of a law firm，谓语 isolates，宾语 lawyers，介词短语 from the pressure to make money rather than serve clients ethically 作状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 22
+    },
+    "text": "In fact, allowing non-lawyers to own shares in law firms would reduce costs and improve services to customers, by encouraging law firms to use technology and to employ professional managers to focus on improving firms' efficiency.",
+    "translation": "事实上，允许非律师人士入股律师事务所，通过激励律所广泛应用先进现代科技并聘请职业经理人专注提升律所运营效率，恰恰能够有效压降成本并全面改善对客户的服务品质。",
+    "syntaxAnalysis": "主谓宾复合句。主语为动名词短语 allowing non-lawyers to own shares ...；并列谓语 would reduce costs and improve services ...；by encouraging ... 为方式状语，包含两个并列不定式 to use technology and to employ professional managers ...，接不定式 to focus on improving firms' efficiency 作目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 23
+    },
+    "text": "After all, other countries, such as Australia and Britain, have started liberalizing their legal professions.",
+    "translation": "毕竟，包括澳大利亚和英国在内的其他发达国家，早已大刀阔斧地开启了放宽法律行业准入管制的自由化改革浪潮。",
+    "syntaxAnalysis": "简单句。After all 为状语；主语 other countries，such as Australia and Britain 为举例插入语；谓语 have started liberalizing，宾语 their legal professions。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 24
+    },
+    "text": "America should follow.",
+    "translation": "美国理应顺应时代大势，效仿跟进！",
+    "syntaxAnalysis": "简单精炼的总结号召句。主语 America，谓语 should follow（直抒作者呼唤改革的坚定态度）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

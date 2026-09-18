@@ -1,0 +1,572 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "There has long been concern that broadband providers would",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "show partiality in treating clients.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 明确阐述长期以来的核心担忧：'cable and phone companies... had the power and incentive to favor affiliated websites over their rivals'（有线电视和电信宽带巨头有权力和动机去偏袒优待自营关联网站，从而打压竞争对手）。favor affiliated websites over rivals（偏袒自营网站胜过对手）与 show partiality in treating clients（在对待客户时展现出偏袒/不公正偏心）完全精准同义对应。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "bring web-based firms under control.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】担忧的是网络流量倾斜与不公偏袒，非直接控制互联网公司行政运营。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "slow down the traffic on their network.",
+        "isCorrect": false,
+        "distractorType": "以偏概全手段",
+        "analysis": "【干扰特征: 局部手段】限速只是偏袒自营业务的潜在打压手段之一，核心担忧在于差别化不公对待与挑选赢家。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "intensify competition with their rivals.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】运营商是在滥用垄断地位扼杀公平竞争（prevent picking winners and losers），非加剧健康竞争。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "favor affiliated websites over their rivals = show partiality in treating clients（在对待客户时偏心偏袒）。",
+      "methodSummary": "担忧焦点提取：favor A over B 直接转换为 show partiality in treating clients。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2021_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "long been concern",
+        "broadband providers would"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t4.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0921124f7ad49477d62e4b6f8a27e1e64d6661ef0d5f082b191b09980c081c18"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "Faced with the demand for net neutrality rules, the FCC",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "sticks to an out-of-date order.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】FCC 是主动出台了全新的2017去监管命令废除旧规，非死板固守旧命令。",
+        "refSentences": [
+          "P2-S2",
+          "P2-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "has allowed the states to intervene.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】FCC 明令禁止各州和地方政府介入监管（declared state governments couldn't regulate either）。",
+        "refSentences": [
+          "P2-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "has issued a special resolution.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】上诉法院非但没有给出迫切需要的解决方案（instead of providing badly needed resolution），反而拉长了纷争。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "takes an anti-regulatory stance.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 和 P2-S3 明确阐述 FCC 在共和党主导下的做法：'pushback from anti-regulatory conservatives... eliminated strict net neutrality rules... rejected the commission's authority to require broadband providers to do much of anything. declared state governments couldn't regulate either'（废除严格网络中立规则，全盘否定自身监管权威，禁止地方政府监管）。B选项 takes an anti-regulatory stance（采取了坚决的反监管立场）是对这一系列自我剥夺监管权举措最精准的提炼。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "eliminated strict rules + rejected authority to require providers to do anything = takes an anti-regulatory stance。",
+      "methodSummary": "监管立场概括题：抓准 eliminated rules 与 rejected authority 对应的 anti-regulatory stance。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2021_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "D",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "demand for net neutrality rules",
+        "the FCC"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t4.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0921124f7ad49477d62e4b6f8a27e1e64d6661ef0d5f082b191b09980c081c18"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "What can be learned about AT&T from Paragraph 3?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It is in pursuit of quality service.",
+        "isCorrect": false,
+        "distractorType": "无中生有美化",
+        "analysis": "【干扰特征: 虚假美化】文章揭露其搞流量限制和自我偏袒等不当竞争操纵，非追求优质服务。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "It is under the FCC's investigation.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】P3-S2 明确说明 FCC 已经草草终止了对这些巨头的反垄断调查（ended the investigations）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "It protects against unfair competition.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 褒贬颠倒】AT&T 自身正是从事不公平竞争的实施者，非保护防范者。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "It engages in anti-competitive practices.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P3-S1 明确引述 AT&T 的典型操纵行为：'protect against anti-competitive behavior, such as a broadband-providing conglomerate like AT&T favoring its own video-streaming service at the expense of Netflix and Apple TV'（防范反竞争行为，例如像 AT&T 这样的大财团以牺牲奈飞和苹果电视为代价偏袒自营流媒体）。B选项 It engages in anti-competitive practices（它从事反竞争操作行为）与原文定性完全精准吻合。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "anti-competitive behavior, such as AT&T favoring its own service at expense of rivals = It engages in anti-competitive practices。",
+      "methodSummary": "例证事实原词对应：anti-competitive behavior such as AT&T -> engages in anti-competitive practices。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "learned about AT&T",
+        "Paragraph 3"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t4.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0921124f7ad49477d62e4b6f8a27e1e64d6661ef0d5f082b191b09980c081c18"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "Judge Patricia Millett argues that the appeals court's decision",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "conveys an ambiguous message.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】判决立场清晰（全盘去监管），问题在于其违背了现代宽带现实，非信息模棱两可。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "is out of touch with reality.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 习语同义替换】P4-S2 明确引述米莱特法官的原话：'the result is unhinged from the realities of modern broadband service... avoid trapping Internet regulation in technological anachronism'（判决结果完全脱离了现代宽带服务的现实……避免陷入技术时代错乱）。unhinged from realities 与 is out of touch with reality（脱离实际/脱离现实）完全同义对应吻合。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "is at odds with its earlier rulings.",
+        "isCorrect": false,
+        "distractorType": "事实相反",
+        "analysis": "【干扰特征: 事实相反】上诉法院恰恰是援引了2005年的旧判例（citing Supreme Court ruling from 2005），与早期判决一脉相承。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "focuses on trivialities.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】米莱特批评的是判决脱离技术现实，非纠缠于细枝末节（trivialities）。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "the result is unhinged from the realities of modern broadband service = is out of touch with reality。",
+      "methodSummary": "习语对应法：unhinged from realities（脱缰/脱离现实）直接转换为 is out of touch with reality。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "英语一_2021_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "A",
+          "C": "C",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Judge Patricia Millett argues",
+        "appeals court's decision"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t4.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0921124f7ad49477d62e4b6f8a27e1e64d6661ef0d5f082b191b09980c081c18"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "What does the author argue in the last paragraph?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Broadband providers' rights should be protected.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒保护对象",
+        "analysis": "【干扰特征: 颠倒保护主体】需要保护的是广大消费者与互联网创业者，对宽带运营商则是严禁其插手干预流量（bar meddling in traffic）。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The FCC should be put under strict supervision.",
+        "isCorrect": false,
+        "distractorType": "偷换主体职责",
+        "analysis": "【干扰特征: 偷换概念】作者呼吁国会赋予 FCC 明确的法定监管执法权（give explicit authority to commission），非把 FCC 自身置于严密监督下。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Congress needs to take action to ensure net neutrality.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P6-S1 明确总结全篇的核心规范性号召：'The endless legal battles and back-and-forth at the FCC cry out for Congress to act. It needs to give the commission explicit authority once and for all to bar broadband providers from meddling in the traffic... and create clear rules protecting openness and innovation'（无休止的诉讼与反复倒退大声疾呼国会必须行动，一劳永逸赋予明确权限禁止运营商干预流量，确立保障网络开放的清晰规则）。A选项 Congress needs to take action to ensure net neutrality（国会需要采取行动以切实保障网络中立）是对尾段核心主张最全面精准的凝练。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Rules need to be set to diversify online services.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偏离主线】规则是为了保护开放性与创新（protecting openness and innovation / net neutrality），非多样化网络服务。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "篇章主旨建议题",
+    "targetSentences": [
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "cry out for Congress to act... bar providers from meddling in traffic and protect openness = Congress needs to take action to ensure net neutrality。",
+      "methodSummary": "末段行动呼吁提取法：抓准 cry out for Congress to act 对应的 Congress needs to take action to ensure net neutrality。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2021_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2021_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author argue in the last paragraph"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t4.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0921124f7ad49477d62e4b6f8a27e1e64d6661ef0d5f082b191b09980c081c18"
+    }
+  }
+]

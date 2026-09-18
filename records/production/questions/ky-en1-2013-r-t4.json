@@ -1,0 +1,955 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "Three provisions of Arizona's plan were overturned because they _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "overstepped the authority of federal immigration law.",
+        "isCorrect": true,
+        "analysis": "定位至第三段 S6-S7：“Justice Anthony Kennedy ... ruled that the state flew too close to the federal sun. On the overturned provisions the majority held that Congress had deliberately 'occupied the field' and Arizona had thus intruded on the federal's privileged powers.” 多数派法官判定国会已对移民全域立法先占（occupied the field），亚利桑那州立法的做法侵犯了联邦专有特权（intruded on privileged powers），逾越了联邦移民法的至高法定权威（overstepped the authority of federal immigration law）。",
+        "vocab": [
+          {
+            "word": "deprived",
+            "ipa": "",
+            "meaning": "(权利）",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "disturbed the power balance between different states.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与对象颠倒。首段明确指出争议核心在于‘the federal government and the states’（联邦政府与各州之间）的权力平衡，而非‘different states’（不同各州之间）的横向权力平衡。",
+        "vocab": [
+          {
+            "word": "disturbed",
+            "ipa": "",
+            "meaning": "扰乱",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "balance",
+            "ipa": "[ˈbæləns]",
+            "meaning": "平衡",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "states",
+            "ipa": "",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "deprived the federal police of Constitutional powers.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。原文讨论的是‘state and local police’（州与地方警察）执行联邦移民法的问题，从未提及剥夺了‘federal police’（联邦警察）的宪法权力。",
+        "vocab": [
+          {
+            "word": "authority",
+            "ipa": "[ɔːˈθɒrəti]",
+            "meaning": "权威",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "overstepped",
+            "ipa": "",
+            "meaning": "逾越，僭越",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "contradicted both the federal and state policies.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。这些被推翻的条款本身就是亚利桑那州的‘州政策（state policies）’，绝无可能违背该州自身的政策（contradicted state policies）。",
+        "vocab": [
+          {
+            "word": "contradicted",
+            "ipa": "",
+            "meaning": "与…矛盾",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "state",
+            "ipa": "[steɪt]",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "policies",
+            "ipa": "",
+            "meaning": "政策",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "overstepped the authority of federal immigration law": "flew too close to the federal sun ... Congress had deliberately 'occupied the field' and Arizona had thus intruded on the federal's privileged powers (侵犯了联邦专有特权，僭越了联邦移民法律的权威)"
+    },
+    "methodologyReview": "因果细节题。寻找推翻条款（overturned provisions）的原因。第三段点明：Congress occupied the field，Arizona intruded on the federal's privileged powers。intruded on privileged powers（侵犯特权）被精准改写为 overstepped the authority（僭越权威）。干扰项 A、D 分别偷换了制衡对象和逻辑主体。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "provisions",
+          "ipa": "",
+          "meaning": "条款",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "overturned",
+          "ipa": "",
+          "meaning": "推翻",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "On which of the following did the Justices agree, according to Paragraph 4?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "States' independence from federal immigration law.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。原文强调的是联邦与州的‘joint’（联合）与‘cooperate’（协作），州在执法中必须与联邦协同，绝非‘脱离联邦移民法而独立（independence）’。",
+        "vocab": [
+          {
+            "word": "Federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "withhold",
+            "ipa": "[wɪðˈhəʊld]",
+            "meaning": "隐瞒",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Federal officers' duty to withhold immigrants' information.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第四段末句明确提到国会鼓励州官员与联邦同行‘share information’（共享信息），选项却反向捏造为‘withhold information’（隐瞒/拒绝提供信息）。",
+        "vocab": [
+          {
+            "word": "independence",
+            "ipa": "[ˌɪndɪˈpendəns]",
+            "meaning": "独立",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "States' legitimate role in immigration enforcement.",
+        "isCorrect": true,
+        "analysis": "定位至第四段：“However, the Justices said that Arizona police would be allowed to verify the legal status of people ... That's because Congress has always envisioned joint federal-state immigration enforcement ...” 大法官们一致判定允许亚利桑那警方核查可疑人员移民身份，并指出国会一直设想并鼓励联邦与各州的‘联合执法（joint enforcement）’，这说明大法官们均认可各州在移民执法中拥有不可剥夺的合法角色与正当地位（States' legitimate role in immigration enforcement）。",
+        "vocab": [
+          {
+            "word": "legitimate",
+            "ipa": "[lɪˈdʒɪtɪmət]",
+            "meaning": "合法的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Congress's intervention in immigration enforcement.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。第四段提到国会历来设想联合执法并‘鼓励（encourages）’合作，并未表达大法官们赞同国会对执法的‘不当行政干预（intervention）’。",
+        "vocab": [
+          {
+            "word": "intervention",
+            "ipa": "[ˌɪntəˈvenʃ(ə)n]",
+            "meaning": "干预",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "States' legitimate role in immigration enforcement": "Arizona police would be allowed to verify the legal status ... Congress has always envisioned joint federal-state immigration enforcement (州警察被允许核查身份，国会历来设想联合执法 -> 承认各州在移民执法中享有的合法地位与角色)"
+    },
+    "methodologyReview": "事实细节题。第四段首句转折词 However 引出法官们的一致裁定：allowed to verify legal status。原因在于 joint federal-state enforcement。allowed to verify + joint enforcement 精准对应了 States' legitimate role（州在执法中的合法地位）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "B",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Justices",
+          "ipa": "",
+          "meaning": "大法官",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "It can be inferred from Paragraph 5 that the Alien and Sedition Acts _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "violated the Constitution.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中仅提及斯卡利亚引据该法案为州辩护，从未断言该历史法案‘违反了宪法’。",
+        "vocab": [
+          {
+            "word": "violated",
+            "ipa": "",
+            "meaning": "违反",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Constitution",
+            "ipa": "[ˌkɒnstɪˈtjuːʃ(ə)n]",
+            "meaning": "宪法",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "stood in favor of the states.",
+        "isCorrect": true,
+        "analysis": "定位至第五段末句：“Justice Antonin Scalia, who offered an even more robust defense of state privileges going back to the Alien and Sedition Acts.” 斯卡利亚大法官为了给‘州的特权（state privileges）’进行更坚决有力的辩护，追溯到了1798年的《外侨与煽动叛乱法案》。既然该法案是斯卡利亚用于捍卫州权的历史法律依据，由此必然推断出该法案在本质立场上是站在各州一边、支持维护州权的（stood in favor of the states）。",
+        "vocab": [
+          {
+            "word": "undermined",
+            "ipa": "",
+            "meaning": "损害",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "interests",
+            "ipa": "",
+            "meaning": "利益",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "supported the federal statute.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。斯卡利亚引用该法案是作为反对多数派裁决（disagreed / objection）、支持州特权对抗联邦权威的武器，绝非‘支持联邦法规’。",
+        "vocab": [
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "statute",
+            "ipa": "[ˈstætʃuːt]",
+            "meaning": "法令",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "undermined the states' interests.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。法案被用作维护州权（defense of state privileges），选项却反向捏造为‘损害各州利益’。",
+        "vocab": [
+          {
+            "word": "favor",
+            "ipa": "[ˈfeɪvə(r)]",
+            "meaning": "有利于",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "states",
+            "ipa": "",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "stood in favor of the states": "robust defense of state privileges going back to the Alien and Sedition Acts (为州特权进行的强力辩护追溯到该法案 -> 该法案在历史上是支持维护各州权力的)"
+    },
+    "methodologyReview": "代词与史实逻辑推断题。题眼在于理解 Scalia's robust defense of state privileges going back to the Alien and Sedition Acts。defense of state privileges（为州特权辩护）的法律渊源即是该法案，故该法案的历史效用必然是 stood in favor of the states（支持各州）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Sedition",
+          "ipa": "",
+          "meaning": "[法案]《外国人与煽动叛乱法》",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "be",
+          "ipa": "[bi]",
+          "meaning": "推理题",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "The White House claims that its power of enforcement _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "outweighs that held by the states.",
+        "isCorrect": true,
+        "analysis": "定位至第六段 S13-S14：“The White House argued that Arizona’s laws conflicted with its enforcement priorities, even if state laws complied with federal statutes to the letter. In effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with.” 白宫主张即使州法一字不差地严格符合联邦法律，只要与白宫的执法优先级不一致，白宫就可以任意将其废止作废。这种霸道行径实质上是在声称联邦行政分支的执法自由裁量权可以彻底碾压、超越并凌驾于各州所拥有的执法权力（outweighs that held by the states）。",
+        "vocab": [
+          {
+            "word": "states",
+            "ipa": "",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "is established by federal statutes.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与断章取义。第六段第二句说‘even if state laws complied with federal statutes’，白宫主张的是超越成文法约束的自身行政‘执法优先权（enforcement priorities）’，恰恰被法官斥为缺乏法律依据的 shocking assertion。",
+        "vocab": [
+          {
+            "word": "dependent",
+            "ipa": "[dɪˈpendənt]",
+            "meaning": "依赖",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "is dependent on the states' support.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。白宫声称自己可以随意废除不听话的合法州法，这表明它自视至高无上，绝非‘依赖各州的支持’。",
+        "vocab": [
+          {
+            "word": "established",
+            "ipa": "[ɪˈstæblɪʃt]",
+            "meaning": "建立",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "federal",
+            "ipa": "[ˈfedərəl]",
+            "meaning": "联邦的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "statutes",
+            "ipa": "",
+            "meaning": "法规",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "rarely goes against state laws.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中并未讨论白宫违抗州法律的发生频次，更无 rarely（极少）的定性。",
+        "vocab": [
+          {
+            "word": "rarely",
+            "ipa": "[ˈreəli]",
+            "meaning": "很少",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "goes",
+            "ipa": "",
+            "meaning": "违背，违反",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "state",
+            "ipa": "[steɪt]",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "outweighs that held by the states": "Arizona's laws conflicted with its enforcement priorities ... it could invalidate any otherwise legitimate state law that it disagrees with (白宫声称州法与其执法优先级冲突，它可以废止任何其不认可的合法州法 -> 白宫声称其行政执法权压倒、凌驾于各州执法权之上)"
+    },
+    "methodologyReview": "人物/机构观点细节题。难点在于对‘In effect, ... claimed that it could invalidate any otherwise legitimate state law’的归纳。能够任意废止各州合法制定的法律，本质就是自诩自身的执法权力大于并压倒各州，outweighs that held by the states 属于深层法理逻辑的提炼。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "House",
+          "ipa": "[haʊs]",
+          "meaning": "白宫（美国总统官邸，位于首都华…",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "claims",
+          "ipa": "",
+          "meaning": "声称",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "What can be learned from the last paragraph?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Immigration issues are usually decided by Congress.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "过度概括。第七段首句只提到‘Some powers do belong exclusively to the federal government, and control of citizenship ... is among them’，从未断言移民事务通常都必须由国会敲定。",
+        "vocab": [
+          {
+            "word": "issues",
+            "ipa": "",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Congress",
+            "ipa": "[ˈkɒŋɡres]",
+            "meaning": "国会",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "The Administration is dominant over immigration issues.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。末段指出白宫荒谬的越权主张被最高法院全体大法官一致坚决驳回（rejected），首段也强调对政府而言是‘8-0 defeat’，表明行政分支并未在移民事务中占据主导支配地位。",
+        "vocab": [
+          {
+            "word": "Justices",
+            "ipa": "",
+            "meaning": "大法官",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intended",
+            "ipa": "[ɪnˈtendɪd]",
+            "meaning": "想要，打算",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "check",
+            "ipa": "[tʃek]",
+            "meaning": "限制",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Administration",
+            "ipa": "[ədˌmɪnɪˈstreɪʃ(ə)n]",
+            "meaning": "（尤指美国）联邦政府",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Justices wanted to strengthen its coordination with Congress.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。末段讨论的是国会与州的关系（国会从未阻止各州出资核查）以及大法官对白宫主张的裁决，从未提及大法官想要加强自身与国会的‘协同合作’。",
+        "vocab": [
+          {
+            "word": "Justices",
+            "ipa": "",
+            "meaning": "法官",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "strengthen",
+            "ipa": "[ˈstreŋθn]",
+            "meaning": "加强",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Congress",
+            "ipa": "[ˈkɒŋɡres]",
+            "meaning": "国会",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "coordination",
+            "ipa": "[kəʊˌɔːdɪˈneɪʃn]",
+            "meaning": "协作",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Justices intended to check the power of the Administration.",
+        "isCorrect": true,
+        "analysis": "定位至第七段全段：“The Administration was in essence asserting that because it didn't want to carry out Congress's immigration wishes, no state should be allowed to do so either. Every Justice rightly rejected this remarkable claim.” 白宫以自身怠政为由企图剥夺各州执法的专横主张，被最高法院每一位大法官坚决驳回（rightly rejected），呼应首段‘8-0 defeat for the Administration's effort to upset the balance of power’。在三权分立框架下，大法官通过一致判决，坚决对行政部门（the Administration）擅自扩张职权的僭越野心进行了有力的司法制衡与约束（intended to check the power of the Administration）。",
+        "vocab": [
+          {
+            "word": "Administration",
+            "ipa": "[ədˌmɪnɪˈstreɪʃ(ə)n]",
+            "meaning": "（尤指美国）联邦政府",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "dominant",
+            "ipa": "[ˈdɒmɪnənt]",
+            "meaning": "主导的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "issues",
+            "ipa": "",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Justices intended to check the power of the Administration": "The Administration was in essence asserting that because it didn't want to carry out Congress's wishes, no state should ... Every Justice rightly rejected this remarkable claim (行政部门宣称自己不想干就不许州干，每位大法官都无比正确地驳回了这一荒唐主张 -> 大法官们旨在限制、制衡行政分支的越权僭越)"
+    },
+    "methodologyReview": "末段总结推断题。考查核心熟词僻义 check（制衡、制约）。美国最高法院全体大法官以 8:0 的悬殊比分驳回白宫的傲慢主张（rejected this remarkable claim），体现的正是司法分支对行政分支权力的监督与制衡（check the power of the Administration）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  }
+]

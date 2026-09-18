@@ -1,0 +1,577 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "According to Paragraph 1, museums are faced with difficulties in",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "maintaining their plastic items.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S2 和 P1-S3 明确指出博物馆的巨大危机：塑料材质随着时间推移会开裂、渗出添加剂、融化成泥，'creates huge headaches for institutions, such as museums, trying to preserve culturally important objects'（给试图保存重要文化文物的博物馆带来了巨大头疼难题）。A选项 maintaining their plastic items（维护保存其塑料藏品/物品）是对 preserve culturally important plastic objects 最精准的同义概括。",
+        "refSentences": [
+          "P1-S2",
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "obtaining durable plastic artifacts.",
+        "isCorrect": false,
+        "distractorType": "偷换环节",
+        "analysis": "【干扰特征: 偷换环节】困难在于既有藏品的防腐老化维护，非获取新的耐用塑料制品。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "handling outdated plastic exhibits.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】这些塑料藏品是极具历史价值的珍贵文物（culturally important objects），非淘汰过时的展品（outdated exhibits）。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "classifying their plastic collections.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及对塑料藏品进行分类归档的困难。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S2",
+      "P1-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "huge headaches trying to preserve culturally important plastic objects = difficulties in maintaining their plastic items。",
+      "methodSummary": "首段题眼同义改写：preserve objects 转换为 maintaining items。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "museums are faced with difficulties in"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Van Oosten believes that certain plastic objects are",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "immune to decay.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】这些塑料物品极易衰败损坏（vulnerable to decay / crack and crumble），绝非免于腐蚀。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "improperly shaped.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】是化学成分配比不当（mix ingredients improperly），非物理形状不当（improperly shaped）。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "inherently flawed.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 和 P2-S2 明确引述范奥斯滕的观点：'pioneers didn't always know how to mix ingredients properly... The object you make is already a time bomb'（早期先驱不懂得正确配比成分，做出来的物品从一开始就是一颗定时炸弹）。C选项 inherently flawed（先天/内在存在缺陷）是对配比失误导致自始成为定时炸弹最深刻、最精准的同义概括。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "complex in structure.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】强调的是化学稳定性的致命硬伤，非物理结构的复杂性。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "didn't mix ingredients properly + object is already a time bomb = inherently flawed（先天存在缺陷）。",
+      "methodSummary": "隐喻提炼法：a time bomb 自始即存在隐患，直接提炼为 inherently flawed。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Van Oosten believes",
+        "certain plastic objects are"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "Museums stopped exhibiting some of Gilardi's artworks to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "keep them from hurting visitors.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 荒谬想象】泡沫雕塑不会伤及观众身体。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "duplicate them for future display.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】封存是为了保护原件，非为了复制展品。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "have their ingredients analyzed.",
+        "isCorrect": false,
+        "distractorType": "次要手段非目的",
+        "analysis": "【干扰特征: 偏离动机】成分分析是后续化学家的研究手段，入库封存的直接目的是避光防损。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "prevent them from further damage.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 明确交代封存原因：'vulnerable to light damage... figures were splitting and crumbling. Museums locked some of them away in the dark'（对光敏极度脆弱，雕塑已开裂碎裂，博物馆将其锁入暗室深处）。结合 P5-S1 指出其目的在于 prevent further light damage，D选项 prevent them from further damage（防止它们遭受进一步的损害）完全精准吻合。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节目的题",
+    "targetSentences": [
+      "P4-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "vulnerable to light damage + locked away in the dark = prevent them from further damage。",
+      "methodSummary": "保护行动目的定位：locked in the dark（锁入黑暗库房）的因果目的正是防光损（prevent from further damage）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "stopped exhibiting",
+        "Gilardi's artworks to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "The author thinks that preservation of plastics is",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "costly.",
+        "isCorrect": false,
+        "distractorType": "无中生有资金",
+        "analysis": "【干扰特征: 偷换维度】第六段未重点强调财务金钱成本，而是强调材料物理降解带来的技术难度。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "unworthy.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】第七段强调塑料文物保护具有深远历史考古意义，极具价值，绝非不值得（unworthy）。",
+        "refSentences": [
+          "P6-S1",
+          "P7-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "unpopular.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及保护工作不受欢迎。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "challenging.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P6-S1 明确阐述作者的核心判断：'preservation of plastics will likely get harder. Old objects continue to deteriorate. Worse, biodegradable plastics... are increasingly common'（塑料文物的保护很可能会变得越来越难；老旧文物持续恶化，更容易瓦解的可降解塑料越来越普遍）。get harder（变得更难）与 challenging（极具挑战性的/艰巨的）完全同义吻合。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点评价题",
+    "targetSentences": [
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "preservation of plastics will likely get harder = challenging（充满挑战的）。",
+      "methodSummary": "形容词同义替换：get harder 直接转换为 challenging。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author thinks",
+        "preservation of plastics is"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2022-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "In Ferreira's opinion, preservation of plastic artifacts",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "will inspire future scientific research.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 偏离主线】教授强调的是历史考古视角与人类文明见证，非单纯启发自然科学研究。",
+        "refSentences": [
+          "P7-S1",
+          "P7-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "has profound historical significance.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P7-S1 和 P7-S2 明确引述费雷拉教授的高屋建瓴观点：'archaeologists first defined great material ages of human history (Stone Age, Iron Age)... We now live in an age of plastic, and what we decide to preserve today will have a strong impact on how in the future we'll be seen'（考古学家根据博物馆文物定义石器时代铁器时代，我们身处塑料时代，今天保存的文物将决定未来后人如何审视看待我们）。B选项 has profound historical significance（具有深远的历史意义）高度凝练了这一跨越时代的文明见证价值。",
+        "refSentences": [
+          "P7-S1",
+          "P7-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "will help us separate the material ages.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 混淆过去与未来】划分石器时代是过去考古学家的历史成就，现代塑料时代是在书写当前时代的历史。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "has an impact on today's cultural life.",
+        "isCorrect": false,
+        "distractorType": "时间颠倒",
+        "analysis": "【干扰特征: 时代颠倒】影响的是未来后人对我们的历史评价（how in the future we will be seen），非今天的文化生活。",
+        "refSentences": [
+          "P7-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P7-S1",
+      "P7-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "defined great material ages of human history + strong impact on how in the future we will be seen = has profound historical significance。",
+      "methodSummary": "末段主旨升华题：抓准 defined great material ages 与 how in the future we will be seen 对应的 historical significance。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2022_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2022_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "In Ferreira's opinion",
+        "preservation of plastic artifacts"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2022.js",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+    }
+  }
+]

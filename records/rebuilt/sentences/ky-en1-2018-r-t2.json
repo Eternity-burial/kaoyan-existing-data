@@ -1,0 +1,642 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump's use of Twitter.",
+    "translation": "哈佛大学的一项新调查发现，超过三分之二的年轻美国人不赞成特朗普总统使用推特。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "The implication is that Millennials prefer news from the White House to be filtered through other sources, not a president's social media platform.",
+    "translation": "这暗示千禧一代更希望来自白宫的新闻经过其他渠道的过滤，而不是直接来自总统的社交媒体平台。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + that引导的表语从句 + 动词不定式复合结构配对比否定",
+      "mainClause": "The implication is that Millennials prefer news...",
+      "modifiers": "that 引导表语从句阐明 implication 的具体内涵；from the White House 作后置定语修饰 news；to be filtered through other sources 为不定式的被动式作 news 的宾语补足语（prefer sth. to be done）；not a president's social media platform 为对比省略结构，相当于 instead of being filtered through a president's social media platform。",
+      "corePattern": "The implication is that...（这暗示着……）；prefer A to be done through B（更倾向于使A通过B被处理）；filter through（过滤/经由……筛选）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Most Americans rely on social media to check daily headlines.",
+    "translation": "大多数美国人依赖社交媒体来查看每日新闻头条。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Yet as distrust has risen toward all media, people may be starting to beef up their media literacy.",
+    "translation": "然而，随着对所有媒体的不信任感上升，人们可能正开始增强自身的媒介批判素养。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Such a trend is much needed.",
+    "translation": "这种趋势是非常必要的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford.",
+    "translation": "牛津大学的数据显示，在2016年总统竞选期间，政治关键摇摆州密歇根州的推特用户所分享的网络内容中，近四分之一是虚假新闻。",
+    "syntaxAnalysis": {
+      "structureType": "主谓表结构 + 时间状语 + 过去分词短语作后置定语 + 插入语",
+      "mainClause": "nearly a quarter of web content was fake news...",
+      "modifiers": "During the 2016 presidential campaign 作时间状语；shared by Twitter users in the politically critical state of Michigan 为过去分词短语作 web content 的后置定语；according to the University of Oxford 为介词短语作来源插入语。",
+      "corePattern": "a quarter of（四分之一的）；politically critical（政治上至关紧要的/关键摇摆的）；according to（根据/依据）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "And young people may be the first to get it right.",
+    "translation": "而年轻人可能是最先走上正轨的群体。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace.",
+    "translation": "作为数字原住民的年轻人，确实在网络空间甄别事实与虚构方面变得更加娴熟。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "A survey of 14-to-24-year-olds in the US by the Knight Foundation finds that many of them rely on \"distributed trust\" to verify news.",
+    "translation": "奈特基金会对美国14至24岁年轻人的调查发现，他们中的许多人依赖“分布式信任”来核实新闻。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + that引导的宾语从句 + 不定式目的状语",
+      "mainClause": "A survey finds that many of them rely on 'distributed trust'...",
+      "modifiers": "of 14-to-24-year-olds in the US 和 by the Knight Foundation 均为介词短语作 survey 的后置定语；that 引导 finds 的宾语从句；to verify news 为动词不定式作目的状语。",
+      "corePattern": "rely on sth. to do sth.（依赖某事物来做某事）；distributed trust（分布式信任）；verify news（核查新闻真伪）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "They will cross-check sources and look for different perspectives before believing what they read.",
+    "translation": "在相信所读内容之前，他们会交叉核实多个信源并寻找不同的观点视角。",
+    "syntaxAnalysis": {
+      "structureType": "并列谓语结构 + 时间状语从句（含宾语从句）",
+      "mainClause": "They will cross-check sources and look for different perspectives...",
+      "modifiers": "cross-check sources 与 look for different perspectives 由 and 连接构成并列谓语；before 引导时间状语短语/从句，believing 为动名词，what they read 为 what 引导的宾语从句作 believing 的宾语。",
+      "corePattern": "cross-check（交叉比对/核实）；look for different perspectives（探寻多元视角）；what they read（所阅读的内容）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Rather than passively absorbing what appears on their screens, they actively question what is true.",
+    "translation": "他们不会被动吸收呈现在屏幕上的内容，而是主动质疑其真实性。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Such active research can have another effect.",
+    "translation": "这种主动的探究求证还能产生另一种效应。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people's reliance on social media led to greater political engagement.",
+    "translation": "威斯康星大学麦迪逊分校在澳大利亚、英国和美国开展的一项2014年调查发现，年轻人对社交媒体的依赖促成了更高程度的政治参与。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 过去分词短语后置修饰 + that引导的宾语从句",
+      "mainClause": "A 2014 survey found that young people's reliance led to greater political engagement.",
+      "modifiers": "conducted in Australia, Britain, and the United States by... 为过去分词短语作 survey 的后置定语；that 引导 found 的宾语从句，从句主语为 reliance on social media，谓语为 led to，宾语为 political engagement。",
+      "corePattern": "conduct a survey（开展调查）；reliance on sth.（对某事的依赖）；lead to greater political engagement（促成更深度的政治参与）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests.",
+    "translation": "社交媒体使用户能够更亲近、更即时地体验新闻事件，同时也允许他们重新分享新闻，以此作为自身价值观与兴趣的投射。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾补结构 + while连接的伴随分词状语从句",
+      "mainClause": "Social media allows users to experience news events...",
+      "modifiers": "to experience news events more intimately and immediately 为动词不定式短语作 users 的宾语补足语；while also permitting... 为现在分词短语作时间/伴随对比状语；to re-share news 为 permitting 的宾补；as a projection of their values and interests 为介词短语作方式状语。",
+      "corePattern": "allow sb. to do sth.（允许某人做某事）；while also doing sth.（同时伴随着做某事）；as a projection of...（作为……的投射）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "This gives users a stake in the news they share.",
+    "translation": "这使得用户与他们所分享的新闻之间产生了利益关联和情感倾注。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting.",
+    "translation": "巴纳研究集团的一项调查发现，美国人认为造成假新闻现象的首要原因是“读者错误”，其严重程度甚至超过了编造故事或报道中的事实错误。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 过去分词后置定语 + 比较省略补充结构",
+      "mainClause": "A survey found the top reason is 'reader error'...",
+      "modifiers": "given by Americans for the fake news phenomenon 为过去分词短语作 the top reason 的后置定语；省略连词 that 的从句中，系动词 is，表语 'reader error'；more so than... 为比较副词短语，承前加强说明其重要性超过了 made-up stories 和 factual mistakes。",
+      "corePattern": "the top reason for sth. is...（某现象的首要原因在于……）；more so than...（比起……更甚/更明显）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "That is, people often misinterpret news stories or read past their headlines to project their own biases.",
+    "translation": "也就是说，人们往往曲解新闻报道，或仅扫过标题就借此投射自己的偏见。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P5-S5",
+      "pIndex": 5
+    },
+    "text": "When people share news without reading critically, they help spread misinformation.",
+    "translation": "当人们不带批判性思维去阅读就分享新闻时，他们就助长了错误信息的传播。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 6,
+      "ps": "P5-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P5-S6",
+      "pIndex": 5
+    },
+    "text": "Young people, however, appear more conscious of this personal pitfall.",
+    "translation": "然而，年轻人似乎对这种个人认知陷阱更加警惕清醒。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2018-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills and a healthy skepticism when relying on social media for news.",
+    "translation": "因此，当年轻人对一位过度发推特的总统提出批判时，他们展现出的是思维技能上的自律自省，以及在依赖社交媒体获取新闻时一种健康的怀疑审慎态度。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合宾语句 + 双重when时间状语从句/省略分词结构",
+      "mainClause": "they reveal a mental discipline in thinking skills and a healthy skepticism...",
+      "modifiers": "So 作逻辑总结连词；when young people are critical of an over-tweeting president 为时间状语从句；谓语 reveal 带有两个并列宾语：a mental discipline in thinking skills 和 a healthy skepticism；其后 when relying on social media for news 为连词加现在分词短语构成的状语省略结构（when they rely on...）。",
+      "corePattern": "be critical of sb.（对某人持批判态度）；mental discipline（思维自律/自制力）；healthy skepticism（健康的怀疑审慎精神）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2018_t2.json",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b909175df4958a776aa686185244789d6867b550b86de4c54b29499ffcb2b97e"
+    }
+  }
+]

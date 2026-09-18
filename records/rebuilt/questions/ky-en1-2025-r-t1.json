@@ -1,0 +1,576 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "The \"rehearsal room\" approach requires pupils to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "rewrite the lines from Shakespeare.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】学生是在扮演角色写漂流瓶信件，非重写修改莎士比亚的原著台词台本。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "watch RSC actors' performances.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒被动观看",
+        "analysis": "【干扰特征: 被动观看偏差】强调学生亲自上台表演扮演（act him out / drama activity），非坐在台下观看演员表演。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "play the roles in Shakespeare.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 开篇明确限定'But only if you act him out'（只有当你亲自将莎剧表演演绎出来）；P3-S2 进一步交代实验组参与了'30-minute drama-based activity... as Ferdinand after shipwreck'（扮演斐迪南王子的沉浸式戏剧表演）。act him out / drama-based activity 与 play the roles in Shakespeare（扮演莎士比亚戏剧中的角色）完全同义对应。C选项完全精准吻合。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "study drama under RSC artists.",
+        "isCorrect": false,
+        "distractorType": "偷换主体",
+        "analysis": "【干扰特征: 概念偏差】实验在45所普通小学由一线教师按戏剧法执教，非由 RSC 艺术家亲自手把手授课。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "act him out + drama-based activity writing as Ferdinand = play the roles in Shakespeare。",
+      "methodSummary": "原句细节同义改写：act him out 转换为 play the roles in Shakespeare。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "\"rehearsal room\" approach requires pupils to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t1.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c7ef485645cf25fa74fa92864c62aa27a0485f2afa6a53bf8527578067506d69"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "The study divided the pupils into two groups to find whether",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the change in instruction enhances learning outcomes.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 实验设计宗旨提炼】P3-S1 和 P3-S2 明确阐述随机对照试验（RCT）的科学逻辑：将未接触过 RSC 教学法的学生随机分为实验组（给予30分钟戏剧教学）与对照组（常规教学），比较两组在词汇、写作和情感理解等各项学习成果上的显著差异。分组实验的核心科研目的正是为了科学检验：教学方式的改变（change in instruction / drama-based approach）是否能够显著提升学生的实际学习成效（enhances learning outcomes）。A选项完全精准吻合实验目的。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "expanding vocabulary helps develop reading fluency.",
+        "isCorrect": false,
+        "distractorType": "偷换自变量因变量",
+        "analysis": "【干扰特征: 变量颠倒】词汇扩展是戏剧教学带来的结果产物之一，非作为自变量去测试阅读流畅度。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "emotion affects understanding of sophisticated works.",
+        "isCorrect": false,
+        "distractorType": "偷换核心变量",
+        "analysis": "【干扰特征: 偏离实验主线】实验的核心自变量是是否采用戏剧排练室教学法，非测试情绪对理解复杂作品的影响。",
+        "refSentences": [
+          "P3-S2",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the classroom activity stimulates interest in the arts.",
+        "isCorrect": false,
+        "distractorType": "偏离主旨测量项",
+        "analysis": "【干扰特征: 概念偏差】实验核心测量的是读写能力（literacy）、词汇丰富度和情感共情写作，非单纯激发艺术兴趣。",
+        "refSentences": [
+          "P1-S1",
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节目的题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "target group (with drama activity) vs control group (without) measured on literacy outcomes = whether the change in instruction enhances learning outcomes。",
+      "methodSummary": "对照实验逻辑提炼法：识别对照组与实验组的干预变量（instruction）与测量指标（learning outcomes）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "divided the pupils into two groups to find whether"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t1.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c7ef485645cf25fa74fa92864c62aa27a0485f2afa6a53bf8527578067506d69"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "Control pupils' reliance on \"desert island clichés\" shows their",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "weakness in description.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 明确将对照组与实验组进行对比：'while control pupils relied on \"desert island clichés\" such as palm trees, target pupils were more expansive [giving] a broader picture of the sky, the sea and atmospheric conditions'（对照组依赖棕榈树等荒岛老套陈词滥调，而实验组则拓展描绘出天空大海气象等宏大画卷）。对照组只能写出老套俗套的套话词汇，这极其鲜明地暴露了他们在书面景物描写能力上的严重薄弱与欠缺（weakness in description）。A选项精准吻合。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "omission of small details.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】他们写了棕榈树等细节，问题在于用词俗套老旧陈腐，非遗漏小细节。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "casual style of writing.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及写作风格随意（casual），核心在于描写功力贫乏。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "preference for big words.",
+        "isCorrect": false,
+        "distractorType": "张冠李戴实验组",
+        "analysis": "【干扰特征: 主体颠倒】使用高级罕见大词的是实验目标组学生（P4-S1: target group used rarer words），对照组使用的是俗套小词。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P5-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "control relied on clichés vs target giving broader picture of sky and sea = weakness in description。",
+      "methodSummary": "对比反差推断：relied on clichés 暴露出写作描写能力上的欠缺（weakness in description）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Control pupils' reliance on \"desert island clichés\" shows their"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t1.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c7ef485645cf25fa74fa92864c62aa27a0485f2afa6a53bf8527578067506d69"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "What can promote children's emotional literacy according to O'Hanlon?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Writing in an imaginative manner.",
+        "isCorrect": false,
+        "distractorType": "以偏概全过于笼统",
+        "analysis": "【干扰特征: 过于宽泛】对照组也在发挥想象（imagine react to shipwreck），关键在于是否设身处地代入文学角色内心。",
+        "refSentences": [
+          "P4-S2",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Identifying with literary characters.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S2 和 P6-S2 明确阐述促进情感素养的核心秘诀：'put themselves in the shoes of a literary character and express that character's emotion... part of what you do in drama is put yourself in different shoes'（设身处地代入文学角色的内心世界并抒发其情感，戏剧的本质正是让你穿上别人的鞋子换位思考共情）。put themselves in the shoes of a literary character 与 Identifying with literary characters（认同并与文学角色产生深度情感共鸣/同理心）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P4-S2",
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Drawing inspiration from nature.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换源头】灵感来自莎剧文学文本与角色扮演，非从大自然中汲取灵感。",
+        "refSentences": [
+          "P6-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Concentrating on real-life situations.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】对照组局限于自身现实反应，实验组跳出真实自我进入虚构文学角色世界（literary character）。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P4-S2",
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "put yourself in the shoes of a literary character = Identifying with literary characters（与文学角色产生共情同理心）。",
+      "methodSummary": "习语转换法：put oneself in someone's shoes 直接转换为 identify with。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "promote children's emotional literacy according to O'Hanlon"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t1.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c7ef485645cf25fa74fa92864c62aa27a0485f2afa6a53bf8527578067506d69"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2025-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "It can be inferred from the last paragraph that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the new teaching method may work best with Shakespeare.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P7-S1 面对“该成果能否在其他古代剧作家身上复制”的设问，O'Hanlon 深入分析指出：莎士比亚独有的20,000个海量词汇给儿童带来了巨大的语言扩张，结合全身体验赋予词语生命。由此可严密推断出：正是莎剧独一无二的浩瀚词汇库与戏剧张力，使得这种沉浸式排练室教学法在莎士比亚作品上能够发挥出最为显著卓越的最佳成效（may work best with Shakespeare）。A选项精准契合推理。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the language of Shakespeare may be formidable for pupils.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 褒贬颠倒】全篇强调莎剧语言给九至十岁儿童带来了巨大的语言能力腾飞，绝非令人望而生畏难以逾越（formidable）。",
+        "refSentences": [
+          "P4-S1",
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "other old dramatists may be included in primary education.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 概念偏差】O'Hanlon 表示其他剧作家尚需更多实证研究，并未断言应将其纳入小学课程。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "pupils may be reluctant to work on other old dramatists.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无端捏造】未提及学生不愿意学习其他古代剧作家。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "推断判断题",
+    "targetSentences": [
+      "P7-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Shakespeare's 20,000 words vs 2,000 everyday words combined with whole body acting = the new teaching method may work best with Shakespeare。",
+      "methodSummary": "末段独特优势推断：抓准莎翁两万词汇的独特结合点，推导出 work best with Shakespeare。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "2025_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "英语一_2025_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "A",
+          "C": "A",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "inferred from the last paragraph"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2025_t1.json",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:c7ef485645cf25fa74fa92864c62aa27a0485f2afa6a53bf8527578067506d69"
+    }
+  }
+]

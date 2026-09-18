@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2015-r-t1",
+  "year": 2015,
+  "textNumber": 1,
+  "title": "The Crisis of Monarchy and Lessons from the Spanish Abdication",
+  "chineseTitle": "欧洲君主制的存续危机与西班牙退位风波的警示",
+  "topic": null,
+  "topicDomain": "政治制度与欧洲社会",
+  "subTopic": "西班牙国王胡安·卡洛斯退位事件、欧洲君主制的立宪超越性与英国王室查尔斯王子面临的执政警示",
+  "overview": null,
+  "wordCount": 420,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.1/5.0",
+  "sourcePublication": "选自 The Guardian (英国《卫报》) 专栏社论《The Spanish abdication holds a warning for all Europe's monarchs》",
+  "paragraphCount": 7,
+  "sentenceCount": 20,
+  "vocabularyCount": 28,
+  "phraseCount": 20,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "2014年6月，在位39年的西班牙国王胡安·卡洛斯一世（Juan Carlos I）宣布退位。卡洛斯曾在佛朗哥独裁统治终结后力挽狂澜推动西班牙民主转型，但晚年深陷非洲博茨瓦纳豪华猎象丑闻、王室贪腐指控以及欧洲议会选举中左翼共和势力的强烈冲击，最终被迫食言放弃王位。这一震撼事件将欧洲现代君主制（Monarchy）的去留问题推向风口浪尖。在当代欧洲（如英国、荷兰、比利时、西班牙、北欧等国），君主制之所以能够幸存，并非因其世袭特权符合现代民主价值观，而是由于立宪君主能够“超越世俗党争（transcendence of mere politics）”，作为国家团结的无争议道德象征，免除了公民在党派撕裂中艰难寻找无争议国家元首的困境。然而，法国经济学家托马斯·皮凯蒂在《21世纪资本论》中所揭示的贫富极化与世袭财富权力膨胀，使得君主制固有的不平等特权显得愈发格格不入。文章最终将锋芒直指英国王室：如果即将继位的查尔斯王子不能放下其奢靡品味与森严等级观念、坚守超脱政治的服务角色，那么国王自己将成为君主制的最大掘墓人。",
+      "coreDisputeOrTheme": "核心争论在于封建世袭君主制在现代平等民主社会的合法性与功能定位。君主制赖以存续的生命线是“超脱政争、低调亲民、提供无争议的象征性元首服务”，一旦王室成员沉迷特权、生活奢靡或干预政治，其世袭正当性将瞬间瓦解。",
+      "keyTerminology": [
+        {
+          "term": "Abdicate",
+          "explanation": "退位/放弃王位：国家君主自愿或在内外压力下被迫让出最高统治权。"
+        },
+        {
+          "term": "Constitutional Monarchy",
+          "explanation": "君主立宪制：君主作为虚位国家元首、其权力受宪法与议会严格约束的现代政体。"
+        },
+        {
+          "term": "Franco Regime",
+          "explanation": "佛朗哥独裁政权：西班牙1939年至1975年的法西斯军政府独裁统治，卡洛斯国王继位后引领了西班牙民主化转型。"
+        },
+        {
+          "term": "Thomas Piketty",
+          "explanation": "托马斯·皮凯蒂：法国著名经济学家，《21世纪资本论》作者，警示全球不平等加剧与资本世袭力量膨胀。"
+        },
+        {
+          "term": "The Writing on the Wall",
+          "explanation": "墙上的字迹：源自《圣经·但以理书》伯沙撒王宴会的典故，喻指大祸临头的不祥之兆。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "君主立宪、政治制度与权力合法性 (Constitutional Monarchy, Political System & Legitimacy)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "trans- (跨越/穿过)",
+          "examples": [
+            "transcendence (超越/超脱)",
+            "transition (过渡/转变)"
+          ]
+        },
+        {
+          "affix": "in- / im- (否定前缀)",
+          "examples": [
+            "indefensible (站不住脚的)",
+            "inequality (不平等)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "王权统治与政体演变",
+          "words": [
+            "monarchy",
+            "abdicate",
+            "regime",
+            "stand down",
+            "head of state",
+            "absolutist"
+          ]
+        },
+        {
+          "theme": "超脱政治与象征功能",
+          "words": [
+            "transcendence",
+            "rise above",
+            "embody",
+            "national unity",
+            "non-controversial",
+            "non-political"
+          ]
+        },
+        {
+          "theme": "特权弊端与平民伪装",
+          "words": [
+            "downside",
+            "aristocratic",
+            "privilege",
+            "inherited wealth",
+            "well-heeled",
+            "granny style"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+    "year": 2015,
+    "articleKey": "ky-en1-2015-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+  }
+}

@@ -1,0 +1,876 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The author holds that in the seventeenth-century New England",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Puritan tradition dominated political life.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】第1段第3句指出清教传统确立了“American intellectual life”（思想精神生活）的主题与主导地位，选项偷换为“political life（政治生活）”。",
+        "vocab": [
+          {
+            "word": "tradition",
+            "ipa": "[trəˈdɪʃ(ə)n]",
+            "meaning": "传统",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "dominated",
+            "ipa": "",
+            "meaning": "主导",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "intellectual interests were encouraged.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“nowhere else was so much importance attached to intellectual pursuits”完美同义改写为“求知与知识探索兴趣受到推崇和鼓励（intellectual interests were encouraged）”。",
+        "vocab": [
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "知识的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "politics benefited much from intellectual endeavors.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】虽然早期领导人既是政治家也是学者，但文中从未提及或论证过政治运作从学术探索中大获裨益。",
+        "vocab": [
+          {
+            "word": "politics",
+            "ipa": "[ˈpɒlətɪks]",
+            "meaning": "政治",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "benefited",
+            "ipa": "",
+            "meaning": "受益",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "学术的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "endeavors",
+            "ipa": "",
+            "meaning": "努力",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "intellectual pursuits enjoyed a liberal environment.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】重视知识探索（intellectual pursuits）并不等于拥有思想宽容、自由多元的环境（liberal environment）；清教神权社会在意识形态上往往是极端严苛与排他的。",
+        "vocab": [
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "学术的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "pursuits",
+            "ipa": "",
+            "meaning": "活动",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "liberal",
+            "ipa": "[ˈlɪbərəl]",
+            "meaning": "自由的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "According to the standard history of American philosophy, nowhere else in colonial America was \"so much importance attached to intellectual pursuits.\"",
+      "explanation": "【王晶婷六大题型·事实细节题精析】\n题干考查作者认为17世纪新英格兰具有何种特征。定位至第1段第2句：“According to the standard history of American philosophy, nowhere else in colonial America was 'so much importance attached to intellectual pursuits'”（根据公认权威的美国哲学史记载，在殖民时期的美洲，没有任何其他地方像新英格兰一样对求知探索给予了如此高度的重视）。句中“so much importance attached to intellectual pursuits”在逻辑与语义上完全等同于“intellectual interests were encouraged（思想求索与学术追求受到普遍鼓励与推崇）”。因此 [B] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "New",
+          "ipa": "[njuː]",
+          "meaning": "新英格兰",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "holds",
+          "ipa": "",
+          "meaning": "认为",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "It is suggested in Paragraph 2 that New Englanders",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "experienced a comparatively peaceful early history.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】第2段第3句提到新英格兰是追求文明修养的一系列“important episodes”的发生舞台，但全文完全未提及早期殖民历史相对和平安宁。",
+        "vocab": [
+          {
+            "word": "comparatively",
+            "ipa": "[kəmˈpærətɪvli]",
+            "meaning": "相对地",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "brought with them the culture of the Old World.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“carriers of European culture, adjusting to New World circumstances”精确对应“带来了旧大陆欧洲的文化体系（brought with them the culture of the Old World）”。",
+        "vocab": [
+          {
+            "word": "Old",
+            "ipa": "[əʊld]",
+            "meaning": "旧大陆",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "paid little attention to southern intellectual life.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【张冠李戴】“in keeping with our examination of southern intellectual life”是现代历史学者自身的行文与学术研究框架，选项张冠李戴嫁祸为17世纪新英格兰定居者自身的关注点。",
+        "vocab": [
+          {
+            "word": "paid",
+            "ipa": "",
+            "meaning": "注意",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "文化的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "were obsessed with religious innovations.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "【绝对夸大/极度失真】第1句虽提及清教徒的神学教义创新（theological innovations），但并未形容其达到了“病态痴迷（obsessed with）”的地步。",
+        "vocab": [
+          {
+            "word": "obsessed",
+            "ipa": "[əbˈsest]",
+            "meaning": "痴迷于…",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "religious",
+            "ipa": "[rɪˈlɪdʒəs]",
+            "meaning": "宗教的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "innovations",
+            "ipa": "",
+            "meaning": "创新",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances.",
+      "explanation": "【王晶婷六大题型·事实推断细节题精析】\n题干针对第二段关于新英格兰人的论述提问。定位至第2段第2句：“we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances”（我们不妨将最初的清教徒视作欧洲文化的承载者，在新大陆的全新环境下做出调适）。“European culture”即来自欧洲旧大陆的文化（the culture of the Old World）；而作为其“carriers”（载体与传播者）来到新大陆，直接表明新英格兰定居者将旧大陆的文化遗产带到了美洲大陆（brought with them the culture of the Old World）。因此 [B] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "The early ministers and political leaders in Massachusetts Bay",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "were famous in the New World for their writings.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/断章取义】第1句明确指出他们是在英国就已具有极高威望（impressive education and influence in England），第3句指出其读者遍布两大陆，不能断章取义概括为在新大陆因著作而成名。",
+        "vocab": [
+          {
+            "word": "famous",
+            "ipa": "[ˈfeɪməs]",
+            "meaning": "因…出名",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "New",
+            "ipa": "[njuː]",
+            "meaning": "新英格兰",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "gained increasing importance in religious affairs.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中客观陈述这批学者和官员创设教会和学风，并未论述他们在宗教事务中的权力和地位持续上升。",
+        "vocab": [
+          {
+            "word": "religious",
+            "ipa": "[rɪˈlɪdʒəs]",
+            "meaning": "宗教的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "abandoned high positions before coming to the New World.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【曲解文意/过度推论】第2句提到约翰·温思罗普在来波士顿前曾担任王室官员（official of the Crown），陈述其高贵出身，并非强调这批精英在赴美前“主动抛弃了显赫职位”。",
+        "vocab": [
+          {
+            "word": "abandoned",
+            "ipa": "[əˈbændənd]",
+            "meaning": "放弃",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "coming",
+            "ipa": "",
+            "meaning": "来到",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "New",
+            "ipa": "[njuː]",
+            "meaning": "新大陆,",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "World",
+            "ipa": "[wɜːld]",
+            "meaning": "美洲大陆",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "created a new intellectual atmosphere in New England.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“giving New England an atmosphere of intellectual earnestness”完美同义转述为“created a new intellectual atmosphere in New England”。",
+        "vocab": [
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "知识的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "atmosphere",
+            "ipa": "[ˈætməsfɪə(r)]",
+            "meaning": "氛围",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "New",
+            "ipa": "[njuː]",
+            "meaning": "新英格兰",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "These men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness.",
+      "explanation": "【王晶婷六大题型·事实细节题精析】\n题干询问马萨诸塞湾早期的牧师与政治领袖们有何作为。定位至第3段第3句：“These men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness”（这些人广泛著书立说并大量出版，其读者群覆盖新旧大陆，从而为新英格兰注入了一种严肃探求真理的求知学术氛围）。句中“giving New England an atmosphere of intellectual earnestness”与选项 [D] “created a new intellectual atmosphere in New England（在新英格兰开创了崭新的思想求索氛围）”构成毫无争议的完美同义替换。因此 [D] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Massachusetts",
+          "ipa": "",
+          "meaning": "马萨诸塞湾",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "The story of John Dane shows that less well-educated New Englanders were often",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "influenced by superstitions.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解论点呼应】丹恩随手翻圣经占卜吉凶的荒谬记录直接呼应前句核心论点“Their thinking often had a traditional superstitious quality”，充分说明平民思维深受迷信影响（influenced by superstitions）。",
+        "vocab": [
+          {
+            "word": "influenced",
+            "ipa": "",
+            "meaning": "受…影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "superstitions",
+            "ipa": "",
+            "meaning": "迷信",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "troubled with religious beliefs.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】丹恩怀揣强烈的宗教希望（religious hope）并对经文指示坚信不疑，并未因为宗教信仰而陷入痛苦煎熬与精神危机（troubled with）。",
+        "vocab": [
+          {
+            "word": "religious",
+            "ipa": "[rɪˈlɪdʒəs]",
+            "meaning": "宗教的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "beliefs",
+            "ipa": "",
+            "meaning": "信仰",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "puzzled by church sermons.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【过度推论/无中生有】末句“One wonders what Dane thought of the careful sermons”仅是作者引发读者回味的设问与思索，并未断言丹恩在听道时深感困惑不解（puzzled by）。",
+        "vocab": [
+          {
+            "word": "puzzled",
+            "ipa": "",
+            "meaning": "对…迷惑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "frustrated with family earnings.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【以偏概全/偷换概念】文中提到丹恩面临 economic frustrations（经济挫折），但这只是他占卜动机的现实诱因之一，作者引入该例子的根本目的在于论证其传统迷信思维方式。",
+        "vocab": [
+          {
+            "word": "frustrated",
+            "ipa": "[ˈfrʌstreɪtɪd]",
+            "meaning": "使沮丧",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "EXEMPLIFICATION",
+    "type": "论据例证题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized. Their thinking often had a traditional superstitious quality. A tailor named John Dane... left an account of his reasons for leaving England that is filled with signs.",
+      "explanation": "【王晶婷六大题型·论据例证题精析】\n题干考查作者引用裁缝约翰·丹恩的故事旨在证明受教育较少的新英格兰人具有什么特点。定位至第4段：第2~3句率先确立本段核心论点——普通民众留下文字很少，“it is obvious that their views were less fully intellectualized. Their thinking often had a traditional superstitious quality”（显然，他们的思想并没有那么思辨理性化；他们的日常思维往往带有深厚的传统迷信色彩）。紧接着第4句引入裁缝约翰·丹恩的具体案例进行佐证：丹恩的回忆录充满了神秘兆头（filled with signs），通过随手翻开圣经占卜来决定自己移民美洲的重大命运。这一例证直接有力地印证了论点：受教育较少的人往往深受迷信思想的深刻影响（influenced by superstitions）。因此 [A] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "John",
+          "ipa": "",
+          "meaning": "[人名]约翰·丹奈",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "The text suggests that early settlers in New England",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "were mostly engaged in political activities.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【以偏概全/违背史实】文中明确说明绝大多数普通人是工匠、农民、仆役和打鱼的渔民，绝非大多数人从事政治活动。",
+        "vocab": [
+          {
+            "word": "mostly",
+            "ipa": "[ˈməʊstli]",
+            "meaning": "主要地",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "were motivated by an illusory prospect.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】作者客观呈现了定居者各自现实的追求（精英追求神学理想与文明修养，平民追求解决困惑与出海打鱼），并未将其归因为虚幻渺茫的幻象（illusory prospect）。",
+        "vocab": [
+          {
+            "word": "prospect",
+            "ipa": "[ˈprɒspekt]",
+            "meaning": "前景",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "illusory",
+            "ipa": "[ɪˈluːsəri]",
+            "meaning": "虚假的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "came from different intellectual backgrounds.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解宏观综合】文章贯穿了高学历精英领袖、低学历迷信工匠、以及毫无神学兴趣的世俗渔民之间的鲜明对比，直接推导出早期定居者拥有迥异的思想文化教育背景。",
+        "vocab": [
+          {
+            "word": "came",
+            "ipa": "",
+            "meaning": "来自",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "intellectual",
+            "ipa": "[ˌɪntəˈlektʃuəl]",
+            "meaning": "知识的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "left few formal records for later reference.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】第4段提到普通工匠农民鲜有文字传世，但第3段明确指出精英领袖广泛写作并在新旧大陆大量出版（published extensively），故不可一概而论。",
+        "vocab": [
+          {
+            "word": "formal",
+            "ipa": "[ˈfɔːm(ə)l]",
+            "meaning": "正式的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "reference",
+            "ipa": "[ˈrefrəns]",
+            "meaning": "参考",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨推断题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2009_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2009_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "The early settlers of Massachusetts Bay included men of impressive education and influence... We should not forget, however, that most New Englanders were less well educated... Meanwhile, many settlers had slighter religious commitments than Dane's... \"Our main end was to catch fish.\"",
+      "explanation": "【王晶婷六大题型·主旨推断题精析】\n题干考查全文对新英格兰早期定居者整体构成的深刻总结与推断。综合全文立体对比：\n1）第1~3段聚焦于受过高等教育、著述立说的顶层精英（men of impressive education and influence in England，如90多位博学牧师和温思罗普总督）；\n2）第4段转而剖析受教育程度低、思维充斥民间迷信的工匠与农民（如裁缝约翰·丹恩）；\n3）第5段进一步揭示沿海居民甚至连宗教信仰都极其淡薄，完全是出于打渔糊口的世俗动机（\"Our main end was to catch fish\"）。\n这种多维度的对照叙事打破了过去将新英格兰定居者一律视为虔诚知识清教徒的刻板印象，深刻揭示出早期新英格兰定居者并非单一群体，而是由拥有截然不同的文化素养与思想教育背景的人群共同构成的（came from different intellectual backgrounds）。因此 [C] 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "New",
+          "ipa": "[njuː]",
+          "meaning": "新英格兰",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t4.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:daed09426f3bc139b2f2284c5e70fbd1501dfca74acf6ec375fb474403dc9ca2"
+    }
+  }
+]

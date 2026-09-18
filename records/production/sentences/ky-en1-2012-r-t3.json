@@ -1,0 +1,1028 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to carry out their work.",
+    "translation": "在关于科学研究的理想化图景中，世间万物的事实静待客观的研究者去观察和收集，而这些研究者会运用科学方法来开展工作。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (前置介词短语状语 + 宾语从句 + 定语从句)",
+      "mainClause": "facts about the world are waiting to be observed and collected by objective researchers",
+      "subordinateClauses": [
+        "介词短语状语: In the idealized version of how science is done",
+        "定语从句修饰researchers: who use the scientific method to carry out their work"
+      ],
+      "corePattern": "In the idealized version of ... / be waiting to be observed and collected / carry out work"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route.",
+    "translation": "然而在科学的日常实践中，发现往往走的是一条模糊而曲折的道路。",
+    "syntaxAnalysis": {
+      "structureType": "转折简单句 (转折连词 + 时间/方式介词短语)",
+      "mainClause": "discovery frequently follows an ambiguous and complicated route",
+      "subordinateClauses": [
+        "状语: But in the everyday practice of science"
+      ],
+      "corePattern": "discovery follows an ambiguous and complicated route"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "We aim to be objective, but we cannot escape the context of our unique life experiences.",
+    "translation": "我们力求客观，却无法摆脱自身独特生活经历所构成的背景。",
+    "syntaxAnalysis": {
+      "structureType": "转折并列句 (but 连接两个主谓分句)",
+      "mainClause": "We aim to be objective, but we cannot escape the context of our unique life experiences",
+      "subordinateClauses": [],
+      "corePattern": "aim to be objective / cannot escape the context of"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "Prior knowledge and interests influence what we experience, what we think our experiences mean, and the subsequent actions we take.",
+    "translation": "已有的知识和兴趣会影响我们的所见所闻、我们对自身经历意义的理解，以及我们随后采取的行动。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (三个并列宾语从句)",
+      "mainClause": "Prior knowledge and interests influence...",
+      "subordinateClauses": [
+        "并列宾语从句1: what we experience",
+        "并列宾语从句2: what we think our experiences mean (含插入语 we think)",
+        "并列宾语从句3: the subsequent actions (that) we take (含省略that的定语从句)"
+      ],
+      "corePattern": "influence what we experience, what we think ..., and the subsequent actions"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P1-S5",
+      "pIndex": 1
+    },
+    "text": "Opportunities for misinterpretation, error, and self-deception abound.",
+    "translation": "误解、错误和自我欺骗的可能性比比皆是。",
+    "syntaxAnalysis": {
+      "structureType": "主谓简单句 (介词短语修饰主语)",
+      "mainClause": "Opportunities for misinterpretation, error, and self-deception abound",
+      "subordinateClauses": [],
+      "corePattern": "opportunities for ... abound"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        31
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Consequently, discovery claims should be thought of as protoscience.",
+    "translation": "因此，各种发现的主张应当被视为原始科学。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (因果副词 + 被动语态)",
+      "mainClause": "discovery claims should be thought of as protoscience",
+      "subordinateClauses": [],
+      "corePattern": "be thought of as protoscience"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Similar to newly staked mining claims, they are full of potential.",
+    "translation": "它们就像新登记的采矿权一样，充满潜力。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (形容词短语作比喻状语)",
+      "mainClause": "they are full of potential",
+      "subordinateClauses": [
+        "比喻状语: Similar to newly staked mining claims"
+      ],
+      "corePattern": "similar to ... / be full of potential"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.",
+    "translation": "但要把一项发现主张变成一项成熟的发现，还需要集体的审视与接受。",
+    "syntaxAnalysis": {
+      "structureType": "形式主语复合句 (it 作形式主语 + 不定式作真正主语)",
+      "mainClause": "it takes collective scrutiny and acceptance to transform...",
+      "subordinateClauses": [
+        "真正主语: to transform a discovery claim into a mature discovery"
+      ],
+      "corePattern": "it takes collective scrutiny and acceptance to transform A into B"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "This is the credibility process, through which the individual researcher's me, here, now becomes the community's anyone, anywhere, anytime.",
+    "translation": "这就是可信度形成的过程，通过它，研究者个人的“此时此地的我”变成了共同体的“任何人、任何地方、任何时候”。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 (介词+which引导的非限制性定语从句)",
+      "mainClause": "This is the credibility process",
+      "subordinateClauses": [
+        "定语从句: through which the individual researcher's me, here, now becomes the community's anyone, anywhere, anytime"
+      ],
+      "corePattern": "credibility process / through which ... becomes ..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        32,
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Objective knowledge is the goal, not the starting point.",
+    "translation": "客观知识是目标，而不是起点。",
+    "syntaxAnalysis": {
+      "structureType": "主系表对比简单句",
+      "mainClause": "Objective knowledge is the goal, not the starting point",
+      "subordinateClauses": [],
+      "corePattern": "is the goal, not the starting point"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        32
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Once a discovery claim becomes public, the discoverer receives intellectual credit.",
+    "translation": "一旦某项发现主张公之于众，发现者便获得学术上的认可。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (once条件/时间状语从句)",
+      "mainClause": "the discoverer receives intellectual credit",
+      "subordinateClauses": [
+        "状语从句: Once a discovery claim becomes public"
+      ],
+      "corePattern": "once ... / receive intellectual credit"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "But, unlike with mining claims, the community takes control of what happens next.",
+    "translation": "但与采矿权不同的是，接下来发生什么由共同体掌控。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (插入语对比 + what宾语从句)",
+      "mainClause": "the community takes control of what happens next",
+      "subordinateClauses": [
+        "介词插入语: unlike with mining claims",
+        "介词宾语从句: of what happens next"
+      ],
+      "corePattern": "the community takes control of what happens next"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology.",
+    "translation": "在科学共同体这一复杂的社会结构中，研究者作出发现；编辑和审稿人通过掌控发表过程充当把关人；其他科学家利用这些新发现来服务于自身目的；最终，公众（包括其他科学家）获知这些新发现以及可能随之而来的技术。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合长句 (介词短语前置 + 分号连接四个并列分句)",
+      "mainClause": "researchers make discoveries; editors and reviewers act as gatekeepers...; other scientists use...; and finally, the public receives...",
+      "subordinateClauses": [
+        "前置状语: Within the complex social structure of the scientific community",
+        "介词方式状语: by controlling the publication process",
+        "同位插入语: (including other scientists)"
+      ],
+      "corePattern": "act as gatekeepers / use finding to suit own purposes / accompanying technology"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.",
+    "translation": "当一项发现主张在共同体中逐步传播时，围绕相关科学与技术的共有信念和相互竞争的信念之间的互动与交锋，会把个人的发现主张转变为共同体所认可的可信发现。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (as时间状语从句 + 复杂后置定语主语 + 复合宾语)",
+      "mainClause": "the interaction and confrontation ... transforms an individual's discovery claim into the community's credible discovery",
+      "subordinateClauses": [
+        "时间状语从句: As a discovery claim works its way through the community",
+        "介词定语修饰主语: between shared and competing beliefs about the science and the technology involved",
+        "后置修饰: technology involved"
+      ],
+      "corePattern": "work one's way through / interaction and confrontation / transform A into B"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        33
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Two paradoxes exist throughout this credibility process.",
+    "translation": "这一可信度形成过程中始终存在两个悖论。",
+    "syntaxAnalysis": {
+      "structureType": "简单句 (主谓倒装结构)",
+      "mainClause": "Two paradoxes exist throughout this credibility process",
+      "subordinateClauses": [],
+      "corePattern": "Two paradoxes exist throughout..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34,
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "First, scientific work tends to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect.",
+    "translation": "第一，科学工作往往聚焦于现行知识中被视为不完整或不正确的某个方面。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (定语从句修饰prevailing knowledge)",
+      "mainClause": "scientific work tends to focus on some aspect of prevailing knowledge",
+      "subordinateClauses": [
+        "定语从句: that is viewed as incomplete or incorrect"
+      ],
+      "corePattern": "tend to focus on / prevailing knowledge / be viewed as"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Little reward accompanies duplication and confirmation of what is already known and believed.",
+    "translation": "对已知已信之事进行重复和确认，几乎得不到什么回报。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (否定代词主语 + 宾语从句)",
+      "mainClause": "Little reward accompanies duplication and confirmation...",
+      "subordinateClauses": [
+        "介词宾语从句: of what is already known and believed"
+      ],
+      "corePattern": "Little reward accompanies ... of what is ..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "The goal is new-search, not re-search.",
+    "translation": "目标是“新探”，而不是“复查”。",
+    "syntaxAnalysis": {
+      "structureType": "主系表对比排比简单句 (词源拆解构词对比)",
+      "mainClause": "The goal is new-search, not re-search",
+      "subordinateClauses": [],
+      "corePattern": "new-search, not re-search"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P4-S5",
+      "pIndex": 4
+    },
+    "text": "Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modification or refutation by future researchers.",
+    "translation": "毫不奇怪，新发表的发现主张，以及那些看似重要且令人信服的可信发现，都始终有可能受到后来研究者的挑战，并可能被修正或推翻。",
+    "syntaxAnalysis": {
+      "structureType": "主谓表复合句 (评注副词短语 + 定语从句 + 并列谓语表语)",
+      "mainClause": "discovery claims and credible discoveries ... will always be open to challenge and potential modification or refutation",
+      "subordinateClauses": [
+        "定语从句修饰discoveries: that appear to be important and convincing",
+        "介词宾语短语: by future researchers"
+      ],
+      "corePattern": "be open to challenge and potential modification or refutation"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 6,
+      "ps": "P4-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P4-S6",
+      "pIndex": 4
+    },
+    "text": "Second, novelty itself frequently provokes disbelief.",
+    "translation": "第二，新颖本身常常会引发怀疑。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 (反身代词同位强调)",
+      "mainClause": "novelty itself frequently provokes disbelief",
+      "subordinateClauses": [],
+      "corePattern": "novelty itself provokes disbelief"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34,
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 7,
+      "ps": "P4-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P4-S7",
+      "pIndex": 4
+    },
+    "text": "Nobel Laureate and physiologist Albert Szent-Györgyi once described discovery as \"seeing what everybody has seen and thinking what nobody has thought.\"",
+    "translation": "诺贝尔奖得主、生理学家阿尔伯特·圣捷尔吉曾把发现描述为“看到人人都看到的东西，想到无人想到的东西”。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (同位语主语 + 引用介词宾语从句并列)",
+      "mainClause": "Albert Szent-Györgyi once described discovery as...",
+      "subordinateClauses": [
+        "同位语: Nobel Laureate and physiologist",
+        "动名词短语作介词宾语: seeing what everybody has seen and thinking what nobody has thought",
+        "两个宾语从句: what everybody has seen / what nobody has thought"
+      ],
+      "corePattern": "describe discovery as seeing what ... and thinking what ..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 8,
+      "ps": "P4-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P4-S8",
+      "pIndex": 4
+    },
+    "text": "But thinking what nobody else has thought and telling others what they have missed may not change their views.",
+    "translation": "然而，想到别人没想到的东西，并把别人所忽视的告诉他们，未必能改变他们的看法。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合主语简单句 (两个动名词短语作主语 + 宾语从句)",
+      "mainClause": "thinking what nobody else has thought and telling others what they have missed may not change their views",
+      "subordinateClauses": [
+        "动名词从句1: what nobody else has thought",
+        "动名词从句2: what they have missed"
+      ],
+      "corePattern": "thinking what ... and telling what ... may not change views"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 9,
+      "ps": "P4-S9"
+    },
+    "sourceLocator": {
+      "sIndex": 9,
+      "id": "P4-S9",
+      "pIndex": 4
+    },
+    "text": "Sometimes years are required for truly novel discovery claims to be accepted and appreciated.",
+    "translation": "有时，真正新颖的发现主张要等到多年之后才被人们接受和认可。",
+    "syntaxAnalysis": {
+      "structureType": "复合句 (被动语态 + for sb to do 不定式复合结构)",
+      "mainClause": "years are required",
+      "subordinateClauses": [
+        "不定式复合结构: for truly novel discovery claims to be accepted and appreciated"
+      ],
+      "corePattern": "years are required for ... to be accepted and appreciated"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        34
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "In the end, credibility \"happens\" to a discovery claim -- a process that corresponds to what philosopher Annette Baier has described as the commons of the mind.",
+    "translation": "归根到底，可信度是“发生”在发现主张之上的——这一过程恰好契合哲学家安妮特·拜尔所说的“心智的公地”。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (破折号同位解释 + 定语从句 + 宾语从句)",
+      "mainClause": "credibility \"happens\" to a discovery claim",
+      "subordinateClauses": [
+        "破折号同位短语: a process...",
+        "定语从句修饰process: that corresponds to what philosopher Annette Baier has described as...",
+        "宾语从句: what philosopher Annette Baier has described as the commons of the mind"
+      ],
+      "corePattern": "credibility happens to / correspond to / the commons of the mind"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2012-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "\"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+    "translation": "“我们共同推理，相互挑战、修正并完善彼此的推理以及彼此对理性的理解。”",
+    "syntaxAnalysis": {
+      "structureType": "引用并列谓语简单句 (四个并列动词 + 并列宾语)",
+      "mainClause": "We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason",
+      "subordinateClauses": [],
+      "corePattern": "reason together, challenge, revise, and complete each other's reasoning"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        35
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2012.js",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+    }
+  }
+]

@@ -1,0 +1,420 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2009-r-t1",
+  "year": 2009,
+  "textNumber": 1,
+  "title": "The Power of Habits and Neurological Rewiring",
+  "chineseTitle": "习惯的神经力量与认知重构：打破惯性思维迈向卓越",
+  "topic": null,
+  "topicDomain": "认知神经科学与创新心理学",
+  "subTopic": "习惯的自动驾驶机制、神经可塑性与新通路重塑、四种思维维度的青春期固化以及标准化考试对创新潜能的抑制",
+  "overview": null,
+  "wordCount": 412,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 7,
+  "sentenceCount": 22,
+  "vocabularyCount": 99,
+  "phraseCount": 46,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {
+    "year": 2009,
+    "textIndex": 1,
+    "source": "选自 The Christian Science Monitor (《基督科学箴言报》) 认知与创新专栏",
+    "backgroundKnowledge": {
+      "neuroplasticityAndHabits": "认知神经科学中的‘神经可塑性’（Neuroplasticity）理论表明，大脑的神经元突触和神经回路具有根据经验和行为不断重构的能力。当人们重复某一行为时，特定神经通路被反复激活，形成深厚的‘神经车辙’（ruts），进而使行为自动化；而当人们有意识地走出舒适区、践行新行为时，大脑会激活神经发生（neurogenesis）并建立平行突触连接。这也是为什么文章指出消灭旧习惯是徒劳的，唯有建立平行新通路才能实现行为跃迁。",
+      "fourThinkingModesTheory": "20世纪60年代认知心理学提出的四种基本认知应对模式理论：1）分析型思维（Analytical Mode）：注重逻辑推理、数据拆解与客观事实；2）程序型思维（Procedural Mode）：注重流程规范、既定规则与按部就班；3）协作/人际关系型思维（Relational / Collaborative Mode）：注重情感共鸣、人际沟通与团队协作；4）创新型思维（Innovative Mode）：注重发散想象、直觉探索与跨界突破。青春期大脑的神经修剪（synaptic pruning）会依据环境奖惩固化前两者而关闭后两者，导致成年人创新力退化。",
+      "standardizedTestingCriticism": "20世纪末至21世纪初，美国教育改革（如《不让一个孩子掉队》法案）大力推行标准化考试（Standardized Testing），引发了教育界与心理学界的广泛争议。批评者认为，标准化考试过度偏向可量化的逻辑分析与程序套路，违背了美国文化中鼓励个性特长与开拓进取的传统信念，通过流水线式训练制造了大批毫无个性和创新思维的平庸者（fosters commonness）。"
+    },
+    "wordFamilyCapsules": [
+      {
+        "root": "flect / flex- (弯曲/折射/反思)",
+        "meaning": "表示弯曲、屈服、反射与深思",
+        "words": [
+          {
+            "word": "reflect",
+            "pos": "v.",
+            "meaning": "反射；反映；深思，反省"
+          },
+          {
+            "word": "unreflecting",
+            "pos": "adj.",
+            "meaning": "缺乏反思的，不假思索的，盲目的"
+          },
+          {
+            "word": "reflection",
+            "pos": "n.",
+            "meaning": "反射，映像；深思，沉思"
+          },
+          {
+            "word": "flexible",
+            "pos": "adj.",
+            "meaning": "灵活的，可变通的，柔韧的"
+          }
+        ]
+      },
+      {
+        "root": "nov- / novus (新的/创新)",
+        "meaning": "表示新颖、革新与改造",
+        "words": [
+          {
+            "word": "innovate",
+            "pos": "v.",
+            "meaning": "改革，创新，革新"
+          },
+          {
+            "word": "innovative",
+            "pos": "adj.",
+            "meaning": "创新的，革新的，富有创意的"
+          },
+          {
+            "word": "innovation",
+            "pos": "n.",
+            "meaning": "创新，革新，新事物"
+          },
+          {
+            "word": "novel",
+            "pos": "adj./n.",
+            "meaning": "新颖的，罕见的；长篇小说"
+          }
+        ]
+      },
+      {
+        "root": "sci- / scious (知晓/意识)",
+        "meaning": "表示知道、知觉与意识",
+        "words": [
+          {
+            "word": "conscious",
+            "pos": "adj.",
+            "meaning": "有意识的，神志清醒的，察觉到的"
+          },
+          {
+            "word": "consciously",
+            "pos": "adv.",
+            "meaning": "有意识地，自觉地"
+          },
+          {
+            "word": "unconscious",
+            "pos": "adj.",
+            "meaning": "无意识的，未察觉的，昏迷的"
+          },
+          {
+            "word": "subconscious",
+            "pos": "adj./n.",
+            "meaning": "下意识的，潜意识的；潜意识"
+          }
+        ]
+      },
+      {
+        "root": "habit- (居住/拥有/习惯)",
+        "meaning": "表示持有、常态与习惯",
+        "words": [
+          {
+            "word": "habit",
+            "pos": "n.",
+            "meaning": "习惯，习性，惯常做法"
+          },
+          {
+            "word": "habitual",
+            "pos": "adj.",
+            "meaning": "习惯性的，惯常的，习以为常的"
+          },
+          {
+            "word": "habituate",
+            "pos": "v.",
+            "meaning": "使习惯于，使适应"
+          },
+          {
+            "word": "inhabit",
+            "pos": "v.",
+            "meaning": "居住于，栖息于"
+          }
+        ]
+      }
+    ],
+    "nuances": [
+      {
+        "word": "a funny thing",
+        "location": "P1 L1",
+        "familiarMeaning": "funny＝好笑的",
+        "examMeaning": "funny＝奇怪、耐人寻味的",
+        "contextCollocation": "Habits are a funny thing."
+      },
+      {
+        "word": "reach for",
+        "location": "P1 L1",
+        "familiarMeaning": "伸手去拿",
+        "examMeaning": "下意识地转向、依赖、诉诸",
+        "contextCollocation": "reach for them mindlessly"
+      },
+      {
+        "word": "auto-pilot",
+        "location": "P1 L1-L2",
+        "familiarMeaning": "自动驾驶仪",
+        "examMeaning": "无意识、凭惯性行动的状态",
+        "contextCollocation": "setting our brains on auto-pilot"
+      },
+      {
+        "word": "rule",
+        "location": "P1 L3",
+        "familiarMeaning": "规则",
+        "examMeaning": "支配、控制",
+        "contextCollocation": "habit rules the unreflecting herd"
+      },
+      {
+        "word": "herd",
+        "location": "P1 L3",
+        "familiarMeaning": "兽群",
+        "examMeaning": "盲从的大众",
+        "contextCollocation": "the unreflecting herd"
+      },
+      {
+        "word": "jump",
+        "location": "P2 L3",
+        "familiarMeaning": "跳跃",
+        "examMeaning": "使思路突然转到新路径",
+        "contextCollocation": "jump our trains of thought onto new tracks"
+      },
+      {
+        "word": "dismiss A as B",
+        "location": "P3 L1",
+        "familiarMeaning": "解雇",
+        "examMeaning": "把 A 视为 B 而轻易否定",
+        "contextCollocation": "dismissing ourselves as unchangeable..."
+      },
+      {
+        "word": "direct",
+        "location": "P3 L2",
+        "familiarMeaning": "直接的",
+        "examMeaning": "引导、掌控",
+        "contextCollocation": "direct our own change"
+      },
+      {
+        "word": "bother",
+        "location": "P4 L1",
+        "familiarMeaning": "打扰",
+        "examMeaning": "费心做某事",
+        "contextCollocation": "don’t bother trying to..."
+      },
+      {
+        "word": "rut",
+        "location": "P4 L1",
+        "familiarMeaning": "车辙、沟槽",
+        "examMeaning": "固定、难以摆脱的思维或行为模式",
+        "contextCollocation": "ruts of procedure"
+      },
+      {
+        "word": "bypass",
+        "location": "P4 L3",
+        "familiarMeaning": "绕行道路、旁路",
+        "examMeaning": "绕开旧模式或程序",
+        "contextCollocation": "bypass those old roads"
+      },
+      {
+        "word": "wonder",
+        "location": "P5 L1",
+        "familiarMeaning": "想知道",
+        "examMeaning": "惊奇感、好奇心",
+        "contextCollocation": "a fascination with wonder"
+      },
+      {
+        "word": "approach",
+        "location": "P6 L3",
+        "familiarMeaning": "接近",
+        "examMeaning": "处理、应对",
+        "contextCollocation": "approach challenges"
+      },
+      {
+        "word": "mechanical",
+        "location": "Q21 C",
+        "familiarMeaning": "机械、机器的",
+        "examMeaning": "机械式的、不经思考的",
+        "contextCollocation": "mechanical"
+      },
+      {
+        "word": "track",
+        "location": "Q23 A",
+        "familiarMeaning": "铁轨",
+        "examMeaning": "抽象的轨迹、路径",
+        "contextCollocation": "ruts ≈ tracks"
+      },
+      {
+        "word": "maintain",
+        "location": "Q25 C",
+        "familiarMeaning": "维持",
+        "examMeaning": "maintain that... 时为“坚称”",
+        "contextCollocation": "maintains the inherent..."
+      },
+      {
+        "word": "the Decider",
+        "location": "P5 L3",
+        "familiarMeaning": "一般“决定者”",
+        "examMeaning": "特定语境中的“拍板者”称呼",
+        "contextCollocation": "calls himself ‘the Decider’"
+      },
+      {
+        "word": "carry",
+        "location": "P1 L4",
+        "familiarMeaning": "携带实物",
+        "examMeaning": "带有、承载某种含义",
+        "contextCollocation": "carries a negative implication"
+      },
+      {
+        "word": "develop",
+        "location": "P2 L2",
+        "familiarMeaning": "发展",
+        "examMeaning": "培养、逐渐形成",
+        "contextCollocation": "develop new habits"
+      },
+      {
+        "word": "be worn into...",
+        "location": "P4 L1-L2",
+        "familiarMeaning": "wear＝穿；穿戴",
+        "examMeaning": "经长期反复而磨进、刻进",
+        "contextCollocation": "worn into the brain"
+      },
+      {
+        "word": "explore",
+        "location": "P5 L4-L5",
+        "familiarMeaning": "探索地域",
+        "examMeaning": "探索观点、方案、可能性",
+        "contextCollocation": "explore possibilities"
+      },
+      {
+        "word": "work through",
+        "location": "P6 L1",
+        "familiarMeaning": "工作",
+        "examMeaning": "逐步分析、处理并解决",
+        "contextCollocation": "work through problems"
+      },
+      {
+        "word": "shut down",
+        "location": "P6 L4-L5",
+        "familiarMeaning": "关闭机器",
+        "examMeaning": "停用、抑制某种功能",
+        "contextCollocation": "the brain shuts down half..."
+      }
+    ],
+    "confusions": [
+      {
+        "pair": "funny / amusing / strange / odd",
+        "analysis": "funny 可指“好笑的”也可指“奇怪的”；amusing 强调“令人发笑”；strange / odd 只强调异常或奇怪。"
+      },
+      {
+        "pair": "unconscious / subconscious",
+        "analysis": "unconscious：未意识到的、无意识的，也可“昏迷”；subconscious：潜意识层面的。"
+      },
+      {
+        "pair": "implication / connotation / consequence",
+        "analysis": "implication：隐含意义或潜在影响；connotation：词语附带的感情色彩和联想；consequence：结果、后果。"
+      },
+      {
+        "pair": "paradoxical / contradictory",
+        "analysis": "paradoxical：表面矛盾但可能有道理；contradictory：真正互相冲突、不一致。"
+      },
+      {
+        "pair": "creativity / innovation",
+        "analysis": "creativity 偏“产生新想法的能力”；innovation 偏“把新想法转化为方法、产品或实际变化”。"
+      },
+      {
+        "pair": "consciously / deliberately / intentionally",
+        "analysis": "consciously：有意识地；deliberately：经过考虑、刻意地；intentionally：带明确意图、故意如此。"
+      },
+      {
+        "pair": "innovative / creative / original",
+        "analysis": "innovative：采用新方法、带来实际创新；creative：有创造力、能产生新想法；original：原创、非模仿。"
+      },
+      {
+        "pair": "procedure / process",
+        "analysis": "procedure：具体、规范的一系列步骤；process：某事发展变化的整个过程。"
+      },
+      {
+        "pair": "path / pathway",
+        "analysis": "path：普通道路或路径；pathway：更常见于抽象发展路线、医学、生物学通路。"
+      },
+      {
+        "pair": "bypass / avoid",
+        "analysis": "avoid：避免接触或发生；bypass：原路径仍存在，但另找一条路绕过去。"
+      },
+      {
+        "pair": "fascinated / fascinating",
+        "analysis": "fascinated：人感到着迷；fascinating：事物令人着迷。"
+      },
+      {
+        "pair": "primary / principal / major",
+        "analysis": "primary：首要、最基本；principal：最主要；major：重要或规模较大。"
+      },
+      {
+        "pair": "collaborate / cooperate",
+        "analysis": "collaborate：共同完成具体项目或成果；cooperate：配合、合作，范围更广。"
+      },
+      {
+        "pair": "adolescence / youth",
+        "analysis": "adolescence：特定的青少年发展阶段；youth：青年时期或年轻人群体。"
+      },
+      {
+        "pair": "casual / careless",
+        "analysis": "casual：随意、不正式，不一定负面；careless：粗心、不谨慎，明显负面。"
+      },
+      {
+        "pair": "regulate / control / guide",
+        "analysis": "regulate：依规则调节、规范；control：直接控制；guide：引导方向或发展过程。"
+      },
+      {
+        "pair": "character / characteristic",
+        "analysis": "character：性格、人物、特质；characteristic：可识别的特征、特点。"
+      },
+      {
+        "pair": "activate / stimulate",
+        "analysis": "activate：使某功能开始发挥作用；stimulate：刺激并促进活动增强。"
+      },
+      {
+        "pair": "maintain / retain / sustain",
+        "analysis": "maintain：主动维持状态；retain：保留原本拥有的东西；sustain：长期支撑、维持。"
+      },
+      {
+        "pair": "routine / habit",
+        "analysis": "habit：个人反复形成的行为习惯；routine：一套固定的日常程序或流程。"
+      },
+      {
+        "pair": "unchangeable / unchanged",
+        "analysis": "unchangeable：性质上不能改变；unchanged：事实上没有发生变化。"
+      },
+      {
+        "pair": "innovational / innovative",
+        "analysis": "innovative 更常见，表示“富有创新性”；innovational 更强调“与创新过程或活动相关”。"
+      },
+      {
+        "pair": "be born with / be born into / be born of",
+        "analysis": "be born with：天生具有；be born into：出生于某家庭/阶层/环境；be born of：源于、由……产生。"
+      },
+      {
+        "pair": "capacity / ability / capability",
+        "analysis": "ability：最普通的能力；capacity：可发展、承受的潜能；capability：完成特定任务的实际能力。"
+      },
+      {
+        "pair": "work through / deal with / solve",
+        "analysis": "deal with：泛指处理；solve：强调解决结果；work through：强调逐步分析与处理过程。"
+      },
+      {
+        "pair": "derive from / result from",
+        "analysis": "derive from：强调来源、起源；result from：强调因果结果。"
+      },
+      {
+        "pair": "comply with / conform to",
+        "analysis": "comply with：主动遵守法律、命令、要求；conform to：符合标准、规范或社会惯例。"
+      }
+    ]
+  },
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2009_t1.json",
+    "year": 2009,
+    "articleKey": "ky-en1-2009-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:889074d075b1213ae29ae5527979365ca66971f447976180b51fb8d987c4376c"
+  }
+}

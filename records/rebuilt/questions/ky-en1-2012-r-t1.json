@@ -1,0 +1,910 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "According to the first paragraph, peer pressure often emerges as ______.",
+    "stemTranslation": "根据第一段，同辈压力通常以______的形式出现。",
+    "options": [
+      {
+        "key": "A",
+        "text": "a supplement to the social cure.",
+        "translation": "社会疗法的补充",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】社会疗法（social cure）是罗森伯格提出的积极构想，并非第一段首句所描述的公众对同辈压力的普遍认知形式。",
+        "vocab": [
+          {
+            "word": "supplement",
+            "ipa": "[ˈsʌplɪmənt]",
+            "meaning": "补充",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "a stimulus to group dynamics.",
+        "translation": "群体动力的刺激因素",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】原文是官员利用群体动力（group dynamics）来推动同辈压力，逻辑方向被颠倒混淆。",
+        "vocab": [
+          {
+            "word": "dynamics",
+            "ipa": "/daɪˈnæmɪks/",
+            "meaning": "群体动力学（研究诸如群体气氛、…",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stimulus",
+            "ipa": "[ˈstɪmjələs]",
+            "meaning": "刺激",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "an obstacle to social progress.",
+        "translation": "社会进步的阻碍",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【过度推断/无中生有】第一段具体列举了酗酒、吸毒和滥交等不良行为，但并未将其上升抽象为“社会进步的障碍”（obstacle to social progress）。",
+        "vocab": [
+          {
+            "word": "obstacle",
+            "ipa": "[ˈɒbstəkl]",
+            "meaning": "障碍",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "a cause of undesirable behaviors.",
+        "translation": "不良行为的诱因",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 同义上位概括】对应首段第3句：It usually leads to no good -- drinking, drugs and casual sex。leads to 对应 a cause of；no good 以及 drinking, drugs and casual sex（酗酒、吸毒、滥交）被精确上位概括为 undesirable behaviors（不良行为）。",
+        "vocab": [
+          {
+            "word": "behaviors",
+            "ipa": "",
+            "meaning": "行为",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2",
+      "P1-S3"
+    ],
+    "verbatimEvidence": "That whispered message, half invitation and half forcing, is what most of us think of when we hear the words peer pressure. It usually leads to no good -- drinking, drugs and casual sex.",
+    "synonymMapping": [
+      {
+        "verbatimText": "leads to no good -- drinking, drugs and casual sex",
+        "equivalentOption": "a cause of undesirable behaviors"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第一段第3句：It usually leads to no good -- drinking, drugs and casual sex。leads to = 导致/起因；drinking, drugs and casual sex = 不良行为。选项 D 'a cause of undesirable behaviors' 是教科书级的上位抽象同义替换。A、B 属于罗森伯格个人的新假说，并非大众常识中同辈压力的表现形式。",
+      "coreLesson": "细节题审题看清主体：题干问的是大众认知中 peer pressure 'often emerges as'（通常表现为），必须精准对应破折号后具体的负面恶果，切莫误选作者随后引入的学术新概念。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "peer",
+          "ipa": "[pɪə(r)]",
+          "meaning": "同辈压力",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "emerges",
+          "ipa": "",
+          "meaning": "出现",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t1.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:aae3edacacb63921ed5afb5f2a4852ffd8a374f560972411667ad26f67e51e3a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Rosenberg holds that public-health advocates should ______.",
+    "stemTranslation": "罗森伯格认为，公共卫生倡导者应该______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "recruit professional advertisers.",
+        "translation": "招募职业广告商",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】原文是建议向广告商学习其运用同辈压力的技巧经验（take a page from advertisers），绝非花钱雇佣招募广告商（recruit）。",
+        "vocab": [
+          {
+            "word": "recruit",
+            "ipa": "[rɪˈkruːt]",
+            "meaning": "招募",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "professional",
+            "ipa": "[prəˈfeʃənl]",
+            "meaning": "职业的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "learn from advertisers' experience.",
+        "translation": "吸取广告商的经验",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 习语精准同义替换】对应第三段尾句：public health advocates ought to take a page from advertisers, so skilled at applying peer pressure。英语成语 take a page from sb 意为‘向某人学习/借鉴经验’，与 learn from advertisers' experience 构成完美同义替换。",
+        "vocab": [
+          {
+            "word": "learn",
+            "ipa": "[lɜːn]",
+            "meaning": "从…处学习",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "stay away from commercial advertisers.",
+        "translation": "远离商业广告商",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】原文号召公共卫生倡导者向广告商学习取经，选项反向表达为“远离”（stay away from）。",
+        "vocab": [
+          {
+            "word": "stay",
+            "ipa": "[steɪ]",
+            "meaning": "远离…",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "commercial",
+            "ipa": "[kəˈmɜːʃ(ə)l]",
+            "meaning": "商业的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "recognize the limitations of advertisements.",
+        "translation": "认识到广告的局限性",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】文中批评的是公共卫生口号（如‘敢于与众不同’）的局限与愚蠢，对商业广告商运用同辈压力的本领则高度赞扬（so skilled at），未提广告局限性。",
+        "vocab": [
+          {
+            "word": "limitations",
+            "ipa": "",
+            "meaning": "局限",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P3-S4"
+    ],
+    "verbatimEvidence": "Rosenberg argues convincingly that public health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+    "synonymMapping": [
+      {
+        "verbatimText": "ought to take a page from advertisers",
+        "equivalentOption": "learn from advertisers' experience"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第三段第4句：Rosenberg argues convincingly that public health advocates ought to take a page from advertisers, so skilled at applying peer pressure。take a page from 这一成语的意思就是‘借鉴、吸取经验’，直接等价于 learn from advertisers' experience。A 项 recruit 属于无中生有乱加动作。",
+      "coreLesson": "考研高频习语考点：take a page from / take a leaf out of someone's book = 借鉴学习某人经验。直接锁定同义词 learn from。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "advocates",
+          "ipa": "",
+          "meaning": "提倡者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t1.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:aae3edacacb63921ed5afb5f2a4852ffd8a374f560972411667ad26f67e51e3a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "In the author's view, Rosenberg's book fails to ______.",
+    "stemTranslation": "在作者看来，罗森伯格的书未能做到______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "adequately probe social and biological factors.",
+        "translation": "充分探讨社会与生物因素",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 双重否定逆向对应】对应第四段第2句：Join The Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors...。not enough exploration（探索不足）与 fails to adequately probe（未能充分探究）构成严丝合缝的同义替换。",
+        "vocab": [
+          {
+            "word": "probe",
+            "ipa": "[prəʊb]",
+            "meaning": "探究",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "factors",
+            "ipa": "",
+            "meaning": "因素",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "adequately",
+            "ipa": "[ˈædɪkwətli]",
+            "meaning": "充分地",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "effectively evade the flaws of the social cure.",
+        "translation": "有效规避社会疗法的缺陷",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】第四段指出该书展示的社会疗法本身存在明显缺陷（glaring flaw），并非书未能“逃避/规避（evade）”缺陷。",
+        "vocab": [
+          {
+            "word": "evade",
+            "ipa": "[ɪˈveɪd]",
+            "meaning": "逃避",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "flaws",
+            "ipa": "",
+            "meaning": "缺点",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "illustrate the functions of state funding.",
+        "translation": "阐明州政府资金的功能",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】文中提及‘对抗烟雾项目一旦失去州政府资助便失败’，是为了证明社会疗法效果不持久，而非书未能说明资金功能。",
+        "vocab": [
+          {
+            "word": "illustrate",
+            "ipa": "[ˈɪləstreɪt]",
+            "meaning": "说明",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "functions",
+            "ipa": "",
+            "meaning": "功能",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "state",
+            "ipa": "[steɪt]",
+            "meaning": "州",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "produce a long-lasting social effect.",
+        "translation": "产生持久的社会效应",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念/主客颠倒",
+        "analysis": "【偷换概念/主客颠倒】无法维持持久效应（doesn't work for very long）是‘社会疗法项目本身’的缺陷，而非作者批评‘这本书未能产生社会效应’。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": "Join The Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+    "synonymMapping": [
+      {
+        "verbatimText": "not enough exploration of the social and biological factors",
+        "equivalentOption": "fails to adequately probe social and biological factors"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第四段第2句：Join The Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors...。核心词映射：not enough exploration 对应 fails to adequately probe。probe 为 exploration 的高级动词替换。D 项偷换了评价对象，是社会疗法没能持久，不是这本书没产生持久效果。",
+      "coreLesson": "同义替换之正反转述：原文‘not enough + 名词’（not enough exploration），常被改写为‘fails to + 副词 + 动词’（fails to adequately probe）。牢记 probe = explore。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "author's",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "view",
+          "ipa": "[vjuː]",
+          "meaning": "观点",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "fails",
+          "ipa": "",
+          "meaning": "未能",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t1.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:aae3edacacb63921ed5afb5f2a4852ffd8a374f560972411667ad26f67e51e3a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "Paragraph 5 shows that our imitation of behaviors ______.",
+    "stemTranslation": "第五段表明，我们对行为的模仿______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "is harmful to our networks of friends.",
+        "translation": "对我们的朋友圈有害",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文指出健康习惯和不良习惯都会在朋友圈传播，并未说模仿本身会对朋友网络造成破坏。",
+        "vocab": [
+          {
+            "word": "harmful",
+            "ipa": "[ˈhɑːmf(ə)l]",
+            "meaning": "对…有害",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "will mislead behavioral studies.",
+        "translation": "会误导行为科学研究",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】第五段提到新兴研究（emerging body of research），但从未声称行为模仿会误导科学研究。",
+        "vocab": [
+          {
+            "word": "mislead",
+            "ipa": "[ˌmɪsˈliːd]",
+            "meaning": "误导",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "occurs without our realizing it.",
+        "translation": "在毫无察觉的情况下发生",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 副词深度释义替换】对应第五段尾句：This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day。副词 unconsciously（潜意识地、不知不觉地）精准对齐 without our realizing it（在没有意识到的情况下）。",
+        "vocab": [
+          {
+            "word": "occurs",
+            "ipa": "",
+            "meaning": "发生",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "can produce negative health habits.",
+        "translation": "会滋生不良健康习惯",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全",
+        "analysis": "【以偏概全】第五段指出 positive health habits —as well as negative ones 都会传播，仅提 negative habits 割裂了原文兼具积极与消极的客观陈述，且题干问的是模仿机制本身的特征。",
+        "vocab": [
+          {
+            "word": "negative",
+            "ipa": "[ˈneɡətɪv]",
+            "meaning": "负面的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P5-S2",
+      "P5-S3"
+    ],
+    "verbatimEvidence": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+    "synonymMapping": [
+      {
+        "verbatimText": "unconsciously imitate",
+        "equivalentOption": "occurs without our realizing it"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "定位第五段末尾：This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day。核心考点：unconsciously（无意识地、不知不觉地）替换为 without our realizing it。无意识模仿即发生时个人并没有意识到，C 选项一击必中。",
+      "coreLesson": "词汇理解题与细节题高频考点：unconscious / subconscious 经常同义替换为 without realizing it / without conscious awareness。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "imitation",
+          "ipa": "[ˌɪmɪˈteɪʃn]",
+          "meaning": "模仿",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t1.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:aae3edacacb63921ed5afb5f2a4852ffd8a374f560972411667ad26f67e51e3a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "The author suggests in the last paragraph that the effect of peer pressure is ______.",
+    "stemTranslation": "作者在最后一段暗示，同辈压力的效果是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "harmful.",
+        "translation": "有害的",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】作者在尾段讨论的是外部人为操纵同辈压力无法真正奏效（never really works），并未将其定性为有害（harmful）。"
+      },
+      {
+        "key": "B",
+        "text": "desirable.",
+        "translation": "令人满意的，值得拥有的",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】作者明确指出从外部人为干预同辈压力的策略从来没有真正管用过，与“令人满意（desirable）”完全相悖。",
+        "vocab": [
+          {
+            "word": "desirable",
+            "ipa": "[dɪˈzaɪərəb(ə)l]",
+            "meaning": "值得拥有的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "profound.",
+        "translation": "深远的",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "distractorDisplayName": "张冠李戴",
+        "analysis": "【张冠李戴】第五段说同辈群体对行为有巨大影响（enormous influence），但尾段聚焦的是人为设计的社会疗法效果极度存疑。",
+        "vocab": [
+          {
+            "word": "profound",
+            "ipa": "[prəˈfaʊnd]",
+            "meaning": "深远的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "questionable.",
+        "translation": "存疑的，靠不住的，未可确信的",
+        "isCorrect": true,
+        "distractorType": "NONE",
+        "distractorDisplayName": "正确答案",
+        "analysis": "【正确项 · 篇章主旨态度提炼】尾段首句以倒装句总括：Far less certain... is how successfully experts and bureaucrats can select our peer groups...（专家与官员能否成功引导同辈群体走向良善远没有那么确定）。随后用老师调座位的比喻直陈：The tactic never really works（这种策略从来没有真正奏效过）。far less certain 与 never really works 充分表明人为设计的同辈压力效果是高度存疑、靠不住的（questionable）。"
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "INFERENCE",
+    "type": "推断题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S3",
+      "P6-S4"
+    ],
+    "verbatimEvidence": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions... The tactic never really works. And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+    "synonymMapping": [
+      {
+        "verbatimText": "Far less certain / never really works / problem with ... engineered from outside",
+        "equivalentOption": "questionable"
+      }
+    ],
+    "methodologyReview": {
+      "eliNotesSummary": "尾段通篇论述人为引导同辈压力的不确定性：Far less certain... / The tactic never really works... / that's the problem with a social cure engineered from the outside。作者的核心观点是：外部强加的干预无法奏效。形容词 questionable（存疑的、靠不住的）精准概括了 far less certain 与 never really works。",
+      "coreLesson": "态度推断题精髓：从带有强烈怀疑色彩的修辞评价（far less certain, never really works, problem with...）提炼态度形容词。questionable 是考研阅读中表达‘不可靠、不确定、存疑’的黄金标答。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2012_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2012_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "selectedOption": null,
+        "isCorrect": null,
+        "firstAttemptNote": "请在此记录首做选项与错因心流"
+      },
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "peer",
+          "ipa": "[pɪə(r)]",
+          "meaning": "同辈压力",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t1.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:aae3edacacb63921ed5afb5f2a4852ffd8a374f560972411667ad26f67e51e3a"
+    }
+  }
+]

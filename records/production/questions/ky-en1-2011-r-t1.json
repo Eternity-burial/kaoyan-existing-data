@@ -1,0 +1,865 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "We learn from Paragraph 1 that Gilbert's appointment has",
+    "stemTranslation": "从第1段中我们可以获知，吉尔伯特的任命______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "incurred criticism.",
+        "translation": "招致了广泛批评。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P1-S2 明确指出 the response has been favorable（反响大体积极赞同），评论家高呼万岁，与‘招致批评’完全相反。",
+        "vocab": [
+          {
+            "word": "incurred",
+            "ipa": "",
+            "meaning": "招致",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "批评",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "raised suspicion.",
+        "translation": "引发了公众怀疑。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】原文第1段只强调反响热烈积极，并未提及引发怀疑。",
+        "vocab": [
+          {
+            "word": "suspicion",
+            "ipa": "[səˈspɪʃ(ə)n]",
+            "meaning": "怀疑",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "received acclaim.",
+        "translation": "受到了普遍称赞好评。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P1-S2 明确说：the response has been favorable, to say the least（至少可以说反响大体良好赞成），并引述严肃乐评家高呼 Hooray（万岁）。favorable 与 acclaim 形成精准同义替换。",
+        "vocab": [
+          {
+            "word": "acclaim",
+            "ipa": "[əˈkleɪm]",
+            "meaning": "赞扬",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "aroused curiosity.",
+        "translation": "引起了人们的好奇心。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】P1-S1 提到任命是 talk of the classical-music world（乐界热议话题），但‘热议’不等于‘引起好奇心’。",
+        "vocab": [
+          {
+            "word": "aroused",
+            "ipa": "",
+            "meaning": "激起",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "curiosity",
+            "ipa": "[ˌkjʊəriˈɒsəti]",
+            "meaning": "好奇",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P1-S2",
+      "P1-S3"
+    ],
+    "verbatimEvidence": "P1-S2: 'For the most part, the response has been favorable, to say the least.' P1-S3: '\"Hooray! At last!\" wrote Anthony Tommasini, a sober-sided classical-music critic.'",
+    "synonymMapping": [
+      {
+        "textQuote": "the response has been favorable, to say the least + Hooray! At last!",
+        "optionQuote": "C: received acclaim.",
+        "semanticEquivalence": "favorable response ↔ received acclaim（受到广泛赞誉）"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "细节事实题通则：精准寻找微观情感态度词。favorable（赞许积极的）$\\leftrightarrow$ acclaim（称赞）。",
+      "trapPattern": "正反颠倒陷阱（incurred criticism）与话题词偷换（talk of the town $\rightarrow$ curiosity）。",
+      "reviewChecklist": [
+        "是否在第1段紧扣 favorable 与 Hooray 锁定了正向情感？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "appointment",
+          "ipa": "[əˈpɔɪntmənt]",
+          "meaning": "任命",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Tommasini regards Gilbert as an artist who is",
+    "stemTranslation": "托马西尼认为吉尔伯特是一位______的艺术家。",
+    "options": [
+      {
+        "key": "A",
+        "text": "influential.",
+        "translation": "极具影响力的。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒/反向描述",
+        "analysis": "【正反颠倒】P2-S1 明确说明他 comparatively little known（知名度相对较低），并非有很大影响力的名流。",
+        "vocab": [
+          {
+            "word": "influential",
+            "ipa": "[ˌɪnfluˈenʃl]",
+            "meaning": "有影响力的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "modest.",
+        "translation": "谦逊朴实的。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义替换】P2-S2 托马西尼亲口评价吉尔伯特是 unpretentious musician with no air of the formidable conductor（不摆谱、毫无大指挥家傲慢架子的朴实音乐家）。unpretentious（不装腔作势、谦逊低调）直接对齐 modest。",
+        "vocab": [
+          {
+            "word": "modest",
+            "ipa": "[ˈmɒdɪst]",
+            "meaning": "谦逊的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "respectable.",
+        "translation": "值得尊敬体面的。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】托马西尼重点评价的是其平易近人的性格风格，未用 respectable 评价。",
+        "vocab": [
+          {
+            "word": "respectable",
+            "ipa": "[rɪˈspektəbl]",
+            "meaning": "值得尊敬的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "talented.",
+        "translation": "才华横溢的天才。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】后文作者明确说不知道他算不算大指挥家，托马西尼的描述也未提及天赋才华。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": "P2-S2: 'calls him \"an unpretentious musician with no air of the formidable conductor about him.\"'",
+    "synonymMapping": [
+      {
+        "textQuote": "an unpretentious musician with no air of the formidable conductor about him",
+        "optionQuote": "B: modest.",
+        "semanticEquivalence": "unpretentious（不装腔作势、不自命不凡的） ↔ modest（谦逊朴实的）"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "细节人物评价题通则：前缀词汇反向识破。pretentious（爱摆架子自命不凡）的反义词 unpretentious 对应 modest（谦逊低调）。",
+      "trapPattern": "泛褒义词干扰（respectable, talented）与反向词（influential）。",
+      "reviewChecklist": [
+        "是否准确掌握了 unpretentious = modest 的核心考点？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      }
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "The author believes that the devoted concertgoers",
+    "stemTranslation": "作者认为，那些忠诚的音乐会常客______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "ignore the expenses of live performances.",
+        "translation": "忽视了现场演出的高昂花费开销。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】P4-S2 提到演奏家争夺公众的 money，但并未说常客自身忽略开销。",
+        "vocab": [
+          {
+            "word": "expenses",
+            "ipa": "",
+            "meaning": "花费",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "performances",
+            "ipa": "",
+            "meaning": "表演",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "reject most kinds of recorded performances.",
+        "translation": "排斥拒绝绝大多数类型的录音唱片表演。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "distractorDisplayName": "以偏概全/程度夸大",
+        "analysis": "【程度夸大】常客只是认为现场不能被替代，不等于在日常生活中抵制拒绝听唱片。",
+        "vocab": [
+          {
+            "word": "reject",
+            "ipa": "[rɪˈdʒekt]",
+            "meaning": "拒绝",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "performances",
+            "ipa": "",
+            "meaning": "表演",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "exaggerate the variety of live performances.",
+        "translation": "夸大了现场演出的丰富多样性。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】未涉及常客对曲目多样性的夸大讨论。",
+        "vocab": [
+          {
+            "word": "exaggerate",
+            "ipa": "[ɪɡˈzædʒəreɪt]",
+            "meaning": "夸张",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "variety",
+            "ipa": "[vəˈraɪəti]",
+            "meaning": "种类",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "performances",
+            "ipa": "",
+            "meaning": "表演",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "overestimate the value of live performances.",
+        "translation": "过高估计了现场演出的实际价值。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义推断】P4-S1 忠诚常客认为唱片不能替代现场，作者立刻驳斥他们 missing the point（不得要领/想偏了），随后列举唱片极度便宜且艺术水准远高于当今现场。作者显然认为常客们过度神化、高估了现场表演的实际价值（overestimate the value）。",
+        "vocab": [
+          {
+            "word": "performances",
+            "ipa": "",
+            "meaning": "表演",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S3"
+    ],
+    "verbatimEvidence": "P4-S1: 'Devoted concertgoers who reply that recordings are no substitute for live performance are missing the point.'",
+    "synonymMapping": [
+      {
+        "textQuote": "reply that recordings are no substitute for live performance are missing the point",
+        "optionQuote": "D: overestimate the value of live performances.",
+        "semanticEquivalence": "recordings are no substitute for live + missing the point ↔ overestimate the value of live performances"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "观点驳斥题解题通则：捕捉作者评价短语 missing the point。当作者反驳‘现场不可替代’时，言外之意就是批判其过度高估（overestimate）。",
+      "trapPattern": "程度过激陷阱（reject most recordings）与脱离靶向的细节干扰（expenses）。",
+      "reviewChecklist": [
+        "是否看懂了 missing the point 传达的作者对常客偏狭视角的批判？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "C"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "C"
+        },
+        "source": "英语一_2011_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "C"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "According to the text, which of the following is true of recordings?",
+    "stemTranslation": "根据文章内容，关于唱片录音，下列哪项陈述是正确的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "They are often inferior to live concerts in quality.",
+        "translation": "它们在艺术质量上往往不如现场音乐会。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】P4-S3 明确写道：'very often much higher in artistic quality than today's live performances'（艺术质量往往比当今现场高得多），选项说 inferior to，完全相反。",
+        "vocab": [
+          {
+            "word": "inferior",
+            "ipa": "[ɪnˈfɪəriə(r)]",
+            "meaning": "比.差",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "They are easily accessible to the general public.",
+        "translation": "它们极易为广大普通大众所获取享用。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 同义归纳】P4-S3 连用排比描述唱片的巨大优势：cheap（廉价）、available everywhere（随处可得）、can be consumed at a time and place of choosing（随时随地消费）。这正是 easily accessible to the general public 的完美概括。",
+        "vocab": [
+          {
+            "word": "easily",
+            "ipa": "[ˈiːzəli]",
+            "meaning": "易得到的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "They help improve the quality of music.",
+        "translation": "它们有助于提高音乐本身的艺术品质。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "distractorDisplayName": "无中生有",
+        "analysis": "【无中生有】唱片只是记录载体，未提及唱片能‘改善提高音乐品质’。"
+      },
+      {
+        "key": "D",
+        "text": "They have only covered masterpieces.",
+        "translation": "它们仅仅只收录大师级杰作。",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "distractorDisplayName": "绝对化词汇",
+        "analysis": "【绝对化词汇】P4-S2 提到包含20世纪大师的录音，但绝非‘仅仅（only）’涵盖杰作。",
+        "vocab": [
+          {
+            "word": "masterpieces",
+            "ipa": "",
+            "meaning": "杰作",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "细节题",
+    "targetSentences": [
+      "P4-S3"
+    ],
+    "verbatimEvidence": "P4-S3: 'These recordings are cheap, available everywhere, and very often much higher in artistic quality... can be \"consumed\" at a time and place of the listener's choosing.'",
+    "synonymMapping": [
+      {
+        "textQuote": "cheap, available everywhere... at a time and place of the listener's choosing",
+        "optionQuote": "B: They are easily accessible to the general public.",
+        "semanticEquivalence": "cheap + available everywhere + chosen time/place ↔ easily accessible to the general public"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "事实细节题通则：多修饰语同义合并。cheap + available everywhere $\\leftrightarrow$ easily accessible。排除正反颠倒（inferior）与绝对词（only）。",
+      "trapPattern": "比较级正反颠倒（higher 变 inferior）与绝对化范围限定（only covered）。",
+      "reviewChecklist": [
+        "是否识破了选项A把 higher in quality 颠倒成了 inferior to？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2011-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Regarding Gilbert's role in revitalizing the Philharmonic, the author feels",
+    "stemTranslation": "关于吉尔伯特在振兴纽约爱乐乐团中所起的作用，作者感到______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "doubtful.",
+        "translation": "怀疑的，不确信的。",
+        "isCorrect": true,
+        "distractorType": null,
+        "distractorDisplayName": null,
+        "analysis": "【正确项 · 篇末修辞语气判定】第5段作者接连发问和泼冷水：'But what will be the nature of that difference?'（这种不同实质何在？），'Merely expanding repertoire will not be enough'（光靠扩大曲目绝不够），'they must first change the relationship'（必须先解决更深层的观众关系）。充满审慎质疑与怀疑色彩，毫无盲目乐观。"
+      },
+      {
+        "key": "B",
+        "text": "enthusiastic.",
+        "translation": "热情的，狂热支持的。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】热情是第1段引述的托马西尼的态度（Hooray!），绝非作者本人的态度。",
+        "vocab": [
+          {
+            "word": "enthusiastic",
+            "ipa": "[ɪnˌθjuːziˈæstɪk]",
+            "meaning": "热情的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "confident.",
+        "translation": "充满信心的。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "distractorDisplayName": "正反颠倒",
+        "analysis": "【正反颠倒】作者认为目前吉尔伯特的做法根本不够（not enough），并不抱充分信心。",
+        "vocab": [
+          {
+            "word": "confident",
+            "ipa": "[ˈkɒnfɪdənt]",
+            "meaning": "有信心的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "puzzled.",
+        "translation": "困惑不解的。",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "distractorDisplayName": "偷换概念",
+        "analysis": "【偷换概念】作者有极清晰的逻辑判断和怀疑论据（认为关键在重构观众关系），而非毫无头绪的迷惑不解（puzzled）。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "ATTITUDE",
+    "type": "态度观点题",
+    "targetSentences": [
+      "P5-S3",
+      "P5-S4",
+      "P5-S5"
+    ],
+    "verbatimEvidence": "P5-S3: 'But what will be the nature of that difference?' P5-S4: 'Merely expanding the orchestra's repertoire will not be enough.' P5-S5: 'If Gilbert and the Philharmonic are to succeed, they must first change the relationship...'",
+    "synonymMapping": [
+      {
+        "textQuote": "what will be the nature of that difference? Merely expanding repertoire will not be enough... must first change",
+        "optionQuote": "A: doubtful.",
+        "semanticEquivalence": "questioning + not enough + must first change ↔ doubtful（怀疑态度）"
+      }
+    ],
+    "methodologyReview": {
+      "goldenRule": "态度题解题通则：定位尾段转折与质疑标志。疑问句（what will be...）加上否定评价（will not be enough）直接锁定怀疑态度（doubtful）。严格分清引述人物态度（Tommasini: enthusiastic）与作者本人态度（Author: doubtful）。",
+      "trapPattern": "人物态度张冠李戴（把评论家的高呼套在作者头上）与情绪概念偷换（怀疑变困惑）。",
+      "reviewChecklist": [
+        "是否分清了 Tommasini 的热情（B）与作者本人的理智怀疑（A）？"
+      ]
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2011_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2011_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": {
+        "choice": null,
+        "isCorrect": null,
+        "firstAttemptDate": null,
+        "userNotes": ""
+      },
+      "vocab": [
+        {
+          "word": "Regarding",
+          "ipa": "[rɪˈɡɑːdɪŋ]",
+          "meaning": "关于",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "revitalizing",
+          "ipa": "",
+          "meaning": "使恢复生机",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2011.js",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "It used to be so straightforward.",
+    "translation": "过去，这一切曾是那么简单明了。",
+    "syntaxAnalysis": "主系表简单句。It 为主语；used to be 为过去习惯状态谓语；so straightforward 为表语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "A team of researchers working together in the laboratory would submit the results of their research to a journal.",
+    "translation": "一组在实验室共同工作的科研人员，会把他们的研究成果提交给某家学术期刊。",
+    "syntaxAnalysis": "主谓宾简单句。主语 A team of researchers；working together in the laboratory 为现在分词短语作后置定语修饰 researchers；would submit 为谓语动词；the results of their research 为宾语；to a journal 为方向状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "A journal editor would then remove the authors' names and affiliations from the paper and send it to their peers for review.",
+    "translation": "期刊编辑随后会隐去论文上作者的姓名与所属机构，并将其送交学术同行进行匿名评审。",
+    "syntaxAnalysis": "and 连接的并列谓语结构。主语 A journal editor；谓语1 would then remove，宾语 the authors' names and affiliations，介词短语 from the paper；谓语2 send，宾语 it，介词短语 to their peers for review（双盲审稿流程）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Depending on the comments received, the editor would accept the paper for publication or decline it.",
+    "translation": "根据所收到的审稿意见，编辑会决定接受论文予以发表，或是予以拒稿。",
+    "syntaxAnalysis": "分词条件状语 + 选择并列谓语。Depending on the comments received 为现在分词短语作条件状语；主句主语 the editor；谓语 would accept... or decline...",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 5,
+      "ps": "P1-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Copyright rested with the journal publisher, and researchers seeking knowledge of the results would have to subscribe to the journal.",
+    "translation": "论文版权归期刊出版商所有，而想要获知研究成果的科研人员则必须出资订阅该期刊。",
+    "syntaxAnalysis": "and 连接的并列复合句。分句1主干 Copyright rested with the journal publisher（rest with 意为‘归属于’）；分句2主语 researchers，seeking knowledge of the results 为现在分词短语作后置定语，谓语 would have to subscribe to the journal。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "No longer.",
+    "translation": "如今已不再如此了。",
+    "syntaxAnalysis": "省略否定短语独立成段/成句。表示时代断裂与巨变，完整句为 It is no longer so straightforward。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "The Internet—and pressure from funding agencies, who are questioning why commercial publishers are making money from government-funded research by restricting access to it—is making access to scientific results a reality.",
+    "translation": "互联网——加上来自科研资助机构的强大压力（这些机构正在强烈质疑商业出版商为何能通过限制阅读权限，从政府出资资助的科研成果中牟取暴利）——正促使科研成果的免费获取变成现实。",
+    "syntaxAnalysis": "主谓宾补长难句。主语 The Internet；破折号之间 and pressure from funding agencies 为伴随主语成分；who 引导非限制性定语从句修饰 agencies，从句中包含 why 引导的宾语从句及 by restricting access to it 方式状语；主句谓语 is making；宾语 access to scientific results；宾语补足语 a reality。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this.",
+    "translation": "经济合作与发展组织（OECD）刚刚发布了一份报告，详细描述了这一转变所带来的深远影响。",
+    "syntaxAnalysis": "主谓宾结构。主语 The OECD；谓语 has just issued；宾语 a report；describing the far-reaching consequences of this 为现在分词短语作后置定语修饰 report。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits.",
+    "translation": "这份由澳大利亚维多利亚大学的约翰·霍顿与经合组织的格雷厄姆·维克瑞共同撰写的报告，对于那些迄今为止赚取了丰厚暴利的商业出版商而言，读起来着实令人心情沉重（堪称沉重一击）。",
+    "syntaxAnalysis": "主谓宾从复合句。主语 The report，by... 为作者介词短语；谓语 makes；宾语 heavy reading（比喻令人心情沉重、难以消受的读物）；介词短语 for publishers；who 引导定语从句修饰 publishers，从句谓语 have made handsome profits（获取巨额暴利）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "But it goes further than that.",
+    "translation": "但该报告的深远意义远不止于此。",
+    "syntaxAnalysis": "简单句。it 指代报告，goes further than that 意为‘不仅限于此/超越了单纯打击商业利益’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "It signals a change in what has, until now, been a key element of scientific endeavor.",
+    "translation": "它标志着迄今为止一直是科研事业核心要素的机制正在发生一场深刻变革。",
+    "syntaxAnalysis": "主从复合句。主语 It；谓语 signals；宾语 a change；in 引导介词宾语从句 what has, until now, been a key element of scientific endeavor。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "The value of knowledge and the return on the public investment in research depends, in part, upon wide distribution and ready access.",
+    "translation": "知识的价值以及对科研的公共投资回报，在很大程度上取决于科研成果能否得到广泛的传播与便捷的获取。",
+    "syntaxAnalysis": "主谓宾复合结构。并列主语 The value of knowledge and the return on the public investment in research；谓语 depends upon；in part 为插入语；介词宾语 wide distribution and ready access。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "It is big business.",
+    "translation": "这是一门利润惊人的大生意。",
+    "syntaxAnalysis": "主系表短句。强调学术出版的高度商业化与惊人体量。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "In America, the core scientific publishing market is estimated at between $7 billion and $11 billion.",
+    "translation": "在美国，核心科学出版市场的年估值就在70亿美元到110亿美元之间。",
+    "syntaxAnalysis": "被动语态简单句。In America 为地点状语；主语 the core scientific publishing market；谓语 is estimated at；between $7 billion and $11 billion 为介词短语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "The International Association of Scientific, Technical and Medical Publishers says that there are more than 2,000 publishers worldwide specializing in these subjects.",
+    "translation": "国际科学、技术和医学出版商协会表示，全球有超过2000家出版商专门从事这些学科领域的出版业务。",
+    "syntaxAnalysis": "主从复合句。主语 The Association...；谓语 says；that 引导宾语从句，从句为 there be 结构：more than 2,000 publishers worldwide，后接现在分词短语 specializing in these subjects 作后置定语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "They publish more than 1.2 million articles each year in some 16,000 journals.",
+    "translation": "他们每年在约16000种期刊上发表超过120万篇学术论文。",
+    "syntaxAnalysis": "主谓宾状简单句。主语 They；谓语 publish；宾语 more than 1.2 million articles；时间状语 each year；地点状语 in some 16,000 journals。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "This is now changing.",
+    "translation": "这一格局如今正在发生颠覆性的改变。",
+    "syntaxAnalysis": "现在进行时简单句。强调变革正在发生。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "According to the OECD report, some 75% of scholarly journals are now online.",
+    "translation": "根据经合组织的报告，目前约有75%的学术期刊已经实现了在线数字化。",
+    "syntaxAnalysis": "主系表结构。According to the OECD report 为来源状语；主语 some 75% of scholarly journals；谓语 are；表语 online。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Entirely new business models are emerging; three main ones were identified by the report's authors.",
+    "translation": "全新的商业模式不断涌现；报告的作者指出了其中三种主要的模式。",
+    "syntaxAnalysis": "分号并列句。分句1 Entirely new business models are emerging；分句2 three main ones were identified by the report's authors。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements.",
+    "translation": "第一种是所谓的‘大交易’（一揽子捆绑订阅），即高校等机构订阅者通过整站网站授权协议，付费购买对一批在线期刊的集体访问权限。",
+    "syntaxAnalysis": "there be 结构 + where 定语从句。主干 There is the so-called big deal；where 引导定语从句修饰 big deal，从句主语 institutional subscribers，谓语 pay for，宾语 access to a collection of online journal titles，through... 为方式状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "There is open-access publishing, typically supported by asking the author (or his employer) to pay for the paper to be published.",
+    "translation": "第二种是开放获取出版（即金色OA），其资金支持通常是通过要求论文作者（或其所在雇主单位）支付版面出版费来维持。",
+    "syntaxAnalysis": "there be 结构 + 过去分词短语作状语。主干 There is open-access publishing；typically supported by asking the author to pay for the paper to be published 为方式状语（包含 ask sb to do 及 pay for sth to be done 结构）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 6,
+      "ps": "P4-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "Finally, there are open-access archives, where organizations such as universities or international laboratories support institutional repositories.",
+    "translation": "最后一种是开放获取档案库（绿色OA），由大学或国际实验室等机构出资支持建立机构知识库。",
+    "syntaxAnalysis": "there be 结构 + where 定语从句。主干 Finally, there are open-access archives；where 引导定语从句，从句主语 organizations such as...，谓语 support，宾语 institutional repositories。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 7,
+      "ps": "P4-S7"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "Other models exist that are hybrids of these three, such as delayed open-access, where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it.",
+    "translation": "此外还存在着综合上述三者的混合模式，例如‘延期开放获取’——期刊只允许订阅用户在前六个月内阅读论文，之后再面向所有想看的人免费开放。",
+    "syntaxAnalysis": "主从复合长难句。主句 Other models exist；that are hybrids of these three 为定语从句修饰 models；such as delayed open-access 为举例；where 引导定语从句修饰该模式，从句中包含 allow only subscribers to read... 以及 before making it freely available to everyone who wishes to see it 的介词分词时间状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 8,
+      "ps": "P4-S8"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "All this could change the traditional form of the peer-review process, at least for the publication of papers.",
+    "translation": "这一切可能会从根本上改变同行评审流程的传统形态，至少在论文发表这一维度上是如此。",
+    "syntaxAnalysis": "主谓宾简单句。主语 All this；谓语 could change；宾语 the traditional form of the peer-review process；at least for the publication of papers 为介词范围状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  }
+]

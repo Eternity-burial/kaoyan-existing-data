@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2016-r-t1",
+  "year": 2016,
+  "textNumber": 1,
+  "title": "A Challenge to the Fashion Industry's Body Ideals",
+  "chineseTitle": "法国立法抵制病态纸片人模特与时尚界身形标准博弈",
+  "topic": "社会生活与时尚伦理 / 极瘦模特审美危机、法国刑事立法禁令与丹麦行业自律守则",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文深入探讨了欧美时尚界长期崇尚极端病态‘纸片人’身形所引发的健康危机与社会伦理争议。法国国民议会率先通过严厉法案，将雇佣体质指数（BMI）过低的极端消瘦模特入刑，并重拳打击鼓励节食厌食的网站与社交媒体。然而，文章指出仅靠强制性法律难以彻底根除行业顽疾，严苛的刑罚甚至可能产生负面溢出效应。相比之下，丹麦时装界推出的‘健康自律守则’（CFW Charter）通过设立16岁年龄底线、强制医学体检与全行业共同监督，提供了一种更为可持续的自我纠偏与温和规范模式。文章强调，只有设计师、品牌商与各大时装周携手树立健康审美导向，才能真正打破时尚界对病态纤瘦的盲目崇拜。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 7,
+  "sentenceCount": 19,
+  "vocabularyCount": 35,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 1,
+        "sentenceId": "P1-S1",
+        "english": "France, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an absolute right to define physical beauty for women.",
+        "chinese": "法国一直以全球时尚革新者的身份自居并引以为傲，如今却断定其时尚产业已经丧失了定义女性形体美的绝对权力。",
+        "structureType": "主从复合句（非限制性定语从句 + 省略that的宾语从句 + 不定式定语）",
+        "mainClause": "France has decided its fashion industry has lost an absolute right...",
+        "modifiers": "which 引导非限制性定语从句修饰主语 France，其中 prides itself as 为固定搭配；decided 后面接省略连词 that 的宾语从句，从句谓语为 has lost，宾语为 an absolute right，to define physical beauty for women 为动词不定式短语作 right 的后置定语。",
+        "corePattern": "pride oneself as/on（以……自居/自豪）；lose a right to do sth.（丧失做某事的权利）；define physical beauty（定义形体美）。"
+      },
+      {
+        "sentenceIndex": 5,
+        "sentenceId": "P2-S2",
+        "english": "They suggest beauty should not be defined by looks that end up impinging on health.",
+        "chinese": "它们表明，美不应当由最终损害健康的病态外表来界定。",
+        "structureType": "主谓宾复合句 + 定语从句 + 动名词短语作介词宾语",
+        "mainClause": "They suggest beauty should not be defined by looks...",
+        "modifiers": "beauty should not be defined by looks 为省略 that 的宾语从句，采用 should + 动词原形虚拟语气结构；that end up impinging on health 为限制性定语从句修饰 looks，从句中 end up doing sth. 表示‘最终陷入……结局’，impinging on health 作介词 on 的动名词宾语。",
+        "corePattern": "be defined by（由……来界定）；end up doing sth.（以……告终/最终导致）；impinge on（损害/侵犯）。"
+      },
+      {
+        "sentenceIndex": 7,
+        "sentenceId": "P2-S4",
+        "english": "It tells the fashion industry that it must take responsibility for the signal it sends women, especially teenage girls, about the social tape-measure they must use to determine their individual worth.",
+        "chinese": "它告诫时尚界，必须对向女性（尤其是少女群体）传递的信号承担责任，因为那是她们衡量自身个人价值的社会尺度。",
+        "structureType": "双宾语主从复合句 + 两个定语从句 + 不定式目的状语",
+        "mainClause": "It tells the fashion industry that it must take responsibility for the signal...",
+        "modifiers": "the fashion industry 为间接宾语，that it must take... 为直接宾语从句；for the signal 为介词短语；it sends women 为省略关系代词的定语从句修饰 signal；especially teenage girls 为插入语；about the social tape-measure 为介词短语修饰 signal；they must use 为第二个定语从句修饰 tape-measure；to determine their individual worth 为不定式作目的状语。",
+        "corePattern": "take responsibility for（对……承担责任）；send a signal about sth.（释放关于某事的信号）；tape-measure to determine worth（衡量价值的标准/尺度）。"
+      },
+      {
+        "sentenceIndex": 9,
+        "sentenceId": "P3-S2",
+        "english": "And perhaps faintly, they hint that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques.",
+        "chinese": "此外，它们或许还微弱地暗示：人们应当关注品格和才智等无形的内在特质，而不是通过一路严苛节食去追求零号身材或蜂腰体型。",
+        "structureType": "主谓宾复合句 + that宾语从句 + 平行比较对比结构（rather than）",
+        "mainClause": "they hint that people should look to intangible qualities...",
+        "modifiers": "perhaps faintly 为副词短语作状语；that 引导 hint 的宾语从句；look to 意为‘关注/指望’；like character and intellect 为介词短语举例修饰 intangible qualities；rather than 连接并列对比分词短语 dieting their way to...，size zero or wasp-waist physiques 作 to 的并列介词宾语。",
+        "corePattern": "hint that...（暗示……）；look to sth.（关注/指望某事）；intangible qualities（无形内在品质）；rather than doing sth.（而不是做某事）；diet one's way to（通过节食达到某种状态）。"
+      },
+      {
+        "sentenceIndex": 10,
+        "sentenceId": "P4-S1",
+        "english": "The French measures, however, rely too much on severe punishment to change a culture that still regards beauty as skin-deep and bone-showing.",
+        "chinese": "然而，法国的措施过于依赖严厉的刑罚来改变一种依然将美视作肤浅皮相与骨瘦如柴的陈腐文化。",
+        "structureType": "简单句 + 不定式目的状语 + that引导的限制性定语从句",
+        "mainClause": "The French measures rely too much on severe punishment...",
+        "modifiers": "however 为转折副词插入语；too much 作程度状语；to change a culture 为不定式作目的状语；that still regards beauty as... 为限制性定语从句修饰 culture，从句采用 regard A as B 结构，skin-deep and bone-showing 为并列形容词作介词 as 的宾语补足语。",
+        "corePattern": "rely on sth. to do sth.（依赖某手段以达成某目标）；regard A as B（把A视为B）；skin-deep（肤浅的/仅停留在皮肤表面的）。"
+      },
+      {
+        "sentenceIndex": 14,
+        "sentenceId": "P6-S1",
+        "english": "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models.",
+        "chinese": "与法国的刑事立法行动形成鲜明对比，丹麦时尚业上个月在有关模特年龄、健康以及其他特征的行业规约与处罚机制上达成了共识。",
+        "structureType": "对比介词短语提前 + 主谓介宾句 + 现在分词短语作后置定语",
+        "mainClause": "Denmark's fashion industry agreed on rules and sanctions...",
+        "modifiers": "In contrast to France's actions 为介词短语作对比状语；last month 为时间状语；on rules and sanctions 为 agree 的搭配介词短语；regarding the age, health, and other characteristics 为介词/分词短语修饰 rules and sanctions；of models 作后置定语。",
+        "corePattern": "in contrast to（与……形成鲜明对比）；agree on sth.（就某事达成一致协议）；rules and sanctions regarding...（关于……的守则与制裁机制）。"
+      },
+      {
+        "sentenceIndex": 16,
+        "sentenceId": "P6-S3",
+        "english": "The charter's main tool of enforcement is to deny access for designers and modeling agencies to Copenhagen Fashion Week (CFW), which is run by the Danish Fashion Institute.",
+        "chinese": "该宪章的核心执行手段，是剥夺那些违规设计师和模特经纪公司参加由丹麦时装协会主办的哥本哈根时装周（CFW）的入场准入资格。",
+        "structureType": "主系表句型 + 不定式作表语 + 非限制性定语从句",
+        "mainClause": "The charter's main tool of enforcement is to deny access...",
+        "modifiers": "of enforcement 作 tool 的限定后置定语；to deny access for A to B 为动词不定式短语作表语；which is run by the Danish Fashion Institute 为非限制性定语从句修饰 Copenhagen Fashion Week。",
+        "corePattern": "tool of enforcement（执行工具/手段）；deny access for sb. to sth.（剥夺某人进入某场所/活动的权利）；be run by（由……运营主管）。"
+      },
+      {
+        "sentenceIndex": 18,
+        "sentenceId": "P7-S1",
+        "english": "Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step.",
+        "chinese": "依靠行业道德劝说而非严刑峻法来扭转形体审美标准的滥用，或许是走上正轨的最佳举措。",
+        "structureType": "动名词短语作主语 + rather than对比结构 + 不定式目的状语 + 主系表结构",
+        "mainClause": "Relying on ethical persuasion rather than law may be the best step.",
+        "modifiers": "Relying on... 为动名词短语作整句主语；rather than law 作排除对比状语；to address the misuse of body ideals 为动词不定式作目的状语；may be 为系动词；the best step 为表语。",
+        "corePattern": "rely on A rather than B（依靠A而不是B）；ethical persuasion（道德劝告/行业自律劝说）；address the misuse of sth.（解决/应对某事物的滥用）；the best step（最佳措施/上策）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2016.js",
+    "year": 2016,
+    "articleKey": "ky-en1-2016-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+  }
+}

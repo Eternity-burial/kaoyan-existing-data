@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2014-r-t3",
+  "year": 2014,
+  "textNumber": 3,
+  "title": "Billionaire Science Prizes and the Evolving Culture of Research",
+  "chineseTitle": "亿万富豪巨额科学大奖与科研共同体评价机制反思",
+  "topic": null,
+  "topicDomain": "前沿科学与学术共同体",
+  "subTopic": "互联网新贵设立巨额科学奖项引发的争议、诺贝尔奖的局限与科研评价生态",
+  "overview": null,
+  "wordCount": 420,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自 Nature 专栏社论《Prizes and prestige: New scientific prizes are welcome》",
+  "paragraphCount": 5,
+  "sentenceCount": 25,
+  "vocabularyCount": 61,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "近年来，伴随硅谷互联网科技新贵的崛起，尤里·米尔纳（Yuri Milner）、马克·扎克伯格（Mark Zuckerberg）和谢尔盖·布林（Sergey Brin）等亿万富豪相继设立了奖金高达300万美元的‘基础物理学奖’与‘生命科学突破奖’，其奖金额度达到传统诺贝尔奖（约100多万美元）的两倍以上。这一暴发户式的撒钱举动在学术界激起了巨大震荡与争议。批判者指责新奖项是互联网富豪的‘公关自我标榜（exercise in self-promotion）’，破坏了基于同行评议（Peer Review）的既有评价体系，并助长了‘独行天才（lone genius）’的过时神话；但也有学者指出，百年诺奖同样存在每奖限三人且必须健在、与现代大科学团队协作脱节等严重弊端。作者最终呼吁科学界以包容和感恩之心接纳外部财富流向科学界，在保持理性审视的同时给予新奖项成熟的时间。",
+      "coreDisputeOrTheme": "核心争论在于民间巨富资本介入基础科学研究评价体系的合法性与利弊权衡。一边是传统学者对学术纯洁性、同行评议秩序与富豪作秀式评奖的警惕与批评；另一边是现实主义者对大额资金涌向基础科学的欢迎，以及对诺贝尔奖保守体制的反思。时间而非初衷赋予了奖项正统性，科学界应当以风度与感恩接纳来自社会的慷慨赠予。",
+      "keyTerminology": [
+        {
+          "term": "Fundamental Physics Prize",
+          "explanation": "基础物理学奖：由俄罗斯亿万富翁尤里·米尔纳于2012年创立的巨额科学大奖，单项奖金高达300万美元。"
+        },
+        {
+          "term": "Breakthrough Prize in Life Sciences",
+          "explanation": "生命科学突破奖：由扎克伯格、布林等互联网领袖共同设立的全球最高单项奖金科学奖项之一。"
+        },
+        {
+          "term": "Peer Review",
+          "explanation": "同行评议：学术界由同一领域专家对研究成果进行严格学术审定与把关的评价与资源分配机制。"
+        },
+        {
+          "term": "Higgs Boson",
+          "explanation": "希格斯玻色子：粒子物理学标准模型的‘上帝粒子’，其发现依托欧洲核子研究中心数千名科学家的大协作。"
+        },
+        {
+          "term": "Lone Genius Myth",
+          "explanation": "独行天才神话：将重大科学突破片面归功于个别孤胆英雄、忽视团队协作与梯队积累的历史偏见。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "科学评价与学术共同体 (Scientific Evaluation & Academic Community)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "up- (向上/新起)",
+          "examples": [
+            "upstart (暴发户/新贵的)",
+            "upgrade (升级)"
+          ]
+        },
+        {
+          "affix": "-ate / -ize (动词后缀)",
+          "examples": [
+            "perpetuate (使永存/使持续)",
+            "liberalize (自由化)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "巨额奖项与财富赞助",
+          "words": [
+            "lucrative awards",
+            "benefactors",
+            "entrepreneurs",
+            "handsome reward",
+            "upstart"
+          ]
+        },
+        {
+          "theme": "科研机制与学界反思",
+          "words": [
+            "peer-review",
+            "status quo",
+            "lone genius",
+            "collaborative nature",
+            "legitimacy"
+          ]
+        },
+        {
+          "theme": "争议博弈与包容心态",
+          "words": [
+            "distort",
+            "cement",
+            "unrepresentative",
+            "outgrow",
+            "gratitude and grace"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2014.js",
+    "year": 2014,
+    "articleKey": "ky-en1-2014-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+  }
+}

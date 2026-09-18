@@ -1,0 +1,977 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The underlined sentence (Para. 1) most probably shows that the court",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "made no compromise in convicting McDonnell.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒】第1句明确说明最高法院已经推翻了对他的定罪（overturned the conviction），绝非‘在定罪上毫不妥协’。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "avoided",
+            "ipa": "[əˈvɔɪd]",
+            "meaning": "避免",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "defining",
+            "ipa": "[dɪˈfaɪn]",
+            "meaning": "界定",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "extent",
+            "ipa": "[ɪkˈstent]",
+            "meaning": "范围",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "avoided defining the extent of McDonnell's duties.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【曲解文意】后文明确指出最高法院恰恰正是严格界定了其公职职责范围（official acts），划清了职务行为界限。",
+        "refSentences": [
+          "P2-S1"
+        ],
+        "vocab": [
+          {
+            "word": "compromise",
+            "ipa": "[ˈkɒmprəmaɪz]",
+            "meaning": "让步",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "convicting",
+            "ipa": "[kənˈvɪkt]",
+            "meaning": "定罪",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "was contemptuous of McDonnell's conduct.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】划线句指出最高法院虽然依法撤销了定罪，但在作出裁决的同时却对其道德操守嗤之以鼻（holding its nose at the ethics of his conduct），因为他收受劳力士手表和法拉利豪车等不义之财，这充分展现了最高法对麦克唐纳收礼行径的极其鄙视与蔑视（was contemptuous of McDonnell's conduct）。",
+        "refSentences": [
+          "P1-S2"
+        ],
+        "vocab": [
+          {
+            "word": "was",
+            "ipa": "/wəz/",
+            "meaning": "瞧不起",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "conduct",
+            "ipa": "[kənˈdʌkt; ˈkɒndʌkt]",
+            "meaning": "行为",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "refused to comment on McDonnell's ethics.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【观点相反】holding its nose 就是在极具感情色彩地评价其道德低下，在第4段更斥其为 distasteful and nasty，并未拒绝评论。",
+        "refSentences": [
+          "P1-S2",
+          "P4-S1"
+        ],
+        "vocab": [
+          {
+            "word": "refused",
+            "ipa": "[rɪˈfjuːz; ˈrefjuːs]",
+            "meaning": "拒绝",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "comment",
+            "ipa": "[ˈkɒment]",
+            "meaning": "评论",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "词句理解题",
+    "targetSentences": [
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "holding its nose at the ethics of his conduct": "was contemptuous of McDonnell's conduct"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "C"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "C"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "C"
+        }
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "court____",
+          "ipa": "",
+          "meaning": "法院（此处指最高法院）",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "According to Paragraph 4, an official act is deemed corruptive only if it involves",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "concrete returns for gift-givers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第4段第2句指出：根据反受贿法律，构成贪腐的证据必须由实实在在的利益组成（proof must be made of concrete benefits, such as approval of a contract or regulation），即送礼者必须获得了具体的行政回报（concrete returns for gift-givers）；仅仅安排会面不算公务行为。",
+        "refSentences": [
+          "P4-S2",
+          "P4-S3"
+        ],
+        "vocab": [
+          {
+            "word": "leaking",
+            "ipa": "[liːk]",
+            "meaning": "泄露",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "sizable gains in the form of gifts.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】麦克唐纳收受了劳力士和法拉利等巨额礼物，但法庭认定仅凭巨额礼物并不能构成贪腐定罪，核心必须要有职务权力回报。",
+        "refSentences": [
+          "P1-S2",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "leaking secrets intentionally.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】第4段通篇讨论的是合同与规章审批，并未提及任何故意泄密的内容。",
+        "refSentences": [
+          "P4-S2"
+        ],
+        "vocab": [
+          {
+            "word": "concrete",
+            "ipa": "[ˈkɒŋkriːt]",
+            "meaning": "具体的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "breaking contracts officially.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【曲解文意】文中提到的是“approval of a contract（批准合同）”，而非正式违约毁约（breaking contracts）。",
+        "refSentences": [
+          "P4-S2"
+        ],
+        "vocab": [
+          {
+            "word": "contracts",
+            "ipa": "[ˈkɒntrækt; kənˈtrækt]",
+            "meaning": "合同",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P4-S2",
+      "P4-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "proof must be made of concrete benefits, such as approval of a contract": "concrete returns for gift-givers"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "A": "C"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "A": "C"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "A": "C"
+        }
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "[əˈkɔːd]",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "deemed",
+          "ipa": "[diːm]",
+          "meaning": "认为",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "only",
+          "ipa": "[ˈəʊnli]",
+          "meaning": "只有…时",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "involves",
+          "ipa": "[ɪnˈvɒlv]",
+          "meaning": "牵涉",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "The court's ruling is based on the assumption that public officials are",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "allowed to focus on the concerns of their supporters.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】第5段引用首席大法官罗伯茨的话强调代议制基本契约假定官员要服务于全体“选民（constituents）”，而不仅是特定的政治“支持者（supporters）”。",
+        "refSentences": [
+          "P5-S3"
+        ],
+        "vocab": [
+          {
+            "word": "constituents",
+            "ipa": "[kənˈstɪtʃuənt]",
+            "meaning": "选民",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "justified",
+            "ipa": "",
+            "meaning": "（做某事）有正当理由的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "addressing",
+            "ipa": "[əˈdres]",
+            "meaning": "设法解决",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "qualified to deal independently with bureaucratic issues.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中提到官员帮选民解决繁文缛节问题，但裁决前提并非假定官员具有独立处理官僚问题的资质能力。",
+        "refSentences": [
+          "P5-S2"
+        ],
+        "vocab": [
+          {
+            "word": "deal",
+            "ipa": "[diːl]",
+            "meaning": "处理",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "issues",
+            "ipa": "[ˈɪʃuː]",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "qualified",
+            "ipa": "[ˈkwɑːlɪfaɪd]",
+            "meaning": "符合资格的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "justified in addressing the needs of their constituents.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第5段第3句明确引用最高法院首席大法官罗伯茨的裁判词：“代议制政府底层的基本契约假定（assumes that）公职人员将倾听选民心声，并依据他们的关切采取行动（public officials will hear from their constituents and act on their concerns）”，这证明法庭裁决的根本假定在于公职人员回应处理选民诉求是天经地义、完全正当合法的（justified in addressing the needs of their constituents）。",
+        "refSentences": [
+          "P5-S3"
+        ],
+        "vocab": [
+          {
+            "word": "focus",
+            "ipa": "[ˈfəʊkəs]",
+            "meaning": "聚焦于",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "concerns",
+            "ipa": "[kənˈsɜː(r)n]",
+            "meaning": "关心",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "exempt from conviction on the charge of favoritism.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】裁决界定的是某些非犯罪性质的引荐偏袒不构成刑法受贿，并非假定公职人员完全豁免一切偏袒指控。",
+        "refSentences": [
+          "P5-S1"
+        ],
+        "vocab": [
+          {
+            "word": "exempt",
+            "ipa": "[ɪɡˈzempt]",
+            "meaning": "被免除的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "conviction",
+            "ipa": "[kənˈvɪkʃn]",
+            "meaning": "定罪",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "the",
+            "ipa": "[ðə]",
+            "meaning": "因…被指控",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P5-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "assumes that public officials will hear from their constituents and act on their concerns": "justified in addressing the needs of their constituents"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "C",
+          "B",
+          "A",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "A"
+        }
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "court’s",
+          "ipa": "",
+          "meaning": "法院",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "based",
+          "ipa": "[beɪs]",
+          "meaning": "以…为基础",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "assumption",
+          "ipa": "[əˈsʌmpʃn]",
+          "meaning": "假设",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "Well-enforced laws in government transparency are needed to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "awaken the conscience of officials.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【主观臆想】法律依靠外在制度硬约束（会面记录、财产公示等），而非诉诸虚无缥缈地“唤醒官员的内心良知”。",
+        "refSentences": [
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "conscience",
+            "ipa": "[ˈkɒnʃəns]",
+            "meaning": "良知",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "allow for certain kinds of lobbying.",
+        "isCorrect": false,
+        "distractorType": "LOGICAL_INVERSION",
+        "analysis": "【颠倒目的】透明度立法要求设立游说规则（rules on lobbying）是为了监管和规范游说，防止利益输送，而非为了“允许游说”。",
+        "refSentences": [
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "guarantee",
+            "ipa": "[ˌɡærənˈtiː]",
+            "meaning": "确保",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "fair",
+            "ipa": "[feə(r)]",
+            "meaning": "公平办事",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "access",
+            "ipa": "[ˈækses]",
+            "meaning": "接触的机会",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "guarantee fair play in official access.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】第6段第1句指出该裁决强化了公众去确保接触政府的平等权利（ensure equality of access to government），官员不得在接见中因献金玩弄偏袒；第3句紧接着指出维持这种廉正需要在政务公开透明方面拥有执行到位的法律（well-enforced laws in government transparency）。由此可知，透明度立法的根本目的正是为了保障所有人在接触政府时享有公平公正的平等待遇（guarantee fair play in official access）。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "allow",
+            "ipa": "[əˈlaʊ]",
+            "meaning": "考虑到，顾及",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "inspire hopes in average people.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【泛化脱离】文章强调的是制度层面的程序公平与反腐约束，并非宽泛地“激发普通人的希望”。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S3"
+        ],
+        "vocab": [
+          {
+            "word": "inspire",
+            "ipa": "[ɪnˈspaɪə(r)]",
+            "meaning": "激励",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "average",
+            "ipa": "[ˈævərɪdʒ]",
+            "meaning": "普通的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2",
+      "P6-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "ensure equality of access to government / avoid playing favorites": "guarantee fair play in official access"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "B"
+        }
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "B"
+        }
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "letterMapping": {
+          "C": "B"
+        }
+      }
+    },
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2017-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "The author's attitude toward the court's ruling is",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "sarcastic.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【观点相反】sarcastic 意为讽刺的。作者认为裁决在法理上合理（legally sound）并赞扬其是重要进步，并无讽刺之意。",
+        "refSentences": [
+          "P5-S1",
+          "P8-S1"
+        ],
+        "vocab": [
+          {
+            "word": "sarcastic",
+            "ipa": "[sɑːˈkæstɪk]",
+            "meaning": "讽刺的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "tolerant.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】tolerant 意为容忍的、宽容的。作者对裁决是高度积极认可的态度，而非被动勉强容忍。",
+        "refSentences": [
+          "P8-S1"
+        ],
+        "vocab": [
+          {
+            "word": "tolerant",
+            "ipa": "[ˈtɒlərənt]",
+            "meaning": "宽容的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "skeptical.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【观点相反】skeptical 意为怀疑的。作者对裁决的法理意义（sound）和历史进步意义（step forward）持明确肯定态度，绝非怀疑。",
+        "refSentences": [
+          "P5-S1",
+          "P8-S1"
+        ],
+        "vocab": [
+          {
+            "word": "skeptical",
+            "ipa": "[ˈskeptɪk(ə)l]",
+            "meaning": "怀疑的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "supportive.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解态度概括】作者在第5段明确评价法庭裁决在法理上是站得住脚且合理的（The court's ruling is legally sound），末段第8段更升华定调称该裁决是反贪腐与反偏袒斗争中“向前迈出的重要一步”（a step forward in the struggle against both corruption and official favoritism），充分体现出作者对该裁决的高度肯定与赞许支持态度（supportive）。",
+        "refSentences": [
+          "P5-S1",
+          "P8-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P5-S1",
+      "P8-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "legally sound / a step forward in the struggle against corruption": "supportive"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author’s",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "attitude",
+          "ipa": "[ˈætɪtjuːd]",
+          "meaning": "态度",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "court’s",
+          "ipa": "",
+          "meaning": "法院",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2017.js",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b534ad5988fca84b4cadf73b050b939c97412a8ff8f909a764cbe543b8ecf97e"
+    }
+  }
+]

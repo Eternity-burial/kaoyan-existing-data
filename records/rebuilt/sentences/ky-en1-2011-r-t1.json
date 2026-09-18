@@ -1,0 +1,730 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The decision of the New York Philharmonic to hire Alan Gilbert as its next music director has been the talk of the classical-music world ever since the sudden announcement of his appointment in 2009.",
+    "translation": "自2009年纽约爱乐乐团突然宣布聘任艾伦·吉尔伯特为下一任音乐总监以来，这一决定就成为了古典音乐界热议的焦点话题。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 时间状语从句",
+      "mainClause": "The decision of the New York Philharmonic has been the talk of the classical-music world",
+      "subordinateClauses": [
+        "时间状语从句: ever since the sudden announcement of his appointment in 2009"
+      ],
+      "corePattern": "decision to do sth / be the talk of the world / ever since"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "For the most part, the response has been favorable, to say the least.",
+    "translation": "至少可以说，各界的反响大体上是非常积极赞成的。",
+    "syntaxAnalysis": {
+      "structureType": "主系表结构 + 插入语",
+      "mainClause": "the response has been favorable",
+      "subordinateClauses": [
+        "插入评注语: to say the least（至少可以说 / 毫不夸张地说）"
+      ],
+      "corePattern": "for the most part / favorable / to say the least"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "\"Hooray! At last!\" wrote Anthony Tommasini, a sober-sided classical-music critic.",
+    "translation": "“万岁！总算任命了！”以严谨稳重著称的古典音乐评论家安东尼·托马西尼兴奋地写道。",
+    "syntaxAnalysis": {
+      "structureType": "倒装引述句 + 同位语",
+      "mainClause": "wrote Anthony Tommasini",
+      "subordinateClauses": [
+        "同位语: a sober-sided classical-music critic 修饰 Tommasini"
+      ],
+      "corePattern": "sober-sided critic / at last"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        21
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "One of the reasons why the appointment came as such a surprise, however, is that Gilbert is comparatively little known.",
+    "translation": "然而，这次任命之所以如此令人感到意外，原因之一正在于吉尔伯特的公众知名度相对较低。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 定语从句 + 表语从句",
+      "mainClause": "One of the reasons is that Gilbert is comparatively little known",
+      "subordinateClauses": [
+        "定语从句: why the appointment came as such a surprise 修饰 reasons",
+        "表语从句: that Gilbert is comparatively little known"
+      ],
+      "corePattern": "come as a surprise / comparatively little known"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "Even Tommasini, who had advocated Gilbert's appointment in the Times, calls him \"an unpretentious musician with no air of the formidable conductor about him.\"",
+    "translation": "就连曾在《纽约时报》撰文力挺吉尔伯特任命的托马西尼，也称他为“一位谦逊低调的音乐家，身上毫无那种令人敬畏的大指挥家的傲慢架子”。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 非限制性定语从句 + 介词定语",
+      "mainClause": "Even Tommasini calls him 'an unpretentious musician...'",
+      "subordinateClauses": [
+        "非限制性定语从句: who had advocated Gilbert's appointment in the Times 修饰 Tommasini"
+      ],
+      "corePattern": "advocate sth / unpretentious musician / no air of"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "As a description of the next music director of an orchestra that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez, that seems likely to have struck at least some Times readers as faint praise.",
+    "translation": "对于一支迄今为止一直由古斯塔夫·马勒和皮埃尔·布列兹等泰斗级大师执掌的乐团的下一任掌门人而言，这样的描述在至少一部分《纽约时报》读者看来，恐怕更像是一种明褒实贬的勉强恭维。",
+    "syntaxAnalysis": {
+      "structureType": "介词前置状语 + 定语从句 + 主系表复合句 + 不定式完成时",
+      "mainClause": "that seems likely to have struck at least some Times readers as faint praise",
+      "subordinateClauses": [
+        "定语从句: that has hitherto been led by musicians... 修饰 orchestra"
+      ],
+      "corePattern": "hitherto led by / strike sb as faint praise（给人明褒实贬的印象）"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        22
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "For my part, I have no idea whether Gilbert is a great conductor or even a good one.",
+    "translation": "就我个人而言，我并不清楚吉尔伯特到底是不是一位伟大的指挥家，甚至不知道他算不算得上一位优秀指挥。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 宾语从句",
+      "mainClause": "For my part, I have no idea",
+      "subordinateClauses": [
+        "宾语从句: whether Gilbert is a great conductor or even a good one"
+      ],
+      "corePattern": "for my part / have no idea whether"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "To be sure, he performs an impressive variety of interesting compositions, but it is not necessary for me to visit Avery Fisher Hall, or anywhere else, to hear interesting orchestral music.",
+    "translation": "诚然，他所执棒演奏的曲目确实种类繁多且引人入胜，但我若想聆听有趣的管弦乐，却完全没有必要专程前往艾弗里·费舍尔音乐厅或任何其他实体场所。",
+    "syntaxAnalysis": {
+      "structureType": "让步转折并列句 + 形式主语结构",
+      "mainClause": "To be sure, he performs..., but it is not necessary for me to visit...",
+      "subordinateClauses": [],
+      "corePattern": "to be sure / an impressive variety of / it is not necessary for sb to do"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "All I have to do is to go to my CD shelf, or boot up my computer and download still more recorded music from iTunes.",
+    "translation": "我所需要做的仅仅是走到我的CD唱片架旁，或者启动电脑从iTunes上下载更多录音作品即可。",
+    "syntaxAnalysis": {
+      "structureType": "定语从句作主语 + 系表结构",
+      "mainClause": "All is to go to my CD shelf, or boot up my computer...",
+      "subordinateClauses": [
+        "定语从句: (that) I have to do 修饰 All"
+      ],
+      "corePattern": "All I have to do is (to) do / boot up"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Devoted concertgoers who reply that recordings are no substitute for live performance are missing the point.",
+    "translation": "那些回应声称‘录音永远无法替代现场演出’的忠实音乐会常客，实际上完全没有抓住问题的核心实质。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 定语从句 + 宾语从句",
+      "mainClause": "Devoted concertgoers are missing the point",
+      "subordinateClauses": [
+        "定语从句: who reply that... 修饰 concertgoers",
+        "宾语从句: that recordings are no substitute for live performance"
+      ],
+      "corePattern": "no substitute for / miss the point"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        23
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "For the time, attention, and money of the art-loving public, classical instrumentalists must compete not only with opera houses, dance troupes, theater companies, and museums, but also with the recorded performances of the great classical musicians of the 20th century.",
+    "translation": "为了争夺热爱艺术的大众有限的时间、注意力和金钱，当今的古典器乐演奏家不仅要与歌剧院、舞蹈团、话剧社和博物馆竞争，还必须同20世纪那些最伟大的传奇古典音乐大师们留下的不朽录音同台竞逐。",
+    "syntaxAnalysis": {
+      "structureType": "目的介词短语前置 + 主谓复合句 + not only... but also... 平衡并列结构",
+      "mainClause": "classical instrumentalists must compete not only with A, but also with B",
+      "subordinateClauses": [],
+      "corePattern": "compete not only with... but also with..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "These recordings are cheap, available everywhere, and very often much higher in artistic quality than today's live performances; moreover, they can be \"consumed\" at a time and place of the listener's choosing.",
+    "translation": "这些唱片录音价格极其低廉、随处可买可听，而且在艺术水准上往往远比当今的现场演出高得多；此外，听众还完全可以在自己选择的时间和地点随心享用消费。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句 + 比较状语从句",
+      "mainClause": "These recordings are cheap, available everywhere, and higher in quality; moreover, they can be consumed...",
+      "subordinateClauses": [],
+      "corePattern": "cheap, available everywhere / higher in artistic quality / at a time and place of one's choosing"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P4-S4",
+      "pIndex": 4
+    },
+    "text": "The widespread availability of such recordings has thus brought about a crisis in the institution of the traditional classical concert.",
+    "translation": "因此，此类优质录音的唾手可得与广泛普及，给传统古典现场音乐会这一体制带来了毁灭性的生存危机。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句",
+      "mainClause": "The widespread availability of such recordings has thus brought about a crisis in the institution",
+      "subordinateClauses": [],
+      "corePattern": "widespread availability / bring about a crisis in the institution"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        24,
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "One possible response is for classical performers to program attractive new music that is not yet available on record.",
+    "translation": "一种可能的应对方案，是让古典演奏家们在节目单中安排排演那些尚未被录制成唱片的、极具吸引力的新作品。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 不定式复合结构 + 定语从句",
+      "mainClause": "One possible response is for classical performers to program attractive new music",
+      "subordinateClauses": [
+        "定语从句: that is not yet available on record 修饰 music"
+      ],
+      "corePattern": "program new music / available on record"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Gilbert's own interest in new music has been widely noted: Alex Ross, a classical-music critic, has described him as a man who is capable of turning the Philharmonic into \"a markedly different, more vibrant organization.\"",
+    "translation": "吉尔伯特本人对新音乐的浓厚兴趣已受到广泛关注：古典乐评人亚历克斯·罗斯就曾将他描绘为一个有能力将纽约爱乐乐团打造成“一个截然不同、更富生机活力的团体”的关键人物。",
+    "syntaxAnalysis": {
+      "structureType": "主谓被动句 + 冒号同位并列 + 定语从句",
+      "mainClause": "Gilbert's interest has been widely noted: Alex Ross has described him as a man...",
+      "subordinateClauses": [
+        "定语从句: who is capable of turning the Philharmonic into... 修饰 man"
+      ],
+      "corePattern": "interest has been noted / capable of turning A into B"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "But what will be the nature of that difference?",
+    "translation": "然而，那种所谓‘不同’的本质究竟会是什么呢？",
+    "syntaxAnalysis": {
+      "structureType": "特殊疑问句（承上启下质疑句）",
+      "mainClause": "what will be the nature of that difference",
+      "subordinateClauses": [],
+      "corePattern": "the nature of difference"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "Merely expanding the orchestra's repertoire will not be enough.",
+    "translation": "仅仅依靠拓宽乐团的演出曲目范围，是绝然不够的。",
+    "syntaxAnalysis": {
+      "structureType": "动名词短语作主语 + 系表结构",
+      "mainClause": "Merely expanding the orchestra's repertoire will not be enough",
+      "subordinateClauses": [],
+      "corePattern": "merely expanding the repertoire / will not be enough"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2011-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P5-S5",
+      "pIndex": 5
+    },
+    "text": "If Gilbert and the Philharmonic are to succeed, they must first change the relationship between America's oldest orchestra and the new audience it hopes to attract.",
+    "translation": "吉尔伯特和纽约爱乐乐团若想真正取得成功，他们就必须首先重构这支美国历史最悠久的交响乐团与其渴求吸引的新一代年轻听众之间的核心关系。",
+    "syntaxAnalysis": {
+      "structureType": "条件状语从句（be to do 表示目标设想） + 主谓宾复合句 + 定语从句",
+      "mainClause": "they must first change the relationship between A and B",
+      "subordinateClauses": [
+        "条件从句: If Gilbert and the Philharmonic are to succeed",
+        "定语从句: (that) it hopes to attract 修饰 audience"
+      ],
+      "corePattern": "if sb are to succeed / must first change the relationship"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        25
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2011_t1.json",
+      "year": 2011,
+      "articleKey": "ky-en1-2011-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:df052a1f05b1ccdb02d7a5b6086e54408c4e4f349f4db04b34f6df5c4dace128"
+    }
+  }
+]

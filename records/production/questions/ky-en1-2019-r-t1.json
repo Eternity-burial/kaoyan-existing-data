@@ -1,0 +1,582 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "According to Paragraph 1, one motive in imposing the new rule is to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "guarantee the bonuses of top executives.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】新规是对涉嫌违规高管的既定奖金强制延迟十年发放甚至追回，绝非保障其奖金发放。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "enhance bankers' sense of responsibility.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S2 明确阐述出台该规的核心目的：'The main purpose of this clawback rule is to hold bankers accountable for harmful risk-taking and to restore public trust'（该规则的主要目的在于让银行家对其从事的有害过度冒险承担责任，即强化问责与责任意识）。A选项 enhance bankers' sense of responsibility（增强银行家的责任感）是对 hold bankers accountable 最精准规范的同义概括。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "build a new system of financial regulation.",
+        "isCorrect": false,
+        "distractorType": "过度夸大",
+        "analysis": "【干扰特征: 夸大范围】这只是一项具体的薪酬追回规则（an unusual rule），非推倒重建全新的金融监管大体系。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "help corporations achieve larger profits.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】新规旨在抑制短期唯利润冲动、促进长期稳健决策，非帮助企业牟取更大的短期利润。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节目的题",
+    "targetSentences": [
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "hold bankers accountable for harmful risk-taking = enhance bankers' sense of responsibility。",
+      "methodSummary": "动机目的题词汇转换：hold sb accountable 转换为 enhance sense of responsibility。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "D",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "D",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "英语一_2019_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "D",
+          "C": "C",
+          "D": "A"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 1",
+        "motive in imposing the new rule is to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Alfred Marshall is quoted to indicate",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the solid structure of publicly traded companies.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】未提及上市公司结构稳固。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "governments' impatience in decision-making.",
+        "isCorrect": false,
+        "distractorType": "主体错配",
+        "analysis": "【干扰特征: 张冠李戴】急躁的是上市公司和投资者（publicly traded companies），非政府决策急躁。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the conditions for generating quick profits.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偏离论点】名言是用比喻讽刺贪图快钱的心态，非探讨产生快利的客观条件。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "\"short-termism\" in economic activities.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P2-S1 和 P2-S2 紧密相连：'Short-termism or the desire for quick profits, has worsened... He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience'（短期主义或对快利的渴望日益恶化……他引用马歇尔名言来描述这种金融急躁病）。引用该名言正是为了形象地揭示经济活动中的“短期主义”（short-termism in economic activities）。D选项原词完全精准对应论点。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Short-termism has worsened... quotes Alfred Marshall in describing this financial impatience = \"short-termism\" in economic activities。",
+      "methodSummary": "例证题前句提取法：抓住引言前所阐述的核心概念（Short-termism / desire for quick profits）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Alfred Marshall",
+        "quoted to indicate"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "It is argued that the influence of transient investment on public companies can be",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "minimal.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 程度相反】危害极其严重导致整个市场弥漫季度资本主义，绝非微乎其微（minimal）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "indirect.",
+        "isCorrect": false,
+        "distractorType": "偷换属性",
+        "analysis": "【干扰特征: 属性偏差】阻碍研发是直接实质性的危害，非间接影响。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "adverse.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确阐述短期投资者的恶劣影响：'Transient investors, who demand high quarterly profits... can hinder a firm's efforts to invest in long-term research or to build up customer loyalty'（短期投资者索要高额季度利润，严重阻碍了公司在长期研发或培育客户忠诚度上的努力）。hinder 意为阻碍、破坏，表明这种影响是极其不利的、有害的（adverse）。B选项完全精准吻合。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "temporary.",
+        "isCorrect": false,
+        "distractorType": "概念混淆",
+        "analysis": "【干扰特征: 偷换概念】transient 是形容投资者持股时间短暂，但其对企业造成的阻碍伤害是深远的，非 temporary。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "hinder a firm's efforts to invest in long-term research = the influence is adverse（不利的/有害的）。",
+      "methodSummary": "动词感情色彩推断题：将 hinder（阻碍）直接转化为性质形容词 adverse（不利的）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "influence of transient investment",
+        "public companies",
+        "can be"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "The US and France examples are used to illustrate",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the approaches to promoting \"long-termism.\".",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证论点对应】P5-S1 和 P5-S2 明确阐述引用两国的目的：'In the US, Sarbanes-Oxley Act... defer performance bonuses... Much more could be done to encourage long-termism... In France, shareholders who hold onto investment for 2 years earn more voting rights'（美国递延奖金抑制短期主义，法国赋予长期股东更多表决权，以此说明为了激励长期主义还可以做很多事情）。美法两国的实践正是促进“长期主义”的具体途径与方法手段（the approaches to promoting long-termism）。C选项完美契合例证主旨。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "the prevalence of short-term thinking.",
+        "isCorrect": false,
+        "distractorType": "跨段错位",
+        "analysis": "【干扰特征: 时代错配】短期思维盛行是第2-4段讲的现实危机，第5段讲的是克服危机的美法对策。",
+        "refSentences": [
+          "P2-S1",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "the significance of long-term thinking.",
+        "isCorrect": false,
+        "distractorType": "偷换重点",
+        "analysis": "【干扰特征: 偏离例证指向】第五段重点在于展示具体的制度改革工具与方法手段（Much more could be done: tax code, voting rights），非单纯讲意义。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "the obstacles to preventing \"short-termism.\".",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】美法两国举措是克服短期主义的成功有效范例，非列举阻碍。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Much more could be done to encourage long-termism (US defer bonus, France voting rights) = the approaches to promoting \"long-termism\"。",
+      "methodSummary": "例证题论点句锁定：抓准 Much more could be done to encourage \"long-termism\" 对应的 approaches to promoting long-termism。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "英语一_2019_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "A",
+          "D": "B"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "US and France examples",
+        "used to illustrate"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2019-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Decisiveness Required of Top Executives.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念相反】文章强调的是深谋远虑的耐心（patience），非雷厉风行的果断（decisiveness）。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Failure of Quarterly Capitalism.",
+        "isCorrect": false,
+        "distractorType": "负面偏激",
+        "analysis": "【干扰特征: 偏离建设性主旨】季度资本主义是批判的靶子，文章通篇在于呼吁和推介长线耐心的治理方案。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Patience as a Corporate Virtue.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 全文主旨高度升华】全文贯穿着对“急躁追逐快钱”（financial impatience / short-termism / quarterly capitalism）的深刻批判，并从英国奖金追回、美法制度激励到公司薪酬设计，全面倡导将“耐心”（Patience / long-termism）作为企业应对浮躁、造福子孙后代的核心商业美德（Patience as a Corporate Virtue）。B选项精辟、优雅且高度凝练了全文的正面主旨灵魂，为最佳标题。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S2",
+          "P5-S2",
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Frustration of Risk-taking Bankers.",
+        "isCorrect": false,
+        "distractorType": "以偏概全",
+        "analysis": "【干扰特征: 局限于开头个案】银行家只是引子，文章广泛探讨所有上市公司克服短期主义的长期战略。",
+        "refSentences": [
+          "P1-S2",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "主旨标题题",
+    "targetSentences": [
+      "P1-S2",
+      "P2-S2",
+      "P5-S2",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "financial impatience / short-termism vs long-termism / think beyond their own time = Patience as a Corporate Virtue。",
+      "methodSummary": "主旨标题题哲理升华法：将全文批判 financial impatience 与提倡 long-termism 抽象升华为美德修养（Patience as a Corporate Virtue）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2019_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2019_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "B",
+          "B": "C",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "best title",
+        "the text"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2019.js",
+      "year": 2019,
+      "articleKey": "ky-en1-2019-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6c252624c3c97bb22d9f661e9172862f4e684befad72483171a6f63fcbd25e3d"
+    }
+  }
+]

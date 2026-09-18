@@ -1,0 +1,861 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "George Osborne’s scheme was intended to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "motivate the unemployed to report voluntarily.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。第一段末尾说‘they should report weekly’是方案设定的强制性审核硬性规定，如果不做就无法领救济，绝非激励他们‘自愿汇报（voluntarily）’。",
+        "vocab": [
+          {
+            "word": "engagement",
+            "ipa": "[ɪnˈɡeɪdʒmənt]",
+            "meaning": "参与",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "job",
+            "ipa": "[dʒɒb]",
+            "meaning": "求职",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "provide the unemployed with easier access to benefits.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆与事实颠倒。奥斯本的方案增加了诸多前置刁难要求（带简历、上网注册、每周汇报、7天等待期），实质上是让领取救济变得更加困难重重，绝非‘更易获取（easier access）’。",
+        "vocab": [
+          {
+            "word": "unemployed",
+            "ipa": "[ˌʌnɪmˈplɔɪd]",
+            "meaning": "失业者（集体）",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "access",
+            "ipa": "[ˈækses]",
+            "meaning": "入口",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "benefits",
+            "ipa": "/ˈbenɪfɪts/",
+            "meaning": "救济金，福利",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "encourage jobseekers' active engagement in job seeking.",
+        "isCorrect": true,
+        "analysis": "定位至第一段 S2 及第二段 S3-S4：“Only if the jobless arrive at the job centre with a CV, register for online job search, and start looking for work will they be eligible for benefit ... help people stay off benefits and help those on benefits get into work faster.” 奥斯本方案要求失业者必须带着简历登记、主动搜寻工作并更频繁地汇报，其名义上的政策初衷正是为了督促和迫使求职者积极投身于求职行动（encourage jobseekers' active engagement in job seeking）。",
+        "vocab": [
+          {
+            "word": "guarantee",
+            "ipa": "[ˌɡærənˈtiː]",
+            "meaning": "保证",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "legitimate",
+            "ipa": "[lɪˈdʒɪtɪmət]",
+            "meaning": "合法的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "benefits",
+            "ipa": "/ˈbenɪfɪts/",
+            "meaning": "救济金，福利",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "guarantee jobseekers' legitimate right to benefits.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第四段明确指出该方案剥夺了失业者‘fundamental right to a benefit’，使其沦为毫无保障的苛刻津贴（no entitlement），绝非‘保障其合法权利’。",
+        "vocab": [
+          {
+            "word": "motivate",
+            "ipa": "[ˈməʊtɪveɪt]",
+            "meaning": "激励",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "unemployed",
+            "ipa": "[ˌʌnɪmˈplɔɪd]",
+            "meaning": "失业者（集体）",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "voluntarily",
+            "ipa": "",
+            "meaning": "主动地",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "encourage jobseekers’ active engagement in job seeking": "start looking for work ... help those on benefits get into work faster (促使求职者积极找工作，促使其尽快走上就业 -> 鼓励求职者积极参与求职活动)"
+    },
+    "methodologyReview": "事实细节题。考查政策方案的核心主旨。根据第一、二段，无论‘upfront work search’还是‘looking for work, not sign on’，其名义诉求都是敦促失业者尽快找工作。active engagement in job seeking 精准概括了方案的一系列具体行动要求。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        },
+        "source": "英语一_2014_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "George",
+          "ipa": "",
+          "meaning": "[人名]乔治·奥斯本",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "scheme",
+          "ipa": "[skiːm]",
+          "meaning": "计划",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "intended",
+          "ipa": "[ɪnˈtendɪd]",
+          "meaning": "旨在",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "The phrase “to sign on” (Line 3, Para. 2) most probably means _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "to register for an allowance from the government.",
+        "isCorrect": true,
+        "analysis": "定位至第二段 S6：“Those first few days should be spent looking for work, not looking to sign on.” 奥斯本强调失业最初几天应该四处找工作，而不是一心想着 sign on。在英国社会制度和失业语境中，sign on 是极其固定的俗语，专指‘前往失业劳工处签字登记领取失业救济金（register for an allowance/benefit）’，与前半句‘looking for work’构成鲜明的动作对比。",
+        "vocab": [
+          {
+            "word": "check",
+            "ipa": "[tʃek]",
+            "meaning": "调查，检查",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "to accept the government's restrictions on the allowance.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。接受政府对津贴的限制是领取救济的约束，并非 sign on 这一动作本身的词义。",
+        "vocab": [
+          {
+            "word": "allowance",
+            "ipa": "[əˈlaʊəns]",
+            "meaning": "津贴",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "restrictions",
+            "ipa": "",
+            "meaning": "限制",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "to check on the availability of jobs at the jobcentre.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。句中是将‘looking for work’（找工作）与‘looking to sign on’进行明确对立，前者才是了解空缺岗位，故 sign on 绝非‘查看职位空缺’。",
+        "vocab": [
+          {
+            "word": "register",
+            "ipa": "[ˈredʒɪstə(r)]",
+            "meaning": "登记",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "allowance",
+            "ipa": "[əˈlaʊəns]",
+            "meaning": "津贴",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "to attend a governmental job-training program.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文中从未出现任何政府就业培训项目（job-training program）的信息。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "VOCAB",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "to sign on": "to register for an allowance from the government (到官方机构登记办理领取失业救济手续)"
+    },
+    "methodologyReview": "英式熟词僻义推断题。解题核心在于‘语境反义对照’。句子为 ‘spent looking for work, not looking to sign on’。looking for work 是靠自己双手主动求职，not 之后相对立的自然就是靠国家救济金过活、去劳工处‘登记领救济（register for an allowance）’。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "phrase",
+          "ipa": "[freɪz]",
+          "meaning": "短语",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "sign",
+          "ipa": "[saɪn]",
+          "meaning": "(到劳工介绍所去)办理登记以获得…",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "What prompted the chancellor to develop his scheme?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A desire to secure a better life for all.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与断章取义。首段和第二段中的‘change lives for the better’带引号，是政客的公关口号，并非大臣内心的真实核心动机（What motivated him）；且方案实质上削减了失业者的生计，绝非为了所有人（for all）。",
+        "vocab": [
+          {
+            "word": "secure",
+            "ipa": "[sɪˈkjʊə(r)]",
+            "meaning": "确保，保证",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "An eagerness to protect the unemployed.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第二段明确指出大臣保护的是‘taxpayer’（纳税人），并在改革中对‘unemployed’（失业者）进行打压限制，绝非保护失业者。",
+        "vocab": [
+          {
+            "word": "unemployed",
+            "ipa": "[ˌʌnɪmˈplɔɪd]",
+            "meaning": "失业者（集体）",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "An urge to be generous to the claimants.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。大臣设法卡死救济金发放，末段直斥津贴是‘least generous’（最吝啬的），绝无可能出于对申请者‘慷慨大度’的冲动。",
+        "vocab": [
+          {
+            "word": "urge",
+            "ipa": "[ɜːdʒ]",
+            "meaning": "冲动",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "generous",
+            "ipa": "[ˈdʒenərəs]",
+            "meaning": "慷慨的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "A passion to ensure fairness for taxpayers.",
+        "isCorrect": true,
+        "analysis": "定位至第二段末尾 S10：“What motivated him, we were to understand, was his zeal for 'fundamental fairness' — protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits.” 原文设问形式直接对应题干：‘What motivated him’即为‘What prompted the chancellor’；‘zeal for fundamental fairness — protecting the taxpayer’直接对应‘A passion to ensure fairness for taxpayers’（zeal 同义替换为 passion，protecting taxpayer 对应 fairness for taxpayers）。",
+        "vocab": [
+          {
+            "word": "passion",
+            "ipa": "[ˈpæʃ(ə)n]",
+            "meaning": "热情",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "ensure",
+            "ipa": "[ɪnˈʃʊə(r)]",
+            "meaning": "确保",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "A passion to ensure fairness for taxpayers": "his zeal for 'fundamental fairness' — protecting the taxpayer, controlling spending ... (他对基本公平的无限热情——保护纳税人，控制开支 -> 确保纳税人得到公平对待的热忱)"
+    },
+    "methodologyReview": "因果与动机定点题。题干问促使大臣制定方案的动因（What prompted him）。精准锚定第二段末尾的同义定位词 What motivated him。原文字面是 ‘his zeal for fundamental fairness — protecting the taxpayer’，词义完美无缝映射到 ‘A passion to ensure fairness for taxpayers’。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "prompted",
+          "ipa": "",
+          "meaning": "促使",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "chancellor",
+          "ipa": "[ˈtʃɑːnsələ(r)]",
+          "meaning": "财政大臣",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "scheme",
+          "ipa": "[skiːm]",
+          "meaning": "计划",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "According to Paragraph 3, being unemployed makes one feel _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "insulted.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "过度引申。第三段提到失业在心理上尴尬窘迫（psychologically embarrassing）以及不被需要（not wanted），但并未表示失业本身让失业者感到遭受了‘人格侮辱（insulted）’。",
+        "vocab": [
+          {
+            "word": "uneasy",
+            "ipa": "[ʌnˈiːzi]",
+            "meaning": "不安的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "uneasy.",
+        "isCorrect": true,
+        "analysis": "定位至第三段 S11-S14：“Losing a job is hurting ... It is financially terrifying, psychologically embarrassing ... You are now not wanted; you are now excluded from the work environment ... Worse, the crucial income ... has disappeared.” 第三段浓墨重彩地描绘了失业带来的深层精神与生活危机：经济上令人恐惧（terrifying）、心理上让人窘迫（embarrassing）、没有归属感（not wanted）、收入彻底断绝。这一切强烈的情感创伤与生活危机综合提炼概括，正是让人感到极度的‘惶恐不安、心神不宁（uneasy）’。",
+        "vocab": [
+          {
+            "word": "insulted",
+            "ipa": "",
+            "meaning": "受到侮辱的（此处为过去分词构成…",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "enraged.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "情感色彩偏离。第三段强调的是失去生计后的痛苦、恐惧与无奈（hurting, terrifying, hard to get），并未体现出暴怒、被激怒（enraged）的攻击性情绪。",
+        "vocab": [
+          {
+            "word": "enraged",
+            "ipa": "",
+            "meaning": "气愤的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "guilty.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。失业者本身是受害者，作者极力论证他们渴望工作（what they want is a job），并未提及失业者内心抱有‘负罪感或内疚感（guilty）’。",
+        "vocab": [
+          {
+            "word": "guilty",
+            "ipa": "[ˈɡɪlti]",
+            "meaning": "内疚的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "uneasy": "financially terrifying, psychologically embarrassing ... excluded from the work environment (经济上骇人恐惧，心理上尴尬难堪，被工作环境所排斥 -> 让人倍感焦躁不安与惶恐不安)"
+    },
+    "methodologyReview": "情感态度与细节归纳题。考查对整段多重心理描写的同义综合概括。段落中出现了 hurting（痛苦）、financially terrifying（令人惊恐）、psychologically embarrassing（令人窘迫）、not wanted（遭遗弃）。四个选项中，只有 uneasy（忐忑不安、惶恐不安）能全面统摄涵盖这种既恐惧生计断绝又难堪窘迫的复杂心理状态。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "B",
+          "B": "A",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "To which of the following would the author most probably agree?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Unemployment benefits should not be made conditional.",
+        "isCorrect": true,
+        "analysis": "定位至第四段 S18-S20：“The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens. ... Instead, the claimant receives a time-limited 'allowance', conditional on actively seeking a job; no entitlement and no insurance ...” 作者沉痛批评了英国福利制度的蜕变：原本全体公民通过缴纳国民保险享有‘无条件的救济保障（unconditional payments）’，是理所应当的法定基本权利（entitlement）；而奥斯本却将其降格为必须满足各种前置要求的‘有条件的津贴（conditional on actively seeking a job）’，剥夺了失业者的正当权利。因此，作者显然坚决反对这种惩罚性改革，主张失业救济不应该被设定为有条件的（Unemployment benefits should not be made conditional）。",
+        "vocab": [
+          {
+            "word": "Unemployment",
+            "ipa": "[ˌʌnɪmˈplɔɪmənt]",
+            "meaning": "失业",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "benefits",
+            "ipa": "/ˈbenɪfɪts/",
+            "meaning": "福利费（政府对失业者、病人等提…",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "The British welfare system indulges jobseekers' laziness.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒与立场混淆。‘福利制度纵容求职者懒惰（subsidises laziness / indulge）’是奥斯本等保守派政客用来推动苛刻改革的借口与污蔑之词，作者通篇对此持激烈的反讽与批判立场。",
+        "vocab": [
+          {
+            "word": "welfare",
+            "ipa": "[ˈwelfeə(r)]",
+            "meaning": "福利",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "indulges",
+            "ipa": "",
+            "meaning": "纵容",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "The jobseekers' allowance has met their actual needs.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒。第四段末尾明确指出该津贴每周仅71.70英镑，是全欧盟最微薄的救济之一（one of the least generous in the EU），而且援助极难获得（support is minimal），绝非‘满足了其实际需求’。",
+        "vocab": [
+          {
+            "word": "allowance",
+            "ipa": "[əˈlaʊəns]",
+            "meaning": "津贴",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "their",
+            "ipa": "[ðeə(r)]",
+            "meaning": "满足某人需求",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Osborne's reforms will reduce the risk of unemployment.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。奥斯本的改革只是加大了失业者申领救济的难度并削减了福利保障，根本无法从宏观上减少社会‘失业的发生风险（risk of unemployment）’。",
+        "vocab": [
+          {
+            "word": "reforms",
+            "ipa": "/rɪˈfɔːrmz/",
+            "meaning": "改革",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "risk",
+            "ipa": "[rɪsk]",
+            "meaning": "风险",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "unemployment",
+            "ipa": "[ˌʌnɪmˈplɔɪmənt]",
+            "meaning": "失业",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "ATTITUDE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Unemployment benefits should not be made conditional": "The principle of British welfare is no longer that you can insure yourself against the risk ... receive unconditional payments ... claimant receives a 'allowance', conditional on actively seeking ... no entitlement (福利原则原本应是无条件获得保险金兜底，现在却被降格为有条件的津贴且毫无权利保障 -> 作者坚信失业救济本应是基本权利，不应当被附加苛刻的前提条件)"
+    },
+    "methodologyReview": "作者观点态度推断题。解答此类题必须站在作者的真实情感阵营（同情失业者、痛斥紧缩与政客冷酷）。作者对奥斯本将救济金从‘unconditional payments’（无条件给付）变成‘conditional on actively seeking’（以积极求职为前提条件）表达了最深切的控诉与悲哀。反推作者立场，必然是坚决反对附加条件，即 Unemployment benefits should not be made conditional。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2014_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2014_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

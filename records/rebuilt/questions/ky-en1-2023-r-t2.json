@@ -1,0 +1,575 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "Which of the following is true of New England?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Its housing supply is at a very low level.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S2 明确指出新英格兰地区的住房现状：'record-high home prices and historically low inventory'（创历史新高的房价以及处于历史绝对低位的房源库存）。historically low inventory 与 housing supply is at a very low level（住房供应处于极低水准）完全同义对应。A选项精准吻合。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Its communities are in need of funding.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偷换概念】社区需要的是监管法规以遏制短租投机，非缺少财政资金援助。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Its rental vacancy rate is going up slowly.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】P2-S1 明确指出租房空置率已暴跌至1%以下（dropped below 1%），非缓慢上升。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Its home prices are under strict control.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】房价已创下历史新高（record-high home prices），根本未受到严格控制。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "historically low inventory = Its housing supply is at a very low level。",
+      "methodSummary": "事实细节同义改写：historically low inventory 直接转换为 housing supply is at a very low level。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "true of New England"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t2.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9b9388d3b40906d8df81bc7f75a1716dd11656eb4b09193177995a6b3fde090e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "The bill mentioned in Paragraph 2 was intended to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "curb short-term rental speculation.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】该法案企图禁止地方限制短租，是纵容投机，因而遭到议会否决。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "ensure the supply of cheap housing.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】该法案会进一步恶化廉价住房短缺危机。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "punish illegal dealings in housing.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及惩罚非法房屋交易。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "allow a free short-term rental market.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S2 明确阐述该被否决法案的立法企图：'voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals'（议会投票否决了一项企图将城镇立法限制短租定为非法的法案）。禁止地方限制短租，其本质目的正是为了放任并确保一个不受管制的“自由短租市场”（allow a free short-term rental market）。D选项完全精准吻合其立法意图。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节目的题",
+    "targetSentences": [
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "make it illegal for towns to create legislation restricting short-term rentals = allow a free short-term rental market。",
+      "methodSummary": "双重否定与立法本质推断：禁止限制短租即等于放任自由短租市场（allow a free short-term rental market）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "bill mentioned in Paragraph 2",
+        "intended to"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t2.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9b9388d3b40906d8df81bc7f75a1716dd11656eb4b09193177995a6b3fde090e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "Compared with Castle, Taylor is more likely to support",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "further investment in local tourism.",
+        "isCorrect": false,
+        "distractorType": "张冠李戴",
+        "analysis": "【干扰特征: 偷换立场】支持旅游业投资的是房产中介 CEO 卡斯尔（Castle），非劳工住房代表泰勒。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "an increase in affordable housing.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P3-S1 和 P3-S2 明确展现泰勒的核心关切与诉求：'Without enough affordable housing in southern New Hampshire towns, employers are having a hard time attracting employees, and workers are having a hard time finding a place to live'（若没有充足的可负担住房，雇主招不到人，工人找不到住处）。相比于维护游客短租的卡斯尔，作为劳动力住房联盟总监的泰勒显然极其坚决地支持增加平价可负担住房（an increase in affordable housing）。B选项完全精准对应。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "strict management of real estate agents.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】泰勒呼吁的是增加劳工平价房源，非严管房产中介人员。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "a favorable policy for short-term workers.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】泰勒代表的是本地常住工人和企业，关注的是长租住房保障，非为短期外来工谋优惠。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点对比题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2",
+      "P4-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Taylor says without enough affordable housing workers have hard time finding place = more likely to support an increase in affordable housing。",
+      "methodSummary": "人物立场对比定位：抓准 Taylor 代表的 Workforce Housing Coalition 核心诉求（affordable housing）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Compared with Castle",
+        "Taylor is more likely to support"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t2.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9b9388d3b40906d8df81bc7f75a1716dd11656eb4b09193177995a6b3fde090e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "What does Horn emphasize in Paragraph 5?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The urgency to upgrade short-term rental facilities.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 偷换概念】未提及升级短租设施硬件。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The efficient operation of the local housing market.",
+        "isCorrect": false,
+        "distractorType": "空泛泛指",
+        "analysis": "【干扰特征: 过于宽泛】第五段具体批判的是开发商变相开酒店避税的行为，非空谈市场高效运作。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "The necessity to stop developers from evading taxes.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S2 明确阐述霍恩在第五段重点强调的核心痛点：'Issues arise, however, when developers attempt to create large-scale short-term rental facilities—de facto hotels—to bypass taxes and regulations. shouldn't a developer who's really building a hotel, but disguising it... be taxed like a hotel?'（当开发商打造事实酒店以规避税收监管时问题丛生，难道伪装酒店避税的开发商不该被照章征税吗？）。bypass taxes（规避绕开税收）与 evading taxes（偷逃税款）完全同义对应。C选项精准概括了霍恩的强调要点。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The proper procedures for renting out spare houses.",
+        "isCorrect": false,
+        "distractorType": "次要让步细节",
+        "analysis": "【干扰特征: 次要让步】个人出租空置度假屋是让步背景（P5-S1），段落重心在转折后的批判开发商伪装酒店避税。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "developers create de facto hotels to bypass taxes... shouldn't be taxed like hotel = The necessity to stop developers from evading taxes。",
+      "methodSummary": "转折后核心观点提取：Issues arise when developers bypass taxes 转换为 stop developers from evading taxes。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Horn emphasize",
+        "Paragraph 5"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t2.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9b9388d3b40906d8df81bc7f75a1716dd11656eb4b09193177995a6b3fde090e"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Horn holds that imposing registration requirements is",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "an irrational decision.",
+        "isCorrect": false,
+        "distractorType": "褒贬颠倒",
+        "analysis": "【干扰特征: 过于极端】霍恩肯定其能带来一定好处（could benefit towns），非完全不合理的荒谬决定。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "an unfeasible proposal.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 事实相反】波士顿和马萨诸塞州已成功落地执行，并非不可行（unfeasible）。",
+        "refSentences": [
+          "P6-S1",
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "an unnecessary measure.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 过于绝对】登记有其积极作用，非不必要的措施（unnecessary）。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "an inadequate solution.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P7-S1 明确交代霍恩对登记制度的深刻定性：'registration requirements could benefit struggling cities and towns, but \"if we want to make a change in the housing market, the main one is we have to build a lot more\"'（登记要求虽能使小镇受益，但若想根本改变住房市场，最主要的是必须海量建房）。霍恩认为登记要求虽好但治标不治本、无法从根本上解决房荒，因而是一项“不充分/不彻底的解决方案”（an inadequate solution）。D选项精准契合评价。",
+        "refSentences": [
+          "P7-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点评价题",
+    "targetSentences": [
+      "P7-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "registration benefits towns, but main change requires building a lot more = registration is an inadequate solution（不充分的方案）。",
+      "methodSummary": "让步转折评价题：could benefit but must build a lot more 说明当前措施 inadequate（治标不治本/不充分）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Horn holds",
+        "imposing registration requirements is"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t2.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:9b9388d3b40906d8df81bc7f75a1716dd11656eb4b09193177995a6b3fde090e"
+    }
+  }
+]

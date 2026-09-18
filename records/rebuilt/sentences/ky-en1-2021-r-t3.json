@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "As a historian who's always searching for the text or the image that makes us re-evaluate the past, I've become preoccupied with looking for photographs that show our Victorian ancestors smiling (what better way to shatter the image of 19th-century prudery?).",
+    "translation": "作为一名始终在孜孜探寻能够让我们重新审视过往历史的文献或图像的历史学者，我近来一直痴迷于搜集那些展现我们维多利亚时代祖先灿烂微笑的罕见历史照片（还有什么比这更能粉碎19世纪古板假正经刻板印象的绝佳方式呢？）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "I've found quite a few, and—since I started posting them on Twitter—they have been causing quite a stir. People have been surprised to see evidence that Victorians had fun and could, and did, laugh.",
+    "translation": "我找到了不少此类照片，而且——自从我开始将它们发布在推特（Twitter）上以来——它们在网络上引发了巨大的轰动反响。人们惊讶地看到了确凿无疑的证据：维多利亚时代的祖先同样拥有生活乐趣，不仅能够笑、而且确实开怀大笑过（changed people's impression of Victorians）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "They are noting that the Victorians suddenly seem to become more human as the hundred-or-so years that separate us fade away through our common experience of laughter.",
+    "translation": "大众纷纷感叹，随着隔绝我们彼此的这上百年漫长岁月在人类共通的欢笑体验中悄然消融，维多利亚时代的人们仿佛瞬间变得更加具有鲜活真实的人情味。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Of course, I need to concede that my collection of 'Smiling Victorians' makes up only a tiny percentage of the vast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing miserably and stiffly in front of painted backdrops, or staring absently into the middle distance. How do we explain this trend?",
+    "translation": "当然，我必须客观承认，我所搜集到的‘微笑维多利亚人’藏品，在1840年至1900年间创作的海量肖像摄影档案中仅占微不足道的极小比例（rare among photographs of that age），绝大多数照片中的被拍摄者都在彩绘布景前显得神情僵硬、痛苦不堪，或心不在焉地凝视着中距离虚空。我们究竟该如何解释这一普遍面部严肃的时代趋势（Why did most Victorians look stern）？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "During the 1840s and 1850s, in the early days of photography, exposure times were notoriously long: the daguerreotype photographic method (producing an image on a silvered copper plate) could take several minutes to complete, resulting in blurred images as sitters shifted position or adjusted their limbs.",
+    "translation": "在19世纪40和50年代摄影术发展初期，曝光时间之漫长是出了名的糟糕：银版照相法（在镀银铜板上成像）可能需要整整耗时数分钟才能完成一次拍摄，只要被拍摄者稍微挪动姿势或调整四肢，就会导致最终成像模糊一片。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The thought of holding a fixed grin as the camera performed its magical duties was too much to contemplate, and so a non-committal blank stare became the norm.",
+    "translation": "在相机施展其神奇魔法的过程中，要想长时间保持一副僵死固定的咧嘴笑容简直令人不堪设想；因此，一种不带任何情绪色彩的面无表情凝视便成为了当时的普遍行业规范。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "But exposure times were much quicker by the 1880s, and the introduction of the Box Brownie and other portable cameras meant that, though slow by today's digital standards, the exposure was almost instantaneous. Spontaneous smiles were relatively easy to capture by the 1890s, so we must look elsewhere for an explanation of why Victorians still hesitated to smile.",
+    "translation": "然而到了19世纪80年代，曝光时间已经大幅缩短；布朗尼手持盒式相机以及其他便携式相机的问世意味着，尽管按当今数字标准来看依然偏慢，但当年的曝光已经几乎实现了瞬时完成。到了19世纪90年代，抓拍自然自发的微笑已变得相对轻而易举，因此我们必须在技术之外的其他维度探寻为何维多利亚人依然对拍照微笑犹豫不决。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "One explanation might be the loss of dignity displayed through a cheesy grin. \"Nature gave us lips to conceal our teeth,\" ran one popular Victorian maxim, alluding to the fact that before the birth of proper dentistry, mouths were often in a shocking state of hygiene.",
+    "translation": "其中一个关键解释或许在于，咧嘴傻笑会让人丧失尊严与体面。“大自然赋予我们双唇是为了掩盖我们的牙齿，”这句在维多利亚时代广为流传的格言，正是暗指在正规现代牙科医学诞生之前，人们口腔内的牙齿卫生状况往往处于令人触目惊心的恶劣境地（unhealthy dental condition）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "A flashing set of healthy and clean, regular 'pearly whites' was a rare sight in Victorian society, the preserve of the super-rich (and even then, dental hygiene was not guaranteed).",
+    "translation": "一整排洁白健康、整齐如珍珠般的皓齿在维多利亚社会是极其罕见的景象，几乎只是超级富豪阶层的专属特权（即便如此，他们的口腔卫生也无法得到绝对保障）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "A toothy grin (especially when there were gaps or blackened gnashers) lacked class: drunks, tramps, and music hall performers might turn and grin with a smile as wide as Lewis Carroll's gum-exposing Cheshire Cat, but it was not a becoming look for properly bred persons.",
+    "translation": "露齿咧嘴大笑（尤其是当牙齿稀疏有缺口或长满发黑烂牙时）被视为极度缺乏教养与阶级品位：醉汉、流浪汉以及杂耍剧场艺人或许会转过身来笑得像刘易斯·卡罗尔笔下露出牙龈的柴郡猫一样灿烂夸张，但这对于受过良好正统家教的得体阶层人士而言绝非体面雅观的容貌仪表。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2021-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "Even Mark Twain, a man who enjoyed a hearty laugh, said that when it came to photographic portraits there could be \"nothing more damning than a silly, foolish smile fixed forever\".",
+    "translation": "甚至连平素极其喜爱开怀大笑的幽默大师马克·吐温都曾深刻表示：一旦谈及拍摄严肃肖像照，“世上再没有什么比一副被永远定格的愚蠢傻笑更具毁灭性、更令人无法容忍的了”（a deep-rooted belief）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2021_t3.json",
+      "year": 2021,
+      "articleKey": "ky-en1-2021-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5c64f80c8b942633f7fca89bcfd25e3cd713902f58f272503ab2fc1e018d00b2"
+    }
+  }
+]

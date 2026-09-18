@@ -1,0 +1,771 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "Wilt Chamberlain is cited as an example to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "illustrate the change of height of NBA players.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第1段通过张伯伦的具体案例展开论述：20世纪60年代初张伯伦是NBA仅有的3位超7英尺的球员之一，而若在今天打球他将是42位之一；随后第3句给出段落论点：'The bodies playing major professional sports have changed dramatically over the years...'。引用张伯伦从1/3到1/42的鲜明数据对比，正是为了生动直观地说明NBA职业篮球运动员在过去数十年间身高的惊人增长变化（illustrate the change of height of NBA players）。",
+        "vocab": [
+          {
+            "word": "illustrate",
+            "ipa": "[ˈɪləstreɪt]",
+            "meaning": "说明",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "show the popularity of NBA players in the U.S.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第1段全篇探讨的是球员的身高尺码与比赛服调整，只字未提NBA球员在美国的受关注程度或受欢迎程度（popularity）。"
+      },
+      {
+        "key": "C",
+        "text": "compare different generations of NBA players.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "就事论事与以偏概全。将60年代与现今进行代际对比仅仅是论证手段，其最终目的是为了引出‘运动员身材高度发生剧变’这一核心结论，而非单纯在学术上对比两代球员。"
+      },
+      {
+        "key": "D",
+        "text": "assess the achievements of famous NBA players.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文章引用张伯伦完全是因为他7英尺以上的标志性身高数据，未对他作为著名球星的历史功绩与职业成就做任何评价。",
+        "vocab": [
+          {
+            "word": "assess",
+            "ipa": "[əˈses]",
+            "meaning": "评价",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "EXEMPLIFICATION",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Wilt Chamberlain was one of only three ... now one of 42 ... bodies playing sports have changed dramatically": "illustrate the change of height of NBA players (张伯伦过去是仅有的3人之一，现在是42人之一，运动员体格发生巨大变化 -> 说明NBA球员身高的显著变化)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Chamberlain",
+          "ipa": "",
+          "meaning": "[人名]威尔特·张伯伦",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "cited",
+          "ipa": "",
+          "meaning": "引用",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t3.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:45d8492de8e2364079da05521b52556aabfacd4ea438156fb2e8fcd9b4b6693a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "Which of the following plays a key role in body growth according to the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Genetic modification.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。文章讨论的是物种自然的遗传架构（genetic architecture），绝非人工进行的‘基因改造（genetic modification）’。",
+        "vocab": [
+          {
+            "word": "Genetic",
+            "ipa": "[dʒəˈnetɪk]",
+            "meaning": "基因的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "modification",
+            "ipa": "[ˌmɒdɪfɪˈkeɪʃn]",
+            "meaning": "改变",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Natural environment.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第3段阐述身体生长的关键驱动力在于卡路里热量、蛋白质营养（diet）以及医疗卫生（health），这些均属于人为的社会生活与营养卫生条件，而非崇山峻岭等‘自然地理环境（natural environment）’。"
+      },
+      {
+        "key": "C",
+        "text": "Living standards.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第3段明确论述身体成长的决定性外部要素：S1指出身体发育需要卡路里和营养成分（尤其是蛋白质）；S2指出20世纪初是营养不良和感染疾病阻碍了生长；S3明确给出因果驱动力：'as diet and health improved, children and adolescents have, on average, increased in height...'（随着饮食营养和医疗健康状况的改善，青少年身高显著增长）。饮食营养与医疗卫生条件的根本改善，在宏观社会学上正是生活水平（Living standards）的完美概括与高阶替换。"
+      },
+      {
+        "key": "D",
+        "text": "Daily exercise.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "常识干扰与无中生有。第1段虽然提到职业体育运动，但第3段探讨人体生长的生理学机制时，全文未提及日常体育锻炼（Daily exercise）对身体长高的作用。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "demands calories and nutrients ... as diet and health improved, children increased in height": "Living standards (需要卡路里与蛋白质营养 + 饮食营养与健康改善使儿童持续增高 -> 生活水平与物质生活条件)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "plays",
+          "ipa": "",
+          "meaning": "起作用",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "growth",
+          "ipa": "[ɡrəʊθ]",
+          "meaning": "生长",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t3.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:45d8492de8e2364079da05521b52556aabfacd4ea438156fb2e8fcd9b4b6693a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "On which of the following statements would the author most probably agree?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Non-Americans add to the average height of the nation.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴与曲解文意。第2段第5句仅说明从全世界招募外籍球员推高了 NBA 赛场的身高，但第2句明确指出全美普通人口（尤其是世居本土人）早在60年代就已停止长高，文章从未得出非美国人拉高了全美平均身高的结论。",
+        "vocab": [
+          {
+            "word": "add",
+            "ipa": "[æd]",
+            "meaning": "增加",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "average",
+            "ipa": "[ˈævərɪdʒ]",
+            "meaning": "平均的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Human height is conditioned by the upright posture.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第4段集中探讨了限制人类长高的演化生物力学根源：S3 指出人类即使已经直立行走了数百万年，'our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs'（双脚和脊柱依然在与双足直立姿势艰难搏斗，无法轻易承受过大四肢所施加的反复重压劳损）；S4 进一步总结这是生物遗传架构设定的硬约束。conditioned by 意为‘受……制约/以……为条件’；bipedal posture 即 upright posture。人类为了适应直立行走，其身高骨架必然受到脊柱与双脚承重力的硬性制约，作者观点契合度100%。",
+        "vocab": [
+          {
+            "word": "conditioned",
+            "ipa": "",
+            "meaning": "以…为制约",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "upright",
+            "ipa": "[ˈʌpraɪt]",
+            "meaning": "直立的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "posture",
+            "ipa": "[ˈpɒstʃə(r)]",
+            "meaning": "姿势",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Americans are the tallest on average in the world.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文章仅指出美国人平均身高停止增长并维持在男5'9\"、女5'4\"，从未宣称美国人的平均身高是‘世界第一（the tallest in the world）’。",
+        "vocab": [
+          {
+            "word": "on",
+            "ipa": "[ɒn]",
+            "meaning": "平均",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Larger babies tend to become taller in adulthood.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "乱拉因果与主观臆断。第4段第2句提到大个体婴儿在分娩通过产道时遭遇更大困难，这是作为避免过高个头的演化优势论据，完全没有提及大婴儿在成年后往往会长得更高。",
+        "vocab": [
+          {
+            "word": "tend",
+            "ipa": "[tend]",
+            "meaning": "往往会",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "feet and back continue to struggle with bipedal posture and cannot easily withstand strain ... constraints set by genetic architecture": "Human height is conditioned by the upright posture (双脚和脊柱难以承受双足直立姿态与大四肢重压 + 遗传架构设定的硬性约束 -> 人类身高受制于直立姿势)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "statements",
+          "ipa": "",
+          "meaning": "观点",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t3.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:45d8492de8e2364079da05521b52556aabfacd4ea438156fb2e8fcd9b4b6693a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "We learn from the last paragraph that in the near future _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the garment industry will reconsider the uniform size.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。最后一段明确指出军服长度已很久没有变动，90%无需改动即可完美贴合，这说明在不久的将来根本不需要重新考虑制服尺码（reconsider uniform size）。",
+        "vocab": [
+          {
+            "word": "garment",
+            "ipa": "[ˈɡɑːmənt]",
+            "meaning": "衣服",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "the design of military uniforms will remain unchanged.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第5段第3句指出的是美军军服的‘长度尺码（the length of military uniforms）’保持不变，而不是整个军服的‘外观款式设计（the design of military uniforms）’保持不变。",
+        "vocab": [
+          {
+            "word": "military",
+            "ipa": "[ˈmɪlətri]",
+            "meaning": "军队的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "remain",
+            "ipa": "[rɪˈmeɪn]",
+            "meaning": "保持",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "genetic testing will be employed in selecting sportsmen.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。末段探讨的是人体工效学装备设计中的身高预测，只字未提在运动员选拔中应用基因检测。",
+        "vocab": [
+          {
+            "word": "genetic",
+            "ipa": "[dʒəˈnetɪk]",
+            "meaning": "基因的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "employed",
+            "ipa": "",
+            "meaning": "使用",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "selecting",
+            "ipa": "",
+            "meaning": "挑选",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "sportsmen",
+            "ipa": "",
+            "meaning": "运动员",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the existing data of human height will still be applicable.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。末段末句精准定位：戈登明确指出，如果在不久的将来需要预测人类身高以设计某件装备，那么大体而言：'you could use today's data and feel fairly confident'（你可以相当有把握地直接使用今天的数据）。today's data 完美替换为 the existing data of human height；use and feel confident 精准替换为 will still be applicable（依然适用），逻辑严丝合缝。",
+        "vocab": [
+          {
+            "word": "applicable",
+            "ipa": "[əˈplɪkəb(ə)l]",
+            "meaning": "适用的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "by and large, \"you could use today's data and feel fairly confident\"": "the existing data of human height will still be applicable (总的来说，你可以放心使用当今的数据 -> 现存的人体身高数据依然适用)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t3.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:45d8492de8e2364079da05521b52556aabfacd4ea438156fb2e8fcd9b4b6693a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "The text intends to tell us that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the change of human height follows a cyclic pattern.",
+        "textZh": "人类身高的变化遵循周期性循环模式。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。文章指出身高先经历代际递增、而后见顶停滞，从未提及身高会呈现周而复始的‘周期性循环模式（cyclic pattern）’。",
+        "vocab": [
+          {
+            "word": "pattern",
+            "ipa": "[ˈpæt(ə)n]",
+            "meaning": "模式",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "human height is becoming even more predictable.",
+        "textZh": "人类的身高正变得越来越可预测。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。末段提到装备设计时可以使用现有身高数据进行预测，这只是身高见顶停滞带来的一个衍生应用结果，绝非全文旨在告诉读者的核心主旨。"
+      },
+      {
+        "key": "C",
+        "text": "Americans have reached their genetic growth limit.",
+        "textZh": "美国人已经达到了他们基因层面的生长极限。",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。全文核心主旨的精准提炼。文章第1段由NBA赛场身材暴涨的表象破题，第2段直接立论：'Americans have generally stopped growing... apparently reached their limit in the early 1960s'；第3段通过回顾百年生长趋势证明营养红利已全部兑现；第4段从直立行走承重与难产风险的演化角度论证基因架构给个体设立的不可逾越的硬约束（genetic constraints）；第5段以军用数据证明遗传最大极限短期内绝不可能突破。全文自始至终都在雄辩地论证同一个结论：美国人已经完全达到了其遗传生长的极限（Americans have reached their genetic growth limit）。",
+        "vocab": [
+          {
+            "word": "genetic",
+            "ipa": "[dʒəˈnetɪk]",
+            "meaning": "基因的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "growth",
+            "ipa": "[ɡrəʊθ]",
+            "meaning": "生长",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the genetic pattern of Americans has altered.",
+        "textZh": "美国人的遗传模式已经发生了改变。",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆与事实颠倒。第5段第1句明确告诫读者：'Genetic maximums can change, but don't expect this to happen soon'（不要指望基因上限会很快改变），说明在当今时代人类基因模式根本没有改变，改变的只是营养摄入等外部条件。",
+        "vocab": [
+          {
+            "word": "genetic",
+            "ipa": "[dʒəˈnetɪk]",
+            "meaning": "基因的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "pattern",
+            "ipa": "[ˈpæt(ə)n]",
+            "meaning": "模式",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "altered",
+            "ipa": "",
+            "meaning": "改变",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Americans have generally stopped growing ... reached their limit ... constraints set by genetic architecture": "Americans have reached their genetic growth limit (美国人普遍已停止长高 + 达到上限 + 遗传架构的约束 -> 美国人已经达到了其遗传生长极限)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "intends",
+          "ipa": "",
+          "meaning": "想要，打算",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t3.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:45d8492de8e2364079da05521b52556aabfacd4ea438156fb2e8fcd9b4b6693a"
+    }
+  }
+]

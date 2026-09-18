@@ -1,0 +1,477 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive.",
+    "translation": "直到几十年前，我们对未来的憧憬在很大程度上——尽管绝非毫无例外地完全一致——都是极其乐观洋溢的。",
+    "syntaxAnalysis": "主干为 our visions of the future were largely ... glowingly positive。Up until a few decades ago 为时间状语；破折号内 though by no means uniformly 为让步状语插入语，by no means 为否定副词短语（绝不）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all.",
+    "translation": "科学与技术将治愈人类社会的一切弊病，为所有人带来充实完满、机遇无限的美好生活。",
+    "syntaxAnalysis": "主谓宾复合结构。主语 Science and technology，谓语 would cure，宾语 all the ills of humanity（ills 熟词僻义：弊病/灾祸）；现在分词短语 leading to ... 作结果状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Now utopia has grown unfashionable, as we have gained a deeper appreciation of the range of threats facing us, from asteroid strike to epidemic flu and to climate change.",
+    "translation": "而今乌托邦式的幻想已不再受人青睐，因为我们对自身所面临的各种威胁有了更深刻的体认——从小行星撞击、恶性流感大流行到全球气候变化。",
+    "syntaxAnalysis": "主从复合句。主句 utopia has grown unfashionable 中 grown 为系动词；as 引导原因状语从句，从句中 gained a deeper appreciation（appreciation 熟词僻义：深刻理解/认识）；facing us 为现在分词作定语修饰 threats；from ... to ... and to ... 为介词短语举例。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "You might even be tempted to assume that humanity has little future to look forward to.",
+    "translation": "人们甚至可能忍不住会认定，人类已然没有什么值得翘首以盼的未来可言。",
+    "syntaxAnalysis": "主干为 You might even be tempted to assume that ...。be tempted to do 意为‘忍不住/不禁去...’；that 引导宾语从句，从句中 has little future，不定式 to look forward to 作后置定语修饰 future。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "But such gloominess is misplaced.",
+    "translation": "然而，这种阴郁沮丧的悲观情绪完全是被错置了。",
+    "syntaxAnalysis": "主系表结构。主语 such gloominess，系动词 is，表语 misplaced（不适宜的/放错位置的）。本句为承上启下的转折核心论点句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "The fossil record shows that many species have endured for millions of years — so why shouldn't we?",
+    "translation": "化石记录清晰地表明，许多物种都已在地球上延续生存了数百万年之久——既然如此，我们人类又为何不可呢？",
+    "syntaxAnalysis": "主干为 The fossil record shows that ...。that 引导宾语从句；破折号后引出修辞反问句 so why shouldn't we (endure for millions of years)。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "Take a broader look at our species’ place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years.",
+    "translation": "若从更宽广的宇宙视域来审视人类物种的地位，事实便一目了然：即便谈不上生存几十万年，我们也完全拥有生存数万年的绝佳机会。",
+    "syntaxAnalysis": "‘祈使句 + and + 陈述句’结构（相当于条件句）。前半句 Take a broader look ... 为祈使句条件；后半句 it becomes clear that ... 中 it 为形式主语，that 引导真正的主语从句，插入语 if not hundreds 修饰时间跨度。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "Look up Homo sapiens in the \"Red List\" of threatened species of the International Union for the Conservation of Nature (IUCN) and you will read: “Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline.”",
+    "translation": "在世界自然保护联盟（IUCN）的濒危物种‘红色名录’中查阅‘智人’（现代人类），你会读到这样的结论：“被列为‘无须担忧的无危物种’，因为该物种分布极广、适应力极强、目前种群数量不断增长，且不存在任何可能导致总体人口下滑的重大威胁。”",
+    "syntaxAnalysis": "‘祈使句 + and + 陈述句’结构。Look up ... in the 'Red List' ... 为祈使句；you will read 后接冒号引出官方评级直接引语；引语内包含 as 引导的原因状语从句，现在分词短语 resulting in ... 作后置定语修饰 threats。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "So what does our deep future hold?",
+    "translation": "那么，我们深层的遥远未来究竟会呈现怎样的图景呢？",
+    "syntaxAnalysis": "特殊疑问句。hold 在此引申为‘孕育/包含’，what does the future hold 意为‘未来将会如何’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "A growing number of researchers and organisations are now thinking seriously about that question.",
+    "translation": "如今，越来越多的研究学者与科研机构都在严肃认真地思索这一个宏大议题。",
+    "syntaxAnalysis": "主干为 A growing number of researchers and organisations are now thinking seriously about that question。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "For example, the Long Now Foundation has as its flagship project a mechanical clock that is designed to still be marking time thousands of years hence.",
+    "translation": "例如，恒今基金会将一台万年机械钟定为其旗舰核心项目，该机械钟的精巧设计旨在自此数千年后依然能够精准报时运转。",
+    "syntaxAnalysis": "宾语与宾补倒装结构。主谓宾正常语序为 has a mechanical clock as its flagship project；因宾语 a mechanical clock 带有较长的定语从句 that is designed to still be marking time thousands of years hence，故宾补 as its flagship project 前置；hence 意为‘从今以后’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "Perhaps willfully, it may be easier to think about such lengthy timescales than about the more immediate future.",
+    "translation": "或许是我们有些刻意为之：比起思索更为切近的近期未来，去展望这种极其漫长的时间尺度反倒容易得多。",
+    "syntaxAnalysis": "比较级句式。主句 it may be easier to think about A than about B，it 为形式主语，真正的逻辑主语为不定式结构；willfully 为评注性副词，意为‘固执地/任性刻意地’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "The potential evolution of today's technology, and its social consequences, is dazzlingly complicated, and it's perhaps best left to science fiction writers and futurologists to explore the many possibilities we can envisage.",
+    "translation": "当今技术的潜在演变及其引发的社会后果是极其眼花缭乱且错综复杂的，这或许最好留给科幻作家和未来学家去探索我们所能构想出的各种可能性。",
+    "syntaxAnalysis": "并列复合句。前分句主语由并列名词短语构成，谓语为 is dazzlingly complicated；后分句 it's perhaps best left to sb. to do sth.，it 为形式主语，不定式 to explore ... 为真正主语，内嵌省略 that 的定语从句 we can envisage。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "That's one reason why we have launched Arc, a new publication dedicated to the near future.",
+    "translation": "这正是我们推出《Arc》新刊物的缘由之一，这是一份专门聚焦并致力于探讨近期未来的崭新出版物。",
+    "syntaxAnalysis": "主系表结构。That's one reason 为主干；why 引导表语从句/定语从句；a new publication 为 Arc 的同位语，过去分词短语 dedicated to the near future 作后置定语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "But take a longer view and there is a surprising amount that we can say with considerable assurance.",
+    "translation": "然而，一旦我们放眼长远，便会惊讶地发现，有诸多未来走向是我们能够带着相当大的笃定把握加以言说的。",
+    "syntaxAnalysis": "‘祈使句 + and + there be 陈述句’。take a longer view 为祈使句表条件；there is a surprising amount 后接定语从句 that we can say with considerable assurance（with considerable assurance 意为‘极有把握地/满怀信心地’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 16
+    },
+    "text": "As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves.",
+    "translation": "正如历史屡次印证的那样，过去掌握着通向未来的钥匙：如今我们已经探明了足够多塑造地球和人类物种历史的长期规律，从而能够对未来子孙后代所处的境况做出有凭有据的科学预测。",
+    "syntaxAnalysis": "冒号前为主干 the past holds the key to the future；冒号后进行因果解释，主干为 we have now identified enough of the long-term patterns ... to make evidence-based forecasts；shaping the history ... 为现在分词作定语修饰 patterns；in which our descendants will find themselves 为定语从句修饰 situations。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 17
+    },
+    "text": "This long perspective makes the pessimistic view of our prospects seem more likely to be a passing fad.",
+    "translation": "这种宏阔的长远视角使得当下对人类前景的悲观看法，看起来更像是一股倏忽即逝的短暂风潮。",
+    "syntaxAnalysis": "主谓宾宾补复合句。主语 This long perspective，谓语 makes，宾语 the pessimistic view of our prospects，宾补 seem more likely to be a passing fad（a passing fad 意为‘过眼云烟/一时狂热’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 18
+    },
+    "text": "To be sure, the future is not all rosy.",
+    "translation": "固然，未来并非全然是一片玫瑰色的坦途。",
+    "syntaxAnalysis": "让步插入语 To be sure；主系表结构 the future is not all rosy（not all 部分否定：并非全都是美好的）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2013-r-t3",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 19
+    },
+    "text": "But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.",
+    "translation": "但如今的我们已经具备了充分的知识智慧，足以化解许多曾危及早期人类存亡的重大风险，并不断改善未来世代的命运与生存境遇。",
+    "syntaxAnalysis": "并列复合句。主干为主系表 we are now knowledgeable enough，接两个并列的不定式短语作结果状语：to reduce many of the risks that threatened ... and to improve the lot of those to come；定语从句 that threatened ... 修饰 risks；lot 熟词僻义，意为‘命运/生活际遇’；those to come 意为‘后世子孙’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2013.js",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+    }
+  }
+]

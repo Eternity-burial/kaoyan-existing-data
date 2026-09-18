@@ -1,0 +1,652 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "hostility",
+    "word": "hostility",
+    "ipa": "/hɑːˈstɪləti/",
+    "pos": "n.",
+    "sourceLocation": "P1 S1",
+    "contextMeaning": "社会敌意，敌对排斥情绪",
+    "examMeaning": "敌对，敌意；抗拒",
+    "collocationOrDerivation": "generate hostility 招致敌意；hostile adj. 敌对的",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "ground",
+    "word": "ground",
+    "ipa": "/ɡraʊnd/",
+    "pos": "n.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "理由，根据（熟词僻义复数）",
+    "examMeaning": "充分理由，根据；地面，土地",
+    "collocationOrDerivation": "grounds for complaint 抱怨抗议的充分理由；on the grounds of 基于...理由",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "inflation",
+    "word": "inflation",
+    "ipa": "/ɪnˈfleɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P2 S3",
+    "contextMeaning": "通货膨胀，物价飞涨",
+    "examMeaning": "通货膨胀；充气，膨胀",
+    "collocationOrDerivation": "twice as fast as inflation 通胀速度的两倍；curb inflation 抑制通胀",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "pile",
+    "word": "pile",
+    "ipa": "/paɪl/",
+    "pos": "v./n.",
+    "sourceLocation": "P2 S4",
+    "contextMeaning": "蜂拥而入，挤进（熟词僻义）",
+    "examMeaning": "挤进，蜂拥；堆积；一堆",
+    "collocationOrDerivation": "pile into law schools 涌入法学院；a pile of debt 一堆债务",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "nuisance",
+    "word": "nuisance",
+    "ipa": "/ˈnuːsns/",
+    "pos": "n.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "骚扰案，妨害纠纷（法律熟词僻义）",
+    "examMeaning": "麻烦事，讨厌的人或物；妨害行为",
+    "collocationOrDerivation": "nuisance-lawsuit filer 恶意骚扰碰瓷诉讼的诉棍；public nuisance 公共妨害",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "tort",
+    "word": "tort",
+    "ipa": "/tɔːrt/",
+    "pos": "n.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "民事侵权行为，民事侵权法（法律专业术语）",
+    "examMeaning": "民事侵权行为",
+    "collocationOrDerivation": "tort system 民事侵权体制；tort reform 侵权法改革",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "nightmare",
+    "word": "nightmare",
+    "ipa": "/ˈnaɪtmer/",
+    "pos": "n.",
+    "sourceLocation": "P2 S6",
+    "contextMeaning": "噩梦，可怕困境",
+    "examMeaning": "噩梦；可怕的经历",
+    "collocationOrDerivation": "a costly nightmare 昂贵的噩梦；living nightmare 活生生的噩梦",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "excessive",
+    "word": "excessive",
+    "ipa": "/ɪkˈsesɪv/",
+    "pos": "adj.",
+    "sourceLocation": "P3 S8",
+    "contextMeaning": "过多的，极度昂贵的",
+    "examMeaning": "过度的，过分的",
+    "collocationOrDerivation": "excessive costs 过高的成本；excess n. 过量",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "authorized",
+    "word": "authorized",
+    "ipa": "/ˈɔːθəraɪzd/",
+    "pos": "adj./v.",
+    "sourceLocation": "P3 S9",
+    "contextMeaning": "官方认证的，被授权认可的",
+    "examMeaning": "被批准的，被授权的",
+    "collocationOrDerivation": "authorized by the ABA 获得美律协认证的；authorize v. 授权",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "bar",
+    "word": "bar",
+    "ipa": "/bɑːr/",
+    "pos": "n.",
+    "sourceLocation": "P3 S9",
+    "contextMeaning": "律师行业，司法考试界（法律熟词僻义）",
+    "examMeaning": "律师界，律师资格考试；酒吧；障碍",
+    "collocationOrDerivation": "the bar exam 律师执业资格考试；pass the bar 通过律考；admitted to the bar 取得律师执业资格",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "debt",
+    "word": "debt",
+    "ipa": "/det/",
+    "pos": "n.",
+    "sourceLocation": "P3 S10",
+    "contextMeaning": "债务大山，欠款",
+    "examMeaning": "债务，欠款；恩情",
+    "collocationOrDerivation": "debt mountain 债务大山；in debt 负债累累",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "fearsomely",
+    "word": "fearsomely",
+    "ipa": "/ˈfɪrsəmli/",
+    "pos": "adv.",
+    "sourceLocation": "P3 S11",
+    "contextMeaning": "极其，可怕地，异常拼命地",
+    "examMeaning": "可怕地，极其地",
+    "collocationOrDerivation": "work fearsomely hard 极其拼命劳作；fearsome adj. 可怕的",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "sensible",
+    "word": "sensible",
+    "ipa": "/ˈsensəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S13",
+    "contextMeaning": "切合实际的，明智合理的",
+    "examMeaning": "明智的，通情达理的；切合实际的",
+    "collocationOrDerivation": "sensible ideas 明智合理的构想；sensibly adv. 明智地",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "conservative",
+    "word": "conservative",
+    "ipa": "/kənˈsɜːrvətɪv/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S13",
+    "contextMeaning": "思想保守的，守旧僵化的",
+    "examMeaning": "保守的，守旧的；保守派的",
+    "collocationOrDerivation": "too conservative to implement 过于保守以至于不愿实施；conservatism n. 保守主义",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "implement",
+    "word": "implement",
+    "ipa": "/ˈɪmplɪment/",
+    "pos": "v.",
+    "sourceLocation": "P4 S13",
+    "contextMeaning": "实施，执行，采纳推行",
+    "examMeaning": "实施，贯彻，执行；工具",
+    "collocationOrDerivation": "implement reforms 实施改革；implementation n. 落实",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "sit for",
+    "word": "sit for",
+    "ipa": "/sɪt fɔːr/",
+    "pos": "v. phr.",
+    "sourceLocation": "P4 S15",
+    "contextMeaning": "参加考试，应试（英联邦/专业熟词僻义）",
+    "examMeaning": "参加（考试）",
+    "collocationOrDerivation": "sit for the bar 参加律师资格考试；sit an examination 应考",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "stern",
+    "word": "stern",
+    "ipa": "/stɜːrn/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S16",
+    "contextMeaning": "严格的，严酷苛刻的",
+    "examMeaning": "严厉的，严格的；船尾",
+    "collocationOrDerivation": "a stern test 严格的考验；sternly adv. 严厉地",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "would-be",
+    "word": "would-be",
+    "ipa": "/ˈwʊd biː/",
+    "pos": "adj.",
+    "sourceLocation": "P4 S16",
+    "contextMeaning": "想要成为的，准（准律师）",
+    "examMeaning": "想要成为的，自命的",
+    "collocationOrDerivation": "a would-be lawyer 准律师/未来的律师",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "guild-like",
+    "word": "guild-like",
+    "ipa": "/ˈɡɪld laɪk/",
+    "pos": "adj.",
+    "sourceLocation": "P5 S18",
+    "contextMeaning": "中世纪行会式的，封闭垄断的",
+    "examMeaning": "行会式的，同业公会风格的",
+    "collocationOrDerivation": "guild-like ownership 行会式垄断所有权；guild n. 行业协会/中世纪行会",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "restrictive",
+    "word": "restrictive",
+    "ipa": "/rɪˈstrɪktɪv/",
+    "pos": "adj.",
+    "sourceLocation": "P5 S18",
+    "contextMeaning": "排他的，限制性的，约束性的",
+    "examMeaning": "限制性的，约束的",
+    "collocationOrDerivation": "restrictive practice 限制性排他做法；restrict v. 限制",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "isolate",
+    "word": "isolate",
+    "ipa": "/ˈaɪsəleɪt/",
+    "pos": "v.",
+    "sourceLocation": "P5 S21",
+    "contextMeaning": "使隔绝，使隔离远离",
+    "examMeaning": "使隔离，使孤立",
+    "collocationOrDerivation": "isolate sb. from pressure 使某人远离压力；isolated adj. 孤立的",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "ethically",
+    "word": "ethically",
+    "ipa": "/ˈeθɪkli/",
+    "pos": "adv.",
+    "sourceLocation": "P5 S21",
+    "contextMeaning": "合乎职业道德地",
+    "examMeaning": "合乎伦理道德地",
+    "collocationOrDerivation": "serve clients ethically 恪守职业伦理为当事人服务；ethical adj. 伦理道德的",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "efficiency",
+    "word": "efficiency",
+    "ipa": "/ɪˈfɪʃnsi/",
+    "pos": "n.",
+    "sourceLocation": "P6 S22",
+    "contextMeaning": "运营效率，效能",
+    "examMeaning": "效率，效能",
+    "collocationOrDerivation": "improving firms' efficiency 提升公司效率；efficient adj. 高效的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "liberalize",
+    "word": "liberalize",
+    "ipa": "/ˈlɪbrəlaɪz/",
+    "pos": "v.",
+    "sourceLocation": "P6 S23",
+    "contextMeaning": "放宽准入限制，推进自由化",
+    "examMeaning": "使自由化，放宽对...的限制",
+    "collocationOrDerivation": "liberalizing legal professions 放宽法律职业准入；liberalization n. 自由化",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2014-r-t2",
+    "surface": "hindrance",
+    "word": "hindrance",
+    "ipa": "/ˈhɪndrəns/",
+    "pos": "n.",
+    "sourceLocation": "Q28",
+    "contextMeaning": "阻碍，妨碍障碍",
+    "examMeaning": "阻碍，妨碍物",
+    "collocationOrDerivation": "hindrance to reform 改革的阻力；hinder v. 阻碍",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2014_t2.json",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8f3384809427cd5f19b3df04da10e1bb6918deef7bbba0d43f8e2abcc49932d8"
+    }
+  }
+]

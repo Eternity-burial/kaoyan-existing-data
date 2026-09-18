@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "Greg Rutkowski is a Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes.",
+    "translation": "格雷格·鲁特科夫斯基是一位享誉业界的波兰知名数字艺术家，擅长运用西方古典油画绘画风格来创作如梦似幻的史诗级奇幻风景画作。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "He has made illustrations for games such as Sony's Horizon Forbidden West, Ubisoft's Anno, Dungeons & Dragons, and Magic: The Gathering. And he's become a sudden hit in the new world of text-to-image AI generation.",
+    "translation": "他曾为索尼的《地平线：西之绝境》、育碧的《纪元》系列、《龙与地下城》以及《万智牌》等诸多顶级游戏大作绘制插画。而如今，他更是不可思议地在‘文本生成图像’（text-to-image）的全新人工智能生成领域中一夜爆红成为顶流现象级人物！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion, which was launched late last month.",
+    "translation": "在他那独树一帜的鲜明艺术画风引领下，他的名字如今已成为上个月底刚刚重磅发布的全新开源 AI 艺术生成器 Stable Diffusion 中使用最频繁的高频提示词（prompts）之一（popular with users of an AI art generator）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The tool, along with other popular image-generation AI models, allows anyone to create impressive images based on text prompts. For example, type in \"Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,\" and the system will produce something that looks not a million miles away from works in Rutkowski's style.",
+    "translation": "该工具与其他流行的图像生成 AI 模型一样，允许任何普通人仅凭简单的文本提示词就能生成令人惊叹的精美图像。例如，只要输入“手持宝剑与发光魔法火球的巫师与恶龙搏斗，格雷格·鲁特科夫斯基风格”，系统就会瞬间生成一副与鲁特科夫斯基本人原作风格几乎毫无二致的惊艳画作。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "But these open-source programs are built by scraping images from the Internet, often without permission and proper attribution to artists. As a result, they are raising tricky questions about ethics and copyright. And artists like Rutkowski have had enough.",
+    "translation": "然而，这些开源 AI 程序的底层训练数据库，全部是通过从互联网络上大肆肆意抓取图片所构建起来的——而且往往根本没有获得原作者的许可，更没有给予艺术家应有的署名权（make unauthorized use of online images / scraping without permission）。因此，它们正在引发极其棘手的学术伦理与侵犯版权法律危机。而像鲁特科夫斯基这样的原创艺术家们，对此早已彻底忍无可忍（had enough）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "According to the website Lexica, which tracks over 10 million images and prompts generated by Stable Diffusion, Rutkowski's name has been used as a prompt around 93,000 times.",
+    "translation": "据专门追踪 Stable Diffusion 所生成的超1000万张图像及提示词的专业网站 Lexica 统计显示，鲁特科夫斯基的名字已被作为生成提示词疯狂调用了大约整整9.3万次之多！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Some of the world's most famous artists, such as Michelangelo, Pablo Picasso, and Leonardo da Vinci, brought up around 2,000 prompts each or less. Rutkowski's name also features as a prompt thousands of times in the Discord of another text-to-image generator, Midjourney.",
+    "translation": "相比之下，包括米开朗基罗、巴勃罗·毕加索以及列奥纳多·达·芬奇在内的若干全球最顶尖艺术大师，各自被调用的提示词次数却仅有2000次左右甚至更少。在另一款热门文生图 AI 工具 Midjourney 的官方社区中，鲁特科夫斯基的名字同样被作为提示词使用了数千次之多。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Rutkowski was initially surprised but thought it might be a good way to reach new audiences. Then he tried searching for his name to see if a piece he had worked on had been published. The online search brought back work that had his name attached to it but wasn't his.",
+    "translation": "鲁特科夫斯基起初深感诧异，但一度天真地以为这或许是触达全新受众的良好契机。然而随后当他在搜索引擎中输入自己的名字、试图查看自己参与的一部作品是否已公开发表时，网络搜索结果却铺天盖地地返回了大量赫然冠以他本人的大名、但根本不是他本人所创作的劣质 AI 冒牌画作（AI-generated work bearing his name）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "\"It's been just a month. What about in a year? I probably won't be able to find my work out there because [the internet] will be flooded with AI art,\" Rutkowski says. \"That's concerning.\"",
+    "translation": "“现在才刚刚过去短短一个月。那一年之后又会变成怎样？届时我恐怕在网上连自己的真实作品都根本搜寻不到了，因为整个互联网都将被泛滥成灾的 AI 仿造艺术画作彻底淹没，”鲁特科夫斯基心有余悸地表示，“这真是令人不寒而栗的严重担忧。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "\"There is a coalition growing within artist industries to figure out how to tackle or mitigate this,\" says Ortiz. The group is in its early days of mobilization, which could involve pushing for new policies or regulations.",
+    "translation": "“艺术创意产业内部正在迅速组建起一个广泛的联合同盟，以共同探讨如何坚决应对或有效遏制这一侵权危机，”插画家奥尔蒂斯表示。该联盟目前正处于初期动员阶段，其核心行动将涵盖积极推动政府出台全新的版权监管政策或法律法规。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2024-r-t3",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+    "translation": "奥尔蒂斯指出，一个极具建设性的合规建议是：AI 模型未来应当仅仅基于‘公有领域’（public domain，即无版权限制）的合法图像来进行训练学习，同时 AI 科技公司应当主动与各大博物馆以及原创艺术家们建立起正规授权的商业合作共赢伙伴关系（adopt a different strategy for AI model training）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2024_t3.json",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:7a71718005a53b011ca8cf5a9408d9df1f75598118702af6f8c8d5ca45963d57"
+    }
+  }
+]

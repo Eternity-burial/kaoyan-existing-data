@@ -1,0 +1,766 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "Priestly criticizes her assistant for her _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "lack of imagination.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "断章取义与字面陷阱。原文为 for imagining that high fashion doesn't affect her，imagining 在此是‘以为、自以为’之意，选项偷换概念拼凑成‘缺乏想象力（lack of imagination）’。",
+        "vocab": [
+          {
+            "word": "fashion",
+            "ipa": "[ˈfæʃ(ə)n]",
+            "meaning": "时尚",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "poor bargaining skill.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。首段末尾虽提到衣服来自 bargain bin（特价处理区），但这只是说明衣服是通过逐级降价流通后购买的折价商品，从未提及助理个人的讨价还价技能好坏。"
+      },
+      {
+        "key": "C",
+        "text": "obsession with high fashion.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。助理认为高级时尚与自己毫不相干（doesn't affect her），是对时尚毫不关心甚至排斥，选项却说其‘对高级时尚痴迷（obsession）’，与文意完全相悖。",
+        "vocab": [
+          {
+            "word": "obsession",
+            "ipa": "[əbˈseʃn]",
+            "meaning": "痴迷",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "fashion",
+            "ipa": "[ˈfæʃ(ə)n]",
+            "meaning": "时尚",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "insensitivity to fashion.",
+        "isCorrect": true,
+        "analysis": "定位至首段 S1：“Priestly ... scolds her unattractive assistant for imagining that high fashion doesn't affect her.” 助理自以为高级时装影响不到自己，因而遭到训斥，说明她对时尚的存在及其无孔不入的影响力麻木不仁、毫无感知，insensitivity to fashion 正是 imagining that high fashion doesn't affect her 的精准同义替换。",
+        "vocab": [
+          {
+            "word": "lack",
+            "ipa": "[læk]",
+            "meaning": "缺乏",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "imagination",
+            "ipa": "[ɪˌmædʒɪˈneɪʃ(ə)n]",
+            "meaning": "想象力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "insensitivity to fashion": "imagining that high fashion doesn't affect her (以为高级时装影响不到她 -> 对时尚毫无敏感感知/钝感)"
+    },
+    "methodologyReview": "首段细节定点题。考研命题极擅长考查‘熟词僻义与从句同义概括’。for imagining that high fashion doesn't affect her 中的 imagine 为‘自以为’，概括其心理本质即为对时尚的‘钝感与不自知（insensitivity）’。干扰项设置典型地采用了词面拼凑（imagination）与正反颠倒（obsession）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "criticizes",
+          "ipa": "",
+          "meaning": "因…批评…",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "According to Cline, mass-market labels urge consumers to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "combat unnecessary waste.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。快时尚品牌制造了严重的资源浪费，第二段末与后文均指出其模式实质是加剧浪费，而非‘抗击不必要的浪费’。",
+        "vocab": [
+          {
+            "word": "combat",
+            "ipa": "[ˈkɒmbæt]",
+            "meaning": "防止",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "shop for their garments more frequently.",
+        "isCorrect": true,
+        "analysis": "定位至第二段 S6：“These labels encourage style-conscious consumers to see clothes as disposable ... and to renew their wardrobe every few weeks.” 品牌鼓励消费者将衣服视作一次性用品并每隔数周就更新衣柜，这与‘更加频繁地采购服装（shop for garments more frequently）’构成精准同义改写。",
+        "vocab": [
+          {
+            "word": "garments",
+            "ipa": "",
+            "meaning": "服装",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "resist the influence of advertisements.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。原文提到 although they don't advertise that（尽管品牌不会给衣服只能洗一两次就扔做广告），但并未提及‘敦促消费者抵制广告影响’。",
+        "vocab": [
+          {
+            "word": "resist",
+            "ipa": "[rɪˈzɪst]",
+            "meaning": "抵制",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "influence",
+            "ipa": "[ˈɪnfluəns]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "shut out the feverish fashion world.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "张冠李戴。feverish world 是克莱恩用来描述快时尚行业那种狂热加速的失控状态，大众品牌拼命吸引消费者卷入其中，绝非敦促消费者将其‘拒之门外（shut out）’。",
+        "vocab": [
+          {
+            "word": "shut",
+            "ipa": "[ʃʌt]",
+            "meaning": "把…排斥在外",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "fashion",
+            "ipa": "[ˈfæʃ(ə)n]",
+            "meaning": "时尚界",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "shop for their garments more frequently": "renew their wardrobe every few weeks (每隔几周更新一次衣橱 -> 更频繁地购买服装)"
+    },
+    "methodologyReview": "细节事实题。直接考查动词短语的替换：renew their wardrobe every few weeks 替换为 shop for garments more frequently。抓住动作主体（These labels encourage ...）与宾语（consumers to renew ...）即可快速锁定正确项。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "labels",
+          "ipa": "",
+          "meaning": "品牌",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "urge",
+          "ipa": "[ɜːdʒ]",
+          "meaning": "敦促",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "The word \"indictment\" (Line 3, Para. 2) is closest in meaning to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "accusation.",
+        "isCorrect": true,
+        "analysis": "定位第二段 S3：“Overdressed, Elizabeth Cline's three-year indictment of 'fast fashion'”。结合全篇语境，全书围绕快时尚压榨劳工、破坏生态、挥霍资源的黑暗面展开，书名即为揭露其恶果，因此作者历时三年的专著是对快时尚的‘严正控诉/谴责’，accusation（控告、指责）在词义和褒贬情感色彩上完全吻合。",
+        "vocab": [
+          {
+            "word": "accusation",
+            "ipa": "[ˌækjuˈzeɪʃn]",
+            "meaning": "控诉",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "enthusiasm.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "情感色彩相悖。enthusiasm（热情）为正面积极词汇，而全书通篇是对快时尚破坏性的批判控诉。",
+        "vocab": [
+          {
+            "word": "enthusiasm",
+            "ipa": "[ɪnˈθjuːziæzəm]",
+            "meaning": "热情",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "indifference.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "情感色彩偏离。indifference（冷漠/漠不关心）是中立冷淡态度，无法体现历时三年调查成书所饱含的强烈批判与抨击立场。",
+        "vocab": [
+          {
+            "word": "indifference",
+            "ipa": "[ɪnˈdɪfrəns]",
+            "meaning": "冷漠",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "tolerance.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。tolerance（容忍、宽容）与控诉揭露背道而驰。",
+        "vocab": [
+          {
+            "word": "tolerance",
+            "ipa": "[ˈtɒlərəns]",
+            "meaning": "宽容",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "VOCAB",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "indictment": "accusation (控告、沉痛谴责)"
+    },
+    "methodologyReview": "词汇推断题。解答考研词汇题关键看‘上下文感情色彩与逻辑主线’。全书是 consumer-activist bestseller，痛陈快时尚罪状，定语修饰 three-year indictment of 'fast fashion' 显然充斥着强烈的批判谴责基调，唯有 accusation（谴责/控告）符合题意。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "D",
+          "B": "C",
+          "C": "B",
+          "D": "A"
+        },
+        "source": "英语一_2013_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "Which of the following can be inferred from the last paragraph?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Vanity has more often been found in idealists.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念与张冠李戴。尾段提到克莱恩身上有倡导者的‘理想主义（idealism）’，而‘虚荣是大众的恒常本性（Vanity is a constant）’，并未断言理想主义者往往更虚荣。",
+        "vocab": [
+          {
+            "word": "Vanity",
+            "ipa": "[ˈvænəti]",
+            "meaning": "虚荣",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "The fast-fashion industry ignores sustainability.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "与原文反向矛盾。末段首句明确提到‘several fast-fashion companies have made efforts to curb their impact on labor and the environment — including H&M, with its Conscious Collection line’，说明快时尚产业并未完全忽视可持续性（虽然这种努力被认为是局部的）。",
+        "vocab": [
+          {
+            "word": "fast-fashion",
+            "ipa": "",
+            "meaning": "快时尚产业",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Pricing is vital to environment-friendly purchasing.",
+        "isCorrect": true,
+        "analysis": "定位至尾段末句：“Vanity is a constant; people will only start shopping more sustainably when they can't afford not to.” 意为只要大众钱包还能承受，虚荣心就会驱使他们继续买便宜快时尚；只有当不环保的代价高昂到让人‘承受不起（afford not to）’时，大众才会真正转向可持续购物。这有力推导出了价格/成本杠杆对环境友好型消费至关重要（Pricing is vital to environment-friendly purchasing）。",
+        "vocab": [
+          {
+            "word": "vital",
+            "ipa": "[ˈvaɪt(ə)l]",
+            "meaning": "重要的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "purchasing",
+            "ipa": "",
+            "meaning": "购买",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "People are more interested in unaffordable garments.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。原文强调大众热爱的是‘dirt-cheap’的时髦快时尚，末句 can't afford not to 是双重否定句式，选项望文生义歪曲成了‘对买不起的高价衣服更感兴趣’。",
+        "vocab": [
+          {
+            "word": "more",
+            "ipa": "[mɔː(r)]",
+            "meaning": "对…感兴趣",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "garments",
+            "ipa": "",
+            "meaning": "服装",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Pricing is vital to environment-friendly purchasing": "people will only start shopping more sustainably when they can't afford not to (当人们承受不起不可持续消费时才会环保消费 -> 价格机制是驱动环保消费的关键)"
+    },
+    "methodologyReview": "末段深度推断题。难点在于对双重否定句式 ‘when they can't afford not to’ 的透彻领悟。afford 既指经济支付能力，也暗含生态与个人代价承受力。大众只有在‘买便宜货所付出的代价大到承受不起’时才转向环保，反推可知‘价格/成本因素（Pricing）’正是制约或驱动绿色环保消费的核心命门。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "inferred",
+          "ipa": "",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "What is the subject of the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Satire on an extravagant lifestyle.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。首段提及电影《穿普拉达的女魔头》仅仅是引子，借以引出传统高级时装体系与当今快时尚的区别，全文核心并非讽刺奢靡生活。",
+        "vocab": [
+          {
+            "word": "Satire",
+            "ipa": "[ˈsætaɪə(r)]",
+            "meaning": "讽刺",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "extravagant",
+            "ipa": "[ɪkˈstrævəɡənt]",
+            "meaning": "奢侈的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Challenge to a high-fashion myth.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "断章取义。虽然第二段提到传统自上而下的时装观念过时，但后文重心全然聚焦于‘快时尚’大众平价品牌的运作方式与生态危害，并非探讨高端时尚神话。",
+        "vocab": [
+          {
+            "word": "Challenge",
+            "ipa": "[ˈtʃælɪndʒ]",
+            "meaning": "挑战",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "myth",
+            "ipa": "[mɪθ]",
+            "meaning": "神话，错误观念",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "Criticism of the fast-fashion industry.",
+        "isCorrect": true,
+        "analysis": "主旨概括题。全文借克莱恩的专著《Overdressed》，开篇指出快时尚打破传统周期，继而深入剖析其压榨廉价劳力、耗竭自然资源、滥用化学品、诱导一次性浪费等黑暗内幕，最后指出其环保转型的艰难困境，全篇通篇皆是对快时尚产业的严厉揭露与深刻批判（Criticism of the fast-fashion industry）。",
+        "vocab": [
+          {
+            "word": "Criticism",
+            "ipa": "[ˈkrɪtɪsɪzəm]",
+            "meaning": "批评",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Exposure of a mass-market secret.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意与轻描淡写。快时尚模式并非不可告人的‘商业机密（secret）’，作者立意高度在于对该产业带来的生态伦理灾难与过度消费主义发起严肃的社会批判，用 secret 弱化了文章的严肃批判性。",
+        "vocab": [
+          {
+            "word": "Exposure",
+            "ipa": "[ɪkˈspəʊʒə(r)]",
+            "meaning": "暴露",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Criticism of the fast-fashion industry": "全文贯穿对快时尚（fast fashion）廉价劳工剥削、资源耗竭、有毒污染、过度丢弃与商业模式的全面抨击"
+    },
+    "methodologyReview": "主旨大意题。统揽全文框架：引子（传统时装被快时尚颠覆）-> 核心论点（快时尚商业模式：敏捷供应链与低价诱导）-> 沉痛代价（受害者：劳工、资源、化学污染）-> 类比深化（快餐式服装的短命与暴买）-> 现实困境（虚荣与成本制约环保）。主线即为 Fast Fashion，态度即为 Criticism，二者结合即得正确答案。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2013_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2013_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t1.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:1c8a1e12f66cfd5bf6c78aa2a932d31d3832586f528c82f23b7646ea1d077e37"
+    }
+  }
+]

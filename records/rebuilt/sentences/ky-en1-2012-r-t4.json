@@ -1,0 +1,1046 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants.",
+    "translation": "如果工会领袖吉米·霍法今天还活着，他很可能会代表公务员群体。",
+    "syntaxAnalysis": {
+      "structureType": "虚拟语气条件复合句 (对现在情况的假设)",
+      "mainClause": "he would probably represent civil servants",
+      "subordinateClauses": [
+        "条件从句: If the trade unionist Jimmy Hoffa were alive today"
+      ],
+      "corePattern": "If sb were alive today, he would probably represent..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.",
+    "translation": "1960年霍法领导的卡车司机工会正处于鼎盛时期，当时美国政府雇员中只有十分之一加入了工会；如今这一比例已达36%。",
+    "syntaxAnalysis": {
+      "structureType": "主从对比复合句 (时间状语从句 + 分号连接时间对比分句)",
+      "mainClause": "only one in ten American government workers belonged to a union; now 36% do",
+      "subordinateClauses": [
+        "时间状语从句: When Hoffa's Teamsters were in their prime in 1960",
+        "代动词省略: now 36% do (do = belong to a union)"
+      ],
+      "corePattern": "in their prime / only one in ten belonged to a union; now ... do"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "In 2009 the number of unionists in America's public sector passed that of their fellow members in the private sector.",
+    "translation": "2009年，美国公共部门的工会会员人数超过了私营部门的工会会员人数。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 (that替代前面出现的单数名词以避免重复)",
+      "mainClause": "the number of unionists in America's public sector passed that of their fellow members in the private sector",
+      "subordinateClauses": [
+        "代词替代: that = the number"
+      ],
+      "corePattern": "the number in public sector passed that in private sector"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "In Britain, more than half of public sector workers but only about 15% of private sector ones are unionized.",
+    "translation": "在英国，公共部门半数以上的员工都加入了工会，而私营部门加入工会的比例只有约15%。",
+    "syntaxAnalysis": {
+      "structureType": "主系表转折并列句 (ones代替复数名词workers)",
+      "mainClause": "more than half of public sector workers but only about 15% of private sector ones are unionized",
+      "subordinateClauses": [],
+      "corePattern": "more than half of ... but only ... are unionized"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        36
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "There are three reasons for the public sector unions' thriving.",
+    "translation": "公共部门工会之所以蓬勃发展，有三方面原因。",
+    "syntaxAnalysis": {
+      "structureType": "There be 倒装总起句",
+      "mainClause": "There are three reasons for the public sector unions' thriving",
+      "subordinateClauses": [],
+      "corePattern": "There are three reasons for..."
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "First, they can shut things down without suffering much in the way of consequences.",
+    "translation": "第一，他们可以让工作停摆，而自身几乎不必承担什么后果。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合短语简单句 (介词短语作伴随状语)",
+      "mainClause": "they can shut things down",
+      "subordinateClauses": [
+        "介词伴随状语: without suffering much in the way of consequences"
+      ],
+      "corePattern": "shut things down / without suffering much in the way of consequences"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Second, they are mostly bright and well-educated.",
+    "translation": "第二，他们大多头脑聪明、受过良好教育。",
+    "syntaxAnalysis": {
+      "structureType": "主系表并列形容词简单句",
+      "mainClause": "they are mostly bright and well-educated",
+      "subordinateClauses": [],
+      "corePattern": "bright and well-educated"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "A quarter of America's public sector workers have a university degree.",
+    "translation": "美国公共部门员工中有四分之一拥有大学学历。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句",
+      "mainClause": "A quarter of America's public sector workers have a university degree",
+      "subordinateClauses": [],
+      "corePattern": "have a university degree"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "Third, they now dominate left-of-centre politics.",
+    "translation": "第三，他们如今主导着中左翼政治。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句",
+      "mainClause": "they now dominate left-of-centre politics",
+      "subordinateClauses": [],
+      "corePattern": "dominate left-of-centre politics"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 6,
+      "ps": "P2-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P2-S6",
+      "pIndex": 2
+    },
+    "text": "Some of their ties go back a long way.",
+    "translation": "他们之间的一些关联可以追溯到很久以前。",
+    "syntaxAnalysis": {
+      "structureType": "主谓动词短语简单句",
+      "mainClause": "Some of their ties go back a long way",
+      "subordinateClauses": [],
+      "corePattern": "ties go back a long way"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 7,
+      "ps": "P2-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P2-S7",
+      "pIndex": 2
+    },
+    "text": "Britain's Labor Party, as its name implies, has long been associated with trade unionism.",
+    "translation": "英国工党正如其名称所暗示的那样，长期以来一直与工会运动关系密切。",
+    "syntaxAnalysis": {
+      "structureType": "主谓被动复合句 (插入语 as its name implies)",
+      "mainClause": "Britain's Labor Party has long been associated with trade unionism",
+      "subordinateClauses": [
+        "插入语: as its name implies"
+      ],
+      "corePattern": "be associated with trade unionism"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 8,
+      "ps": "P2-S8"
+    },
+    "sourceLocator": {
+      "sIndex": 8,
+      "id": "P2-S8",
+      "pIndex": 2
+    },
+    "text": "Its current leader, Ed Miliband, owes his position to votes from public sector unions.",
+    "translation": "工党现任领袖埃德·米利班德能坐上这个位置，靠的正是公共部门工会的选票。",
+    "syntaxAnalysis": {
+      "structureType": "主谓双宾复合句 (同位语修饰主语 + owe A to B)",
+      "mainClause": "Its current leader owes his position to votes from public sector unions",
+      "subordinateClauses": [
+        "同位语: Ed Miliband"
+      ],
+      "corePattern": "owe one's position to votes from..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        37
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "At the state level their influence can be even more fearsome.",
+    "translation": "在州一级，工会的影响力甚至更为可怕。",
+    "syntaxAnalysis": {
+      "structureType": "主系表比较简单句 (感情色彩形容词 fearsome)",
+      "mainClause": "their influence can be even more fearsome",
+      "subordinateClauses": [],
+      "corePattern": "influence can be even more fearsome"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Mark Baldassare of the Public Policy Institute of California points out that much of the state's budget is patrolled by unions.",
+    "translation": "加州公共政策研究所的马克·巴尔达萨雷指出，加州预算中相当大的一部分都处在工会的监控之下。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (that宾语从句 + 被动语态)",
+      "mainClause": "Mark Baldassare points out that...",
+      "subordinateClauses": [
+        "介词短语修饰人名: of the Public Policy Institute of California",
+        "宾语从句: much of the state's budget is patrolled by unions"
+      ],
+      "corePattern": "budget is patrolled by unions"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "The teachers' unions keep an eye on schools, the CCPOA on prisons and a variety of labor groups on health care.",
+    "translation": "教师工会密切关注学校，加利福尼亚州惩教执法人员协会（CCPOA）密切关注监狱，而各种劳工团体则密切关注医疗保健领域。",
+    "syntaxAnalysis": {
+      "structureType": "排比省略句 (后两分句省略共同谓语动词短语 keep an eye on)",
+      "mainClause": "The teachers' unions keep an eye on schools, the CCPOA [keeps an eye] on prisons and a variety of labor groups [keep an eye] on health care",
+      "subordinateClauses": [],
+      "corePattern": "keep an eye on schools / on prisons / on health care"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "In many rich countries average wages in the state sector are higher than in the private one.",
+    "translation": "在许多富裕国家，公共部门的平均工资高于私营部门。",
+    "syntaxAnalysis": {
+      "structureType": "主系表比较简单句 (one 代指 sector)",
+      "mainClause": "average wages in the state sector are higher than in the private one",
+      "subordinateClauses": [],
+      "corePattern": "average wages are higher than..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "But the real gains come in benefits and work practices.",
+    "translation": "但真正的实惠体现在福利待遇和工作方式上。",
+    "syntaxAnalysis": {
+      "structureType": "转折主谓简单句",
+      "mainClause": "the real gains come in benefits and work practices",
+      "subordinateClauses": [],
+      "corePattern": "the real gains come in benefits and work practices"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Politicians have repeatedly \"backloaded\" public sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.",
+    "translation": "政客们一再将公共部门的薪酬协议“后置”：一方面把工资涨幅控制在较低水平，另一方面却增加休假福利，尤其是本已相当优厚的养老金待遇。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (现在分词并列伴随状语 + 定语从句)",
+      "mainClause": "Politicians have repeatedly \"backloaded\" public sector pay deals",
+      "subordinateClauses": [
+        "伴随状语1: keeping the pay increases modest",
+        "伴随状语2: but adding to holidays and especially pensions",
+        "定语从句修饰pensions: that are already generous"
+      ],
+      "corePattern": "backload pay deals / keeping pay increases modest but adding to holidays and pensions"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        38
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.",
+    "translation": "改革一直遭到强烈反对，其中教育领域的情况或许最为臭名昭著——特许学校、学院制学校和绩效工资无一不遭遇了旷日持久的拉锯战。",
+    "syntaxAnalysis": {
+      "structureType": "主谓被动复合句 (介词短语修饰 + where引导非限制性定语从句)",
+      "mainClause": "Reform has been vigorously opposed, perhaps most notoriously in education",
+      "subordinateClauses": [
+        "定语从句修饰education: where charter schools, academies and merit pay all faced drawn-out battles"
+      ],
+      "corePattern": "reform has been vigorously opposed / faced drawn-out battles"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones.",
+    "translation": "尽管有大量证据表明教师素质是最重要的变量，但教师工会仍极力反对淘汰不称职者、提拔优秀者。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (even though让步状语从句 + that同位语从句 + 动名词并列作介词宾语)",
+      "mainClause": "teachers' unions have fought against getting rid of bad ones and promoting good ones",
+      "subordinateClauses": [
+        "让步状语从句: Even though there is plenty of evidence...",
+        "同位语从句解释evidence: that the quality of the teachers is the most important variable"
+      ],
+      "corePattern": "fight against getting rid of bad ones and promoting good ones"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "As the cost to everyone else has become clearer, politicians have begun to clamp down.",
+    "translation": "随着其他人为此付出的代价日益显现，政客们开始出手加以约束。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句 (as时间/原因状语从句)",
+      "mainClause": "politicians have begun to clamp down",
+      "subordinateClauses": [
+        "状语从句: As the cost to everyone else has become clearer"
+      ],
+      "corePattern": "cost has become clearer / politicians clamp down"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "In Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.",
+    "translation": "在威斯康星州，工会已经动员起数千名支持者，反对该州立场强硬的共和党州长斯科特·沃克。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (同位语修饰人名)",
+      "mainClause": "the unions have rallied thousands of supporters against Scott Walker",
+      "subordinateClauses": [
+        "同位语: the hardline Republican governor"
+      ],
+      "corePattern": "rally thousands of supporters against..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        39
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "But many within the public sector suffer under the current system, too.",
+    "translation": "但公共部门内部也有许多人在现行体制下备受其苦。",
+    "syntaxAnalysis": {
+      "structureType": "转折简单句 (介词短语作后置定语)",
+      "mainClause": "many within the public sector suffer under the current system, too",
+      "subordinateClauses": [],
+      "corePattern": "suffer under the current system"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers.",
+    "translation": "哈佛大学肯尼迪政府学院的约翰·多纳休指出，西方公务员系统的文化规范适合那些想安于原位的人，却不利于业绩出众者。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 (that宾语从句包含并列谓语 + 定语从句)",
+      "mainClause": "John Donahue points out that...",
+      "subordinateClauses": [
+        "宾语从句主干: the norms of culture in Western civil services suit those ... but is bad for high achievers",
+        "定语从句修饰those: who want to stay put"
+      ],
+      "corePattern": "suit those who want to stay put but is bad for high achievers"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P7-S2",
+      "pIndex": 7
+    },
+    "text": "The only American public sector workers who earn well above $250,000 a year are university sports coaches and the president of the United States.",
+    "translation": "在美国公共部门员工中，年收入远超25万美元的只有大学体育教练和美国总统。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 (定语从句修饰workers)",
+      "mainClause": "The only American public sector workers are university sports coaches and the president of the United States",
+      "subordinateClauses": [
+        "定语从句: who earn well above $250,000 a year"
+      ],
+      "corePattern": "The only workers who earn well above ... are ..."
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isLongDifficult": false,
+      "targetForQuestions": [
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2012-r-t4",
+    "location": {
+      "paragraph": 7,
+      "sentence": 3,
+      "ps": "P7-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P7-S3",
+      "pIndex": 7
+    },
+    "text": "Bankers' fat pay packets have attracted much criticism, but a public sector system that does not reward high achievers may be a much bigger problem for America.",
+    "translation": "银行家的丰厚薪酬招致了大量批评，但一个不奖励业绩出众者的公共部门体制，可能才是美国面临的更大问题。",
+    "syntaxAnalysis": {
+      "structureType": "转折并列复合句 (but连接两分句 + 定语从句修饰system)",
+      "mainClause": "Bankers' fat pay packets have attracted much criticism, but a public sector system may be a much bigger problem for America",
+      "subordinateClauses": [
+        "定语从句: that does not reward high achievers"
+      ],
+      "corePattern": "fat pay packets attracted criticism, but a system that does not reward high achievers may be a much bigger problem"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isLongDifficult": true,
+      "targetForQuestions": [
+        40
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2012_t4.json",
+      "year": 2012,
+      "articleKey": "ky-en1-2012-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:3f6eff1d06e7093d4764d590360ff2af1edeb31a2816b5b1fd3a32ed0888c732"
+    }
+  }
+]

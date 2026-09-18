@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2015-r-t4",
+  "year": 2015,
+  "textNumber": 4,
+  "title": "The Dearth of Integrity and the Corporate Moral Collapse in the Phone Hacking Scandal",
+  "chineseTitle": "英国电话窃听丑闻背后的诚信缺失与企业道德崩塌",
+  "topic": null,
+  "topicDomain": "商业伦理与新闻媒体",
+  "subTopic": "默多克传媒帝国窃听丑闻案、利润至上分选机制带来的价值观扭曲与报业编辑道德沦丧反思",
+  "overview": null,
+  "wordCount": 420,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.2/5.0",
+  "sourcePublication": "选自 The Guardian (《卫报》) 专栏社论《The News of the World phone hacking trial shows the dearth of moral purpose across our institutions》",
+  "paragraphCount": 6,
+  "sentenceCount": 18,
+  "vocabularyCount": 76,
+  "phraseCount": 20,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "2011年，世界著名传媒巨头鲁伯特·默多克（Rupert Murdoch）旗下的英国百年畅销报纸《世界新闻报》（News of the World）被爆出震惊全球的“电话窃听门”丑闻——该报雇佣私家侦探与记者，对包括英国王室、政客、各界名流乃至被谋杀失踪少女米莉·道勒（Milly Dowler）及其家属在内多达5,500人的手机语音信箱进行非法侵入和窃听。丑闻导致这家发行168年的报纸被迫关停。2014年，长达数年的刑事审判尘埃落定：前主编安迪·库尔森（Andy Coulson）被判串谋窃听罪名成立，而默多克的爱将、前首席执行官兼前主编丽贝卡·布鲁克斯（Rebekah Brooks）却凭借“我对编辑部内发生的一切一无所知”的惊人辩词被判无罪免罪。这起世纪大审判引发了英国社会的极度愤怒与深刻反省。默多克亲生女儿伊丽莎白在一次公开演讲中直斥企业界“令人不安的诚信缺失”。作者借此深度反思新自由主义资本主义三十年来的痼疾：全社会沉迷于将“利润和市场”作为唯一资源配置与评价分选机制（sorting mechanism），将效率、发行量、股东利益捧为圭臬，而将正义、公平、同情与责任边缘化，导致高管只享受高薪却免于问责，新闻媒体沦为践踏人性、攫取发行量的杀人机器。",
+      "coreDisputeOrTheme": "核心主题在于反思资本主义社会中“利润至上（profit-driven）”的分选机制如何从根本上腐蚀了现代机构的道德操守（integrity）。文章尖锐抨击了高管凭借“不知情”免责的荒谬现状，呼吁新闻媒体必须找回良知与道德责任，不再为追求轰动效应与发行量而践踏共同人性。",
+      "keyTerminology": [
+        {
+          "term": "Phone Hacking Scandal",
+          "explanation": "电话窃听门丑闻：2011年英国《世界新闻报》非法窃听包括受害少女、王室在内数千人手机语音信箱引发的世纪媒体丑闻。"
+        },
+        {
+          "term": "Dearth of Integrity",
+          "explanation": "诚信缺失/正直操守匮乏：形容在拜金主义浸染下，媒体、企业与政府机构放弃道德底线与社会责任的制度性溃败。"
+        },
+        {
+          "term": "Sorting Mechanism",
+          "explanation": "社会分选机制：社会用于评判优劣成败、分配权力资本的核心评价标准与指挥棒。"
+        },
+        {
+          "term": "News International",
+          "explanation": "新闻国际公司：默多克新闻集团在英国的报业子公司，曾统领《泰晤士报》、《太阳报》与《世界新闻报》。"
+        },
+        {
+          "term": "Rebekah Brooks",
+          "explanation": "丽贝卡·布鲁克斯：默多克亲信、前《世界新闻报》主编，在窃听审判中声称对下属犯罪“毫不知情”而侥幸脱罪。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "商业伦理、新闻传媒与企业治理 (Business Ethics, Journalism & Corporate Governance)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "dis- / un- (否定前缀)",
+          "examples": [
+            "unsettling (令人不安的)",
+            "distorted (扭曲的)"
+          ]
+        },
+        {
+          "affix": "-ability / -ity (名词后缀)",
+          "examples": [
+            "integrity (诚信正直)",
+            "proportionality (适度均衡)",
+            "accountability (问责制)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "商业操守与道德沦丧",
+          "words": [
+            "integrity",
+            "dearth of moral purpose",
+            "wound",
+            "ruin lives",
+            "distorted values"
+          ]
+        },
+        {
+          "theme": "市场逻辑与新自由主义",
+          "words": [
+            "sorting mechanism",
+            "collective doctrine",
+            "efficiency",
+            "shareholder value",
+            "circulation"
+          ]
+        },
+        {
+          "theme": "司法审判与企业问责",
+          "words": [
+            "hacking trial",
+            "conspire",
+            "predecessor",
+            "defence",
+            "accountable",
+            "traceable"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2015.js",
+    "year": 2015,
+    "articleKey": "ky-en1-2015-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:2933e22670ec34f103e6324ece4f9a6337630312b12adb5e07bcbc310ec448cb"
+  }
+}

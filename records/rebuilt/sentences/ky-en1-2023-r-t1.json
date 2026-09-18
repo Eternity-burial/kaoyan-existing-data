@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The weather in Texas may have cooled since the recent extreme heat, but the temperature will be high at the State Board of Education meeting in Austin this month as officials debate how climate change is taught in Texas schools.",
+    "translation": "自近期肆虐的极端高温天气过后，得克萨斯州的气温或许已有所回落；然而本月在奥斯汀举行的州教育部委员会会议上，现场火药味十足的“热度”必将空前高涨（indicate the atmosphere at the board meeting）——因为官员们正就得州各级中小学如何开展气候变化教学展开极其激烈的政治与学术辩论。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes to science standards for pre-teen pupils.",
+    "translation": "思想立场偏向能源巨头利益诉求的教委会委员帕特·哈迪，正极力抵制针对青少年前期学生修改科学课程教学标准的改革提案。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "\"There are as many scientists working against all the panic of global climate change as there are those who are pushing it,\" she claims, \"Texas is an energy state and we need to recognise that. You need to remember where your bread is buttered.\"",
+    "translation": "“反对全球气候变化恐慌情绪的科学家，和极力鼓吹这种恐慌的科学家一样多，”她强词夺理地宣称，“得克萨斯是一个不折不扣的传统能源大州，我们必须清醒认清这一事实。人总得明白自己的饭碗到底是谁给的（要认清自身根本利益所在）。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Most scientists and experts sharply dispute Hardy's views.",
+    "translation": "绝大多数科学家与教育权威专家对哈迪的荒谬言论予以了极其严厉的驳斥争辩。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Board members like her \"casually dismiss the career work of scholars and scientists as just another misguided opinion,\" says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education.",
+    "translation": "“像她这样的教委会委员，竟然极其轻率随意地将广大科学家和学者毕生的科研心血全盘贬低否定为‘又一种被误导的片面观点’（denies the value of scientific work / casually dismiss career work），”得州公共教育监督非营利组织‘得克萨斯自由网络’的高级传播战略官丹·奎因愤怒指出。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Such debates reflect fierce discussions across the US, as researchers, policymakers, teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools.",
+    "translation": "此类争端深刻折射出全美范围内日趋白热化的激烈大讨论：科研学者、政策制定者、一线教师与广大学生正日益强烈地呼吁各级学校必须更加聚焦于向学生教授气候变化的客观科学事实。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "A study last year by the National Center for Science Education, a non-profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B+ or higher.",
+    "translation": "由科学家和教师组成的非营利组织“国家科学教育中心”去年开展的一项权威研究显示，在评估全美各州公立学校如何在科学课堂中涵盖气候变化内容时，仅有勉强半数的州获得了 B+ 或以上的良好评级（climate education is insufficient at state public schools）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "Among the 10 worst performers were some of the most populous states, including Texas, which was given the lowest grade (F) and has a disproportionate influence because its textbooks are widely sold elsewhere.",
+    "translation": "在表现最差的10个州中，不乏若干全美人口最多的大州——包括被评定为最低不及格等级（F 级）的得克萨斯州；由于得州审定的教材被极其广泛地销往全美其他各州，其产生的不良辐射影响极不成比例地深远严重。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school boards. Even if a state is considered a high performer in its science standards, \"that does not mean it will be taught\", he says.",
+    "translation": "该中心副主任格伦·布兰奇严肃告诫道：在一个将教育决策权深度下放至地方学区委员会的国家里，制定州一级的科学标准仅仅是一个影响力极其有限的参考基准（have limited influence）。即使某个州在其州级科学课程标准上被评为优秀生，“这也绝不意味着这些内容真正在一线课堂上得到了教授”，他表示。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "Another issue is that while climate change is well integrated into some subjects and at some ages—such as earth and space sciences in high schools—it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. It is also less prominent in many social studies courses.",
+    "translation": "另一个严峻问题在于：尽管气候变化已较好地融入了部分特定学段与学科（如高中的地球与空间科学），但在面向低龄儿童的教学大纲以及诸如生物学、化学等普及面更广的主流基础学科中却严重缺位。在众多社会科学通识课程中，气候变化同样缺乏足够的重视与篇幅。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t1",
+    "location": {
+      "paragraph": 8,
+      "sentence": 1,
+      "ps": "P8-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P8-S1",
+      "pIndex": 8
+    },
+    "text": "Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change, unofficial educational materials that convey more slanted perspectives are being distributed to teachers. They include materials sponsored by energy industry associations.",
+    "translation": "布兰奇进一步尖锐指出：即便越来越多官方教学指导意见和主流教科书客观反映了科学界关于气候变化的共识，大量传达极其偏颇歪曲视角的“非官方教学辅助材料”依然被肆意分发给一线教师（convey slanted perspectives / swayed by external forces）。这其中赫然包括由传统能源行业协会直接出资赞助的教学宣传材料！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t1.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4b32af53e8f9aa8d4a4e06422866411d5f4b9cd6a7e1e0a533da871ad9e2d324"
+    }
+  }
+]

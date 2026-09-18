@@ -1,0 +1,402 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "eat one's words",
+    "location": null,
+    "contextMeaning": "收回前言，被迫食言，承认说错话",
+    "rawFields": {
+      "context": "forced him to eat his words and stand down",
+      "collocationNotes": "熟语，多指在铁的现实面前狼狈自食其言"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "stand down",
+    "location": null,
+    "contextMeaning": "退位，退职，让出显赫职位",
+    "rawFields": {
+      "context": "eat his words and stand down",
+      "collocationNotes": "政治语境下常用于国王退位或首相辞职"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "see one's last days",
+    "location": null,
+    "contextMeaning": "走向末日，日薄西山，气数已尽",
+    "rawFields": {
+      "context": "monarchy is seeing its last days",
+      "collocationNotes": "比喻某种古老制度或事物走到历史尽头"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "the writing is on the wall",
+    "location": null,
+    "contextMeaning": "大祸临头的预兆，不祥之兆",
+    "rawFields": {
+      "context": "the writing is on the wall for all European royals",
+      "collocationNotes": "源自《圣经》典故，常考高频英语熟语"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "rise above",
+    "location": null,
+    "contextMeaning": "超越…的束缚/超脱于…之上",
+    "rawFields": {
+      "context": "monarchs can rise above \"mere\" politics",
+      "collocationNotes": "常用于道德或政治层面超越世俗党争"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "mere politics",
+    "location": null,
+    "contextMeaning": "纯粹的世俗党争纷扰",
+    "rawFields": {
+      "context": "rise above \"mere\" politics",
+      "collocationNotes": "带引号表达作者对狭隘党派利益争夺的轻视"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "national unity",
+    "location": null,
+    "contextMeaning": "国家团结统一",
+    "rawFields": {
+      "context": "embody a spirit of national unity",
+      "collocationNotes": "立宪君主的核心合法性外衣"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "head of state",
+    "location": null,
+    "contextMeaning": "国家元首",
+    "rawFields": {
+      "context": "continuing popularity as heads of state",
+      "collocationNotes": "与政府首脑（head of government / prime minister）相区分"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "not counting",
+    "location": null,
+    "contextMeaning": "不算在内，除去…不计",
+    "rawFields": {
+      "context": "with 10 kingdoms (not counting Vatican City and Andorra)",
+      "collocationNotes": "分词短语作补充说明"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "allow sb. to avoid",
+    "location": null,
+    "contextMeaning": "使某人免于陷入…",
+    "rawFields": {
+      "context": "they allow voters to avoid the difficult search",
+      "collocationNotes": "核心功能分析短语"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "public figure",
+    "location": null,
+    "contextMeaning": "公众人物，社会知名领袖",
+    "rawFields": {
+      "context": "a non-controversial but respected public figure",
+      "collocationNotes": "政治学与社会学常用概念"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "inherited wealth",
+    "location": null,
+    "contextMeaning": "继承财产，世袭财富",
+    "rawFields": {
+      "context": "the increasing power of inherited wealth",
+      "collocationNotes": "皮凯蒂经济学核心概念"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "day-job",
+    "location": null,
+    "contextMeaning": "日常全职工作，常规上班差事",
+    "rawFields": {
+      "context": "have day-jobs and ride bicycles",
+      "collocationNotes": "用于形容王室亲民化伪装"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "party with",
+    "location": null,
+    "contextMeaning": "与…一同欢聚娱乐/饮宴社交",
+    "rawFields": {
+      "context": "wealthy families who party with the international 1%",
+      "collocationNotes": "动词 party 表示豪门名媛式的纵情社交"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "the international 1%",
+    "location": null,
+    "contextMeaning": "全球最顶尖的前1%巨富阶层",
+    "rawFields": {
+      "context": "party with the international 1%",
+      "collocationNotes": "占领华尔街运动后的经典财富分化概念"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "for some time to come",
+    "location": null,
+    "contextMeaning": "在未来相当一段时期内",
+    "rawFields": {
+      "context": "smart enough to survive for some time to come",
+      "collocationNotes": "时间状语短语"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "have most to fear from",
+    "location": null,
+    "contextMeaning": "最应当对…感到恐惧/警惕",
+    "rawFields": {
+      "context": "who have most to fear from the Spanish example",
+      "collocationNotes": "强调反思借鉴的紧迫性"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "granny style",
+    "location": null,
+    "contextMeaning": "平易近人的慈祥老祖母风格",
+    "rawFields": {
+      "context": "with her rather ordinary (if well-heeled) granny style",
+      "collocationNotes": "英国伊丽莎白二世女王独创的公关策略"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "expensive taste",
+    "location": null,
+    "contextMeaning": "奢华昂贵的品位与嗜好",
+    "rawFields": {
+      "context": "an expensive taste of lifestyle",
+      "collocationNotes": "形容查尔斯王子的奢靡行径"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-phrase-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t1",
+    "surface": "worst enemy",
+    "location": null,
+    "contextMeaning": "最大的敌人，最致命的掘墓人",
+    "rawFields": {
+      "context": "kings, not republicans, who are the monarchy's worst enemies",
+      "collocationNotes": "文章末段震撼点睛之语"
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t1.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:912881215c4bf238a474040eca11f4b0d809f013458a78a5525737804c015e29"
+    }
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2012-r-t3",
+  "year": 2012,
+  "textNumber": 3,
+  "title": "The Commons of the Mind: How Scientific Claims Evolve into Credible Discoveries",
+  "chineseTitle": "心智的公地：科学发现主张如何演化为公认的可信发现",
+  "topic": null,
+  "topicDomain": "科学哲学与科学社会学 (Philosophy & Sociology of Science)",
+  "subTopic": "科学发现的非线性路径、可信度建构流程、同行评议与心智公地 (The Credibility Process & Collective Scrutiny)",
+  "overview": null,
+  "wordCount": 395,
+  "readingTimeEstimate": "6-8 mins",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Adapted from Henry Bauer's 'Scientific Literacy and the Myth of the Scientific Method' (or Nature essay)",
+  "paragraphCount": 5,
+  "sentenceCount": 25,
+  "vocabularyCount": 70,
+  "phraseCount": 18,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "从‘原始科学’到‘公认真理’：科学社会学视野下的可信度建构",
+      "subtitle": "科学绝非孤胆英雄的纯客观收集，而是科学共同体集体博弈与心智公地的社会建构过程",
+      "coreNarrative": "文章打破了公众对科学研究的传统刻板印象：在理想图景中，客观研究者通过既定方法收集事实；但在实际科研中，发现之路模糊曲折，受个人经验与认知局限影响，误读与自欺频发。因此，最初由研究者提出的‘发现主张’（discovery claims）仅仅是‘原始科学’（protoscience），就像新圈定的采矿权一样只有潜力。只有经过科学共同体的‘集体审视与接纳’（collective scrutiny and acceptance），历经编辑审稿把关、同行利用检验、共有与对立信念的激烈交锋，个人的主张才能转化为共同体公认的‘成熟/可信发现’。作者进一步揭示了可信度进程中的两大悖论：其一，科研追求探索未知（new-search而非re-search），新发现时刻面临未来的修正与推翻；其二，新颖性本身易招致质疑与不信。最终，作者借哲学家安妮特·拜尔‘心智公地’（the commons of the mind）的概念升华主题：科学理性是人类共同推理、相互挑战、彼此完善的集体事业。",
+      "historicalAndEconomicContext": "体现了20世纪中叶托马斯·库恩（Thomas Kuhn）《科学革命的结构》以及后实证主义科学社会学（SSK，如罗伯特·默顿、布鲁诺·拉图尔）的经典思潮。强调‘科学事实’不仅是自然界的直接映射，更是经过同行评议、实验复现、社会建构与学术共同体商榷（peer scrutiny）后达成的群体共识。",
+      "crossExamLinks": "与2006年Text 3（海洋物种滥捕与科学数据争议）、2013年Text 3（科学论文可重复性危机与学术出版）、2020年Text 4（同行评议与学术诚信危机）形成深度的科学哲学与学术生态考点纵联。"
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "科学哲学、学术出版与认识论 (Philosophy of Science & Epistemology)",
+      "coreConceptRoots": [
+        {
+          "root": "cred-",
+          "meaning": "相信，信任",
+          "examples": "credibility (可信度), credible (可信的), credit (认可/学分/信用), incredible (难以置信的)"
+        },
+        {
+          "root": "scrut-",
+          "meaning": "细看，探究",
+          "examples": "scrutiny (仔细审视), scrutinize (彻底检查), inscrutable (高深莫测的)"
+        },
+        {
+          "root": "fute- / fut-",
+          "meaning": "击倒，驳斥",
+          "examples": "refute (驳斥), refutation (反驳/辩驳), irrefutable (无可辩驳的)"
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "term": "discovery claims",
+          "meaning": "科学发现主张/学术发现声明"
+        },
+        {
+          "term": "protoscience",
+          "meaning": "原始科学/前科学阶段"
+        },
+        {
+          "term": "collective scrutiny",
+          "meaning": "集体审视与严格审查"
+        },
+        {
+          "term": "the credibility process",
+          "meaning": "可信度确立/建构过程"
+        },
+        {
+          "term": "gatekeepers",
+          "meaning": "把关人（特指学术期刊编辑与审稿人）"
+        },
+        {
+          "term": "commons of the mind",
+          "meaning": "心智的公地（集体理性交流与共鸣机制）"
+        },
+        {
+          "term": "critical mind",
+          "meaning": "批判性思维/审辩式心智"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2012.js",
+    "year": 2012,
+    "articleKey": "ky-en1-2012-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:884a4bd376fa3c3391bdf9b9b145c11201e58303e2030ac5f6f4cd5d6a626d4c"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2022-r-t1",
+  "year": 2022,
+  "textNumber": 1,
+  "title": "The Degradation Crisis of Plastic Artifacts in Museums",
+  "chineseTitle": "塑料文物的降解危机与博物馆保护困境",
+  "topic": "文物保护与材料科学 / 塑料文物老化降解、内在缺陷、防晒剂保护与时代历史意义",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文探讨了博物馆在保护具有重要文化价值的塑料文物时所面临的严峻危机。与塑料垃圾难以降解的常识相反，早期塑料艺术品由于先驱配比不当导致自始存在内在化学缺陷（如同定时炸弹），随着时间推移会开裂、渗出添加剂甚至融化成烂泥。以吉拉尔迪的泡沫地毯雕塑为例，聚氨酯泡沫遇光极易降解，迫使博物馆不得不将其锁入暗室以防进一步损毁。化学家虽研制出“防晒剂”固化制剂成功抢救并重新展出部分展品，但老旧文物恶化叠加可降解塑料普及使未来保护充满挑战。文章最后从考古学时代划分高度指出，人类身处塑料时代，今日对塑料文物的保护决策具有深远的历史见证意义。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 7,
+  "sentenceCount": 12,
+  "vocabularyCount": 74,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2022.js",
+    "year": 2022,
+    "articleKey": "ky-en1-2022-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:79015bbfb4a8cdb512bac2b5a12873e3f1dbf9d899846285d8eb84a0d99f9068"
+  }
+}

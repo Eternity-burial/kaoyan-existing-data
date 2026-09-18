@@ -1,0 +1,2810 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "formal education",
+    "word": "formal education",
+    "ipa": "/ˈfɔːməl ˌedʒuˈkeɪʃn/",
+    "pos": "n.",
+    "sourceLocation": "P1 L1",
+    "contextMeaning": "正规教育",
+    "examMeaning": "正规教育",
+    "collocationOrDerivation": "学校教育；正式教育 | formal education and economic growth | formal training；formal system；反义 informal education | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "economic growth",
+    "word": "economic growth",
+    "ipa": "/ˌiːkəˈnɒmɪk ɡrəʊθ/",
+    "pos": "n.",
+    "sourceLocation": "P1 L1",
+    "contextMeaning": "经济增长",
+    "examMeaning": "经济增长",
+    "collocationOrDerivation": "经济层面的增长 | formal education and economic growth | economic development；economic performance；growth rate | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "be widely misunderstood by",
+    "word": "be widely misunderstood by",
+    "ipa": "/ˈwaɪdli ˌmɪsʌndəˈstʊd/",
+    "pos": "v. phr.",
+    "sourceLocation": "P1 L2",
+    "contextMeaning": "被……广泛误解",
+    "examMeaning": "被……广泛误解",
+    "collocationOrDerivation": "被很多人误解 | is widely misunderstood by economists and politicians alike | be widely believed/accepted；misunderstand/misunderstanding | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "alike",
+    "word": "alike",
+    "ipa": "/əˈlaɪk/",
+    "pos": "adv./adj.",
+    "sourceLocation": "P1 L2",
+    "contextMeaning": "两者都；同样地",
+    "examMeaning": "两者都；同样地",
+    "collocationOrDerivation": "相似的；同样地 | economists and politicians alike | young and old alike；parents and teachers alike；熟词僻义：不译“相似” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "both areas",
+    "word": "both areas",
+    "ipa": "/bəʊθ ˈeəriəz/",
+    "pos": "pron. phr.",
+    "sourceLocation": "P1 L2",
+    "contextMeaning": "两个领域都",
+    "examMeaning": "两个领域都",
+    "collocationOrDerivation": "两者都 | Progress in both areas | 指 formal education 和 economic growth；both A and B | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "intellectual",
+    "word": "intellectual",
+    "ipa": "/ˌɪntəˈlektʃuəl/",
+    "pos": "adj./n.",
+    "sourceLocation": "P1 L3",
+    "contextMeaning": "智力的；思想的",
+    "examMeaning": "智力的；思想的",
+    "collocationOrDerivation": "知识分子；理智的 | social, political, and intellectual development | intellectual ability；intellectual property；作名词为“知识分子” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "conventional",
+    "word": "conventional",
+    "ipa": "/kənˈvenʃənl/",
+    "pos": "adj.",
+    "sourceLocation": "P1 L4",
+    "contextMeaning": "传统的；常规的",
+    "examMeaning": "传统的；常规的",
+    "collocationOrDerivation": "按惯例的；普通的 | the conventional view | conventional wisdom；conventional method；常为作者反驳对象 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "priority",
+    "word": "priority",
+    "ipa": "/praɪˈɒrəti/",
+    "pos": "n.",
+    "sourceLocation": "P1 L5",
+    "contextMeaning": "优先事项",
+    "examMeaning": "优先事项",
+    "collocationOrDerivation": "优先权；重点 | one of the very highest priorities | give priority to；top priority；区别 privilege“特权” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "promote",
+    "word": "promote",
+    "ipa": "/prəˈməʊt/",
+    "pos": "v.",
+    "sourceLocation": "P1 L5",
+    "contextMeaning": "促进；推动",
+    "examMeaning": "促进；推动",
+    "collocationOrDerivation": "推广；晋升 | for promoting rapid economic development | promote growth/development/cooperation；promotion n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "fortunate",
+    "word": "fortunate",
+    "ipa": "/ˈfɔːtʃənət/",
+    "pos": "adj.",
+    "sourceLocation": "P1 L6",
+    "contextMeaning": "幸运的",
+    "examMeaning": "幸运的",
+    "collocationOrDerivation": "有好运的 | We are fortunate that it is | be fortunate to do；fortunately adv.；指作者态度 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "economic performance",
+    "word": "economic performance",
+    "ipa": "/ˌiːkəˈnɒmɪk pəˈfɔːməns/",
+    "pos": "n.",
+    "sourceLocation": "P1 L7",
+    "contextMeaning": "经济表现；经济绩效",
+    "examMeaning": "经济表现；经济绩效",
+    "collocationOrDerivation": "表现；演出；业绩 | improve economic performance | academic/job performance；熟词僻义：performance 不只“表演” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "institution",
+    "word": "institution",
+    "ipa": "/ˌɪnstɪˈtjuːʃn/",
+    "pos": "n.",
+    "sourceLocation": "P1 L8",
+    "contextMeaning": "机构",
+    "examMeaning": "机构",
+    "collocationOrDerivation": "制度；惯例 | a research institution | educational/financial institution；social institutions“社会制度” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "consistently shown",
+    "word": "consistently shown",
+    "ipa": "/kənˈsɪstəntli ʃəʊn/",
+    "pos": "v. phr.",
+    "sourceLocation": "P1 L8",
+    "contextMeaning": "一贯表明",
+    "examMeaning": "一贯表明",
+    "collocationOrDerivation": "持续显示 | have consistently shown that | consistent with；consistency n.；强调结论稳定 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "radically",
+    "word": "radically",
+    "ipa": "/ˈrædɪkli/",
+    "pos": "adv.",
+    "sourceLocation": "P1 L9",
+    "contextMeaning": "大幅度地；根本性地",
+    "examMeaning": "大幅度地；根本性地",
+    "collocationOrDerivation": "激进地；彻底地 | achieve radically higher productivity | radically different/change；熟词僻义：此处非“激进地” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "productivity",
+    "word": "productivity",
+    "ipa": "/ˌprɒdʌkˈtɪvəti/",
+    "pos": "n.",
+    "sourceLocation": "P1 L10",
+    "contextMeaning": "生产率",
+    "examMeaning": "生产率",
+    "collocationOrDerivation": "生产力；效率 | radically higher productivity | labor productivity；improve productivity；productive adj. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "standards of living",
+    "word": "standards of living",
+    "ipa": "/ˈstændədz əv ˈlɪvɪŋ/",
+    "pos": "n.",
+    "sourceLocation": "P1 L10",
+    "contextMeaning": "生活水平",
+    "examMeaning": "生活水平",
+    "collocationOrDerivation": "生活标准 | higher standards of living | living standards；improve standards of living | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "Ironically",
+    "word": "Ironically",
+    "ipa": "/aɪˈrɒnɪkli/",
+    "pos": "adv.",
+    "sourceLocation": "P2 L1",
+    "contextMeaning": "具有讽刺意味的是",
+    "examMeaning": "具有讽刺意味的是",
+    "collocationOrDerivation": "出人意料地 | Ironically, the first evidence... | It is ironic that；作者态度/逻辑提示词 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "recession",
+    "word": "recession",
+    "ipa": "/rɪˈseʃn/",
+    "pos": "n.",
+    "sourceLocation": "P2 L2",
+    "contextMeaning": "经济衰退",
+    "examMeaning": "经济衰退",
+    "collocationOrDerivation": "后退；萧条期 | entering a recession | economic/deep recession；区别 depression“更严重萧条” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "peak",
+    "word": "peak",
+    "ipa": "/piːk/",
+    "pos": "n./v.",
+    "sourceLocation": "P2 L2",
+    "contextMeaning": "高峰；顶峰",
+    "examMeaning": "高峰；顶峰",
+    "collocationOrDerivation": "山峰；达到顶点 | at its pre-bubble peak | at its peak；reach a peak；peak period | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "workforce",
+    "word": "workforce",
+    "ipa": "/ˈwɜːkfɔːs/",
+    "pos": "n.",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "劳动力；劳动人口",
+    "examMeaning": "劳动力；劳动人口",
+    "collocationOrDerivation": "某国/行业/公司的全体员工 | the U.S. workforce | skilled/aging workforce；workforce training；≈ labor force | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "derided",
+    "word": "derided",
+    "ipa": "/dɪˈraɪdɪd/",
+    "pos": "v.",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "被嘲笑；被讥讽",
+    "examMeaning": "被嘲笑；被讥讽",
+    "collocationOrDerivation": "嘲弄；轻蔑批评 | was derided as poorly educated | deride sb/sth as；derision n.；比 criticize 语气更尖刻 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "primary cause",
+    "word": "primary cause",
+    "ipa": "/ˈpraɪməri kɔːz/",
+    "pos": "n.",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "主要原因",
+    "examMeaning": "主要原因",
+    "collocationOrDerivation": "首要原因 | one of the primary causes | root cause；major cause；注意题中因果替换 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "automotive-assembly productivity",
+    "word": "automotive-assembly productivity",
+    "ipa": "/ˌɔːtəˈməʊtɪv əˈsembli ˌprɒdʌkˈtɪvəti/",
+    "pos": "n.",
+    "sourceLocation": "P2 L5",
+    "contextMeaning": "汽车装配生产率",
+    "examMeaning": "汽车装配生产率",
+    "collocationOrDerivation": "汽车组装效率 | global leader in automotive-assembly productivity | assembly line；automotive industry；productivity growth | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "reveal",
+    "word": "reveal",
+    "ipa": "/rɪˈviːl/",
+    "pos": "v.",
+    "sourceLocation": "P2 L5",
+    "contextMeaning": "揭示；显示",
+    "examMeaning": "揭示；显示",
+    "collocationOrDerivation": "透露；揭露 | the research revealed that | data/research reveals；reveal the truth；≈ show/indicate | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "counterparts",
+    "word": "counterparts",
+    "ipa": "/ˈkaʊntəpɑːts/",
+    "pos": "n.",
+    "sourceLocation": "P2 L7",
+    "contextMeaning": "对应者；同类对象",
+    "examMeaning": "对应者；同类对象",
+    "collocationOrDerivation": "职能相当的人/物 | their Japanese counterparts | foreign/male/female counterparts；不要译成“对手” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "construction",
+    "word": "construction",
+    "ipa": "/kənˈstrʌkʃn/",
+    "pos": "n.",
+    "sourceLocation": "P3 L1",
+    "contextMeaning": "建设；建筑业",
+    "examMeaning": "建设；建筑业",
+    "collocationOrDerivation": "建造；结构；解释 | housing construction | construction industry；infrastructure construction；也指“建构/解释” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "discover",
+    "word": "discover",
+    "ipa": "/dɪˈskʌvə(r)/",
+    "pos": "v.",
+    "sourceLocation": "P3 L1",
+    "contextMeaning": "发现",
+    "examMeaning": "发现",
+    "collocationOrDerivation": "找到；了解到 | researchers discovered that | discover evidence；make a discovery；引出研究结论 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "illiterate",
+    "word": "illiterate",
+    "ipa": "/ɪˈlɪtərət/",
+    "pos": "adj.",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "不识字的；文盲的",
+    "examMeaning": "不识字的；文盲的",
+    "collocationOrDerivation": "不能读写的 | illiterate, non-English-speaking workers | illiteracy n.；functionally illiterate；区别 uneducated/ignorant | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "best-practice",
+    "word": "best-practice",
+    "ipa": "/ˌbest ˈpræktɪs/",
+    "pos": "adj./n.",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "最佳实践的",
+    "examMeaning": "最佳实践的",
+    "collocationOrDerivation": "最有效做法 | best-practice labor productivity standards | follow best practices；industry best practices | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "labor productivity standards",
+    "word": "labor productivity standards",
+    "ipa": "/ˈleɪbə(r) ˌprɒdʌkˈtɪvəti ˈstændədz/",
+    "pos": "n.",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "劳动生产率标准",
+    "examMeaning": "劳动生产率标准",
+    "collocationOrDerivation": "劳动力效率标准 | met best-practice labor productivity standards | labor productivity；productivity standards；raise productivity | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "despite",
+    "word": "despite",
+    "ipa": "/dɪˈspaɪt/",
+    "pos": "prep.",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "尽管",
+    "examMeaning": "尽管",
+    "collocationOrDerivation": "即使；不管 | despite the complexity of... | despite + n./doing；despite the fact that；≈ in spite of | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "suspect",
+    "word": "suspect",
+    "ipa": "/səˈspekt/",
+    "pos": "v.",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "推测；认为可能",
+    "examMeaning": "推测；认为可能",
+    "collocationOrDerivation": "怀疑；嫌疑人 n. | We have to suspect that... | suspect that；suspect sb of doing；熟词僻义：此处非“怀疑其错” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "continuing economic growth",
+    "word": "continuing economic growth",
+    "ipa": "/kənˈtɪnjuɪŋ ˌiːkəˈnɒmɪk ɡrəʊθ/",
+    "pos": "n.",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "持续经济增长",
+    "examMeaning": "持续经济增长",
+    "collocationOrDerivation": "连续的经济增长 | continuing economic growth promotes... | sustained economic growth；continuous growth；反转因果核心 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "humanity",
+    "word": "humanity",
+    "ipa": "/hjuːˈmænəti/",
+    "pos": "n.",
+    "sourceLocation": "P4 L6",
+    "contextMeaning": "人类",
+    "examMeaning": "人类",
+    "collocationOrDerivation": "人性；人道 | Only when humanity began... | future of humanity；crimes against humanity；熟义外也指“人类整体” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "productive",
+    "word": "productive",
+    "ipa": "/prəˈdʌktɪv/",
+    "pos": "adj.",
+    "sourceLocation": "P4 L6",
+    "contextMeaning": "高效的；高产的",
+    "examMeaning": "高效的；高产的",
+    "collocationOrDerivation": "富有成效的 | in a more productive way | productive labor；productive capacity；productivity n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "potential",
+    "word": "potential",
+    "ipa": "/pəˈtenʃl/",
+    "pos": "n./adj.",
+    "sourceLocation": "P5 L1",
+    "contextMeaning": "潜力；潜能",
+    "examMeaning": "潜力；潜能",
+    "collocationOrDerivation": "潜在的；可能性 | productivity potential | realize/achieve potential；potential benefits/problems | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "competitive environment",
+    "word": "competitive environment",
+    "ipa": "/kəmˈpetətɪv ɪnˈvaɪrənmənt/",
+    "pos": "n.",
+    "sourceLocation": "P5 L2",
+    "contextMeaning": "竞争环境",
+    "examMeaning": "竞争环境",
+    "collocationOrDerivation": "竞争性的环境 | the competitive environment pushed... | competitive pressure；competitive advantage | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "sufficient",
+    "word": "sufficient",
+    "ipa": "/səˈfɪʃnt/",
+    "pos": "adj.",
+    "sourceLocation": "P5 L4",
+    "contextMeaning": "充分的；足够的",
+    "examMeaning": "充分的；足够的",
+    "collocationOrDerivation": "足以满足需要的 | not a sufficient condition | sufficient evidence/reason；necessary vs sufficient | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "advanced economic performance",
+    "word": "advanced economic performance",
+    "ipa": "/ədˈvɑːnst ˌiːkəˈnɒmɪk pəˈfɔːməns/",
+    "pos": "n.",
+    "sourceLocation": "P5 L5",
+    "contextMeaning": "高级/发达经济表现",
+    "examMeaning": "高级/发达经济表现",
+    "collocationOrDerivation": "高水平经济绩效 | required by advanced economic performance | advanced economies/technology；economic performance | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "poverty traps",
+    "word": "poverty traps",
+    "ipa": "/ˈpɒvəti træps/",
+    "pos": "n.",
+    "sourceLocation": "P5 L6",
+    "contextMeaning": "贫困陷阱",
+    "examMeaning": "贫困陷阱",
+    "collocationOrDerivation": "使人/国家难脱贫的循环 | escape their poverty traps | escape poverty；fall into a poverty trap；break poverty cycle | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "constrain",
+    "word": "constrain",
+    "ipa": "/kənˈstreɪn/",
+    "pos": "v.",
+    "sourceLocation": "P5 L8",
+    "contextMeaning": "限制；约束",
+    "examMeaning": "限制；约束",
+    "collocationOrDerivation": "制约；强迫 | doesn’t constrain the ability | constrain ability；be constrained by；constraint n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "substantially",
+    "word": "substantially",
+    "ipa": "/səbˈstænʃəli/",
+    "pos": "adv.",
+    "sourceLocation": "P5 L9",
+    "contextMeaning": "显著地；大幅度地",
+    "examMeaning": "显著地；大幅度地",
+    "collocationOrDerivation": "实质上；相当多地 | substantially improve productivity | substantially increase/improve；substantial evidence | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "foreseeable",
+    "word": "foreseeable",
+    "ipa": "/fɔːˈsiːəbl/",
+    "pos": "adj.",
+    "sourceLocation": "P5 L9",
+    "contextMeaning": "可预见的",
+    "examMeaning": "可预见的",
+    "collocationOrDerivation": "能预测的 | for the foreseeable future | foreseeable risks/consequences；foresee v. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "constraints on...",
+    "word": "constraints on...",
+    "ipa": "/kənˈstreɪnts ɒn/",
+    "pos": "n. phr.",
+    "sourceLocation": "P5 L10",
+    "contextMeaning": "对……的限制",
+    "examMeaning": "对……的限制",
+    "collocationOrDerivation": "制约因素 | constraints on improving productivity | constraints on growth；financial constraints；remove constraints | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "conventionally",
+    "word": "conventionally",
+    "ipa": "/kənˈvenʃənəli/",
+    "pos": "adv.",
+    "sourceLocation": "Q31 C",
+    "contextMeaning": "按传统看法；通常",
+    "examMeaning": "按传统看法；通常",
+    "collocationOrDerivation": "传统地；惯常地 | is conventionally downgraded | conventionally believed/defined；conventional wisdom | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "downgrade",
+    "word": "downgrade",
+    "ipa": "/ˌdaʊnˈɡreɪd/",
+    "pos": "v.",
+    "sourceLocation": "Q31 C",
+    "contextMeaning": "贬低；降低重要性",
+    "examMeaning": "贬低；降低重要性",
+    "collocationOrDerivation": "降低等级/价值 | is conventionally downgraded | downgrade status/rating；区别 underestimate | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "overestimate",
+    "word": "overestimate",
+    "ipa": "/ˌəʊvərˈestɪmeɪt/",
+    "pos": "v.",
+    "sourceLocation": "Q31 D",
+    "contextMeaning": "高估",
+    "examMeaning": "高估",
+    "collocationOrDerivation": "过高评价 | has been overestimated | overestimate importance；区别 underestimate/overstate | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "labor force",
+    "word": "labor force",
+    "ipa": "/ˈleɪbə(r) fɔːs/",
+    "pos": "n.",
+    "sourceLocation": "Q32 D",
+    "contextMeaning": "劳动力",
+    "examMeaning": "劳动力",
+    "collocationOrDerivation": "劳动人口总量 | requires sufficient labor force | ≈ workforce；labor market；宏观经济常用 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "disciplined",
+    "word": "disciplined",
+    "ipa": "/ˈdɪsəplɪnd/",
+    "pos": "adj.",
+    "sourceLocation": "Q33 A",
+    "contextMeaning": "纪律严明的；自律的",
+    "examMeaning": "纪律严明的；自律的",
+    "collocationOrDerivation": "训练有素的 | better disciplined | self-disciplined；discipline n./v. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "productive",
+    "word": "productive",
+    "ipa": "/prəˈdʌktɪv/",
+    "pos": "adj.",
+    "sourceLocation": "Q33 B",
+    "contextMeaning": "生产率高的",
+    "examMeaning": "生产率高的",
+    "collocationOrDerivation": "高效的；有成效的 | more productive | productive workers/capacity；productivity n. | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "emerge",
+    "word": "emerge",
+    "ipa": "/ɪˈmɜːdʒ/",
+    "pos": "v.",
+    "sourceLocation": "Q34 stem",
+    "contextMeaning": "出现；产生",
+    "examMeaning": "出现；产生",
+    "collocationOrDerivation": "显现；浮现 | education emerged | emerge from；emerging economies；a problem emerged | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "prior to",
+    "word": "prior to",
+    "ipa": "/ˈpraɪə(r) tə/",
+    "pos": "prep. phr.",
+    "sourceLocation": "Q34 B",
+    "contextMeaning": "在……之前",
+    "examMeaning": "在……之前",
+    "collocationOrDerivation": "早于 | prior to better ways of finding food | prior to graduation/meeting；prior knowledge | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "directly",
+    "word": "directly",
+    "ipa": "/dəˈrektli/",
+    "pos": "adv.",
+    "sourceLocation": "Q35 A",
+    "contextMeaning": "直接地",
+    "examMeaning": "直接地",
+    "collocationOrDerivation": "径直；正好 | results directly from... | directly affect；错因常在 direct/directly 绝对化 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "follow",
+    "word": "follow",
+    "ipa": "/ˈfɒləʊ/",
+    "pos": "v.",
+    "sourceLocation": "Q35 C",
+    "contextMeaning": "随……而来；跟随",
+    "examMeaning": "随……而来；跟随",
+    "collocationOrDerivation": "遵循；理解 | follows improved productivity | follow from；as follows；熟词僻义：此处为“随后发生” | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "afford",
+    "word": "afford",
+    "ipa": "/əˈfɔːd/",
+    "pos": "v.",
+    "sourceLocation": "Q35 D",
+    "contextMeaning": "负担得起；有条件做",
+    "examMeaning": "负担得起；有条件做",
+    "collocationOrDerivation": "买得起；承受得起 | cannot afford political changes | afford education；afford to do；抽象义：承受/承担 | 【红】★★★ 高频核心词",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "undoubtedly",
+    "word": "undoubtedly",
+    "ipa": "/ʌnˈdaʊtɪdli/",
+    "pos": "adv.",
+    "sourceLocation": "P1 L3",
+    "contextMeaning": "毫无疑问地",
+    "examMeaning": "毫无疑问地",
+    "collocationOrDerivation": "无疑；肯定地 | is undoubtedly necessary | without doubt；undoubted adj.；用于让步铺垫 | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "pre-bubble",
+    "word": "pre-bubble",
+    "ipa": "/ˌpriː ˈbʌbl/",
+    "pos": "adj.",
+    "sourceLocation": "P2 L2",
+    "contextMeaning": "泡沫经济前的",
+    "examMeaning": "泡沫经济前的",
+    "collocationOrDerivation": "某泡沫发生之前的 | at its pre-bubble peak | pre-war；pre-crisis；pre-industrial | 【绿】★ 了解即可",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "automotive-assembly",
+    "word": "automotive-assembly",
+    "ipa": "/ˌɔːtəˈməʊtɪv əˈsembli/",
+    "pos": "adj./n.",
+    "sourceLocation": "P2 L5",
+    "contextMeaning": "汽车装配的/汽车装配",
+    "examMeaning": "汽车装配的/汽车装配",
+    "collocationOrDerivation": "汽车行业组装 | automotive-assembly productivity | automotive industry；assembly line；assembly plant | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "examining",
+    "word": "examining",
+    "ipa": "/ɪɡˈzæmɪnɪŋ/",
+    "pos": "v.",
+    "sourceLocation": "P3 L1",
+    "contextMeaning": "研究；考察",
+    "examMeaning": "研究；考察",
+    "collocationOrDerivation": "检查；审查；考试 | while examining housing construction | examine evidence/problem/relationship；熟词僻义：此处非“考试” | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "non-English-speaking",
+    "word": "non-English-speaking",
+    "ipa": "/ˌnɒn ˈɪŋɡlɪʃ ˌspiːkɪŋ/",
+    "pos": "adj.",
+    "sourceLocation": "P3 L2",
+    "contextMeaning": "不讲英语的",
+    "examMeaning": "不讲英语的",
+    "collocationOrDerivation": "非英语使用的 | non-English-speaking Mexican workers | non-profit；non-smoker；English-speaking countries | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "complexity",
+    "word": "complexity",
+    "ipa": "/kəmˈpleksəti/",
+    "pos": "n.",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "复杂性",
+    "examMeaning": "复杂性",
+    "collocationOrDerivation": "复杂程度 | the complexity of the building industry’s work | technical/social complexity；complex adj. | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "ancestors",
+    "word": "ancestors",
+    "ipa": "/ˈænsestəz/",
+    "pos": "n.",
+    "sourceLocation": "P4 L4",
+    "contextMeaning": "祖先",
+    "examMeaning": "祖先",
+    "collocationOrDerivation": "先辈 | our ancestors were hunters and gatherers | human/ancient ancestors；descendant 后代 | 【绿】★ 了解即可",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "hunters and gatherers",
+    "word": "hunters and gatherers",
+    "ipa": "/ˈhʌntəz ənd ˈɡæðərəz/",
+    "pos": "n.",
+    "sourceLocation": "P4 L4",
+    "contextMeaning": "狩猎采集者",
+    "examMeaning": "狩猎采集者",
+    "collocationOrDerivation": "猎人和采集者 | ancestors were hunters and gatherers | hunter-gatherer society；用于历史例证 | 【绿】★ 了解即可",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "groundless",
+    "word": "groundless",
+    "ipa": "/ˈɡraʊndləs/",
+    "pos": "adj.",
+    "sourceLocation": "Q31 A",
+    "contextMeaning": "无根据的",
+    "examMeaning": "无根据的",
+    "collocationOrDerivation": "没有理由/证据的 | groundless doubts | groundless fear/accusation；ground = 根据 | 【绿】★★ 重要阅读词",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "organized",
+    "word": "organized",
+    "ipa": "/ˈɔːɡənaɪzd/",
+    "pos": "adj.",
+    "sourceLocation": "Q33 D",
+    "contextMeaning": "有组织的；有条理的",
+    "examMeaning": "有组织的；有条理的",
+    "collocationOrDerivation": "安排良好的 | more organized | well-organized；organized labor；干扰项词 | 【绿】★ 了解即可",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "the relationship between A and B",
+    "word": "the relationship between A and B",
+    "ipa": "/rɪˈleɪʃnʃɪp/",
+    "pos": "句型",
+    "sourceLocation": "P1 L1",
+    "contextMeaning": "A 与 B 之间的关系",
+    "examMeaning": "A 与 B 之间的关系",
+    "collocationOrDerivation": "关系；联系 | relationship between formal education and economic growth | 阅读定位；写作：the relationship between X and Y | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "be necessary for",
+    "word": "be necessary for",
+    "ipa": "/ˈnesəsəri/",
+    "pos": "句型",
+    "sourceLocation": "P1 L3",
+    "contextMeaning": "对……是必要的",
+    "examMeaning": "对……是必要的",
+    "collocationOrDerivation": "必要的 | necessary for social, political, and intellectual development | 翻译理解；写作迁移：be essential/crucial for | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "the conventional view that...",
+    "word": "the conventional view that...",
+    "ipa": "/kənˈvenʃənl vjuː/",
+    "pos": "句型",
+    "sourceLocation": "P1 L4",
+    "contextMeaning": "认为……的传统观点",
+    "examMeaning": "认为……的传统观点",
+    "collocationOrDerivation": "传统看法 | the conventional view that education should... is wrong | 阅读定位：常为作者反驳对象 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "put people through...",
+    "word": "put people through...",
+    "ipa": "/pʊt ˈpiːpl θruː/",
+    "pos": "短语",
+    "sourceLocation": "P1 L7",
+    "contextMeaning": "使人接受/完成某体系",
+    "examMeaning": "使人接受/完成某体系",
+    "collocationOrDerivation": "使经历；接通电话 | putting enough people through them | them 指 educational systems；翻译理解重点 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "the findings of... have shown that...",
+    "word": "the findings of... have shown that...",
+    "ipa": "/ˈfaɪndɪŋz/",
+    "pos": "句型",
+    "sourceLocation": "P1 L8",
+    "contextMeaning": "……的研究发现表明……",
+    "examMeaning": "……的研究发现表明……",
+    "collocationOrDerivation": "发现；结果 | findings of a research institution have shown that | 研究类写作/阅读证据句型 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "be trained on the job",
+    "word": "be trained on the job",
+    "ipa": "/treɪnd ɒn ðə dʒɒb/",
+    "pos": "短语",
+    "sourceLocation": "P1 L9",
+    "contextMeaning": "在岗培训",
+    "examMeaning": "在岗培训",
+    "collocationOrDerivation": "在工作中接受训练 | workers can be trained on the job | on-the-job training；与 formal education 对比 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "as a result",
+    "word": "as a result",
+    "ipa": "/əz ə rɪˈzʌlt/",
+    "pos": "逻辑短语",
+    "sourceLocation": "P1 L10",
+    "contextMeaning": "因此；结果是",
+    "examMeaning": "因此；结果是",
+    "collocationOrDerivation": "作为结果 | and, as a result, higher standards of living | 因果衔接；≈ therefore/consequently | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "the first evidence for this idea",
+    "word": "the first evidence for this idea",
+    "ipa": "/ˈevɪdəns/",
+    "pos": "短语",
+    "sourceLocation": "P2 L1",
+    "contextMeaning": "支持这一观点的第一批证据",
+    "examMeaning": "支持这一观点的第一批证据",
+    "collocationOrDerivation": "证据 | first evidence for this idea appeared... | this idea 指前文在岗培训提高生产率观点 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "with + 名词 + doing",
+    "word": "with + 名词 + doing",
+    "ipa": "/wɪð/",
+    "pos": "句型",
+    "sourceLocation": "P2 L2",
+    "contextMeaning": "随着/在……情况下",
+    "examMeaning": "随着/在……情况下",
+    "collocationOrDerivation": "伴随结构 | with the country entering a recession | 长难句背景结构；写作迁移 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "be derided as...",
+    "word": "be derided as...",
+    "ipa": "/dɪˈraɪdɪd æz/",
+    "pos": "句型",
+    "sourceLocation": "P2 L3",
+    "contextMeaning": "被嘲笑为……",
+    "examMeaning": "被嘲笑为……",
+    "collocationOrDerivation": "被讥讽为 | was derided as poorly educated | 态度词定位；deride sb/sth as | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "the global leader in...",
+    "word": "the global leader in...",
+    "ipa": "/ˈɡləʊbl ˈliːdə(r)/",
+    "pos": "短语",
+    "sourceLocation": "P2 L4",
+    "contextMeaning": "在……方面的全球领先者",
+    "examMeaning": "在……方面的全球领先者",
+    "collocationOrDerivation": "全球领军者 | global leader in automotive-assembly productivity | 写作迁移：a global leader in renewable energy | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "achieve about 95 percent of...",
+    "word": "achieve about 95 percent of...",
+    "ipa": "/əˈtʃiːv/",
+    "pos": "句型",
+    "sourceLocation": "P2 L6",
+    "contextMeaning": "达到……的大约 95%",
+    "examMeaning": "达到……的大约 95%",
+    "collocationOrDerivation": "实现；达到 | achieved about 95 percent of the productivity | 数据细节定位；同义替换题高频 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "a result of...",
+    "word": "a result of...",
+    "ipa": "/rɪˈzʌlt/",
+    "pos": "短语",
+    "sourceLocation": "P2 L7",
+    "contextMeaning": "……的结果",
+    "examMeaning": "……的结果",
+    "collocationOrDerivation": "结果；后果 | a result of the training | 因果定位；区别 as a result | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "receive training on the job",
+    "word": "receive training on the job",
+    "ipa": "/rɪˈsiːv ˈtreɪnɪŋ/",
+    "pos": "短语",
+    "sourceLocation": "P2 L7",
+    "contextMeaning": "在工作中接受培训",
+    "examMeaning": "在工作中接受培训",
+    "collocationOrDerivation": "接受训练 | training that workers received on the job | 核心对比：formal education vs on-the-job training | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "while examining...",
+    "word": "while examining...",
+    "ipa": "/waɪl ɪɡˈzæmɪnɪŋ/",
+    "pos": "句型",
+    "sourceLocation": "P3 L1",
+    "contextMeaning": "在研究……时",
+    "examMeaning": "在研究……时",
+    "collocationOrDerivation": "当……时 | while examining housing construction | 省略结构：while they were examining | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "meet standards",
+    "word": "meet standards",
+    "ipa": "/miːt ˈstændədz/",
+    "pos": "短语",
+    "sourceLocation": "P3 L3",
+    "contextMeaning": "达到标准",
+    "examMeaning": "达到标准",
+    "collocationOrDerivation": "满足标准 | met best-practice standards | meet requirements/expectations；meet 熟词僻义 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "despite the complexity of...",
+    "word": "despite the complexity of...",
+    "ipa": "/dɪˈspaɪt/",
+    "pos": "短语",
+    "sourceLocation": "P3 L3-L4",
+    "contextMeaning": "尽管……很复杂",
+    "examMeaning": "尽管……很复杂",
+    "collocationOrDerivation": "让步结构 | despite the complexity of the work | 阅读让步逻辑；写作迁移 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "the real relationship between A and B",
+    "word": "the real relationship between A and B",
+    "ipa": "/ˈriːəl rɪˈleɪʃnʃɪp/",
+    "pos": "句型",
+    "sourceLocation": "P4 L1",
+    "contextMeaning": "A 与 B 的真实关系",
+    "examMeaning": "A 与 B 的真实关系",
+    "collocationOrDerivation": "真实关系 | real relationship between education and development | 设问引出核心论点 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "have to suspect that...",
+    "word": "have to suspect that...",
+    "ipa": "/səˈspekt/",
+    "pos": "句型",
+    "sourceLocation": "P4 L2",
+    "contextMeaning": "不得不推测……",
+    "examMeaning": "不得不推测……",
+    "collocationOrDerivation": "不得不认为可能 | We have to suspect that... | 态度强度：非绝对断言但很强 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "even when...",
+    "word": "even when...",
+    "ipa": "/ˈiːvn wen/",
+    "pos": "逻辑短语",
+    "sourceLocation": "P4 L2-L3",
+    "contextMeaning": "即使……",
+    "examMeaning": "即使……",
+    "collocationOrDerivation": "让步 | even when governments don’t force it | 让步逻辑；写作常用 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "After all",
+    "word": "After all",
+    "ipa": "/ˈɑːftər ɔːl/",
+    "pos": "逻辑短语",
+    "sourceLocation": "P4 L3",
+    "contextMeaning": "毕竟",
+    "examMeaning": "毕竟",
+    "collocationOrDerivation": "终究；别忘了 | After all, that’s how education got started | 引出理由/解释 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "Only when... was there...",
+    "word": "Only when... was there...",
+    "ipa": "/ˈəʊnli wen/",
+    "pos": "倒装句型",
+    "sourceLocation": "P4 L6",
+    "contextMeaning": "只有当……时，才有……",
+    "examMeaning": "只有当……时，才有……",
+    "collocationOrDerivation": "only 置首部分倒装 | Only when humanity began... was there time... | 长难句重点；翻译写作迁移 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "As... improved, ... increased as well",
+    "word": "As... improved, ... increased as well",
+    "ipa": "/æz ɪmˈpruːvd/",
+    "pos": "句型",
+    "sourceLocation": "P5 L1",
+    "contextMeaning": "随着……改善，……也增加",
+    "examMeaning": "随着……改善，……也增加",
+    "collocationOrDerivation": "同步变化结构 | As education improved, productivity potential increased as well | 说明循环促进关系 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "in turn",
+    "word": "in turn",
+    "ipa": "/ɪn tɜːn/",
+    "pos": "逻辑短语",
+    "sourceLocation": "P5 L3",
+    "contextMeaning": "反过来；继而",
+    "examMeaning": "反过来；继而",
+    "collocationOrDerivation": "依次；轮流 | they could in turn afford more education | 连锁因果；写作迁移 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "necessary, but not sufficient",
+    "word": "necessary, but not sufficient",
+    "ipa": "/ˈnesəsəri bət nɒt səˈfɪʃnt/",
+    "pos": "逻辑句型",
+    "sourceLocation": "P5 L4",
+    "contextMeaning": "必要但不充分",
+    "examMeaning": "必要但不充分",
+    "collocationOrDerivation": "逻辑条件表达 | a necessary, but not a sufficient, condition | 题目判断关键；区别必要/充分 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "Thus",
+    "word": "Thus",
+    "ipa": "/ðʌs/",
+    "pos": "逻辑词",
+    "sourceLocation": "P5 L5",
+    "contextMeaning": "因此",
+    "examMeaning": "因此",
+    "collocationOrDerivation": "所以；由此 | Thus poor countries might not be able... | 结论提示词 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "may be possible only with...",
+    "word": "may be possible only with...",
+    "ipa": "/ˈpɒsəbl/",
+    "pos": "句型",
+    "sourceLocation": "P5 L6",
+    "contextMeaning": "可能只有具备……才可能",
+    "examMeaning": "可能只有具备……才可能",
+    "collocationOrDerivation": "条件限制 | political changes that may be possible only with... | 长难句修饰结构 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "a lack of... doesn’t constrain...",
+    "word": "a lack of... doesn’t constrain...",
+    "ipa": "/læk əv/",
+    "pos": "句型",
+    "sourceLocation": "P5 L8",
+    "contextMeaning": "缺乏……并不会限制……",
+    "examMeaning": "缺乏……并不会限制……",
+    "collocationOrDerivation": "缺少……不制约…… | A lack of formal education doesn’t constrain... | 转折核心句；定位价值高 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "for the foreseeable future",
+    "word": "for the foreseeable future",
+    "ipa": "/fə ðə fɔːˈsiːəbl ˈfjuːtʃə(r)/",
+    "pos": "短语",
+    "sourceLocation": "P5 L9",
+    "contextMeaning": "在可预见的未来",
+    "examMeaning": "在可预见的未来",
+    "collocationOrDerivation": "未来一段可预测时期 | for the foreseeable future | 写作迁移：remain unchanged for the foreseeable future | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "On the contrary",
+    "word": "On the contrary",
+    "ipa": "/ɒn ðə ˈkɒntrəri/",
+    "pos": "逻辑短语",
+    "sourceLocation": "P5 L10",
+    "contextMeaning": "相反",
+    "examMeaning": "相反",
+    "collocationOrDerivation": "正相反 | On the contrary, constraints... explain why... | 强转折；纠正错误理解 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "explain why...",
+    "word": "explain why...",
+    "ipa": "/ɪkˈspleɪn waɪ/",
+    "pos": "句型",
+    "sourceLocation": "P5 L10",
+    "contextMeaning": "解释为什么……",
+    "examMeaning": "解释为什么……",
+    "collocationOrDerivation": "说明原因 | explain why education isn’t developing... | 因果解释句型；题目定位 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "hold that...",
+    "word": "hold that...",
+    "ipa": "/həʊld ðæt/",
+    "pos": "句型",
+    "sourceLocation": "Q31 stem",
+    "contextMeaning": "认为……",
+    "examMeaning": "认为……",
+    "collocationOrDerivation": "持有观点 | The author holds... that... | 熟词僻义：hold 非“拿着”；观点题高频 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "be subject to",
+    "word": "be subject to",
+    "ipa": "/ˈsʌbdʒɪkt tə/",
+    "pos": "短语",
+    "sourceLocation": "Q31 A",
+    "contextMeaning": "受到……；易遭受……",
+    "examMeaning": "受到……；易遭受……",
+    "collocationOrDerivation": "受……支配 | is subject to groundless doubts | be subject to change/criticism/rules | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "fall victim to/of bias",
+    "word": "fall victim to/of bias",
+    "ipa": "/fɔːl ˈvɪktɪm tə ˈbaɪəs/",
+    "pos": "短语",
+    "sourceLocation": "Q31 B",
+    "contextMeaning": "成为偏见的受害者",
+    "examMeaning": "成为偏见的受害者",
+    "collocationOrDerivation": "受……伤害 | has fallen victim of bias | 更常见 fall victim to；bias against/in favor of | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "bias",
+    "word": "bias",
+    "ipa": "/ˈbaɪəs/",
+    "pos": "n.",
+    "sourceLocation": "Q31 B",
+    "contextMeaning": "偏见；偏向",
+    "examMeaning": "偏见；偏向",
+    "collocationOrDerivation": "不公正倾向 | bias | cultural/confirmation bias；biased adj. | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "It is stated in... that...",
+    "word": "It is stated in... that...",
+    "ipa": "/steɪtɪd/",
+    "pos": "句型",
+    "sourceLocation": "Q32 stem",
+    "contextMeaning": "在……中陈述道……",
+    "examMeaning": "在……中陈述道……",
+    "collocationOrDerivation": "说明；陈述 | It is stated in Paragraph 1 that... | state 熟词僻义：非“国家/状态” | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "take efforts of generations",
+    "word": "take efforts of generations",
+    "ipa": "/ˈefəts əv ˌdʒenəˈreɪʃnz/",
+    "pos": "短语",
+    "sourceLocation": "Q32 B",
+    "contextMeaning": "需要几代人的努力",
+    "examMeaning": "需要几代人的努力",
+    "collocationOrDerivation": "需要长期努力 | takes efforts of generations | 对应 require two or three generations | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "demand priority",
+    "word": "demand priority",
+    "ipa": "/dɪˈmɑːnd praɪˈɒrəti/",
+    "pos": "短语",
+    "sourceLocation": "Q32 C",
+    "contextMeaning": "要求优先地位",
+    "examMeaning": "要求优先地位",
+    "collocationOrDerivation": "要求优先处理 | demands priority from the government | give priority to；top priority；干扰项 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "quote the example of...",
+    "word": "quote the example of...",
+    "ipa": "/kwəʊt ði ɪɡˈzɑːmpl/",
+    "pos": "短语",
+    "sourceLocation": "Q34 stem",
+    "contextMeaning": "引用……的例子",
+    "examMeaning": "引用……的例子",
+    "collocationOrDerivation": "举例说明 | quotes the example of our ancestors | 例证题：例子服务于观点 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "no longer",
+    "word": "no longer",
+    "ipa": "/nəʊ ˈlɒŋɡə(r)/",
+    "pos": "短语",
+    "sourceLocation": "Q34 C",
+    "contextMeaning": "不再",
+    "examMeaning": "不再",
+    "collocationOrDerivation": "状态改变 | when people no longer went hungry | no longer = not... any longer；本题属过度推断 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "According to...",
+    "word": "According to...",
+    "ipa": "/əˈkɔːdɪŋ tə/",
+    "pos": "短语",
+    "sourceLocation": "Q35 stem",
+    "contextMeaning": "根据……",
+    "examMeaning": "根据……",
+    "collocationOrDerivation": "按照；据……所说 | According to the last paragraph | 细节题定位提示 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "result from",
+    "word": "result from",
+    "ipa": "/rɪˈzʌlt frəm/",
+    "pos": "短语",
+    "sourceLocation": "Q35 A",
+    "contextMeaning": "由……导致；源于……",
+    "examMeaning": "由……导致；源于……",
+    "collocationOrDerivation": "来自…… | results directly from competitive environments | result from A；result in B；因果方向重点 | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2009-r-t3",
+    "surface": "depend on",
+    "word": "depend on",
+    "ipa": "/dɪˈpend ɒn/",
+    "pos": "短语",
+    "sourceLocation": "Q35 B",
+    "contextMeaning": "取决于；依赖于",
+    "examMeaning": "取决于；依赖于",
+    "collocationOrDerivation": "依靠 | does not depend on economic performance | depend on evidence/growth；independent of | 【紫】★★★ 重点短语/句型",
+    "frequencyRating": "★★☆☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2009_t3.json",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8a32cfcea34b78c6fcdf5e15c58f91384d3be923c16db7520248e5d7219c376a"
+    }
+  }
+]

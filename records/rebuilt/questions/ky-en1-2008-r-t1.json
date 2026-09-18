@@ -1,0 +1,867 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "Which of the following is true according to the first two paragraphs?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Women are biologically more vulnerable to stress.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第1段指出女性在面对压力时尤其容易患上抑郁和焦虑障碍（particularly susceptible to developing depression and anxiety disorders in response to stress）；第2段直接从内分泌生物学角度给出解释：性激素（sex hormones）导致处于压力下的雌性比同等条件下的雄性分泌更多触发化学物质，当切除卵巢（ovaries）消除雌激素影响后两性化学反应立刻相等。这充分且直接地证明了：女性在生理/生物学层面对压力更为脆弱敏感（biologically more vulnerable to stress），替换极具科学概括性。",
+        "vocab": [
+          {
+            "word": "biologically",
+            "ipa": "[ˌbaɪəˈlɒdʒɪkli]",
+            "meaning": "易受…的伤害",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Women are still suffering much stress caused by men.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴与主观歪曲。第1段第1句说的是女性在现代生活某些领域追赶男性（catching up to men），后文指出女性更容易遭受压力的侵袭，但前两段从未提及这些压力是“由男性造成的”（caused by men）。",
+        "vocab": [
+          {
+            "word": "suffering",
+            "ipa": "[ˈsʌfərɪŋ]",
+            "meaning": "遭受",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Women are more experienced than men in coping with stress.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。前两段讨论的是面对压力时的生理激素反应与易感性，只字未提女性在应对压力方面“比男性更有经验”。",
+        "vocab": [
+          {
+            "word": "coping",
+            "ipa": "",
+            "meaning": "应付",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Analysis",
+            "ipa": "[əˈnæləsɪs]",
+            "meaning": "分析",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Men and women show different inclinations when faced with stress.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。前两段论述的是两性面对压力时的生理内分泌与化学反应差异（chemical/biological response），而非心理或行为上的“倾向爱好（inclinations）”。",
+        "vocab": [
+          {
+            "word": "Stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Gender",
+            "ipa": "[ˈdʒendə(r)]",
+            "meaning": "性别",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "inclinations",
+            "ipa": "",
+            "meaning": "倾向",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "susceptible to developing depression ... sex hormones affect stress response, causing females to produce more trigger chemicals": "Women are biologically more vulnerable to stress (对抑郁易感 + 性激素导致女性分泌更多触发化学物质 -> 女性在生理层面对压力更加脆弱)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraphs",
+          "ipa": "",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Dr. Yehuda's research suggests that women _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "need extra doses of chemicals to handle stress.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第3段第1句说的是女性自身体内承受了更高剂量的压力化学物质（increased dose of stress chemicals），并非她们“需要额外剂量的化学药物来应对压力”。",
+        "vocab": [
+          {
+            "word": "doses",
+            "ipa": "",
+            "meaning": "剂量",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "handle",
+            "ipa": "[ˈhænd(ə)l]",
+            "meaning": "应对",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "have limited capacity for tolerating stress.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆/与原文事实直接相反。第3段第4句中耶胡达博士明确指出：'Their capacity for tolerating stress may even be greater than men's'（女性忍受压力的能力甚至可能比男性更强），选项声称其能力有限（limited capacity）与原文截然对立。",
+        "vocab": [
+          {
+            "word": "limited",
+            "ipa": "[ˈlɪmɪtɪd]",
+            "meaning": "有限的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "capacity",
+            "ipa": "[kəˈpæsəti]",
+            "meaning": "能力",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "tolerating",
+            "ipa": "",
+            "meaning": "容忍",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "are more capable of avoiding stress.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。第3段反复强调女性遭遇压力的‘机会’显著增加，处理的事情繁多，并无法回避压力。",
+        "vocab": [
+          {
+            "word": "more",
+            "ipa": "[mɔː(r)]",
+            "meaning": "能够",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "avoiding",
+            "ipa": "",
+            "meaning": "避免",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "are exposed to more stress.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第3段全段围绕耶胡达博士的核心研究发现展开：S1指出女性遭遇压力的‘机会’大大增加（increased 'opportunities' for stress）；S2-S3指出并非女性应对能力差，而是她们‘需要应付的事情实在多得多’（have so much more to cope with）；S4再次强调女性‘需要处理多得多的事情’（dealing with so many more things），从而导致更早耗尽精力。这些多重证据无可辩驳地表明，女性在社会生活现实中面临着更多的压力暴露（are exposed to more stress）。",
+        "vocab": [
+          {
+            "word": "exposed",
+            "ipa": "",
+            "meaning": "接触，面临",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "her increased \"opportunities\" for stress ... have so much more to cope with ... dealing with so many more things": "are exposed to more stress (面对更多遭遇压力的机会 + 需要应付多得多的事情 + 处理多得多的杂务 -> 面临/承受更多的压力)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "According to Paragraph 4, the stress women confront tends to be _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "domestic and temporary.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "反向混淆。第4段第5句确实提到了家庭环境（domestic situations），但后半句立刻强调 'tend not to be one-shot deals' 且在 S2 中指出是 'chronic or repeated'，这表明该压力是长期持续的，绝非暂时的（temporary 与 chronic 语义直接相悖）。",
+        "vocab": [
+          {
+            "word": "domestic",
+            "ipa": "[dəˈmestɪk]",
+            "meaning": "家庭的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "temporary",
+            "ipa": "[ˈtemprəri]",
+            "meaning": "暂时的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "irregular and violent.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴。第4句明确指出遭遇偶发随机暴力（random physical violence）的是‘男性（Men are exposed to...）’，选项将男性的压力特征硬套在女性身上。",
+        "vocab": [
+          {
+            "word": "violent",
+            "ipa": "[ˈvaɪələnt]",
+            "meaning": "暴力的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "durable and frequent.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第4段精准定位：耶胡达在S2指出女性面对的生活事件 'tend to be in more of a chronic or repeated nature'（往往具有更多长期性或反复性的性质），并在S5再次确认 'they tend not to be one-shot deals'（它们往往不是一次性的了结）。chronic（慢性的/长期的）与 durable（持久的/耐用的）完美呼应；repeated（反复的/重现的）与 frequent（频繁的/经常的）精准对应，选项 C 是对原句最高规格的同义改写。",
+        "vocab": [
+          {
+            "word": "durable",
+            "ipa": "[ˈdjʊərəb(ə)l]",
+            "meaning": "长期的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "trivial and random.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "歪曲事实与偷换属性。random 是第4句用来描述男性的偶发暴力；而女性遭受的家庭人际压力在第6句被形容为具有毁灭性（devastating），绝非微不足道的（trivial）。",
+        "vocab": [
+          {
+            "word": "trivial",
+            "ipa": "[ˈtrɪviəl]",
+            "meaning": "琐碎的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "random",
+            "ipa": "[ˈrændəm]",
+            "meaning": "随机的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "more of a chronic or repeated nature ... tend not to be one-shot deals ... longer relationships": "durable and frequent (更具长期性或反复性的特质 + 往往不是一次性的交易 + 长期相处关系 -> 持久的且频繁的)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "stress",
+          "ipa": "[stres]",
+          "meaning": "压力",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "confront",
+          "ipa": "[kənˈfrʌnt]",
+          "meaning": "面对，面临",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "tends",
+          "ipa": "",
+          "meaning": "常常",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "The sentence \"I lived from paycheck to paycheck.\" (Line 6, Para. 5) shows that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Alvarez cared about nothing but making money.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "主观臆断与人格曲解。阿尔瓦雷斯在离婚后作为单亲妈妈艰难求生，拼命工作是为了独自承担抚养儿子、支付房租与车贷的家庭重任，绝非‘除了赚钱什么都不在乎’的拜金主义者。",
+        "vocab": [
+          {
+            "word": "cared",
+            "ipa": "",
+            "meaning": "关心",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "making",
+            "ipa": "",
+            "meaning": "赚钱",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Alvarez's salary barely covered her household expenses.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。结合语境与英语习惯表达，'live from paycheck to paycheck' 是一句极其经典的美国英语日常习语，字面指‘领到这一期的薪水支票就立刻全花光，战战兢兢地苦等下一期支票’，专门用来形容没有储蓄缓冲、收入仅能勉强应付日常基本开销的拮据经济状态。第5段第5句明确罗列了其沉重的开销负担：'pay the rent, pay the car payment, and pay the debt'，这直接印证了选项 B 'Alvarez's salary barely covered her household expenses'（她的薪水勉强只能应付家庭开支）是对该句深层内涵的精准阐释。",
+        "vocab": [
+          {
+            "word": "salary",
+            "ipa": "[ˈsæləri]",
+            "meaning": "薪金",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "barely",
+            "ipa": "[ˈbeəli]",
+            "meaning": "几乎不",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "household",
+            "ipa": "[ˈhaʊshəʊld]",
+            "meaning": "家庭",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "expenses",
+            "ipa": "",
+            "meaning": "开销",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Alvarez got paychecks from different jobs.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "字面陷阱。paycheck to paycheck 指的是时间周期上的衔接（每一期薪水到下一期薪水），而并不是说她兼职多份工作从而获得多张不同的支票。"
+      },
+      {
+        "key": "D",
+        "text": "Alvarez paid practically everything by check.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "字面望文生义。句中的 paycheck 是雇主发放给员工的薪水支票（代指工资），并非指阿尔瓦雷斯在日常消费中‘用支票来支付一切费用’。",
+        "vocab": [
+          {
+            "word": "check",
+            "ipa": "[tʃek]",
+            "meaning": "支票",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "VOCAB",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "lived from paycheck to paycheck ... pay the rent, pay car payment, pay debt": "Alvarez's salary barely covered her household expenses (从薪水支票到薪水支票糊口 -> 薪水仅仅勉强覆盖其家庭各项开支)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "Which of the following would be the best title for the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Strain of Stress: No Way Out?.",
+        "textZh": "压力的紧绷：走投无路？",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "偏离核心主旨。文章最后一段明确呼吁要找到化解疏导压力的有效途径（finding ways to diffuse stress），绝非绝望的‘走投无路（No Way Out）’；且该标题完全缺失了全文最核心的受众主体——‘女性与性别维度’。",
+        "vocab": [
+          {
+            "word": "Strain",
+            "ipa": "[streɪn]",
+            "meaning": "过度紧张；过高的要求或负担",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Stress",
+            "ipa": "[stres]",
+            "meaning": "压力",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Responses to Stress: Gender Difference.",
+        "textZh": "对压力的反应：性别差异",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全与中立弱化。该标题只能涵盖第2段的性激素生理反应差异，无法统摄全文对女性在家庭义务、单亲照护、经济拮据以及人际暴力等社会结构性不平等的沉重控诉与反思。",
+        "vocab": [
+          {
+            "word": "Responses",
+            "ipa": "",
+            "meaning": "反应",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Stress",
+            "ipa": "[stres]",
+            "meaning": "性别",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Stress Analysis: What Chemicals Say.",
+        "textZh": "压力分析：化学物质说明了什么",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。化学物质（chemicals）仅仅是第2段动物与人体实验的微观生理论据，第3至6段全在探讨广泛的社会角色、家庭人际暴力与多重责任。"
+      },
+      {
+        "key": "D",
+        "text": "Gender Inequality: Women Under Stress.",
+        "textZh": "性别不平等：重压之下的女性",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。通篇主旨的高度提炼。文章从第1句现代社会女性追赶男性的不平等大背景破题，指出女性在抑郁和焦虑这一不良类别中‘遥遥领先’；随后两段层层递进揭示：女性不仅在生理上由于激素原因对压力更加敏感脆弱，更在社会现实中承受了极其不平等的超额多重义务（育儿、工作、债务、家庭慢性人际损耗），从而系统性地证明了这绝非单纯的医学问题，而是一场深刻的‘性别不平等’危机。选项 D 准确抓取了‘Gender Inequality’与‘Women Under Stress’两大核心支柱，是全文最完美的宏观标题。"
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "catching up to men ... women ahead in undesirable category ... hormones ... so much more to cope with ... obligations": "Gender Inequality: Women Under Stress (性别不平等：重压之下的女性)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  }
+]

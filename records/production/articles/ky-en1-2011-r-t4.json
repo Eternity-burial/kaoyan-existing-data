@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2011-r-t4",
+  "year": 2011,
+  "textNumber": 4,
+  "title": "The Myth of Glamorous Parenthood: Jennifer Senior's Critique and the Illusion of Celebrity Motherhood",
+  "chineseTitle": "光鲜育儿神话的破灭：反思神圣化生育狂热与名人母职假象",
+  "topic": null,
+  "topicDomain": "社会生活与大众心理学 (Social Psychology & Family Sociology)",
+  "subTopic": "育儿现实困境、密集母职迷思与名人媒体假象批判 (Intensive Mothering, Parenthood Paradox & Media Distortion)",
+  "overview": null,
+  "wordCount": 386,
+  "readingTimeEstimate": "6-8 mins",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Adapted from Slate / New York Magazine (2010)",
+  "paragraphCount": 5,
+  "sentenceCount": 14,
+  "vocabularyCount": 67,
+  "phraseCount": 13,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "育儿的神圣化神话与大众传媒的‘完美母亲’假象：从《我爱我的孩子，我讨厌我的生活》谈起",
+      "subtitle": "密集母职（Intensive Mothering）绑架与名流光环——当真实育儿的琐碎心力交瘁遭遇八卦杂志的虚幻滤镜",
+      "coreNarrative": "2010年，美国知名深度记者詹妮弗·西尼尔（Jennifer Senior）在《纽约》杂志发表轰动一时的封面特写《I Love My Children, I Hate My Life》，公开撕开了现代中产阶级育儿最隐秘的痛苦面纱。在社会狂热神圣化生育的语境中，大众文化将养育子女打造成完全令人满足、丰盈人生的至高体验，任何公开表达后悔或疲惫的声音都会招致毁灭性的道德谴责。与此同时，《People》《Us Weekly》等好莱坞八卦杂志每周都在封面贩卖桑德拉·布洛克、安吉丽娜·朱莉等女星‘光鲜亮丽、零压力’的母职滤镜，声称单身带娃‘小菜一碟’，却隐瞒了幕后全天候保姆团队的支撑。这种极不真实的媒介形象在无意识中深刻扭曲了普通人对育儿的心理预期，使年轻父母在面对真实心力交瘁的日常时产生沉重的负罪感与落差感，也使无子女群体常年遭受‘人生残缺’的隐性社会批评。",
+      "historicalAndEconomicContext": "反映了21世纪初西方社会人口出生率下滑与新保守主义‘育儿狂热’之间的文化冲突。学术界多项实证研究表明：有孩家庭即时幸福感普遍低于无孩夫妇，单亲父母幸福指数最低。但消费主义与名人经济联手打造‘完美圣母’幻象，形成了巨大的社会心理脱节。",
+      "crossExamLinks": "与2008年Text 1（女性压力与家庭分工失衡）、2012年Text 1（从同侪动态看现代生活压力）构成考研英语‘家庭社会学、现代心理焦虑与女性角色’焦点考查链。"
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "家庭社会学、心理认知与大众传媒 (Family Sociology & Media Psychology)",
+      "coreConceptRoots": [
+        {
+          "root": "creat-",
+          "meaning": "创造，生产，生育",
+          "examples": "procreation (生育/生殖), recreation (娱乐/休养), creativity (创造力)"
+        },
+        {
+          "root": "voc- / vok-",
+          "meaning": "声音，呼唤，激起",
+          "examples": "provoke (激起/引发), provocative (煽动性的), advocate (倡导者)"
+        },
+        {
+          "root": "grat- / grac-",
+          "meaning": "感激，高兴，恩惠",
+          "examples": "gratification (满足/令人欣悦之事), gratitude (感激), congratulate (祝贺)"
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "term": "child rearing",
+          "meaning": "抚养子女，生儿育女"
+        },
+        {
+          "term": "past-tense condition",
+          "meaning": "过去式状态，事后回望才呈现的状态"
+        },
+        {
+          "term": "celebrate procreation",
+          "meaning": "热烈赞美生儿育女"
+        },
+        {
+          "term": "baby-size hole",
+          "meaning": "婴儿大小的缺憾/生活空缺"
+        },
+        {
+          "term": "round-the-clock help",
+          "meaning": "全天候全天保姆帮手"
+        }
+      ]
+    }
+  },
+  "rawFields": {
+    "globalId": "2011-Text4"
+  },
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2011.js",
+    "year": 2011,
+    "articleKey": "ky-en1-2011-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+  }
+}

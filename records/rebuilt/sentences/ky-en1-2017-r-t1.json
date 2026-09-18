@@ -1,0 +1,751 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "First two hours, now three hours—this is how far in advance authorities are recommending people show up to catch a domestic flight, at least at some major U.S. airports with increasingly massive security lines.",
+    "translation": "起先两小时，如今三小时——这是官方建议搭乘国内航班的乘客需要提前抵达机场的时间，至少在美国几大主要机场是这样，这些机场的安检队伍越来越长。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句（含同位破折号引述与表语从句）",
+      "mainClause": "this is how far in advance authorities are recommending people show up...",
+      "modifiers": "First two hours, now three hours 作对比时间短语；how far in advance 引导表语从句；to catch a domestic flight 为不定式目的状语；at least at some major U.S. airports 作地点状语，with increasingly massive security lines 作伴随状语修饰 airports。",
+      "corePattern": "this is how + adj./adv. + 从句（这就是……的方式/程度）；in advance（提前）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "Americans are willing to tolerate time-consuming security procedures in return for increased safety.",
+    "translation": "美国人为了换取更多安全愿意忍受费时的安检程序。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The crash of Egypt Air Flight 804, which terrorists may have downed over the Mediterranean Sea, provides another tragic reminder of why.",
+    "translation": "埃及航空804航班疑遭受恐怖分子袭击而坠毁于地中海，这一悲剧再一次提醒人们为什么要安检。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句（含非限制性定语从句与介词宾语从句）",
+      "mainClause": "The crash of Egypt Air Flight 804 provides another tragic reminder of why.",
+      "modifiers": "which 引导非限制性定语从句修饰 Flight 804，从句中 may have downed 为情态动词推测过去发生的动作，over the Mediterranean Sea 作地点状语；why 引导介词 of 的宾语从句（承前省略 people tolerate security checks）。",
+      "corePattern": "provide a reminder of sth.（提醒/警示人们某事）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "But demanding too much of air travelers or providing too little security in return undermines public support for the process.",
+    "translation": "但是对乘客要求太多，或向他们提供的安全保障太少，都会削弱公众对于这一安检程序的支持。",
+    "syntaxAnalysis": {
+      "structureType": "转折并列动名词主语结构",
+      "mainClause": "demanding too much... or providing too little... undermines public support for the process.",
+      "modifiers": "But 表示转折；or 连接两个并列动名词短语 demanding too much of air travelers 与 providing too little security in return 共同作主语；谓语动词 undermines；宾语 public support for the process。",
+      "corePattern": "in return（作为交换/回报）；undermine public support（削弱公众支持）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "And it should: Wasted time is a drag on Americans' economic and private lives, not to mention infuriating.",
+    "translation": "而这是理所当然的，因为浪费时间会拖累美国人民的经济生活和个人生活，更别说还让人恼怒了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "Last year, the Transportation Security Administration (TSA) found in a secret check that undercover investigators were able to sneak weapons—both fake and real—past airport security nearly every time they tried.",
+    "translation": "去年，美国运输安全管理局（TSA）在一次秘密检查中发现，卧底调查员能够携带武器（不管真假）成功通过机场安检，几乎屡试不爽。",
+    "syntaxAnalysis": {
+      "structureType": "复合句（含宾语从句与时间状语从句）",
+      "mainClause": "the TSA found in a secret check that undercover investigators were able to sneak weapons... past airport security...",
+      "modifiers": "Last year 为时间状语；in a secret check 为方式状语；that 引导 found 的宾语从句；破折号 both fake and real 作 weapons 的同位插入语；nearly every time (that) they tried 为省略关系代词的时间状语从句。",
+      "corePattern": "sneak sth. past sb./sth.（将……偷偷带过/溜过）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago's O'Hare International.",
+    "translation": "自那以后安全措施加强，加上航空旅行人数因为经济好转和低油价上升，导致芝加哥奥黑尔国际机场等主要机场等候时间过长。",
+    "syntaxAnalysis": {
+      "structureType": "复合句（主干+过去分词伴随状语+原因状语）",
+      "mainClause": "Enhanced security measures... have resulted in long waits at major airports...",
+      "modifiers": "since then 作时间后置定语；combined with... 作伴随状语，其后 due to... 作原因状语修饰 rise in airline travel；such as 举例短语修饰 airports。",
+      "corePattern": "combined with（与……结合/加上）；result in（导致/造成）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "It is not yet clear how much more effective airline security has become—but the lines are obvious.",
+    "translation": "航空安检的有效性提升了多少尚不清楚——但是安检队伍变长是显而易见的。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line.",
+    "translation": "部分问题在于，政府没有预料到航空旅行人数会大幅增加，因此运输安全管理局正在加紧招募新的机场安检员。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句（表语从句+因果并列分句）",
+      "mainClause": "Part of the issue is that..., so the TSA is now rushing to get new screeners on the line.",
+      "modifiers": "that 引导表语从句说明问题根源；so 引导因果并列分句；rushing to get new screeners 为固定搭配短语。",
+      "corePattern": "Part of the issue is that...（部分问题在于……）；rush to do sth.（加紧/急忙做某事）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "Part of the issue is that airports have only so much room for screening lanes.",
+    "translation": "部分问题在于，机场用于设置安检通道的空间有限。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this.",
+    "translation": "另一个原因可能是，越来越多的人为了避免支付托运行李费，试图把随身行李塞得过满，不过航空公司对此说法强烈否认。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "There is one step the TSA could take that would not require remodeling airports or rushing to hire: Enroll more people in the PreCheck program.",
+    "translation": "TSA可以采取一项措施，且不需要改造机场或急聘员工：那就是将更多人纳入预安检计划。",
+    "syntaxAnalysis": {
+      "structureType": "there be 存在句+双重定语从句+冒号解释",
+      "mainClause": "There is one step: Enroll more people in the PreCheck program.",
+      "modifiers": "(that) the TSA could take 为省略连接词的限制性定语从句修饰 step；that would not require... 为第二个定语从句修饰 step；remodeling 和 rushing 为 require 的并列动名词宾语；冒号后为祈使句同位语。",
+      "corePattern": "take a step（采取措施）；require doing sth.（需要做某事）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "PreCheck is supposed to be a win-win for travelers and the TSA.",
+    "translation": "预安检对于旅客和TSA来说本该是双赢。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "Passengers who pass a background check are eligible to use expedited screening lanes.",
+    "translation": "通过了背景调查的旅客有资格使用快速安检通道。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "This allows the TSA to focus on travelers who are higher risk, saving time for everyone involved.",
+    "translation": "这也能让TSA集中检查“高危”旅客，为所有相关人员节省时间。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P5-S5",
+      "pIndex": 5
+    },
+    "text": "TSA wants to enroll 25 million people in PreCheck.",
+    "translation": "TSA计划将2500万人纳入预安检计划。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "It has not gotten anywhere close to that, and one big reason is sticker shock: Passengers must pay $85 every five years to process their background checks.",
+    "translation": "我们离这目标还很远，一大原因就是标价冲击波：乘客每五年必须缴纳85美元才能进行背景调查。",
+    "syntaxAnalysis": {
+      "structureType": "并列复合句+冒号同位阐述",
+      "mainClause": "It has not gotten anywhere close to that, and one big reason is sticker shock...",
+      "modifiers": "and 连接两个并列分句；anywhere close to that 作状语；冒号后完整分句对 sticker shock 作进一步同位解释。",
+      "corePattern": "not get anywhere close to（远未达到/接近）；sticker shock（高价震惊/标价冲击）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "Since the beginning, this price tag has been PreCheck's fatal flaw.",
+    "translation": "从一开始，这个标价就一直是预安检项目的致命弱点。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "Upcoming reforms might bring the price to a more reasonable level.",
+    "translation": "即将进行的改革可能会使价格降低至更合理的水平。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P6-S4",
+      "pIndex": 6
+    },
+    "text": "But Congress should look into doing so directly, by helping to finance PreCheck enrollment or to cut costs in other ways.",
+    "translation": "但是国会应该考虑通过向预安检注册提供资金或是在其他方面削减开支，来直接降低价格。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "The TSA cannot continue diverting resources into underused PreCheck lanes while most of the traveling public suffers in unnecessary lines.",
+    "translation": "TSA不该一边继续将资源投入到未充分利用的预安检通道上，一边让大多数旅客在不必要的排队中受苦。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句（含 while 对比状语从句）",
+      "mainClause": "The TSA cannot continue diverting resources into underused PreCheck lanes...",
+      "modifiers": "diverting resources into... 为 continue 的动名词宾语；while 引导对比状语从句，表达“一边……而另一边却……”的反差。",
+      "corePattern": "divert A into B（将A转向/转移到B）；while（强对比连词）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2017-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 2,
+      "ps": "P7-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P7-S2",
+      "pIndex": 7
+    },
+    "text": "It is long past time to make the program work.",
+    "translation": "早就该让预安检计划发挥作用了。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true,
+      "isUnderlined": false,
+      "underlinedPhrases": []
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2017_t1.json",
+      "year": 2017,
+      "articleKey": "ky-en1-2017-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:4e39837cf22e822791fa7dfedfd79852035608b077d87e0341724289e1acd700"
+    }
+  }
+]

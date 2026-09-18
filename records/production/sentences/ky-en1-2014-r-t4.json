@@ -1,0 +1,377 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "\"The Heart of the Matter,\" the just-released report by the American Academy of Arts and Sciences (AAAS), deserves praise for affirming the importance of the humanities and social sciences to the prosperity and security of liberal democracy in America.",
+    "translation": "美国人文与科学院（AAAS）刚刚发布的报告《问题的核心》值得称赞，因为它肯定了人文科学与社会科学对美国自由民主政体的繁荣与安全所具有的重要意义。",
+    "syntaxAnalysis": "主干为 \"The Heart of the Matter\" deserves praise for affirming...。the just-released report by the American Academy of Arts and Sciences (AAAS) 为主语的同位语；for affirming the importance of A to B 为介词短语作原因状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Regrettably, however, the report's failure to address the true nature of the crisis facing liberal education may cause more harm than good.",
+    "translation": "然而，令人遗憾的是，该报告未能直面通识教育所面临危机的真实本质，这可能会带来弊大于利的结果。",
+    "syntaxAnalysis": "转折主从结构。however 作副词插入语；主语为 the report's failure to address the true nature of the crisis facing liberal education（facing liberal education 为现在分词短语作后置定语修饰 crisis）；谓语为 may cause，宾语为 more harm than good。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "In 2010, leading congressional Democrats and Republicans sent letters to the AAAS asking that it identify actions that could be taken by \"federal, state and local governments, universities, foundations, educators, individual benefactors and others\" to \"maintain national excellence in humanities and social scientific scholarship and education.\"",
+    "translation": "2010年，美国国会两党领袖联名致信美国人文与科学院，要求其明确指出可由“联邦、州和地方政府、高校、基金会、教育工作者、个人捐助者以及其他群体”采取的具体行动，以此“维护国家在人文与社会科学学术研究和教育领域的卓越领先地位”。",
+    "syntaxAnalysis": "主从复合句。主句为 leading congressional Democrats and Republicans sent letters to the AAAS；asking that... 为现在分词短语作伴随状语，that 引导的宾语从句中使用虚拟语气 (asking that it [should] identify actions)；that could be taken by... 为定语从句修饰 actions；to maintain... 为目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "In response, the American Academy formed the Commission on the Humanities and Social Sciences.",
+    "translation": "作为回应，美国人文与科学院成立了人文与社会科学委员会。",
+    "syntaxAnalysis": "简单句。In response 为状语；主语 the American Academy，谓语 formed，宾语 the Commission on the Humanities and Social Sciences。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "Among the commission's 51 members are top-tier university presidents, scholars, lawyers, judges, and business executives, as well as prominent figures from diplomacy, filmmaking, music and journalism.",
+    "translation": "在该委员会的51名成员中，汇集了顶尖大学的校长、学者、律师、法官和企业高管，以及来自外交、电影制作、音乐和新闻界的杰出知名人物。",
+    "syntaxAnalysis": "完全倒装句。介词短语 Among the commission's 51 members 提前置于句首，系动词 are 位于主语之前；真正主语为并列名词短语 top-tier university presidents... as well as prominent figures...。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "The goals identified in the report are generally admirable.",
+    "translation": "该报告中所确立的目标总体上是值得赞赏的。",
+    "syntaxAnalysis": "简单句。主语 The goals，identified in the report 为过去分词短语作后置定语；系动词 are，表语 generally admirable。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 7
+    },
+    "text": "Because representative government presupposes an informed citizenry, the report supports full literacy; stresses the study of history and government, particularly American history and American government; and encourages the use of new digital technologies.",
+    "translation": "鉴于代议制政府以具备充分知情素养的公民为前提条件，该报告倡导普及全面识字与人文通识教育；强调历史与政治制度的学习，尤其是对美国历史与美国政府体制的研究；并鼓励新兴数字技术的应用。",
+    "syntaxAnalysis": "主从复合句。Because representative government presupposes an informed citizenry 为原因状语从句；主句由 the report 统领三个由分号隔开的并列谓语结构：supports full literacy、stresses the study of...、encourages the use of...。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 8
+    },
+    "text": "To encourage innovation and competition, the report calls for increased investment in research, the crafting of coherent curricula that improve students' ability to solve problems and communicate effectively in the 21st century, increased funding for teachers and the encouragement of scholars to bring their learning to bear on the great challenges of the day.",
+    "translation": "为激励创新与竞争力，报告呼吁加大对科研的投入，精心打磨连贯系统的课程体系以提升学生在21世纪有效解决问题与沟通交流的能力，增加对教师的资金扶持，并鼓励学者们将学术成果应用于应对当今时代的重大挑战。",
+    "syntaxAnalysis": "复合句。To encourage innovation and competition 为目的状语；calls for 后接四个并列宾语短语；that improve... 为定语从句修饰 coherent curricula；bring their learning to bear on 为固定搭配，意为‘将所学应用于应对…’。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 9
+    },
+    "text": "The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs.",
+    "translation": "报告还提倡加大对外语和国际事务的学习研究，并进一步扩大海外留学项目的规模。",
+    "syntaxAnalysis": "简单句。主干 The report also advocates greater study of... and the expansion of...。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 10
+    },
+    "text": "Unfortunately, despite 2.5 years in the making, \"The Heart of the Matter\" never gets to the heart of the matter: the illiberal nature of liberal education at our leading colleges and universities.",
+    "translation": "不幸的是，尽管历经两年半的精心研制，《问题的核心》却始终未能触及问题的真正核心：那就是全美顶尖院校通识自由教育中所存在的“非自由本质”。",
+    "syntaxAnalysis": "主从复合句。despite 2.5 years in the making 为介词短语作让步状语；主干为 \"The Heart of the Matter\" never gets to the heart of the matter；冒号后 the illiberal nature of liberal education... 为同位语解释后一个 the heart of the matter。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 11
+    },
+    "text": "The commission ignores that for several decades America's colleges and universities have produced graduates who don't know the content and character of liberal education and are thus deprived of its benefits.",
+    "translation": "委员会忽视了这样一个事实：几十年来，美国的高等院校培养出的大批毕业生既不了解通识教育的内涵与特质，因而也无法真正从中受益。",
+    "syntaxAnalysis": "主从复合句。The commission ignores that... 中 that 引导宾语从句；从句中 who don't know... and are thus deprived of its benefits 为定语从句修饰 graduates。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 12
+    },
+    "text": "Sadly, the spirit of inquiry once at home on campus has been replaced by the use of the humanities and social sciences as vehicles for publicizing \"progressive,\" or left-liberal propaganda.",
+    "translation": "令人痛心的是，曾经在大学校园里深植人心的求索探究精神，已经被一种将人文与社会科学视作宣扬“激进主义”或左翼自由主义意识形态工具的行径所取代。",
+    "syntaxAnalysis": "简单句。主语 the spirit of inquiry，once at home on campus 为后置定语；谓语 has been replaced by，宾语 the use of the humanities and social sciences as vehicles for publicizing...",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 13
+    },
+    "text": "Today, professors routinely treat the progressive interpretation of history and progressive public policy as the proper subject of study while portraying conservative or classical liberal ideas — such as free markets and self-reliance — as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation.",
+    "translation": "如今，大学教授们习以为常地将对历史的激进主义解读与激进公共政策视为唯一正当合法的学术研究对象，却将保守主义或古典自由主义思想——诸如自由市场与自力更生等观念——描绘为超越了常规学术研究、有时甚至是超出合法合规学术探究边界的异类。",
+    "syntaxAnalysis": "对比复合结构。主句主干 professors routinely treat A as B (treat the progressive interpretation... as the proper subject)；while portraying C as D 为伴随对比状语；破折号中 such as free markets and self-reliance 为举例说明。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 14
+    },
+    "text": "The AAAS displays great enthusiasm for liberal education.",
+    "translation": "美国人文与科学院确实对通识人文教育表现出了极大的热情。",
+    "syntaxAnalysis": "简单句。主干 The AAAS displays great enthusiasm for liberal education。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2014-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 15
+    },
+    "text": "Yet its report may well set back reform by obscuring the depth and breadth of the challenge that Congress asked it to illuminate.",
+    "translation": "然而，该报告通过掩盖国会当初要求其予以阐明的挑战的深度与广度，极有可能反而阻碍了真正的教育改革步伐。",
+    "syntaxAnalysis": "主从复合句。Yet 引导转折；主干 its report may well set back reform；by obscuring the depth and breadth of the challenge 为方式状语；that Congress asked it to illuminate 为定语从句修饰 the challenge。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2014.js",
+      "year": 2014,
+      "articleKey": "ky-en1-2014-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:5bc0d3d169c0da3c41f668e6e43d23decc77624885efed9ff257ddfaaab52759"
+    }
+  }
+]

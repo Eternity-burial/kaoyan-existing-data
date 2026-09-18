@@ -1,0 +1,427 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom—or at least confirm that he's the kid's dad.",
+    "translation": "莎士比亚戏剧中曾说“再聪明的父亲也未必了解自己的孩子”，但如今的男性却可以大大提高其身为人父的知情智慧——或者至少能够确认自己确实就是孩子的亲生父亲。",
+    "syntaxAnalysis": "并列复合句。前分句引用谚语 It is a wise father that knows his own child（强调句型化用谚语，意为‘聪明的父亲才会了解自己的孩子’）；转折词 but；后分句主语 a man；情态动词复合谓语 can boost... or confirm...；that 引导宾语从句 that he's the kid's dad；破折号后为递进补充说明。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore—and another $120 to get the results.",
+    "translation": "他所需要做的全部事情，仅仅是去当地药店花30美元购买一套亲子鉴定试剂盒（PTK）——然后再支付120美元即可获取最终鉴定结果。",
+    "syntaxAnalysis": "主系表结构。主语 All (that) he needs to do 为包含定语从句的名词性结构；系动词 is；表语为省去 to 的不定式 shell out $30...；介词短语 for a PTK at his local drugstore 作目的和地点状语；破折号后 and another $120 to get the results 为并列成分补充说明。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "More than 60,000 people have purchased the PTKs since they first became available without prescriptions last year, according to Doug Fogg, chief operating officer of Identigene, which makes the over-the-counter kits.",
+    "translation": "生产这种非处方试剂盒的Identigene公司首席运营官道格·福格表示，自去年PTK试剂盒首次无需医生处方即可购买以来，已有超过6万人购买了这种产品。",
+    "syntaxAnalysis": "复合句+插入语。主语 More than 60,000 people；谓语 have purchased；宾语 the PTKs；时间状语从句 since they first became available without prescriptions last year；according to Doug Fogg 为来源引语；chief operating officer 为同位语；which 引导非限制性定语从句修饰 Identigene。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "More than two dozen companies sell DNA tests directly to the public, ranging in price from a few hundred dollars to more than $2500.",
+    "translation": "目前有二十多家商业公司直接面向公众销售DNA检测服务，价格从几百美元到2500多美元不等。",
+    "syntaxAnalysis": "简单句+伴随状语。主语 More than two dozen companies；谓语 sell；宾语 DNA tests；状语 directly to the public；现在分词短语 ranging in price from... to... 作伴随状语补充说明价格区间。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Among the most popular: paternity and kinship testing, which adopted children can use to find their biological relatives and families can use to track down kids put up for adoption.",
+    "translation": "其中最受欢迎的检测项目是：亲子鉴定与亲属关系鉴定，被领养的儿童可以借助它寻找自己的亲生血亲，而家庭也可以借此寻获当年被送养的孩子。",
+    "syntaxAnalysis": "倒装句与定语从句。Among the most popular 为介词短语置于句首充当表语，冒号后列举主语 paternity and kinship testing；which 引导非限制性定语从句修饰 testing，从句内部包含两个由 and 连接的并列分句（adopted children can use... and families can use...）；put up for adoption 为过去分词短语作后置定语修饰 kids。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "DNA testing is also the latest rage among passionate genealogists—and supports businesses that offer to search for a family's geographic roots.",
+    "translation": "DNA检测也是狂热家谱研究者中最新兴起的一股热潮——并且催生了那些专门提供追溯家族地理起源服务的商业机构。",
+    "syntaxAnalysis": "并列谓语结构。主语 DNA testing；副词 also；谓语1系表结构 is the latest rage among...（the latest rage 意为‘最新的狂热时尚’）；破折号后谓语2 supports；宾语 businesses；that 引导限制性定语从句修饰 businesses，从句中 search for a family's geographic roots 为动词短语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Most tests require collecting cells by swabbing saliva in the mouth and sending it to the company for testing.",
+    "translation": "绝大多数检测都只需通过在口腔内涂抹擦拭采集唾液中的细胞，然后将样本寄送给检测公司即可。",
+    "syntaxAnalysis": "主谓宾句。主语 Most tests；谓语 require；宾语为动名词短语 collecting cells... and sending it...；方式状语 by swabbing saliva in the mouth；目的状语 for testing。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "All tests require a potential candidate with whom to compare DNA.",
+    "translation": "但所有检测都需要一个可供比对DNA的潜在人选。",
+    "syntaxAnalysis": "简单句+定语短语。主语 All tests；谓语 require；宾语 a potential candidate；介词+关系代词+不定式短语 with whom to compare DNA 作后置定语修饰 candidate。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "But some observers are skeptical.",
+    "translation": "然而，一些敏锐的观察人士对此却持深度怀疑态度。",
+    "syntaxAnalysis": "主系表结构。转折词 But；主语 some observers；系动词 are；表语 skeptical。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"There is a kind of false precision being hawked by people claiming they are doing ancestry testing,\" says Troy Duster, a New York University sociologist.",
+    "translation": "纽约大学社会学家特洛伊·达斯特指出：“那些声称自己在开展祖源检测的人，正在向公众兜售一种虚假的精确性。”",
+    "syntaxAnalysis": "引语倒装句。引语为主干 There is a kind of false precision，现在分词短语 being hawked by people... 作后置定语，claiming they are doing ancestry testing 为现在分词短语修饰 people；主句谓语 says；主语 Troy Duster；a New York University sociologist 为同位语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "He notes that each individual has many ancestors—numbering in the hundreds just a few centuries back.",
+    "translation": "他指出，每个人都有许许多多的祖先——仅仅往前回溯几个世纪，祖先的数量就多达数百人。",
+    "syntaxAnalysis": "主从复合句。主语 He；谓语 notes；that 引导宾语从句；从句主干 each individual has many ancestors；破折号后 numbering in the hundreds... 为现在分词短语作补充状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Yet most ancestry testing only considers a single lineage, either the Y chromosome inherited through men in a father's line or mitochondrial DNA, which is passed down only from mothers.",
+    "translation": "然而绝大多数祖源检测仅仅考虑单一的一条谱系，要么是通过父系男性遗传的Y染色体，要么是仅由母亲世代相传的线粒体DNA。",
+    "syntaxAnalysis": "转折复合句。连词 Yet；主语 most ancestry testing；状语 only；谓语 considers；宾语 a single lineage；同位语结构 either the Y chromosome inherited through men... or mitochondrial DNA；which 引导非限制性定语从句修饰 mitochondrial DNA。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "This DNA can reveal genetic information about only one or two ancestors, even though, for example, just three generations back people also have six other great-grandparents or, four generations back, 14 other great-great-grandparents.",
+    "translation": "这种DNA检测仅仅能揭示一两位祖先的基因信息，尽管例如在仅仅三代之前，人们就另外拥有6位曾祖父母；而在四代之前，还拥有其他14位高祖父母。",
+    "syntaxAnalysis": "复合句。主语 This DNA；情态动词复合谓语 can reveal；宾语 genetic information about only one or two ancestors；even though 引导让步状语从句；for example 为插入语；从句中 people also have 引导两个并列时间状语与宾语对比结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared.",
+    "translation": "批评人士还指出，商业基因检测的水准优劣，完全取决于样本与之进行比对的参照数据库的质量。",
+    "syntaxAnalysis": "主从复合句。主语 Critics；副词 also；谓语 argue；that 引导宾语从句；从句中 is only as good as... 表示‘仅与……一样好/完全受限于……’；to which a sample is compared 为介词+关系代词引导的定语从句修饰 reference collections。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects.",
+    "translation": "某些检测公司所使用的数据库并非建立在系统采集的数据之上，而是将来自不同科研项目的信息杂乱地拼凑堆砌在一起。",
+    "syntaxAnalysis": "主谓宾句。主语 Databases，used by some companies 为过去分词短语作后置定语；并列谓语结构 don't rely on... but rather lump together...；collected systematically 为过去分词短语修饰 data；lump together 表示把不同来源杂乱归拢在一起。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results.",
+    "translation": "这就意味着，一个DNA数据库可能包含大量来自某些地区的数据而几乎没有其他地区的数据，因此一个人的检测结果可能会因处理该结果的公司不同而大相径庭。",
+    "syntaxAnalysis": "复杂并列复合句。主语 This；谓语 means；that 引导宾语从句；从句内包含 so 连接的结果并列句；分句1 a DNA database may have...；分句2 a person's test results may differ；depending on 为分词短语作条件状语；that processes the results 为定语从句修饰 the company。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2009-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "In addition, the computer programs a company uses to estimate relationships may be patented and not subject to peer review or outside evaluation.",
+    "translation": "此外，检测公司用来评估亲属关系的计算机算法软件可能已经申请了专利保护，因而完全不需要接受同行评议或任何外部独立评估。",
+    "syntaxAnalysis": "主谓并列结构。连接短语 In addition；主语 the computer programs；a company uses to estimate relationships 为省略了关系代词 that/which 的定语从句；并列谓语 may be patented and (may be) not subject to peer review or outside evaluation（be subject to 意为‘受……支配/接受……’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2009.js",
+      "year": 2009,
+      "articleKey": "ky-en1-2009-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:08bde8bd807183e568a67d4e4b9dedf0d8402351bcba96d6fe21508ba99bab89"
+    }
+  }
+]

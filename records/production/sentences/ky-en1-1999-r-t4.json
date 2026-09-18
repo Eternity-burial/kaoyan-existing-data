@@ -1,0 +1,392 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "When a Scottish research team startled the world by revealing 3 months ago that it had cloned an adult sheep, President Clinton moved swiftly.",
+    "translation": "当苏格兰研究小组三个月前宣布克隆出一只成年绵羊时，震惊了世界，克林顿总统迅速采取了行动。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "Declaring that he was opposed to using this unusual animal husbandry technique to clone humans, he ordered that federal funds not be used for such an experiment—although no one had proposed to do so—and asked an independent panel of experts chaired by Princeton President Harold Shapiro to report back to the White House in 90 days with recommendations for a national policy on human cloning.",
+    "translation": "他宣称反对使用这种不寻常的畜牧技术来克隆人类，并下令联邦资金不得用于此类实验（尽管没有人提议这样做），并要求由普林斯顿大学校长哈罗德·夏皮罗（Harold Shapiro）担任主席的独立专家小组在 90 天内向白宫报告，并提出有关人类克隆的国家政策的建议。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "That group—the National Bioethics Advisory Commission (NBAC)—has been working feverishly to put its wisdom on paper, and at a meeting on 17 May, members agreed on a near-final draft of their recommendations.",
+    "translation": "该组织——国家生物伦理咨询委员会 (NBAC)——一直在积极努力将其智慧写在纸上，在 5 月 17 日的会议上，成员们就其建议的近乎最终草案达成了一致。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 4,
+      "ps": "P1-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P1-S4",
+      "pIndex": 1
+    },
+    "text": "NBAC will ask that Clinton's 90-day ban on federal funds for human cloning be extended indefinitely, and possibly that it be made law.",
+    "translation": "NBAC 将要求无限期延长克林顿禁止联邦资金用于人类克隆的 90 天禁令，并可能将其立法。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "But NBAC members are planning to word the recommendation narrowly to avoid new restrictions on research that involves the cloning of human DNA or cells—routine in molecular biology.",
+    "translation": "但 NBAC 成员计划对建议的措辞进行狭义化，以避免对涉及人类 DNA 或细胞克隆（分子生物学中的常规）的研究施加新的限制。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "The panel has not yet reached agreement on a crucial question, however, whether to recommend legislation that would make it a crime for private funding to be used for human cloning.",
+    "translation": "然而，该小组尚未就一个关键问题达成一致，即是否建议立法将私人资金用于人类克隆定为犯罪行为。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "In a draft preface to the recommendations, discussed at the 17 May meeting, Shapiro suggested that the panel had found a broad consensus that it would be \"morally unacceptable to attempt to create a human child by adult nuclear cloning.\" Shapiro explained during the meeting that the moral doubt stems mainly from fears about the risk to the health of the child.",
+    "translation": "在 5 月 17 日会议上讨论的建议序言草案中，夏皮罗表示，该小组已达成广泛共识，即“试图通过成人核克隆创造人类儿童在道德上是不可接受的”。夏皮罗在会议上解释说，道德怀疑主要源于对孩子健康风险的担忧。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "The panel then informally accepted several general conclusions, although some details have not been settled.",
+    "translation": "随后，专家组非正式地接受了几项一般性结论，但一些细节尚未确定。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "NBAC plans to call for a continued ban on federal government funding for any attempt to clone body cell nuclei to create a child.",
+    "translation": "NBAC 计划呼吁继续禁止联邦政府资助任何克隆体细胞核来创造孩子的尝试。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "Because current federal law already forbids the use of federal funds to create embryos (the earliest stage of human offspring before birth) for research or to knowingly endanger an embryo's life, NBAC will remain silent on embryo research.",
+    "translation": "由于现行联邦法律已经禁止使用联邦资金来创造胚胎（人类后代出生前的最早阶段）用于研究或故意危及胚胎的生命，NBAC 将对胚胎研究保持沉默。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "NBAC members also indicated that they would appeal to privately funded researchers and clinics not to try to clone humans by body cell nuclear transfer.",
+    "translation": "NBAC成员还表示，他们将呼吁私人资助的研究人员和诊所不要试图通过体细胞核移植来克隆人类。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "But they were divided on whether to go further by calling for a federal law that would impose a complete ban on human cloning.",
+    "translation": "但他们对于是否进一步呼吁制定联邦法律全面禁止人类克隆存在分歧。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-1999-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "Shapiro and most members favored an appeal for such legislation, but in a phone interview, he said this issue was still \"up in the air\".",
+    "translation": "夏皮罗和大多数成员赞成呼吁此类立法，但他在电话采访中表示，这个问题仍然“悬而未决”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_1999.js",
+      "year": 1999,
+      "articleKey": "ky-en1-1999-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:b1b48836140e58e97dfb702b0e6e3f26fd04e6d5b05afeb37a812d2d6474245a"
+    }
+  }
+]

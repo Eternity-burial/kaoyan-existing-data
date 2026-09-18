@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2010-r-t2",
+  "year": 2010,
+  "textNumber": 2,
+  "title": "The Federal Circuit and Business-Method Patents Controversy",
+  "chineseTitle": "联邦巡回法院与商业方法专利争议：比尔斯基案司法大转向",
+  "topic": null,
+  "topicDomain": "商经政法",
+  "subTopic": "知识产权法与商业垄断规制",
+  "overview": null,
+  "wordCount": 435,
+  "readingTimeEstimate": "8-10 min",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "The Wall Street Journal / Legal Analysis Report",
+  "paragraphCount": 5,
+  "sentenceCount": 18,
+  "vocabularyCount": 18,
+  "phraseCount": 11,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "专利制度异化：当商业模式变成了垄断武器",
+      "subtitle": "从 State Street Bank 的专利狂欢到 Bilski 案的司法急刹车",
+      "coreNarrative": "这篇文章探讨了美国知识产权历史上最具震撼性的法律转向之一——商业方法专利（Business-Method Patents）的兴衰。在传统专利法中，专利仅授予实体性的工业制造与技术发明。然而在1998年，美国联邦巡回上诉法院在著名的‘道富银行案’（State Street Bank case）中做出了激进判决，裁定只要一种纯粹的商业运作方法、金融算账流程能产生‘实用、具体和有形的结果’，就同样可以获得专利保护。这一判决打开了潘多拉魔盒，恰逢互联网泡沫初起，引发了全行业的‘圈地运动’（patent rush）：亚马逊为‘一键下单’申请专利并起诉巴诺书店，美林证券为资产配置策略申请垄断，甚至有人为抬箱子的姿势申请专利。各大科技巨头（如IBM）陷入了囚徒困境——即使自己深知其荒谬，也不得不抢先囤积数百项专利以防被对手‘先发制人（beat them to the punch）’打侵权官司。直到2008年‘比尔斯基案’（In re Bilski），司法界终于忍无可忍，联邦巡回法院破天荒召集全体12名法官全庭审理，彻底拉响了遏制无序商业专利的司法急刹车警报。",
+      "theBilskiDoctrineExplained": "比尔斯基案的核心争端是一项‘在能源市场进行商品价格对冲交易的纯数学与商业流程’。最高专利法院借该案重新确立了‘机器或转化测试法’（Machine-or-Transformation Test）：一项方法若想获得专利授权，要么必须与特定机器设备挂钩，要么必须将某种物质转化为不同的状态。这一判决彻底终结了‘只要动动嘴皮子想个商业点子就能独占暴利’的荒诞年代，重塑了全球科技与商业竞争规则。",
+      "crossExamLinks": [
+        {
+          "year": "2013 Text 3",
+          "theme": "生物医药基因专利的垄断与公众伦理之争",
+          "relevance": "同样探讨专利法边界扩张对社会公益与行业创新的反噬"
+        },
+        {
+          "year": "2006 Text 3",
+          "theme": "企业海洋勘探与技术垄断策略",
+          "relevance": "探讨大企业在法律模糊地带利用知识产权建立护城河的商业动机"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "商经政法 · 知识产权与商业法",
+      "coreConceptRoots": [
+        {
+          "root": "jur- / judic-",
+          "meaning": "法律，判断",
+          "words": [
+            "jurisdiction (司法权)",
+            "judicial (司法的)",
+            "precedent (判例)",
+            "judiciary (司法系统)"
+          ]
+        },
+        {
+          "root": "clud- / clus-",
+          "meaning": "关闭，排他",
+          "words": [
+            "exclusive (独有的)",
+            "exclude (排除)",
+            "conclude (下结论)"
+          ]
+        },
+        {
+          "root": "tend- / tens-",
+          "meaning": "延伸，紧张",
+          "words": [
+            "contend (争夺/主张)",
+            "extend (延伸)",
+            "intense (激烈的)"
+          ]
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "word": "patent",
+          "pos": "n./v.",
+          "meaning": "专利；取得专利",
+          "examTips": "考研政法核心，常与 issue, grant, revoke, infringe 连用"
+        },
+        {
+          "word": "ruling",
+          "pos": "n.",
+          "meaning": "裁决，判决",
+          "examTips": "法院官方判决名词，近义词 verdict, judgment"
+        },
+        {
+          "word": "curb",
+          "pos": "v./n.",
+          "meaning": "限制，遏制",
+          "examTips": "考研高频动词，常与政策、监管收紧搭配"
+        },
+        {
+          "word": "exclusive",
+          "pos": "adj.",
+          "meaning": "独家的，独享垄断的",
+          "examTips": "商业竞争核心词，常与 rights, license 搭配"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2010_t2.json",
+    "year": 2010,
+    "articleKey": "ky-en1-2010-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:747c7707bc35e6a803363f8b16649928678312155b0268290179267e90a1715f"
+  }
+}

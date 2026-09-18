@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2013-r-t3",
+  "year": 2013,
+  "textNumber": 3,
+  "title": "A Long-Term Vision for Humanity: The Deep Future",
+  "chineseTitle": "深层未来视角下的人类命运与长远乐观主义",
+  "topic": null,
+  "topicDomain": "前沿科学与人类未来学",
+  "subTopic": "破除当下末日悲观情绪、立足地质演化与历史大规律审视人类前景",
+  "overview": null,
+  "wordCount": 425,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自 New Scientist《The deep future: Why human extinction is not inevitable》",
+  "paragraphCount": 7,
+  "sentenceCount": 19,
+  "vocabularyCount": 66,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "20世纪中叶以前，受启蒙运动与工业革命推动，人类对未来的预期普遍充斥着科技乌托邦式的狂热乐观（glowingly positive），坚信科技能攻克一切疾苦。然而，冷战核阴云、小行星威胁、全球流感肆虐以及气候变暖等环境危机，促使社会思潮走向另一极端——末日悲观论（apocalyptic gloominess）盛行，人们甚至怀疑人类即将走向灭绝。本文作者反驳了这种短视的悲观论调，引入地质学与古生物学的‘深层时间’（Deep Time）和‘深层未来’（Deep Future）视域。从数百万年的物种演化史来看，智人分布极广、适应力超强，在自然保护联盟（IUCN）红名单中被列为‘无危（Least Concern）’。只要从历史长期模式中汲取智慧，人类不仅能延续生存，更能主动规避灾害、持续改善后代福祉。",
+      "coreDisputeOrTheme": "文章的核心议题是对当下末日悲观主义的纠偏与证伪。作者通过对比‘近期未来’（即期技术与社会后果极度复杂混沌）与‘深层未来’（长远规律清晰可循），指出当前的末日恐慌只是一股‘短暂的风潮（passing fad）’。过去掌握着通往未来的钥匙，立足演化历史的大规律，人类完全有能力基于证据预测风险，确保种族的持久延续与光明前景。",
+      "keyTerminology": [
+        {
+          "term": "Deep Future",
+          "explanation": "深层未来：以数千年至数十万年为时间尺度的长远未来演化视角，摆脱近期技术波动的干扰。"
+        },
+        {
+          "term": "Homo sapiens",
+          "explanation": "智人：现代人类的学名，在生物分类学上具有分布极广、适应性极强的显著演化特征。"
+        },
+        {
+          "term": "IUCN Red List (Least Concern)",
+          "explanation": "世界自然保护联盟濒危物种红色名录：评估物种灭绝风险的权威体系；'Least Concern'（无危）代表分布广、数量稳健、无灭绝威胁。"
+        },
+        {
+          "term": "Long Now Foundation",
+          "explanation": "恒今基金会：致力于推动人类关注长远万年尺度、抵制短视文化的著名智库，其代表作即为万年机械钟。"
+        },
+        {
+          "term": "Evidence-Based Forecasts",
+          "explanation": "基于证据的预测：立足地球与人类演化的长期客观规律，而非主观臆想得出的科学推测。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "科学未来学与生物演化 (Futurology & Evolutionary Biology)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "fore- (在先/预先)",
+          "examples": [
+            "forecast (预测/预报)",
+            "foresee (预见)",
+            "forefathers (先辈)"
+          ]
+        },
+        {
+          "affix": "mis- (错误/不当)",
+          "examples": [
+            "misplaced (被错置的/不合时宜的)",
+            "misconception (误解)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "未来愿景与社会情绪",
+          "words": [
+            "visions",
+            "utopia",
+            "gloominess",
+            "prospects",
+            "rosy",
+            "passing fad"
+          ]
+        },
+        {
+          "theme": "生存演化与物种保护",
+          "words": [
+            "fossil record",
+            "endured",
+            "Homo sapiens",
+            "Least Concern",
+            "adaptable",
+            "descendants"
+          ]
+        },
+        {
+          "theme": "时间尺度与科学预测",
+          "words": [
+            "deep future",
+            "timescales",
+            "dazzlingly complicated",
+            "assurance",
+            "evidence-based"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2013.js",
+    "year": 2013,
+    "articleKey": "ky-en1-2013-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+  }
+}

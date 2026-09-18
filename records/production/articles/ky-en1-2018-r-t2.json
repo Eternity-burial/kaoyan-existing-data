@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2018-r-t2",
+  "year": 2018,
+  "textNumber": 2,
+  "title": "Social Media and Young Americans' Critical News Literacy",
+  "chineseTitle": "特朗普推特争议与年轻一代网络批判性媒介素养",
+  "topic": "传媒与政治文化 / 社交媒体信息茧房、假新闻泛滥与年轻一代独立核查能力",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文由哈佛大学关于三分之二以上年轻美国人不赞成特朗普总统使用推特的民调切入，深入探讨了社交媒体时代的虚假新闻现象与年轻读者的批判性媒介素养。虽然社交媒体使新闻互动更加亲近即时，但也导致了偏见投射与虚假信息传播（如2016年大选密歇根州的假新闻泛滥）。然而，奈特基金会和多国联合调查显示，以千禧一代为代表的年轻人并未随波逐流，而是发展出了成熟的批判性素养：他们不轻信社交媒体上的二手信息，而是建立起跨平台的多源比对习惯（distributed trust），主动寻找不同观点以辨别真伪。巴纳集团的调查进一步指出，假新闻的根源很大程度上在于读者的主观曲解。文章最后肯定了年轻一代批判性技能的提升是对网络浮躁风气的有力制衡。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 6,
+  "sentenceCount": 20,
+  "vocabularyCount": 35,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {
+    "syntax_analysis": [
+      {
+        "sentenceIndex": 2,
+        "sentenceId": "P1-S2",
+        "english": "The implication is that Millennials prefer news from the White House to be filtered through other sources, not a president's social media platform.",
+        "chinese": "这暗示千禧一代更希望来自白宫的新闻经过其他渠道的过滤，而不是直接来自总统的社交媒体平台。",
+        "structureType": "主系表复合句 + that引导的表语从句 + 动词不定式复合结构配对比否定",
+        "mainClause": "The implication is that Millennials prefer news...",
+        "modifiers": "that 引导表语从句阐明 implication 的具体内涵；from the White House 作后置定语修饰 news；to be filtered through other sources 为不定式的被动式作 news 的宾语补足语（prefer sth. to be done）；not a president's social media platform 为对比省略结构，相当于 instead of being filtered through a president's social media platform。",
+        "corePattern": "The implication is that...（这暗示着……）；prefer A to be done through B（更倾向于使A通过B被处理）；filter through（过滤/经由……筛选）。"
+      },
+      {
+        "sentenceIndex": 6,
+        "sentenceId": "P2-S4",
+        "english": "During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford.",
+        "chinese": "牛津大学的数据显示，在2016年总统竞选期间，政治关键摇摆州密歇根州的推特用户所分享的网络内容中，近四分之一是虚假新闻。",
+        "structureType": "主谓表结构 + 时间状语 + 过去分词短语作后置定语 + 插入语",
+        "mainClause": "nearly a quarter of web content was fake news...",
+        "modifiers": "During the 2016 presidential campaign 作时间状语；shared by Twitter users in the politically critical state of Michigan 为过去分词短语作 web content 的后置定语；according to the University of Oxford 为介词短语作来源插入语。",
+        "corePattern": "a quarter of（四分之一的）；politically critical（政治上至关紧要的/关键摇摆的）；according to（根据/依据）。"
+      },
+      {
+        "sentenceIndex": 9,
+        "sentenceId": "P3-S2",
+        "english": "A survey of 14-to-24-year-olds in the US by the Knight Foundation finds that many of them rely on \"distributed trust\" to verify news.",
+        "chinese": "奈特基金会对美国14至24岁年轻人的调查发现，他们中的许多人依赖“分布式信任”来核实新闻。",
+        "structureType": "主谓宾复合句 + that引导的宾语从句 + 不定式目的状语",
+        "mainClause": "A survey finds that many of them rely on 'distributed trust'...",
+        "modifiers": "of 14-to-24-year-olds in the US 和 by the Knight Foundation 均为介词短语作 survey 的后置定语；that 引导 finds 的宾语从句；to verify news 为动词不定式作目的状语。",
+        "corePattern": "rely on sth. to do sth.（依赖某事物来做某事）；distributed trust（分布式信任）；verify news（核查新闻真伪）。"
+      },
+      {
+        "sentenceIndex": 10,
+        "sentenceId": "P3-S3",
+        "english": "They will cross-check sources and look for different perspectives before believing what they read.",
+        "chinese": "在相信所读内容之前，他们会交叉核实多个信源并寻找不同的观点视角。",
+        "structureType": "并列谓语结构 + 时间状语从句（含宾语从句）",
+        "mainClause": "They will cross-check sources and look for different perspectives...",
+        "modifiers": "cross-check sources 与 look for different perspectives 由 and 连接构成并列谓语；before 引导时间状语短语/从句，believing 为动名词，what they read 为 what 引导的宾语从句作 believing 的宾语。",
+        "corePattern": "cross-check（交叉比对/核实）；look for different perspectives（探寻多元视角）；what they read（所阅读的内容）。"
+      },
+      {
+        "sentenceIndex": 13,
+        "sentenceId": "P4-S2",
+        "english": "A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people's reliance on social media led to greater political engagement.",
+        "chinese": "威斯康星大学麦迪逊分校在澳大利亚、英国和美国开展的一项2014年调查发现，年轻人对社交媒体的依赖促成了更高程度的政治参与。",
+        "structureType": "主谓宾复合句 + 过去分词短语后置修饰 + that引导的宾语从句",
+        "mainClause": "A 2014 survey found that young people's reliance led to greater political engagement.",
+        "modifiers": "conducted in Australia, Britain, and the United States by... 为过去分词短语作 survey 的后置定语；that 引导 found 的宾语从句，从句主语为 reliance on social media，谓语为 led to，宾语为 political engagement。",
+        "corePattern": "conduct a survey（开展调查）；reliance on sth.（对某事的依赖）；lead to greater political engagement（促成更深度的政治参与）。"
+      },
+      {
+        "sentenceIndex": 14,
+        "sentenceId": "P5-S1",
+        "english": "Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests.",
+        "chinese": "社交媒体使用户能够更亲近、更即时地体验新闻事件，同时也允许他们重新分享新闻，以此作为自身价值观与兴趣的投射。",
+        "structureType": "主谓宾补结构 + while连接的伴随分词状语从句",
+        "mainClause": "Social media allows users to experience news events...",
+        "modifiers": "to experience news events more intimately and immediately 为动词不定式短语作 users 的宾语补足语；while also permitting... 为现在分词短语作时间/伴随对比状语；to re-share news 为 permitting 的宾补；as a projection of their values and interests 为介词短语作方式状语。",
+        "corePattern": "allow sb. to do sth.（允许某人做某事）；while also doing sth.（同时伴随着做某事）；as a projection of...（作为……的投射）。"
+      },
+      {
+        "sentenceIndex": 16,
+        "sentenceId": "P5-S3",
+        "english": "A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting.",
+        "chinese": "巴纳研究集团的一项调查发现，美国人认为造成假新闻现象的首要原因是“读者错误”，其严重程度甚至超过了编造故事或报道中的事实错误。",
+        "structureType": "主谓宾复合句 + 过去分词后置定语 + 比较省略补充结构",
+        "mainClause": "A survey found the top reason is 'reader error'...",
+        "modifiers": "given by Americans for the fake news phenomenon 为过去分词短语作 the top reason 的后置定语；省略连词 that 的从句中，系动词 is，表语 'reader error'；more so than... 为比较副词短语，承前加强说明其重要性超过了 made-up stories 和 factual mistakes。",
+        "corePattern": "the top reason for sth. is...（某现象的首要原因在于……）；more so than...（比起……更甚/更明显）。"
+      },
+      {
+        "sentenceIndex": 20,
+        "sentenceId": "P6-S1",
+        "english": "So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills and a healthy skepticism when relying on social media for news.",
+        "chinese": "因此，当年轻人对一位过度发推特的总统提出批判时，他们展现出的是思维技能上的自律自省，以及在依赖社交媒体获取新闻时一种健康的怀疑审慎态度。",
+        "structureType": "并列复合宾语句 + 双重when时间状语从句/省略分词结构",
+        "mainClause": "they reveal a mental discipline in thinking skills and a healthy skepticism...",
+        "modifiers": "So 作逻辑总结连词；when young people are critical of an over-tweeting president 为时间状语从句；谓语 reveal 带有两个并列宾语：a mental discipline in thinking skills 和 a healthy skepticism；其后 when relying on social media for news 为连词加现在分词短语构成的状语省略结构（when they rely on...）。",
+        "corePattern": "be critical of sb.（对某人持批判态度）；mental discipline（思维自律/自制力）；healthy skepticism（健康的怀疑审慎精神）。"
+      }
+    ]
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2018.js",
+    "year": 2018,
+    "articleKey": "ky-en1-2018-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+  }
+}

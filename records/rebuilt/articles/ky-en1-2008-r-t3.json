@@ -1,0 +1,341 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2008-r-t3",
+  "year": 2008,
+  "textNumber": 3,
+  "title": "The Evolution of Height and the Genetic Ceiling of Americans",
+  "chineseTitle": "身高演化史与美国人的遗传生长天花板",
+  "topic": null,
+  "topicDomain": "体质人类学与演化生物学",
+  "subTopic": "NBA球员身高暴涨的表象、美国人平均身高增长的停滞、直立二足姿势的力学约束与遗传天花板",
+  "overview": null,
+  "wordCount": 420,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.1/5.0",
+  "sourcePublication": "选自《Los Angeles Times》(美国《洛杉矶时报》) 科学专栏深度调查报道",
+  "paragraphCount": 5,
+  "sentenceCount": 20,
+  "vocabularyCount": 101,
+  "phraseCount": 50,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "本文选自《洛杉矶时报》（Los Angeles Times）科学专栏。在整个20世纪，伴随现代工业社会的飞速发展，全球发达国家的人口平均身高经历了一场壮丽的代际增长飞跃——这一由营养改善、传染病控制以及公共卫生系统建立所驱动的身高跨代持续增长现象，在体质人类学与公共卫生领域被称为著名的‘长期趋势’（Secular Trend in Height）。在普通大众甚至职业体育界的感性直觉中，人们常误以为随着时代推移，人类会永无止境地越长越高（NBA赛场上7英尺长人从60年代的3人飙升至42人强化了这种神话）。然而，美国疾病控制与预防中心（CDC）的权威流行病学生长监测数据却揭示了一个出人意料的转折：美国本土世居人群的平均身高早在1960年代初（男性5英尺9英寸，女性5英尺4英寸）就已彻底停滞，标志着人类身高增长已正式撞上了生物学天花板。",
+      "coreDisputeOrTheme": "文章的核心议题围绕‘人类身高生长的环境潜能兑现与演化生物学极限’展开：第一，体育假象与真实停滞的悖论——NBA巨人的增多并非因为美国人总体变高，而是由于全球跨国挖角选拔（recruiting players from all over the world）；第二，营养极限——生活水平的提高仅仅是将人类既有的遗传潜能释放至极致，当营养不良与感染疾病被消灭后，环境红利便告耗尽；第三，演化生物学的硬性约束（Genetic Architecture & Constraints）——人类在数百万年前选择双足直立行走（Bipedal Posture），在骨骼力学上付出了巨大的代偿代价，脊椎与双脚无法承受过大四肢带来的机械应力，加之骨盆分娩产道对过大婴儿的自然淘汰，使得直立姿势在基因架构上牢牢锁定了人类生长的生理上限；第四，现实应用——美军装备与工业人体工效学数据表明，未来相当长时期内人类身高将保持高度稳定，现存人体测量数据依然完全适用。",
+      "keyTerminology": [
+        {
+          "term": "Secular Trend in Height",
+          "explanation": "身高的长期趋势：人类学核心术语，指随着社会经济发展、营养与卫生环境的改善，人群代际平均身高在几十年或上百年间持续增长的演进模式。"
+        },
+        {
+          "term": "Bipedal Posture & Biomechanical Constraints",
+          "explanation": "双足直立姿态与生物力学约束：人类演化中直立行走的解剖特征，要求下肢骨骼与脊柱承受重力负荷，对超大骨架和四肢施加了演化力学限制。"
+        },
+        {
+          "term": "Genetic Architecture & Ceiling",
+          "explanation": "遗传结构与基因天花板：物种在当前基因库配置下所允许的生理形态最大阈值，外界环境的改善只能趋近该极限而无法在短期内超越。"
+        },
+        {
+          "term": "Ergonomic Design & Anthropometry",
+          "explanation": "人体工效学设计与人体测量学：利用人群身高、体型分布数据来设计无需改动即可适配绝大多数士兵或员工的军服与工作站。"
+        }
+      ],
+      "crossExamLinks": [
+        {
+          "year": "2007 Text 1",
+          "theme": "刻意练习打破天赋神话",
+          "relevance": "探讨生物遗传潜能与后天环境培养之间的复杂边界与科学认知"
+        },
+        {
+          "year": "2019 Text 3",
+          "theme": "人工智能对科学研究与知识范式的重塑",
+          "relevance": "探讨现代前沿科学如何运用大数据与统计证据颠覆大众感性经验直觉"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "体质人类学、演化生物学与生长发育学 (Physical Anthropology, Evolutionary Biology & Human Growth)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "bi- (二/双)",
+          "examples": [
+            "bipedal (两足的/双足行走的)",
+            "bilateral (双边的)"
+          ]
+        },
+        {
+          "affix": "post- (在……之后)",
+          "examples": [
+            "posture (姿态/体态)",
+            "postpone (推迟)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "身材体格与体育假象",
+          "words": [
+            "frames",
+            "seven feet",
+            "dramatically",
+            "adjust team uniforms",
+            "recruiting",
+            "obscuring"
+          ]
+        },
+        {
+          "theme": "生长机制与营养环境",
+          "words": [
+            "calories",
+            "nutrients",
+            "protein",
+            "expanding tissues",
+            "secular trend",
+            "genetic maximums"
+          ]
+        },
+        {
+          "theme": "演化约束与工效稳定",
+          "words": [
+            "birth canal",
+            "bipedal posture",
+            "withstand repeated strain",
+            "oversize limbs",
+            "constraints",
+            "genetic architecture",
+            "by and large"
+          ]
+        }
+      ]
+    },
+    "nuancesAndConfusions": {
+      "familiarWordUncommonMeanings": [
+        {
+          "word": "dramatically",
+          "location": "P1 L4",
+          "familiarMeaning": "戏剧性地",
+          "examMeaning": "显著地；大幅度地",
+          "contextCollocation": "changed dramatically"
+        },
+        {
+          "word": "frames",
+          "location": "P1 L5",
+          "familiarMeaning": "框架；画框",
+          "examMeaning": "体格；身体框架",
+          "contextCollocation": "bigger, longer frames"
+        },
+        {
+          "word": "listed at",
+          "location": "P1 L2",
+          "familiarMeaning": "list n. 清单",
+          "examMeaning": "list v. 登记为；列为",
+          "contextCollocation": "listed at over seven feet"
+        },
+        {
+          "word": "obscuring",
+          "location": "P2 L1",
+          "familiarMeaning": "obscure adj. 模糊的",
+          "examMeaning": "obscure v. 掩盖；使难以看清",
+          "contextCollocation": "obscuring an unrecognized reality"
+        },
+        {
+          "word": "pretty",
+          "location": "P2 L6",
+          "familiarMeaning": "漂亮的",
+          "examMeaning": "相当；差不多",
+          "contextCollocation": "pretty much"
+        },
+        {
+          "word": "practice",
+          "location": "P2 L8",
+          "familiarMeaning": "练习",
+          "examMeaning": "做法；惯例",
+          "contextCollocation": "the practice of recruiting players"
+        },
+        {
+          "word": "demand",
+          "location": "P3 L1",
+          "familiarMeaning": "要求别人做某事",
+          "examMeaning": "某事本身需要某物",
+          "contextCollocation": "Growth demands calories…"
+        },
+        {
+          "word": "tissues",
+          "location": "P3 L2",
+          "familiarMeaning": "纸巾",
+          "examMeaning": "身体组织",
+          "contextCollocation": "expanding tissues"
+        },
+        {
+          "word": "diet",
+          "location": "P3 L3",
+          "familiarMeaning": "节食",
+          "examMeaning": "饮食；膳食结构",
+          "contextCollocation": "as diet and health improved"
+        },
+        {
+          "word": "secular",
+          "location": "P3 L5",
+          "familiarMeaning": "世俗的；非宗教的",
+          "examMeaning": "长期的；长期趋势的",
+          "contextCollocation": "secular trend in height"
+        },
+        {
+          "word": "Yet",
+          "location": "P3 L5",
+          "familiarMeaning": "还；尚未",
+          "examMeaning": "然而；但是",
+          "contextCollocation": "Yet according to…"
+        },
+        {
+          "word": "canal",
+          "location": "P4 L2",
+          "familiarMeaning": "运河",
+          "examMeaning": "人体管道；产道",
+          "contextCollocation": "birth canal"
+        },
+        {
+          "word": "posture",
+          "location": "P4 L4",
+          "familiarMeaning": "态度；立场",
+          "examMeaning": "身体姿势；体态",
+          "contextCollocation": "bipedal posture"
+        },
+        {
+          "word": "strain",
+          "location": "P4 L4",
+          "familiarMeaning": "紧张关系；菌株",
+          "examMeaning": "压力；负担；劳损",
+          "contextCollocation": "repeated strain"
+        },
+        {
+          "word": "architecture",
+          "location": "P4 L5",
+          "familiarMeaning": "建筑；建筑学",
+          "examMeaning": "结构；构造",
+          "contextCollocation": "genetic architecture"
+        },
+        {
+          "word": "fairly",
+          "location": "P5 L6",
+          "familiarMeaning": "公平地",
+          "examMeaning": "相当；颇；还算",
+          "contextCollocation": "feel fairly confident"
+        },
+        {
+          "word": "illustrate",
+          "location": "Q31 A",
+          "familiarMeaning": "给……加插图",
+          "examMeaning": "说明；阐明",
+          "contextCollocation": "illustrate the change"
+        },
+        {
+          "word": "be conditioned by",
+          "location": "Q33 B",
+          "familiarMeaning": "condition n. 条件",
+          "examMeaning": "condition v. 制约；影响",
+          "contextCollocation": "height is conditioned by…"
+        },
+        {
+          "word": "design",
+          "location": "P5 L5",
+          "familiarMeaning": "设计",
+          "examMeaning": "意图；目的；也可作动词设计",
+          "contextCollocation": "design a piece of equipment"
+        }
+      ],
+      "confusingWordPairs": [
+        {
+          "pair": "adjust / adapt / alter",
+          "analysis": "adjust 强调为了适应而调整；adapt 更强调适应环境或改造以适用；alter 多指局部修改。"
+        },
+        {
+          "pair": "result from / result in",
+          "analysis": "A results from B = A 起因于 B；A results in B = A 导致 B。"
+        },
+        {
+          "pair": "practice / exercise",
+          "analysis": "practice 在本文指“做法、惯例”，不是“练习”；exercise 才常指“锻炼”。"
+        },
+        {
+          "pair": "recruit / hire / enroll",
+          "analysis": "recruit 偏招募新成员或人才；hire 偏雇佣；enroll 偏注册入学或登记加入。"
+        },
+        {
+          "pair": "demand / require / request",
+          "analysis": "demand 可表示“需要”或“强烈要求”；require 强调客观需要或规定；request 是礼貌请求。"
+        },
+        {
+          "pair": "nutrition / malnutrition / under-nutrition",
+          "analysis": "nutrition 是营养；malnutrition 是营养不良或失衡；under-nutrition 强调摄入不足。"
+        },
+        {
+          "pair": "adolescent / teenager / child",
+          "analysis": "adolescent 指青春期青少年；teenager 指十几岁的人；child 年龄更小、更宽泛。"
+        },
+        {
+          "pair": "substantial / significant / considerable",
+          "analysis": "substantial 强调数量大或程度实质；significant 强调重要或显著；considerable 强调相当多。"
+        },
+        {
+          "pair": "withstand / resist / endure",
+          "analysis": "withstand 强调经受住压力或考验；resist 强调抵抗；endure 强调长期忍受困难或痛苦。"
+        },
+        {
+          "pair": "strain / stress / pressure",
+          "analysis": "strain 偏身体劳损或结构负担；stress 偏心理压力或物理应力；pressure 更泛指压力。"
+        },
+        {
+          "pair": "constraint / restriction / limitation",
+          "analysis": "constraint 强调制约因素；restriction 强调外在限制规定；limitation 强调能力、范围或条件的局限。"
+        },
+        {
+          "pair": "alteration / change / adjustment",
+          "analysis": "alteration 偏局部改动；change 泛指变化；adjustment 强调为适应目标而调整。"
+        },
+        {
+          "pair": "ensure / assure / insure",
+          "analysis": "ensure 确保结果；assure 向某人保证；insure 多指投保。"
+        },
+        {
+          "pair": "fairly / quite / very",
+          "analysis": "fairly 语气中等，表示还算、相当；quite 在英式英语中强弱看语境；very 语气更强。"
+        },
+        {
+          "pair": "maximum / limit / minimum",
+          "analysis": "maximum 是最大值或上限；limit 是界限或限制；minimum 是最小值或下限。"
+        },
+        {
+          "pair": "cite / quote / refer to",
+          "analysis": "cite 引用或举出证据；quote 逐字引用；refer to 提到、指称或查阅。"
+        },
+        {
+          "pair": "illustrate / demonstrate / explain",
+          "analysis": "illustrate 用例子说明；demonstrate 展示、证明；explain 解释原因或机制。"
+        },
+        {
+          "pair": "assess / evaluate / estimate",
+          "analysis": "assess/evaluate 都可表示评估；estimate 更偏估算数量或程度。"
+        },
+        {
+          "pair": "applicable / applied / apply",
+          "analysis": "applicable 表示适用的；applied 表示应用型的；apply 可表示应用或申请。"
+        },
+        {
+          "pair": "cyclic / regular / repeated",
+          "analysis": "cyclic 强调周期循环；regular 强调规律性；repeated 强调重复发生。"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2008_t3.json",
+    "year": 2008,
+    "articleKey": "ky-en1-2008-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:45d8492de8e2364079da05521b52556aabfacd4ea438156fb2e8fcd9b4b6693a"
+  }
+}

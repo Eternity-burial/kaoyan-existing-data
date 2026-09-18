@@ -1,0 +1,257 @@
+{
+  "auditVersion": "1.0",
+  "generatedAt": "2026-09-18T23:09:58+0800",
+  "schemaValidation": {
+    "totalErrors": 0,
+    "errors": []
+  },
+  "keyUniqueness": {
+    "productionDuplicateKeys": false,
+    "rebuiltDuplicateKeys": false,
+    "productionUniqueKeysCount": 120,
+    "rebuiltUniqueKeysCount": 76
+  },
+  "summary": {
+    "production": {
+      "yearRange": "1998-2026",
+      "totalYears": 29,
+      "totalArticles": 120,
+      "totalSentences": 2062,
+      "totalVocabulary": 9030,
+      "totalPhrases": 1095,
+      "totalQuestions": 580,
+      "contextMeaningCoverageRate": "100.0%",
+      "sentenceTranslationCoverageRate": "100.0%"
+    },
+    "rebuilt": {
+      "yearRange": "2007-2025",
+      "totalYears": 19,
+      "totalArticles": 76,
+      "totalSentences": 1255,
+      "totalVocabulary": 1656,
+      "totalPhrases": 1095,
+      "totalQuestions": 380,
+      "contextMeaningCoverageRate": "100.0%",
+      "sentenceTranslationCoverageRate": "100.0%"
+    }
+  },
+  "coverageComparison2007to2018": {
+    "2007": {
+      "production": {
+        "articles": 4,
+        "sentences": 65,
+        "vocabulary": 410,
+        "phrases": 250,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 65,
+        "vocabulary": 269,
+        "phrases": 250,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2008": {
+      "production": {
+        "articles": 4,
+        "sentences": 86,
+        "vocabulary": 573,
+        "phrases": 236,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 86,
+        "vocabulary": 407,
+        "phrases": 236,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2009": {
+      "production": {
+        "articles": 4,
+        "sentences": 76,
+        "vocabulary": 547,
+        "phrases": 226,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 76,
+        "vocabulary": 413,
+        "phrases": 226,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2010": {
+      "production": {
+        "articles": 4,
+        "sentences": 60,
+        "vocabulary": 237,
+        "phrases": 53,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 60,
+        "vocabulary": 62,
+        "phrases": 53,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2011": {
+      "production": {
+        "articles": 4,
+        "sentences": 75,
+        "vocabulary": 286,
+        "phrases": 58,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 75,
+        "vocabulary": 81,
+        "phrases": 58,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2012": {
+      "production": {
+        "articles": 4,
+        "sentences": 94,
+        "vocabulary": 275,
+        "phrases": 68,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 94,
+        "vocabulary": 108,
+        "phrases": 68,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2013": {
+      "production": {
+        "articles": 4,
+        "sentences": 80,
+        "vocabulary": 263,
+        "phrases": 60,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 80,
+        "vocabulary": 101,
+        "phrases": 60,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2014": {
+      "production": {
+        "articles": 4,
+        "sentences": 84,
+        "vocabulary": 285,
+        "phrases": 64,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 84,
+        "vocabulary": 105,
+        "phrases": 64,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2015": {
+      "production": {
+        "articles": 4,
+        "sentences": 76,
+        "vocabulary": 286,
+        "phrases": 80,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 76,
+        "vocabulary": 110,
+        "phrases": 80,
+        "questions": 20
+      },
+      "notes": "Both production and rebuilt populated"
+    },
+    "2016": {
+      "production": {
+        "articles": 4,
+        "sentences": 87,
+        "vocabulary": 135,
+        "phrases": 0,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 87,
+        "vocabulary": 0,
+        "phrases": 0,
+        "questions": 20
+      },
+      "notes": "Rebuilt vocab/phrases present in 2007-2015 only; 2016-2018 rebuilt contains text, syntax & questions without vocab"
+    },
+    "2017": {
+      "production": {
+        "articles": 4,
+        "sentences": 80,
+        "vocabulary": 137,
+        "phrases": 0,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 80,
+        "vocabulary": 0,
+        "phrases": 0,
+        "questions": 20
+      },
+      "notes": "Rebuilt vocab/phrases present in 2007-2015 only; 2016-2018 rebuilt contains text, syntax & questions without vocab"
+    },
+    "2018": {
+      "production": {
+        "articles": 4,
+        "sentences": 85,
+        "vocabulary": 137,
+        "phrases": 0,
+        "questions": 20
+      },
+      "rebuilt": {
+        "articles": 4,
+        "sentences": 85,
+        "vocabulary": 0,
+        "phrases": 0,
+        "questions": 20
+      },
+      "notes": "Rebuilt vocab/phrases present in 2007-2015 only; 2016-2018 rebuilt contains text, syntax & questions without vocab"
+    }
+  },
+  "discrepancies": {
+    "sentenceMismatchesCount": 0,
+    "sentenceMismatches": [],
+    "unresolvedItemsCount": 408,
+    "unresolvedBreakdown": {
+      "invalid_ps_syntax": 0,
+      "unlocatable_vocabulary": 0,
+      "phrase_without_source_location": 408,
+      "sentence_count_mismatch": 0,
+      "sentence_text_difference": 0,
+      "duplicate_article_key": 0
+    }
+  }
+}

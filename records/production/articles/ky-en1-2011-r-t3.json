@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2011-r-t3",
+  "year": 2011,
+  "textNumber": 3,
+  "title": "Beyond Paid Media: The Rise of Alternative Digital Marketing and the Risk of Hijacked Media",
+  "chineseTitle": "超越传统付费媒体：新型数字营销矩阵的崛起与‘被劫持媒体’危机",
+  "topic": null,
+  "topicDomain": "商业营销与互联网传播 (Digital Marketing & Media Communications)",
+  "subTopic": "付费媒体的替代形式、POES媒体矩阵与社交网络危机公关 (Alternatives to Paid Media, POES Matrix & PR Crisis Management)",
+  "overview": null,
+  "wordCount": 386,
+  "readingTimeEstimate": "6-8 mins",
+  "difficultyRating": "★★★★☆",
+  "sourcePublication": "Adapted from Harvard Business Review / McKinsey Quarterly (2009-2010)",
+  "paragraphCount": 4,
+  "sentenceCount": 18,
+  "vocabularyCount": 62,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "现代数字营销的媒体矩阵重塑：从付费媒体到POES模型与社交网络危机",
+      "subtitle": "口碑红利与公关黑天鹅——Web 2.0时代企业如何应对‘被劫持媒体’（Hijacked Media）",
+      "coreNarrative": "在传统大众传媒时代，商业营销遵循‘一分钱一分货’（you get what you pay for）的简单法则，企业依靠重金购买电视报刊等‘付费媒体’（paid media）维持知名度。随着互联网与社交网络普及，现代营销学确立了更为立体的 POES 媒体矩阵：包括企业自建运营的‘自有媒体’（owned media）、消费者自发口碑推荐的‘赢得媒体’（earned media）、以及高流量自营平台变现的‘售卖媒体’（sold media）。然而，技术赋予营销人员更多元传播途径的同时，也赋权了‘热情的消费者’。一旦发生产品质量缺陷或道德争议，消费者能通过社交网络迅速将品牌资产转化为‘被劫持媒体’（hijacked media），发起声势浩大的抵制运动。2010年丰田汽车深陷全球召回危机，通过在 Twitter 和 Digg 等前沿社交阵地展开即时直面互动，开创了跨国巨头有效应对被劫持媒体的经典范式。",
+      "historicalAndEconomicContext": "文章反映了2009-2010年全球数字营销与Web 2.0从博客向动态社交网络（Twitter, Facebook, Digg）迁移的剧烈转型期。单向灌输式广告效果日薄西山，双向社交互动成为核心资产，但也极大缩短了公关危机的发酵周期，使危机公关学习曲线变得极其陡峭（steep learning curve）。",
+      "crossExamLinks": "与2010年Text 3（引爆点神话证伪与网络级联动力学）、2013年Text 2（网络口碑与商业品牌评级）构成考研英语‘互联网社交生态与传播机制变革’黄金三部曲。"
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "数字营销、传播学与社交媒体 (Digital Marketing & Social Networks)",
+      "coreConceptRoots": [
+        {
+          "root": "plac- / plat-",
+          "meaning": "平，放置，平息",
+          "examples": "place (放置/投放), plate (平版), complacent (自满的)"
+        },
+        {
+          "root": "alleg-",
+          "meaning": "指称，陈述",
+          "examples": "allegation (指控/陈述), allege (指称), alleged (所谓的)"
+        },
+        {
+          "root": "orchestr-",
+          "meaning": "交响，编排，策划",
+          "examples": "orchestrate (精心策划/编排), orchestra (管弦乐队), orchestration (精心安排)"
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "term": "paid media",
+          "meaning": "付费媒体（传统购买广告位）"
+        },
+        {
+          "term": "owned media",
+          "meaning": "自有媒体（自建官网、邮件订阅平台）"
+        },
+        {
+          "term": "earned media",
+          "meaning": "赢得媒体（用户口碑传播、自然裂变）"
+        },
+        {
+          "term": "sold media",
+          "meaning": "售出媒体（向外部合作方出租广告位）"
+        },
+        {
+          "term": "hijacked media",
+          "meaning": "被劫持媒体（被消费者反向控制施压）"
+        }
+      ]
+    }
+  },
+  "rawFields": {
+    "globalId": "2011-Text3"
+  },
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2011.js",
+    "year": 2011,
+    "articleKey": "ky-en1-2011-r-t3",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:bdf3cfe6925a6bb0bf8dd9ab99a23043a9c589037b0644741b462387572a08a3"
+  }
+}

@@ -1,0 +1,882 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "For the first time in history more people live in towns than in the country.",
+    "translation": "人类历史上有史以来第一次，居住在城镇的人口超过了乡村人口。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P1-S2",
+      "pIndex": 1
+    },
+    "text": "In Britain this has had a curious result.",
+    "translation": "在英国，这种人口结构的转变引发了一个奇特而微妙的结果。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 1,
+      "sentence": 3,
+      "ps": "P1-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P1-S3",
+      "pIndex": 1
+    },
+    "text": "While polls show Britons rate \"the countryside\" alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country, this has limited political support.",
+    "translation": "尽管民调显示，英国人将“乡村”与王室、莎士比亚以及国家医疗服务体系（NHS）并列为最令他们为国家感到自豪的事物，但在政界这种情结所获得的实质支持却极其有限。",
+    "syntaxAnalysis": {
+      "structureType": "主从复合句（while引导的让步状语从句 + 宾语从句 + rate A alongside B as C结构 + what引导的宾语从句）",
+      "mainClause": "this has limited political support.",
+      "modifiers": "While 引导让步状语从句；polls show 后面接省略 that 的宾语从句；Britons 为从句主语，rate 为谓语，the countryside 为直接宾语，alongside the royal family... 为并列介词短语作伴随修饰，as what makes them proudest of their country 为介词短语作宾语补足语，其中 what 引导从句作 as 的宾语。",
+      "corePattern": "rate A alongside B as C（将A与B并列评价为C）；make sb. proud of sth.（使某人为某事感到自豪）；limited political support（有限的政治支持）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "A century ago Octavia Hill launched the National Trust not to rescue stylish houses but to save the beauty of natural places for everyone \"forever.\"",
+    "translation": "一个世纪前，奥克塔维亚·希尔创立了“国民信托”组织，其宗旨并非抢救时尚华美的豪宅，而是为了“永远为所有人守护自然风光之美”。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾简单句 + not... but...平行并列不定式目的状语",
+      "mainClause": "Octavia Hill launched the National Trust not to rescue stylish houses but to save the beauty of natural places...",
+      "modifiers": "A century ago 为时间状语；not to rescue... but to save... 为 not... but... 结构连接两个动词不定式短语作目的状语，强调后者的真正初衷；for everyone forever 为介词短语修饰 save 的受众与期限。",
+      "corePattern": "launch sth.（发起/创立某机构或运动）；not to do A but to do B（不是为了做A，而是为了做B）；save the beauty of natural places（保护自然风光之美）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "It was specifically to provide city dwellers with spaces for \"leisure where they could experience a refreshing air.\"",
+    "translation": "该组织设立的明确目的，是为城市居民提供休闲放松的空间，使他们能够呼吸到“清新怡人的空气”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 3,
+      "ps": "P2-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P2-S3",
+      "pIndex": 2
+    },
+    "text": "Hill's pressures later led to the creation of national parks and green belts.",
+    "translation": "希尔当年的呼吁与施压，后来直接推动了英国国家公园和城市绿化带的建立。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 4,
+      "ps": "P2-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P2-S4",
+      "pIndex": 2
+    },
+    "text": "They don't make countryside any more, and every year concrete consumes more of it.",
+    "translation": "大自然不会再造出新的乡村，然而每年水泥混凝土却在吞噬着越来越多的乡村土地。",
+    "syntaxAnalysis": {
+      "structureType": "and连接的并列复合句 + 拟人化修辞表达",
+      "mainClause": "They don't make countryside any more, and every year concrete consumes more of it.",
+      "modifiers": "They 指代大自然或客观规律（泛指造物者）；any more 为副词短语作时间频度状语；and 连接第二个分句；every year 为时间状语；concrete 拟人化作主语，consumes 为谓语，more of it 作宾语。",
+      "corePattern": "make sth. any more（不再生产/创造某物）；concrete consumes...（混凝土/建筑开发无情吞噬自然土地）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 2,
+      "sentence": 5,
+      "ps": "P2-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P2-S5",
+      "pIndex": 2
+    },
+    "text": "It needs constant guardianship.",
+    "translation": "乡村生态需要全社会持之以恒的坚定守护。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "At the next election none of the big parties seem likely to endorse this sentiment.",
+    "translation": "在即将到来的大选中，各大主流政党似乎没有一个愿意支持这种保护乡村的情结。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The Conservatives' planning reform explicitly gives rural development priority over conservation, even authorizing \"off-plan\" building where local people might object.",
+    "translation": "保守党的规划体制改革明确将乡村开发置于生态保护之上，甚至批准在当地居民可能强烈反对的地方实施“计划外”开工建设。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾复合句 + 现在分词短语作伴随状语 + where引导的地点状语从句",
+      "mainClause": "The Conservatives' planning reform explicitly gives rural development priority over conservation...",
+      "modifiers": "explicitly 为副词修饰谓语 gives；gives A priority over B 意为‘把A置于优于B的优先地位’；even authorizing \"off-plan\" building 为现在分词短语作伴随状语表示结果补充；where local people might object 为 where 引导的地点状语从句修饰 building 的发生场所。",
+      "corePattern": "give A priority over B（给予A优于B的优先权）；authorize off-plan building（批准未经规划许可的违建/计划外建筑）；object to sth.（反对某事）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P3-S3",
+      "pIndex": 3
+    },
+    "text": "The concept of sustainable development has been defined as profitable.",
+    "translation": "所谓“可持续发展”的崇高理念已经被扭曲定义成了“有利可图”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P3-S4",
+      "pIndex": 3
+    },
+    "text": "Labour likewise wants to discontinue local planning where councils oppose development.",
+    "translation": "同样，工党也企图在地方议会反对开发的地区强行终止地方规划自主权。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 5,
+      "ps": "P3-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P3-S5",
+      "pIndex": 3
+    },
+    "text": "The Liberal Democrats are silent.",
+    "translation": "自由民主党则保持沉默。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 6,
+      "ps": "P3-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P3-S6",
+      "pIndex": 3
+    },
+    "text": "Only Ukip, sensing its chance, has sided with those pleading for a more considered approach to using green land.",
+    "translation": "只有英国独立党（Ukip）敏锐嗅到了政治机遇，站在了那些恳请采取更审慎方式使用绿地的人群一边。",
+    "syntaxAnalysis": {
+      "structureType": "现在分词短语插入语 + 主谓介宾句 + 现在分词短语作后置定语",
+      "mainClause": "Only Ukip has sided with those...",
+      "modifiers": "sensing its chance 为现在分词短语作插入状语，说明心理动机；has sided with 为谓语，意为‘站在……一边’；those 为代词作介词宾语；pleading for a more considered approach 为现在分词短语作 those 的后置定语；to using green land 为介词短语修饰 approach。",
+      "corePattern": "sense one's chance（察觉到时机/嗅到政治机遇）；side with sb.（站在某人一边/支持某方）；plead for（恳求/呼吁）；a considered approach to doing sth.（对做某事采取深思熟虑的审慎方法）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 3,
+      "sentence": 7,
+      "ps": "P3-S7"
+    },
+    "sourceLocator": {
+      "sIndex": 7,
+      "id": "P3-S7",
+      "pIndex": 3
+    },
+    "text": "Its Campaign to Protect Rural England struck terror into many local Conservative parties.",
+    "translation": "该党所发起的“英格兰乡村保护运动”令许多地方保守党支部深感惶恐不安。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The sensible place to build new houses, factories and offices is where people are, in cities and towns where infrastructure is in place.",
+    "translation": "兴建新住房、工厂和办公楼的合理选址应当是人口聚集之地，即在基础设施完备健全的既有城市和城镇之中。",
+    "syntaxAnalysis": {
+      "structureType": "主系表复合句 + 不定式定语 + where引导的表语从句 + where引导的限制性定语从句",
+      "mainClause": "The sensible place is where people are...",
+      "modifiers": "to build new houses, factories and offices 为动词不定式短语作主语 place 的后置定语；where people are 为 where 引导的表语从句；in cities and towns 为介词短语作同位语解释；where infrastructure is in place 为 where 引导的定语从句修饰 cities and towns，其中 in place 为固定短语表示‘到位/健全’。",
+      "corePattern": "sensible place（明智合理的地方）；where infrastructure is in place（基础设施就位/齐备的区域）。"
+    },
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "The London agents Stirling Ackroyd recently identified enough sites for half a million houses in the London area alone, with no intrusion on green belt.",
+    "translation": "伦敦房地产代理公司斯特林·阿克罗伊德最近确认，仅在伦敦一地就有足够兴建50万套住房的地皮，且完全无需侵犯任何绿化带。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P4-S3",
+      "pIndex": 4
+    },
+    "text": "What is true of London is even truer of the provinces.",
+    "translation": "在伦敦尚且如此，外省各郡县更是有过之而无不及。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "The idea that \"housing crisis\" equals \"concreted meadows\" is pure lobby talk.",
+    "translation": "那种认为“住房危机”就等同于“必须在草地上大铺水泥”的论调，完全是开发商游说集团的一派胡言。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "The issue is not the need for more houses but, as always, where to put them.",
+    "translation": "矛盾的关键不在于是否需要增建住房，而一如既往地在于，究竟把这些房屋建在何处。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "Under lobby pressure, George Osborne favours rural new-build against urban renovation and renewal. He favours out-of-town shopping sites against high streets.",
+    "translation": "在商业游说集团的施压下，财政大臣乔治·奥斯本偏袒乡村新建项目，排斥城市内部的改造与更新；他偏爱城郊购物中心，忽视传统的城市核心商业街区。",
+    "syntaxAnalysis": {
+      "structureType": "介词短语状语 + 主谓宾复合句 + 对比介词结构（favour A against B）",
+      "mainClause": "George Osborne favours rural new-build against urban renovation and renewal.",
+      "modifiers": "Under lobby pressure 为介词短语作原因/条件状语；favours 为谓语；rural new-build 为宾语；against urban renovation and renewal 为介词短语表示‘排斥/与……相对立’。",
+      "corePattern": "under lobby pressure（在游说团体的施压之下）；favour A against B（偏爱偏袒A而反对B）；renovation and renewal（改造与城市更新）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P5-S4",
+      "pIndex": 5
+    },
+    "text": "This is not a free market but a biased one.",
+    "translation": "这绝非真正的自由市场经济，而是一个充满偏见的扭曲市场。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sIndex": 5,
+      "id": "P5-S5",
+      "pIndex": 5
+    },
+    "text": "Rural towns and villages have grown and will always grow. They do so best where building sticks to their edges and respects their character.",
+    "translation": "乡镇与村落过去在发展，未来也必将持续发展；而当建筑严格恪守在村镇边缘并尊重其原始风貌特色时，它们才能实现最佳的发展。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 5,
+      "sentence": 6,
+      "ps": "P5-S6"
+    },
+    "sourceLocator": {
+      "sIndex": 6,
+      "id": "P5-S6",
+      "pIndex": 5
+    },
+    "text": "We do not ruin urban conservation areas. Why ruin rural ones?",
+    "translation": "我们在城市里绝不会去破坏历史保护街区，为何反倒要去糟蹋乡村保护区呢？",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Development should be planned, not let rip.",
+    "translation": "经济开发应当受到严格规划管控，而绝非任其野蛮放任发展。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "After the Netherlands, Britain is Europe's most crowded country. Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living.",
+    "translation": "继荷兰之后，英国是全欧洲人口最为稠密的国家；然而半个世纪以来的城乡规划体系，使其在依然允许人们享受低密度城市居住品质的同时，得以保留下令人艳羡的乡村风貌完整性。",
+    "syntaxAnalysis": {
+      "structureType": "主谓宾补复合句 + 现在分词短语作伴随状语（while still permitting...）",
+      "mainClause": "Half a century of town and country planning has enabled it to retain an enviable rural coherence...",
+      "modifiers": "Half a century of town and country planning 为名词短语作主语；has enabled 为谓语；it（指代英国）为宾语；to retain an enviable rural coherence 为动词不定式短语作宾语补足语；while still permitting low-density urban living 为省略主谓的时间/伴随状语从句，连接现在分词短语。",
+      "corePattern": "enable sb./sth. to do sth.（使某人/某国能够做到某事）；retain an enviable rural coherence（保留令人艳羡的乡村风貌完整协调性）；permit low-density urban living（允许低密度城市居住生活）。"
+    },
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P6-S3",
+      "pIndex": 6
+    },
+    "text": "There is no doubt of the alternative — the corrupted landscapes of southern Portugal, Spain or Ireland.",
+    "translation": "若非如此，另一条恶果之路毫无悬念——那便是葡萄牙南部、西班牙或爱尔兰那样满目疮痍、遭到严重破坏的自然地貌景观。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2016-r-t2",
+    "location": {
+      "paragraph": 6,
+      "sentence": 4,
+      "ps": "P6-S4"
+    },
+    "sourceLocator": {
+      "sIndex": 4,
+      "id": "P6-S4",
+      "pIndex": 6
+    },
+    "text": "Avoiding this rather than promoting it should unite the left and right of the political spectrum.",
+    "translation": "避免这种景观浩劫而非推波助澜，本该成为团结整个政坛左翼与右翼力量的共同责任。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2016.js",
+      "year": 2016,
+      "articleKey": "ky-en1-2016-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0196592585d2e1f7bddaadada4cda2a72e2957eba87274438f92f64c26e5249"
+    }
+  }
+]

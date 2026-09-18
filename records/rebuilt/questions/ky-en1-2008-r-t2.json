@@ -1,0 +1,809 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "qIndex": 26,
+    "questionNumber": 26,
+    "stem": "In the first paragraph, the author discusses _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the background information of journal editing.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。期刊编辑（journal editor）隐去作者信息送审只是首段全流程中的一个环节，不能概括整段讨论的投稿、盲审、出版、版权归属和读者订阅的全套流程。",
+        "vocab": [
+          {
+            "word": "editing",
+            "ipa": "",
+            "meaning": "编辑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "the publication routine of laboratory reports.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。第1段讲述的是实验室科学家将科研成果投递给学术期刊发表（scientific paper/journal publication），而不是企业或实验室内部的日常‘实验报告（laboratory reports）’。",
+        "vocab": [
+          {
+            "word": "publication",
+            "ipa": "[ˌpʌblɪˈkeɪʃn]",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "routine",
+            "ipa": "[ruːˈtiːn]",
+            "meaning": "常规",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "the relations of authors with journal publishers.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。首段不仅涉及作者与出版商，还详细描述了同行审稿人、编辑的角色以及寻求知识的读者订阅，是对整个出版运转流程的系统陈述。",
+        "vocab": [
+          {
+            "word": "authors",
+            "ipa": "",
+            "meaning": "作者",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "the traditional process of journal publication.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。首段开篇用 'It used to be so straightforward' 设立历史回溯基调，随后按先后时间顺序严谨罗列了学术期刊发表的一整套传统步骤：研究团队提交论文成果 $\rightarrow$ 编辑隐去姓名机构送同行双盲评审 $\rightarrow$ 根据审稿意见录用或拒稿 $\rightarrow$ 版权归出版商所有 $\rightarrow$ 读者出资订阅。选项 D 'the traditional process of journal publication'（学术期刊出版的传统流程）是对全段核心内容最完美、最高度的概括。",
+        "vocab": [
+          {
+            "word": "process",
+            "ipa": "[prəˈses; ˈprəʊses]",
+            "meaning": "进程",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "publication",
+            "ipa": "[ˌpʌblɪˈkeɪʃn]",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "used to be straightforward ... submit ... review ... accept or decline ... copyright ... subscribe": "the traditional process of journal publication (过去曾是……提交……送审……录用或拒绝……版权归出版商……订阅 -> 期刊出版的传统流程)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "qIndex": 27,
+    "questionNumber": 27,
+    "stem": "Which of the following is true of the OECD report?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It criticizes government-funded research.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆。OECD 报告批评的是商业出版商利用政府资助的科研成果筑起付费墙牟取暴利，它坚决支持政府资助的科研成果全面向公众开放获取，绝非批评科研本身。",
+        "vocab": [
+          {
+            "word": "criticizes",
+            "ipa": "",
+            "meaning": "批评",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "It introduces an effective means of publication.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "偷换概念与张冠李戴。OECD 报告是一份深度分析政策与行业经济影响的研究报告，它是在客观描述（describing）正在涌现的新兴商业模式，其自身并未‘引入一种有效的出版手段’。",
+        "vocab": [
+          {
+            "word": "effective",
+            "ipa": "[ɪˈfektɪv]",
+            "meaning": "有效的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "means",
+            "ipa": "[miːnz]",
+            "meaning": "方法",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "publication",
+            "ipa": "[ˌpʌblɪˈkeɪʃn]",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "It upsets profit-making journal publishers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第2段第4句精准定位：'The report... makes heavy reading for publishers who have, so far, made handsome profits.' heavy reading 是一句极富表现力的英语地道表达，意为‘读起来令人心情沉重、难以消受’；publishers who have made handsome profits 指的就是营利性商业出版商（profit-making journal publishers）。报告宣告了免费获取时代的到来，敲响了出版垄断暴利的丧钟，因此让出版商大为不安与沉重（upsets profit-making journal publishers），同义替换极为传神。",
+        "vocab": [
+          {
+            "word": "upsets",
+            "ipa": "",
+            "meaning": "使心烦意乱",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "It benefits scientific research considerably.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "张冠李戴。真正使科学研究大幅受益的是‘科研成果免费开放获取（free access to scientific results）’本身，而非 OECD 撰写的这份分析报告直接带来了巨大的科研收益。",
+        "vocab": [
+          {
+            "word": "benefits",
+            "ipa": "/ˈbenɪfɪts/",
+            "meaning": "使受益",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "makes heavy reading for publishers who have, so far, made handsome profits": "It upsets profit-making journal publishers (让迄今赚取丰厚暴利的出版商读起来心情沉重 -> 让营利性期刊出版商感到不安/受挫)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "qIndex": 28,
+    "questionNumber": 28,
+    "stem": "According to the text, online publication is significant in that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "it provides an easier access to scientific results.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。综合第2段第2句与第3段第1句：'The Internet... is making access to scientific results a reality'，并且科研公共投资的价值与回报在很大程度上取决于 'wide distribution and ready access'（成果的广泛传播和便捷获取）。在线网络出版彻底打破了传统纸质期刊昂贵的订阅壁垒，使科研成果能够被更广泛的人群便捷获取（provides an easier access to scientific results），与原文形成了极其精准的语义对应。",
+        "vocab": [
+          {
+            "word": "access",
+            "ipa": "[ˈækses]",
+            "meaning": "使用权",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "it brings huge profits to scientific researchers.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反混淆与主体偷换。文章明确说明赚取巨额暴利（handsome profits）的是商业出版商（publishers），科研人员（researchers）从来不从中牟利，甚至在开放获取模式下还需要自掏腰包支付版面费。",
+        "vocab": [
+          {
+            "word": "profits",
+            "ipa": "",
+            "meaning": "利润",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "it emphasizes the crucial role of scientific knowledge.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "偏离核心因果。文章强调科学知识的价值取决于其能否被广泛便捷地获取，在线出版的重大意义在于打破壁垒提供便捷通道，而非单纯在口头上‘强调知识的作用’。",
+        "vocab": [
+          {
+            "word": "emphasizes",
+            "ipa": "",
+            "meaning": "突出",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "crucial",
+            "ipa": "[ˈkruːʃ(ə)l]",
+            "meaning": "关键性的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "it facilitates public investment in scientific research.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "因果倒置与偷换概念。第3段第1句说的是在线获取能提高‘公共投资的回报率（return on the public investment）’，而不是使公众去投资科研变得更为便利。",
+        "vocab": [
+          {
+            "word": "facilitates",
+            "ipa": "",
+            "meaning": "促进",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "public",
+            "ipa": "[ˈpʌblɪk]",
+            "meaning": "公共投资",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "making access to scientific results a reality ... depends upon wide distribution and ready access": "it provides an easier access to scientific results (让获取科研成果成为现实 + 取决于广泛传播与便捷获取 -> 为科研成果提供了更便捷的获取途径)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "According",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "publication",
+          "ipa": "[ˌpʌblɪˈkeɪʃn]",
+          "meaning": "出版",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "significant",
+          "ipa": "[sɪɡˈnɪfɪkənt]",
+          "meaning": "重要的",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "qIndex": 29,
+    "questionNumber": 29,
+    "stem": "With the open-access publishing model, the author of a paper is required to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "cover the cost of its publication.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。第4段第5句精准定位：在论述三种新模式中的开放获取出版时，原文明确指出：'There is open-access publishing, typically supported by asking the author (or his employer) to pay for the paper to be published.' 要求作者（或雇主）为论文发表付费，这正是学术界众所周知的 APC（论文处理费），即要求作者自身‘承担发表的成本费用（cover the cost of its publication）’，同义转述完全一致。",
+        "vocab": [
+          {
+            "word": "publication",
+            "ipa": "[ˌpʌblɪˈkeɪʃn]",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "subscribe to the journal publishing it.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反颠倒与张冠李戴。第1段指出在传统模式下才需要读者出资订阅（subscribe to the journal）；而开放获取模式的核心特征正是对读者端完全免费开放，作者无需订阅。",
+        "vocab": [
+          {
+            "word": "subscribe",
+            "ipa": "[səbˈskraɪb]",
+            "meaning": "订阅",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "publishing",
+            "ipa": "",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "allow other online journals to use it freely.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。原文从未规定作者必须允许其他在线期刊自由使用该论文。"
+      },
+      {
+        "key": "D",
+        "text": "complete the peer-review before submission.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "颠倒时序流程。同行评审（peer-review）是在作者投稿之后由期刊编辑组织学术同行进行的，作者不可能在投稿之前（before submission）自行完成同行评审。"
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "asking the author (or his employer) to pay for the paper to be published": "cover the cost of its publication (要求作者或其雇主为论文发表付款 -> 承担论文发表的费用)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "required",
+          "ipa": "",
+          "meaning": "被要求做…",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t2",
+    "qIndex": 30,
+    "questionNumber": 30,
+    "stem": "Which of the following best summarizes the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The Internet is posing a threat to publishers.",
+        "textZh": "互联网正在对出版商构成威胁。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "以偏概全。出版商面临危机只是传统出版范式解体的局部现象，不能涵盖第3、4段重点阐述的知识共享价值以及大交易、金色OA、机构知识库等全新商业生态的崛起。",
+        "vocab": [
+          {
+            "word": "posing",
+            "ipa": "",
+            "meaning": "构成威胁",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "A new mode of publication is emerging.",
+        "textZh": "一种全新的出版模式正在涌现。",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "正确选项。通篇主旨的最佳宏观概括。文章第1段展示传统的学术出版流程；第2段以 'No longer' 破题宣告传统模式受冲击，引入免费获取成果的历史大潮；第3段指出学术出版百亿市场与知识传播新诉求；第4段以 'This is now changing... Entirely new business models are emerging' 为核心论点，全景展现大交易、开放获取出版、机构库等三大全新出版模式正在重构整个学术界。选项 B 'A new mode of publication is emerging'（一种全新的出版模式正在涌现）与第4段主题句高度呼应，完美统摄全文。",
+        "vocab": [
+          {
+            "word": "mode",
+            "ipa": "[məʊd]",
+            "meaning": "模式",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "publication",
+            "ipa": "[ˌpʌblɪˈkeɪʃn]",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "emerging",
+            "ipa": "",
+            "meaning": "兴起",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Authors welcome the new channel for publication.",
+        "textZh": "作者们欢迎这种新的出版渠道。",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "主观臆断与以偏概全。新模式下作者或其雇主需要自掏腰包支付发表费用，文章从未单方面指出作者全盘欢迎该模式，作者态度并非文章论述重心。",
+        "vocab": [
+          {
+            "word": "Authors",
+            "ipa": "",
+            "meaning": "作者",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "channel",
+            "ipa": "[ˈtʃæn(ə)l]",
+            "meaning": "渠道",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "publication",
+            "ipa": "[ˌpʌblɪˈkeɪʃn]",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Publication is rendered easier by online service.",
+        "textZh": "在线服务使出版变得更加容易。",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "偷换概念。文章探讨的是学术出版界商业权力结构、付费机制与版权范式的系统性制度变革，绝非单纯指在线网络服务在操作技术层面让发表变容易。",
+        "vocab": [
+          {
+            "word": "Publication",
+            "ipa": "[ˌpʌblɪˈkeɪʃn]",
+            "meaning": "出版",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "rendered",
+            "ipa": "",
+            "meaning": "使变得",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "It used to be ... No longer ... Entirely new business models are emerging": "A new mode of publication is emerging (过去曾是……如今不再……全新的商业模式正在涌现 -> 一种全新的出版模式正在涌现)"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text2.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "summarizes",
+          "ipa": "",
+          "meaning": "总结",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t2.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:234d155a94576142aad848f7096063959bcc83d44b4a0eaf6b38a35300c951d6"
+    }
+  }
+]

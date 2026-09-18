@@ -1,0 +1,576 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "The author mentions two books in Paragraph 1 to present",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "an ongoing conflict.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 和 P1-S2 紧密相连：P1-S1 描述读者在水石书店难以轻易找到梅根和克林顿的两本重磅新书；P1-S2 紧接着点破原因：'Both of these books are published by PRH, a company currently involved in a stand-off with Waterstones'（这两本书均由企鹅兰登出版，而该巨头目前正与水石书店陷入对峙僵局）。stand-off 与 an ongoing conflict（一场正在进行的激烈冲突/对峙）完全同义对应。A选项精准揭示了举例的呈现目的。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "an intellectual concept.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 过于抽象】两本书是大众畅销书，非旨在阐发抽象学术概念。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "a prevailing sentiment.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】未提及代表社会主流情绪。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "a literary phenomenon.",
+        "isCorrect": false,
+        "distractorType": "偷换领域",
+        "analysis": "【干扰特征: 偷换领域】文章讨论的是图书分销商业零售争端，非文学现象本身。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "例证修辞题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "books hard to find because PRH in stand-off with Waterstones = present an ongoing conflict。",
+      "methodSummary": "开篇引入案例功能分析：stand-off 直接转换为 an ongoing conflict。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "mentions two books in Paragraph 1",
+        "present"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "Why did Waterstones shops retire PRH books to their relevant sections?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To make them easily noticeable.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】撤出显眼展台退居普通分类书架（remove from prominent areas），使得图书更难被读者注意到。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "To comply with PRH's requirement.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】企鹅兰登绝不希望自家图书被边缘化，这是水石书店主动采取的反制惩罚措施，非顺从对方要求。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "To respond to PRH's business move.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 和 P2-S2 明确交代因果链条：矛盾始于企鹅兰登大幅削减信用额度（PRH introduced a credit limit at a very significant level / business move），水石书店随即下令分店将企鹅兰登图书从显眼展台撤下退居普通专区。水石书店这一举动的直接目的正是为了有力反击并回应企鹅兰登单方面削减信用的商业施压举措（To respond to PRH's business move）。C选项完全精准对应。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "To arrange them in a systematic way.",
+        "isCorrect": false,
+        "distractorType": "字面望文生义",
+        "analysis": "【干扰特征: 字面局限】retire to relevant sections 是行业反制代码，非出于图书分类系统化的日常整理需要。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节原因题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "PRH introduced credit limit -> Waterstones told managers to remove PRH books from tables and retire to sections = To respond to PRH's business move。",
+      "methodSummary": "因果行为对应法：抓准削减信用与撤下展位的对应关系，识别出商业反制（respond to business move）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "retire PRH books to their relevant sections",
+        "Why"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "What message does the spokesperson for Waterstones seem to convey?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Their customers remain loyal.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】发言人强调的是书店客流火爆销售创纪录以证明自身偿付实力，非单纯强调顾客忠诚度。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "The credit limit will be removed.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确交代发言人的核心传达信息：'We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately. Certainly, our shops are exceptionally busy. The sales surpassed any month since 2018'（我们满怀希望随着书店重新开业常态将恢复，我们将被允许合理采购；我们客流火爆销售创纪录）。发言人向企鹅兰登展示强劲销售实力，其核心传达的诉求与期盼正是促使企鹅兰登取消信用额度限制、恢复正常供货（The credit limit will be removed）。B选项精准提炼了其言外之意。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Their stock is underestimated.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】由于信用受限导致库存水平确实偏低（lower overall levels of stock），非被低估。",
+        "refSentences": [
+          "P3-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The book market is rather slack.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】书店异常繁忙火爆，5月销量创2018年以来最高峰，市场极其旺盛绝非萧条（slack）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "hopeful normality return and allowed to buy appropriately + exceptionally busy sales = The credit limit will be removed。",
+      "methodSummary": "发言人核心诉求推断：展示繁荣销售以施压解除限制，即 The credit limit will be removed。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "spokesperson for Waterstones",
+        "message convey"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "What can be one consequence of the current dispute?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sales of books by mid-list PRH writers fall off considerably.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 明确揭示争端的最惨重受害者：'PRH authors have been the losers... it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books... who will be praying for an end to the dispute'（企鹅兰登作者沦为输家，尤其是腰部作者，失去店员主动推介后遭受重创，日夜祈祷争端结束）。失去展台和店员推销意味着这批腰部小众作者的图书销量出现断崖式大幅暴跌（fell off considerably）。A选项完全精准吻合。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Lesser-known PRH writers become the target of criticism.",
+        "isCorrect": false,
+        "distractorType": "无中生有受害形式",
+        "analysis": "【干扰特征: 偷换受损形式】作者遭受的是商业销量暴跌之苦，非沦为公众学术批评的靶子（target of criticism）。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Waterstones staff hesitate to promote big-name authors' books.",
+        "isCorrect": false,
+        "distractorType": "偷换作者群体",
+        "analysis": "【干扰特征: 群体错配】店员以往热衷推销的是不知名小众作者（lesser-known writers），知名大牌作者靠自身名气受影响较小。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Waterstones branches suffer a severe reduction in revenue.",
+        "isCorrect": false,
+        "distractorType": "事实相反",
+        "analysis": "【干扰特征: 事实相反】第三段明确指出水石书店5月销售额创2018年以来新高，受损最严重的是企鹅兰登的腰部作者。",
+        "refSentences": [
+          "P3-S2",
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P4-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "mid-list authors normally rely on staff passion are losers praying for end = Sales of books by mid-list PRH writers fell off considerably。",
+      "methodSummary": "受害者细节提取：mid-list authors are losers losing staff promotion 转换为 sales fell off considerably。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "consequence of current dispute"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2023-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following statements best represents Lownie's view?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Small publishers ought to stick together.",
+        "isCorrect": false,
+        "distractorType": "过度推断",
+        "analysis": "【干扰特征: 偷换建议】朗尼赞赏小出版商的创新活力，但未提出小出版商应当联合抱团的建议。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Big publishers will lose their dominance.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】大出版商正在通过并购进一步走向权力垄断（concentration of power），支配地位在不断加强。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "The publishing industry is having a hard time.",
+        "isCorrect": false,
+        "distractorType": "空泛泛指",
+        "analysis": "【干扰特征: 过于笼统】未能抓住朗尼抨击权力过度集中与呼吁多元声音的核心论点。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "The merger of publishers is a worrying trend.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P5-S1 和 P6-S1 紧密结合：P5-S1 指出作者对企鹅兰登与西蒙舒斯特巨头并购引发的恶果深感忧虑；P6-S1 紧接着引述朗尼的论断：'This is all part of a wider change towards concentration of power... needs a plurality of ways... different voices'（这是出版业走向权力垄断危险变革的一环，出版业迫切需要多元声音）。朗尼坚决反对巨头并购带来的权力垄断与声音扼杀。D选项 The merger of publishers is a worrying trend（出版商的合并并购是一个令人担忧的危险趋势）精准代表了朗尼的批判观点。",
+        "refSentences": [
+          "P5-S1",
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P5-S1",
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "merger leads to fewer bids and lower advances + wider change towards concentration of power = The merger of publishers is a worrying trend。",
+      "methodSummary": "专家观点综合概括：结合 merger 背景与 concentration of power 批判，提炼为 a worrying trend。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2023_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2023_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Lownie's view",
+        "best represents"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2023_t3.json",
+      "year": 2023,
+      "articleKey": "ky-en1-2023-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:80ce111490ac0521438134ad0c9743ab327bf2ed35b41d366f06ddda87ec60c4"
+    }
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "While still catching up to men in some spheres of modern life, women appear to be way ahead in at least one undesirable category.",
+    "translation": "尽管在现代生活的某些领域中女性仍在奋力追赶男性，但至少在一个并不令人羡慕的方面，她们似乎已经遥遥领先。",
+    "syntaxAnalysis": "主从复合句。While 引导让步状语从句（省略了 they are，保留分词短语 still catching up to men in some spheres of modern life）；主句主干为 women appear to be way ahead in at least one undesirable category（way ahead 为副词短语表程度）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 2,
+      "ps": "P1-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men,\" according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital.",
+    "translation": "纽约退伍军人管理医院的首席精神科医师耶胡达博士指出：“与男性相比，女性在面对压力时尤其容易患上抑郁和焦虑障碍。”",
+    "syntaxAnalysis": "直接引语复合句。引号内为主干：Women are particularly susceptible to doing sth...；in response to stress 为条件状语；compared to men 为过去分词短语作对比状语；引号后 according to... 为引述成分，chief psychiatrist 为同位语修饰 Dr. Yehuda。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions.",
+    "translation": "针对动物和人类的研究均表明，性激素会以某种方式影响压力反应，使得处于压力之下的雌性分泌出比同等条件下的雄性更多的诱发性化学物质。",
+    "syntaxAnalysis": "主从复合长难句。主语 Studies of both animals and humans，谓语 have shown；that 引导宾语从句：sex hormones somehow affect the stress response；causing... 为现在分词短语作结果状语，其中包含 causing sb to do sth 结构，以及 than do males under the same conditions 的倒装比较从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "In several of the studies, when stressed-out female rats had their ovaries (the female reproductive organs) removed, their chemical responses became equal to those of the males.",
+    "translation": "在其中的几项研究中，当承受高压的母鼠被摘除卵巢（雌性生殖器官）后，它们的化学反应就变得与公鼠旗鼓相当。",
+    "syntaxAnalysis": "时间状语复合句。when 引导时间状语从句，从句中包含 had their ovaries removed 复合宾语结构（have sth done 表受动）；括号内为同位语解释 ovaries；主句主干为 their chemical responses became equal to those of the males（代词 those 指代 chemical responses）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Adding to a woman's increased dose of stress chemicals, are her increased \"opportunities\" for stress.",
+    "translation": "除了女性体内压力化学物质分泌增加之外，她们遭遇压力的“机会”也大大增多（雪上加霜）。",
+    "syntaxAnalysis": "完全倒装句。现在分词短语 Adding to a woman's increased dose of stress chemicals 作表语置于句首以承上启下；系动词 are 提前；真正的逻辑主语为 her increased \"opportunities\" for stress。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"It's not necessarily that women don't cope as well.",
+    "translation": "“这倒未必是因为女性自身的应对能力更差。",
+    "syntaxAnalysis": "否定形式主语从句。It 为形式主语；is not necessarily 为系表结构；that 引导真正的主语从句，cope 为不及物动词表应对。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 3,
+      "ps": "P3-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "It's just that they have so much more to cope with,\" says Dr. Yehuda.",
+    "translation": "只是因为她们需要应付的事情实在要多得多，”耶胡达博士说。",
+    "syntaxAnalysis": "强调性表语从句。It 为形式主语；is just that 引导表语/主语从句，so much more 为宾语，to cope with 为不定式短语作后置定语修饰 more。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 4,
+      "ps": "P3-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "\"Their capacity for tolerating stress may even be greater than men's,\" she observes, \"it's just that they're dealing with so many more things that they become worn out from it more visibly and sooner.\"",
+    "translation": "她观察指出：“她们承受压力的耐受力甚至可能比男性更强；只是她们需要处理的事情如此之多，以至于她们因压力而精疲力竭的表现显得更为明显、也来得更早。”",
+    "syntaxAnalysis": "并列复合引语。前一分句主干为 Their capacity... may even be greater than men's（men's 省略了 capacity）；后一分句中包含 so... that... 结果状语从句（dealing with so many more things that they become worn out...）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Dr. Yehuda notes another difference between the sexes.",
+    "translation": "耶胡达博士还指出了两性之间的另一处显著差别。",
+    "syntaxAnalysis": "主谓宾简单句。主语 Dr. Yehuda，谓语 notes，宾语 another difference between the sexes。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"I think that the kinds of things that women are exposed to tend to be in more of a chronic or repeated nature.",
+    "translation": "“我认为，女性所面临的那些生活事件，往往更具有长期性或反复性的特质。",
+    "syntaxAnalysis": "主从复合句。主句 I think；that 引导宾语从句；从句主语为 the kinds of things，that women are exposed to 为定语从句修饰 things；谓语 tend to be；in more of a chronic or repeated nature 为介词短语作表语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 3,
+      "ps": "P4-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Men go to war and are exposed to combat stress.",
+    "translation": "男性奔赴战场，承受战斗带来的创伤压力。",
+    "syntaxAnalysis": "and 连接的并列简单句。Men 作主语；谓语1为 go to war，谓语2为 are exposed to combat stress。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 4,
+      "ps": "P4-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Men are exposed to more acts of random physical violence.",
+    "translation": "男性面临更多突发偶然的身体暴力行为。",
+    "syntaxAnalysis": "被动语态简单句。Men are exposed to more acts of random physical violence。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 5,
+      "ps": "P4-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "The kinds of interpersonal violence that women are exposed to tend to be in domestic situations, by, unfortunately, parents or other family members, and they tend not to be one-shot deals.",
+    "translation": "而女性所遭受的人际暴力，往往发生在家庭内部，令人遗憾的是，施暴者往往是父母或其他家庭成员，而且这种伤害往往绝非一次性的交锋。”",
+    "syntaxAnalysis": "并列复合句。前一分句主干为 The kinds of interpersonal violence... tend to be in domestic situations；that women are exposed to 为定语从句；by parents or other family members 为方式状语（插入 unfortunately）；and 连接后一分句 they tend not to be one-shot deals（one-shot deals 意为‘一次性了结之事’）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 6,
+      "ps": "P4-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "The wear-and-tear that comes from these longer relationships can be quite devastating.\"",
+    "translation": "源于这些长期相处关系的身心损耗，其破坏力可能是极其毁灭性的。”",
+    "syntaxAnalysis": "主从复合句。主干 The wear-and-tear... can be quite devastating；that comes from these longer relationships 为定语从句修饰 wear-and-tear（意为身心磨损/损耗）。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Adeline Alvarez married at 18 and gave birth to a son, but was determined to finish college.",
+    "translation": "阿德琳·阿尔瓦雷斯在18岁结婚并生下一个儿子，但她依然下定决心要完成大学学业。",
+    "syntaxAnalysis": "并列简单句。主语 Adeline Alvarez；三个并列谓语：married at 18, gave birth to a son, 以及由 but 转折连接的 was determined to finish college。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "\"I struggled a lot to get the college degree.",
+    "translation": "“为了拿到大学文凭，我付出了极其艰辛的拼搏。",
+    "syntaxAnalysis": "简单句。I 作主语；struggled a lot 为谓语加程度状语；to get the college degree 为不定式短语作目的状语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "I was living in so much frustration that that was my escape, to go to school, and get ahead and do better.\"",
+    "translation": "我当时生活在如此巨大的挫败感之中，以至于去学校读书反倒成了我的解脱之道——去求学、出人头地并过得更好。”",
+    "syntaxAnalysis": "so... that... 复合结果状语从句。I was living in so much frustration 为主句；that 引导结果从句，从句主语为 that（指代读书求学），was 为系动词，my escape 为表语；后接不定式短语 to go to school, and get ahead and do better 作同位解释。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 4,
+      "ps": "P5-S4"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 4
+    },
+    "text": "Later, her marriage ended and she became a single mother.",
+    "translation": "后来，她的婚姻走向破裂，她成了一名单亲母亲。",
+    "syntaxAnalysis": "and 连接的并列简单句。her marriage ended 为分句1；she became a single mother 为分句2。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 5,
+      "ps": "P5-S5"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 5
+    },
+    "text": "\"It's the hardest thing to take care of a teenager, have a job, pay the rent, pay the car payment, and pay the debt.",
+    "translation": "“一边抚养青春期的孩子，一边还要工作，同时还得付房租、还车贷、清偿债务，这简直是天底下最艰难的事情了。",
+    "syntaxAnalysis": "形式主语结构。It 为形式主语；is the hardest thing 为系表；并列动词不定式短语 to take care of..., have..., pay..., pay..., and pay... 为真正主语。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 6,
+      "ps": "P5-S6"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 6
+    },
+    "text": "I lived from paycheck to paycheck.\"",
+    "translation": "我的日子过得捉襟见肘，全靠一张又一张的微薄薪水支票勉强度日（过着月光糊口的日子）。”",
+    "syntaxAnalysis": "主谓状简单句。I 为主语；lived 为谓语；from paycheck to paycheck 为固定副词介词习语作方式状语，形容没有存款、薪水勉强抵扣日常账单的贫困状态。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 1
+    },
+    "text": "Not everyone experiences the kinds of severe chronic stresses Alvarez describes.",
+    "translation": "并非每个人都会经历阿尔瓦雷斯所描述的那种严重而长期的慢性重压。",
+    "syntaxAnalysis": "部分否定主从复合句。Not everyone 作主语（部分否定）；experiences 为谓语；the kinds of severe chronic stresses 为宾语；Alvarez describes 为省略 that 的定语从句。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 2
+    },
+    "text": "But most women today are coping with a lot of obligations, with few breaks, and feeling the strain.",
+    "translation": "但是，当今大多数女性都在应对大量的多重家庭与社会义务，几乎没有任何休整喘息的机会，时刻感受着身心的极度紧绷。",
+    "syntaxAnalysis": "转折并列谓语结构。most women today 为主语；are coping with a lot of obligations 为谓语1；with few breaks 为介词伴随状语；and feeling the strain 为并列分词谓语结构。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2008-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 3,
+      "ps": "P6-S3"
+    },
+    "sourceLocator": {
+      "sentenceIndex": 3
+    },
+    "text": "Alvarez's experience demonstrates the importance of finding ways to diffuse stress before it threatens your health and your ability to function.",
+    "translation": "阿尔瓦雷斯的亲身经历充分证明了：在压力真正危及你的身体健康和日常社会机能之前，找到排解与化解压力的途径是何等至关重要。",
+    "syntaxAnalysis": "主从复合句。Alvarez's experience 为主语；demonstrates 为谓语；the importance of finding ways to diffuse stress 为宾语（含动名词与不定式后置定语）；before 引导时间状语从句，从句包含两个并列宾语 your health and your ability to function。",
+    "rawFields": {},
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2008_t1.json",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:65e0d59d12b757d4dbb2fffb64202e23137c92a780cc722ec7febb89f8a7281a"
+    }
+  }
+]

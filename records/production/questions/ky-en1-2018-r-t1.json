@@ -1,0 +1,901 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "Who will be most threatened by automation?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Leading politicians.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】P1仅提到在下届总统大选中政治家竞选时可能对该问题避而不谈（will probably go unmentioned in the next presidential campaign），并不是政治家本身受到自动化的威胁。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "politicians",
+            "ipa": "[ˌpɒləˈtɪʃn]",
+            "meaning": "政治家",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Low-wage laborers.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】P2第3句明确指出园艺、日托等低收入工作对机器人缺乏吸引力（Lower-income jobs like gardening or day care don't appeal to robots），因此他们并非受威胁最严重的人群。",
+        "refSentences": [
+          "P2-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Robot owners.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】P2第5句明确指出富人拥有机器人，因此他们过得很好（The rich own the robots, so they will be fine），完全未受生存威胁。",
+        "refSentences": [
+          "P2-S5"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Middle-class workers.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P1提出中产阶级面临机器抢饭碗的严峻挑战，P2第2句进一步指出全美半数工作面临自动化高风险，其中中产阶级受挤压最为严重（with the middle class disproportionately squeezed），P2第4句更点明货车驾驶、财务咨询、软件工程等大量中产职业首当其冲，准确对应 Middle-class workers。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S2",
+          "P2-S4"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P1-S1",
+      "P2-S2",
+      "P2-S4"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "challenges facing the middle class / middle class disproportionately squeezed": "threatened by automation -> Middle-class workers"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "threatened",
+          "ipa": "[ˈθret(ə)n]",
+          "meaning": "威胁",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "automation",
+          "ipa": "[ˌɔːtəˈmeɪʃ(ə)n]",
+          "meaning": "自动化",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "Which of the following best represents the author's view?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Worries about automation are in fact groundless.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】P2首句“Don't dismiss the possibility”及P3首句“This isn't to be alarmist”明确警告不能对风险视而不见，否定了“担忧毫无根据”的说法。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S1"
+        ],
+        "vocab": [
+          {
+            "word": "automation",
+            "ipa": "[ˌɔːtəˈmeɪʃ(ə)n]",
+            "meaning": "自动化",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "in",
+            "ipa": "[ɪn]",
+            "meaning": "实际上",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "groundless",
+            "ipa": "[ˈɡraʊndləs]",
+            "meaning": "没有根据的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Optimists' opinions on new tech find little support.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】P3明确指出乐观主义者的观点有历史佐证（工业革命最终提高生活水准、创造更多岗位），并非缺乏事实支撑，作者反对的是盲目乐观而漠视转型阵痛。",
+        "refSentences": [
+          "P3-S2",
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Issues arising from automation need to be tackled.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解主旨归纳】作者在P3第5句指出“in the medium term, middle-class workers may need a lot of help adjusting”，随后在P4、P5、P6分别系统提出了教育培训重构、激发商业活力创新、调整税制与社保网等全方位对策，并在末段斩钉截铁指出“policies to help workers adapt will be indispensable”，充分体现了“必须切实解决自动化引发的问题”这一核心论点。",
+        "refSentences": [
+          "P3-S5",
+          "P4-S1",
+          "P5-S1",
+          "P6-S1",
+          "P7-S3"
+        ],
+        "vocab": [
+          {
+            "word": "Issues",
+            "ipa": "[ˈɪʃuː]",
+            "meaning": "问题",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "arising",
+            "ipa": "[əˈraɪz]",
+            "meaning": "引发",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "automation",
+            "ipa": "[ˌɔːtəˈmeɪʃ(ə)n]",
+            "meaning": "自动化",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "tackled",
+            "ipa": "[ˈtæk(ə)l]",
+            "meaning": "解决",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "Negative consequences of new tech can be avoided.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【过度推断】科技带来的结构性剧变是必然发生的客观历史规律，作者强调的是通过公共政策帮助劳动者适应并缓冲冲击，而非可以彻底避免负面后果。",
+        "refSentences": [
+          "P7-S1",
+          "P7-S3"
+        ],
+        "vocab": [
+          {
+            "word": "Negative",
+            "ipa": "[ˈneɡətɪv]",
+            "meaning": "负面的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "consequences",
+            "ipa": "[ˈkɒnsɪkwəns]",
+            "meaning": "影响",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "avoided",
+            "ipa": "[əˈvɔɪd]",
+            "meaning": "避免",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "ATTITUDE",
+    "type": "观点态度题",
+    "targetSentences": [
+      "P3-S5",
+      "P7-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "need a lot of help adjusting / policies to help workers adapt will be indispensable": "Issues arising from automation need to be tackled"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "represents",
+          "ipa": "[ˌreprɪˈzent]",
+          "meaning": "代表",
+          "level": "red",
+          "isSelfAnnotated": true
+        },
+        {
+          "word": "author’s",
+          "ipa": "",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "view",
+          "ipa": "[vjuː]",
+          "meaning": "观点",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "Education in the age of automation should put more emphasis on",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "creative potential.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P4第2句明确论述课程改革方向：“Curriculums... should evolve to focus less on memorizing facts and more on creativity and complex communication”，减少死记硬背，更多关注创造力与复杂沟通能力，creativity 即 creative potential。",
+        "refSentences": [
+          "P4-S2"
+        ],
+        "vocab": [
+          {
+            "word": "creative",
+            "ipa": "[kriˈeɪtɪv]",
+            "meaning": "创新的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "potential",
+            "ipa": "[pəˈtenʃ(ə)l]",
+            "meaning": "潜能",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "job-hunting skills.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面干扰】文中提及职业培训（job training），但核心是培养解决问题能力及与机器人协同工作，并非单纯的求职面试技巧（job-hunting skills）。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S3"
+        ],
+        "vocab": [
+          {
+            "word": "job-hunting",
+            "ipa": "",
+            "meaning": "求职",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "individual needs.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】P4通篇强调的是适应人机协作所必需的创造力与通用技能，未提及“个人特殊需求”。",
+        "refSentences": [
+          "P4-S2"
+        ],
+        "vocab": [
+          {
+            "word": "individual",
+            "ipa": "[ˌɪndɪˈvɪdʒuəl]",
+            "meaning": "个人的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "cooperative spirit.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】文中P4第3句指出要“work alongside robots”（与机器人并肩工作），强调人机协作技能，而非传统人际团队协作精神（cooperative spirit）。",
+        "refSentences": [
+          "P4-S3"
+        ],
+        "vocab": [
+          {
+            "word": "cooperative",
+            "ipa": "[kəʊˈɒpərətɪv]",
+            "meaning": "合作的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "focus more on creativity": "put more emphasis on creative potential"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "automation",
+          "ipa": "[ˌɔːtəˈmeɪʃ(ə)n]",
+          "meaning": "自动化",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "put",
+          "ipa": "[pʊt]",
+          "meaning": "强调",
+          "level": "red",
+          "isSelfAnnotated": true
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "The author suggests that tax policies be aimed at",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "encouraging the development of automation.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念】税收政策旨在调节收入二次分配、保护普通劳动者，而非用于激励自动化本身的发展。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ],
+        "vocab": [
+          {
+            "word": "automation",
+            "ipa": "[ˌɔːtəˈmeɪʃ(ə)n]",
+            "meaning": "自动化",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "increasing the return on capital investment.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反矛盾】文中指出自动化本身已经扩大了资本收益与劳动收入的鸿沟，税收应当向劳动者倾斜，而非进一步提高资本回报。",
+        "refSentences": [
+          "P6-S1"
+        ],
+        "vocab": [
+          {
+            "word": "investment",
+            "ipa": "[ɪnˈvestmənt]",
+            "meaning": "投资",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "easing the hostility between rich and poor.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中未讨论富人与穷人之间的敌意（hostility）。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ],
+        "vocab": [
+          {
+            "word": "easing",
+            "ipa": "[iːz]",
+            "meaning": "缓和",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "hostility",
+            "ipa": "[hɒˈstɪləti]",
+            "meaning": "敌意",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "preventing the income gap from widening.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】P6第1句点明税制重塑动因：“because automation threatens to widen the gap between capital income and labor income, taxes and the safety net will have to be rethought”，并在第2句具体建议削减低薪劳工税收、扩大补贴以“reduce inequality”，与 preventing the income gap from widening 构成严密同义互换。",
+        "refSentences": [
+          "P6-S1",
+          "P6-S2"
+        ],
+        "vocab": [
+          {
+            "word": "preventing",
+            "ipa": "[prɪˈvent]",
+            "meaning": "阻止",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "income",
+            "ipa": "[ˈɪnkʌm]",
+            "meaning": "收入差距",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": [
+      "P6-S1",
+      "P6-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "widen the gap / reduce inequality": "preventing the income gap from widening"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "policies",
+          "ipa": "[ˈpɒləsi]",
+          "meaning": "税收政策",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "be",
+          "ipa": "[bi]",
+          "meaning": "旨在",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2018-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "In this text, the author presents a problem with",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "opposing views on it.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】虽然P3提及了乐观主义者与历史教训的对比，但那只是分析铺垫，不能涵盖文章后半部分（P4-P7）占主导地位的系统政策建议。",
+        "refSentences": [
+          "P3-S2",
+          "P3-S3"
+        ],
+        "vocab": [
+          {
+            "word": "views",
+            "ipa": "[vjuː]",
+            "meaning": "看法",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "possible solutions to it.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解宏观结构概括】文章属于标准的“提出问题—分析问题—解决问题”议论文体例：P1-P3提出中产阶级面临机器抢走工作的严重冲击与转型阵痛，P4提出教育与培训的革新（The first step: rethinking education），P5提出激发商业活力与创新机制，P6提出重构税收制度与社保安全网，P7总结强调必须出台切实政策协助工人适应，全文主体篇幅聚焦于 possible solutions to it。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1",
+          "P6-S1",
+          "P7-S3"
+        ],
+        "vocab": [
+          {
+            "word": "solutions",
+            "ipa": "[səˈluːʃ(ə)n]",
+            "meaning": "解决方案",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "its alarming impacts.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【以偏概全】危害与影响仅在引言和前两段指出，未能代表全文四段论述化解之策的宏观结构。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S2"
+        ],
+        "vocab": [
+          {
+            "word": "impacts",
+            "ipa": "[ˈɪmpækt]",
+            "meaning": "影响",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "alarming",
+            "ipa": "[əˈlɑːrmɪŋ]",
+            "meaning": "令人担忧的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "its major variations.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中并未剖析该问题的“各种变体或形态分化”。",
+        "refSentences": [
+          "P1-S1"
+        ],
+        "vocab": [
+          {
+            "word": "variations",
+            "ipa": "[ˌveəriˈeɪʃn]",
+            "meaning": "变化形式",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "MAIN_IDEA",
+    "type": "主旨大意题",
+    "targetSentences": [
+      "P4-S1",
+      "P5-S1",
+      "P6-S1",
+      "P7-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "first step: rethinking education / revive business dynamism / taxes and safety net / policies to help workers adapt": "possible solutions to it"
+    },
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "order": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "rawFields": {
+      "vocab": [
+        {
+          "word": "author",
+          "ipa": "[ˈɔːθə(r)]",
+          "meaning": "作者",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2018.js",
+      "year": 2018,
+      "articleKey": "ky-en1-2018-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:add9b001fa795d58a5aeca68bccf282b963110c45de2668bdfd5f7e48090ab9a"
+    }
+  }
+]

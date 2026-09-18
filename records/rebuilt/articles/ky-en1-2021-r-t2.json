@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2021-r-t2",
+  "year": 2021,
+  "textNumber": 2,
+  "title": "Conditional Cash Transfers in Indonesia: Antipoverty and Forest Conservation",
+  "chineseTitle": "印尼有条件现金转移（CCT）扶贫计划与热带雨林保护双赢",
+  "topic": "发展经济学与生态保护 / 有条件现金转移（CCT）扶贫项目对热带雨林砍伐率的意外保护效应",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文探讨了印尼连续三年森林砍伐放缓背后的意外动因——“有条件现金转移支付”（CCT）扶贫计划。传统观念认为经济增长与环境恶化正相关，墨西哥早期研究亦显示村民拿到补贴后砍伐林地养牛。然而，经济学家费拉罗利用卫星遥感大数据严密实证分析发现，印尼 CCT 扶贫项目使15个省份的森林砍伐率显著下降了30%。机理在于贫困农户将现金补贴作为应对恶劣气候的临时保险，避免了干旱时毁林开荒种稻。文章总结指出，该项目雄辩证明利好民生的扶贫政策同样能有力保护生态环境，其生态碳减排价值远超项目财政成本。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 8,
+  "sentenceCount": 11,
+  "vocabularyCount": 0,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2021_t2.json",
+    "year": 2021,
+    "articleKey": "ky-en1-2021-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:6cfd489cbff7c0f16343fe0ba6cdb371cb06fbc52089d4872e73cf37bb5a8972"
+  }
+}

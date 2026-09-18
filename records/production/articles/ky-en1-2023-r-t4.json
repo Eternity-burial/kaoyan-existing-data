@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2023-r-t4",
+  "year": 2023,
+  "textNumber": 4,
+  "title": "Citation Cartels, Predatory Journals, and Academic Integrity",
+  "chineseTitle": "学术论文“引用卡特尔”操纵与科研诚信保卫战",
+  "topic": "科研诚信与学术出版 / 引用卡特尔、母牛式掠夺性期刊刷引文、Scopus 数据库漏洞与揭露学术不端",
+  "topicDomain": null,
+  "subTopic": null,
+  "overview": "本文深入揭露了当今学术界围绕“论文被引用次数”展开的深层学术腐败与引文操纵黑产。作者指出，科学家的职业生涯不仅取决于论文数量，更深刻取决于其论文所吸引的被引用次数。这种唯引文论催生了“引用卡特尔”以及要求作者强行添加无关引用的掠夺性支持咨询中介。电子出版泛滥更是孕育了“奶牛式”掠夺性期刊，其全部功能就是通过大量荒谬的不相干引用为特定作者疯狂刷高被引量。在 Scopus 数据库中此类操纵极其猖獗。文章指出 Scopus 完全具备通过异常引文数据识别捕捉可疑引用的技术能力，并严正呼吁广大正直学者在面对不当引用要求时坚决拒绝并向期刊举报揭露其学术不端行径。",
+  "wordCount": null,
+  "readingTimeEstimate": null,
+  "difficultyRating": null,
+  "sourcePublication": null,
+  "paragraphCount": 5,
+  "sentenceCount": 11,
+  "vocabularyCount": 87,
+  "phraseCount": 0,
+  "questionCount": 5,
+  "capsules": {},
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2023.js",
+    "year": 2023,
+    "articleKey": "ky-en1-2023-r-t4",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:c4b0912a35d25e0fb3aec37770e8555b1f5190270f9525e6558c3dae1f3b449d"
+  }
+}

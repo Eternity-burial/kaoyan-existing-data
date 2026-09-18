@@ -1,0 +1,398 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "What can be learned about donkeys from paragraph 1?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "They seemed mysterious to human ancestors.",
+        "isCorrect": false,
+        "distractorType": "偷换主体认知",
+        "analysis": "【干扰特征: 偷换主体】驴何时何地被驯化是对‘当今科研学者’而言的谜团（has been a mystery to researchers），非对‘人类祖先’显得神秘。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "They underwent multiple domestication events.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】P1-S2 明确指出追溯到了单一驯化事件（traced to a single event），绝非多次驯化（multiple events）。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "They were vividly portrayed by ancient travelers.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】原文是它们帮助驮运旅客（carry travelers），绝非被古代旅行者生动描摹描绘（vividly portrayed）。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "They were critical for human civilizations' development.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 开宗明义明确指出：'For thousands of years, donkeys have been critical for propelling human civilizations forward. They've helped pull wheeled vehicles, carry travelers and move goods...'（数千年来，驴对于推动人类文明向前演进发展至关重要）。propelling human civilizations forward 与 human civilizations' development 完全同义对应；critical 与 critical 更是精准原词复现。D选项完全精准吻合。",
+        "refSentences": [
+          "P1-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "critical for propelling human civilizations forward = critical for human civilizations' development。",
+      "methodSummary": "首句细节同义改写：propelling civilizations forward 转换为 civilizations' development。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "learned about donkeys from paragraph 1"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "What message is conveyed in Brooks' statement?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The earliest habitats of donkeys are hardly traceable.",
+        "isCorrect": false,
+        "distractorType": "事实完全相反",
+        "analysis": "【干扰特征: 事实相反】研究正是通过 DNA 成功精准锁定了东非的驯化起源发源地，完全可追溯。",
+        "refSentences": [
+          "P1-S2",
+          "P2-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "It is increasingly easy to read donkeys' DNA sequences.",
+        "isCorrect": false,
+        "distractorType": "无中生有测序难度",
+        "analysis": "【干扰特征: 概念偏差】布鲁克斯强调的是 DNA 序列作为历史证据的科学价值，非测序技术变得越来越容易。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Written accounts contain vital clues for donkey research.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒文字局限",
+        "analysis": "【干扰特征: 事实颠倒】布鲁克斯批评文字文献只记录人类单方视角且往往不准确，强调 DNA 才是关键生物学见证。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Genetic analysis offers insight into the history of donkeys.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 明确引述布鲁克斯的声明：'Through their DNA, the animals are telling their history themselves... Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived'（通过 DNA，动物亲自讲述自身历史，DNA 序列为动物的生存环境和经历提供了生物学见证）。Through DNA sequences 与 Genetic analysis 完全同义；telling history / biological testimony 与 offers insight into the history of donkeys 完全同义对应。D选项精准吻合。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "观点细节题",
+    "targetSentences": [
+      "P2-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Through DNA animals tell history themselves + biological testimony from DNA = Genetic analysis offers insight into the history of donkeys。",
+      "methodSummary": "引语核心信息提炼：DNA sequences tell history 转换为 Genetic analysis offers insight into history。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "message conveyed in Brooks' statement"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "In their study, the researchers investigated how donkeys",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "dispersed widely in the world.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S2 明确交代科研团队的核心研究轨迹：'used computer models to pinpoint the domestication event... They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later'（随后追踪了驴如何扩散蔓延至非洲其他地区以及欧洲和亚洲）。spread across the continent into Europe and Asia（横跨大洲扩散到欧洲和亚洲）与 dispersed widely in the world（在全世界广泛扩散分布）完全同义对应。A选项完全精准吻合。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "survived with the help of herders.",
+        "isCorrect": false,
+        "distractorType": "因果主体颠倒",
+        "analysis": "【干扰特征: 主客颠倒】是驴协助牧民和人类生存驮物，非牧民帮助驴在野外求生。",
+        "refSentences": [
+          "P1-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "developed certain behavioral traits.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 概念偏差】研究重点在演化树与地理迁徙扩散路径，非探究特定行为习性的发育机制。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "adapted to the changing environment.",
+        "isCorrect": false,
+        "distractorType": "跨段混淆",
+        "analysis": "【干扰特征: 偷换重点】第3段专讲全球扩散扩散路径（spread across continents），适应撒哈拉干旱环境是第4段探讨的推测动机。",
+        "refSentences": [
+          "P3-S2",
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "traced how animals spread across continent into Europe and Asia = investigated how donkeys dispersed widely in the world。",
+      "methodSummary": "原句动词同义转述：spread across continent into Europe and Asia 转换为 dispersed widely in the world。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "researchers investigated how donkeys"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "As to why the original domestication of donkeys happened, Orlando",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "challenges conventional ideas.",
+        "isCorrect": false,
+        "distractorType": "无中生有挑战传统",
+        "analysis": "【干扰特征: 概念偏差】此前驯化原因一直是个谜（unclear），奥兰多是填补空白提出假设，非向已有传统学说发起挑战。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "provides a possible explanation.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P4-S1 和 P4-S2 明确阐述奥兰多在成因探讨中的学术贡献：'Though it's still unclear why... event coincided with the Sahara growing larger and drier. Orlando tells: Prehistoric humans may have tamed donkeys to help them navigate the expanding Sahara'（尽管原因尚不完全确定，但时期与撒哈拉变干重合，奥兰多指出史前人类可能借助擅长荒漠的驴来穿越不断扩大的撒哈拉）。may have tamed... to navigate Sahara 与 provides a possible explanation（提供了一种合理解释/推测）完全同义对应。B选项精准吻合。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "calls for evidence from the Sahara.",
+        "isCorrect": false,
+        "distractorType": "偷换态度",
+        "analysis": "【干扰特征: 偷换态度】他是基于气候干旱证据提出假说，非向学界呼吁去撒哈拉搜集证据。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "holds a different view from Kreier.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒合作关系",
+        "analysis": "【干扰特征: 关系颠倒】记者克赖尔正是引述奥兰多的专业观点来解释撒哈拉干旱联系，两人观点高度一致而非分歧。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点推断题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "Prehistoric humans may have tamed donkeys to navigate expanding Sahara = provides a possible explanation（提供了一种合理解释）。",
+      "methodSummary": "学术推论定性：may have tamed... 对应的正是一个 possible explanation。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "why original domestication happened",
+        "Orlando"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2026-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "The authors think that their research could help with",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "greater protection of wildlife.",
+        "isCorrect": false,
+        "distractorType": "泛化泛指",
+        "analysis": "【干扰特征: 过于宽泛】文章核心聚焦于家畜驴（donkeys/equines）的种群管理，非泛论野生动物保护。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "better management of donkeys.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P6-S1 明确交代该项研究成果在现实层面的重大应用价值：'understanding the equines' genetic makeup... might improve their management in the future, as climate change alters the planet's environment, write the authors'（作者写道，了解基因构成有助于在未来气候变化背景下改善对它们的管理）。improve their management 与 better management of donkeys 完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "recovering early types of donkeys.",
+        "isCorrect": false,
+        "distractorType": "无中生有复活古种",
+        "analysis": "【干扰特征: 概念偏差】研究是进行现代种群科学管理，非克隆复原早期的古代驴品种。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "raising awareness of climate change.",
+        "isCorrect": false,
+        "distractorType": "偷换背景为主旨",
+        "analysis": "【干扰特征: 偷换背景】气候变化是环境大背景，研究的直接落脚点是改善对驴的管理水平。",
+        "refSentences": [
+          "P6-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "推断结论题",
+    "targetSentences": [
+      "P6-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "might improve their management in the future = better management of donkeys。",
+      "methodSummary": "尾段应用价值提取：improve their management 直接转换为 better management of donkeys。"
+    },
+    "paperVariants": null,
+    "rawFields": {
+      "stemKeywords": [
+        "authors think",
+        "research could help with"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2026.js",
+      "year": 2026,
+      "articleKey": "ky-en1-2026-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:8d1f6a54cc35e229ff5263241e66befa252623694c56573725eea35fd3af84e8"
+    }
+  }
+]

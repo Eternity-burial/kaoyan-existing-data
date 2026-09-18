@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-1998",
+  "exam": "kaoyan",
+  "track": "legacy",
+  "year": 1998,
+  "title": "1998年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析",
+  "subject": "英语",
+  "articleKeys": [
+    "ky-en1-1998-r-t1",
+    "ky-en1-1998-r-t2",
+    "ky-en1-1998-r-t3",
+    "ky-en1-1998-r-t4",
+    "ky-en1-1998-r-t5"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_1998.js",
+    "year": 1998,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:c71e43039cf4f65c236d585fa7a24008ef7465f8dadb39fdc28a6a7f62f37550"
+  }
+}

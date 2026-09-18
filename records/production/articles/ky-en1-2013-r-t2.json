@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "production",
+  "articleKey": "ky-en1-2013-r-t2",
+  "year": 2013,
+  "textNumber": 2,
+  "title": "Online Behavioral Ads and the Do-Not-Track Tug of War",
+  "chineseTitle": "互联网行为定向广告与‘禁止追踪’默认权博弈",
+  "topic": null,
+  "topicDomain": "互联网商业与用户隐私",
+  "subTopic": "微软IE10默认开启DNT、广告商利益反弹与科技巨头博弈",
+  "overview": null,
+  "wordCount": 387,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自 The Economist《Dispute over Microsoft's 'do not track' system》",
+  "paragraphCount": 7,
+  "sentenceCount": 25,
+  "vocabularyCount": 54,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "传统商业广告一直受制于‘广告费有一半被浪费掉，却不知是哪一半’的约翰·沃纳梅克魔咒。进入互联网时代后，网络广告商利用Cookie和点击行为开展‘行为定向广告’（Behavioral Advertising），实现了前所未有的精准投放与商业暴利。然而，这一模式对网民在线隐私构成了深度侵犯。2010年，美国联邦贸易委员会（FTC）提议在浏览器中加入‘禁止追踪’（Do Not Track, 简称DNT）协议。2012年，微软在即将随Windows 8推出的IE10中激进地将DNT设为‘默认开启（Default）’，引发了全美广告商协会（ANA）及数字广告联盟（DAA）的恐慌与强烈抵制。同时，微软此举表面宣称赋权消费者隐私，实则被业界广泛解读为借隐私之名打压极度依赖广告营收的宿敌谷歌（Google）。",
+      "coreDisputeOrTheme": "核心争议在于‘隐私自主权’与‘数字广告商业模式’之间的尖锐对立。争论焦点包括：1. 默认设置的巨大惯性（大多数用户不会主动更改默认选项）；2. 广告商以‘不收集偏好会导致广告更缺乏针对性、消费者利益受损’为由进行辩护；3. DNT协议缺乏强制约束力，广告商是否会选择直接无视；4. 微软高调倡导隐私背后的商业算计与巨头竞争隐情。",
+      "keyTerminology": [
+        {
+          "term": "Behavioral Advertising",
+          "explanation": "行为定向广告：通过长期追踪网民的网页浏览、搜索与点击记录，分析其兴趣偏好后精准推送的广告形态。"
+        },
+        {
+          "term": "Do Not Track (DNT)",
+          "explanation": "禁止追踪协议：一种用户向网站和广告联盟发出的HTTP头部信号，声明用户不希望在线行为被跟踪监测。"
+        },
+        {
+          "term": "Default Setting",
+          "explanation": "默认设置：软件系统预先设定的运行状态。由于用户心理惰性，绝大多数网民会长期保留默认配置。"
+        },
+        {
+          "term": "Federal Trade Commission (FTC)",
+          "explanation": "美国联邦贸易委员会：负责维护市场公平竞争和保护消费者隐私权益的联邦监管机构。"
+        },
+        {
+          "term": "Digital Advertising Alliance (DAA)",
+          "explanation": "数字广告联盟：由各大主流网络广告商与科技营销企业联合成立的行业自律组织。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "网络广告与信息隐私 (Internet Advertising & Data Privacy)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "fine- (细致/精细)",
+          "examples": [
+            "fine-grained (精细粒度的/碎片的)",
+            "fine-tuned (微调的)"
+          ]
+        },
+        {
+          "affix": "dis- / un- (否定前缀)",
+          "examples": [
+            "unclear (不清楚的)",
+            "disregard (忽视/不理会)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "网络追踪与广告运作",
+          "words": [
+            "behavioral ads",
+            "fine-grained",
+            "targeted",
+            "preferences",
+            "track",
+            "click on"
+          ]
+        },
+        {
+          "theme": "行业博弈与协议规范",
+          "words": [
+            "quarrel",
+            "row",
+            "default",
+            "oblige",
+            "norm",
+            "comply with",
+            "press on"
+          ]
+        },
+        {
+          "theme": "商业竞争与权力控制",
+          "words": [
+            "go it alone",
+            "upset",
+            "selling point",
+            "favorably",
+            "consumer control",
+            "skepticism"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2013.js",
+    "year": 2013,
+    "articleKey": "ky-en1-2013-r-t2",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:6d07af55e71dbeb8de674d79d9ec6999eae76a1ff484117fadeaff8123ed9680"
+  }
+}

@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The grammar school boy from Stratford-upon-Avon has landed a scholarly punch after ground-breaking research showed that Shakespeare does benefit children's literacy and emotional development. But only if you act him out.",
+    "translation": "这位来自埃文河畔斯特拉特福德的昔日文法学校男孩（莎士比亚），在学术界结结实实地打出了一记漂亮的重拳——一项开创性的重磅研究表明：莎士比亚戏剧确实对儿童的读写能力与情感心智发育大有裨益（does benefit children's literacy and emotional development）。但这有一个绝对的前提：孩子们必须亲自将其搬上舞台演绎出来（play the roles in Shakespeare / act him out）！",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "A study found that a \"rehearsal room\" approach to teaching Shakespeare broadened children's vocabulary and the complexity of their writing as well as their emotional literacy.",
+    "translation": "一项实证研究发现，采用戏剧“排练室”（rehearsal room）沉浸式方法来教授莎士比亚戏剧，不仅大幅拓宽了儿童的词汇量，显著提升了其书面写作的复杂程度，更极大增强了他们的情感共情素养（emotional literacy）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 2,
+      "sentence": 2,
+      "ps": "P2-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P2-S2",
+      "pIndex": 2
+    },
+    "text": "\"The research shows that the way actors work makes a big difference to the way children use language and also how they think about themselves,\" Jacqui O'Hanlon of the Royal Shakespeare Company (RSC), which commissioned the study, said.",
+    "translation": "“这项研究雄辩地证明，专业演员的工作演绎方式，对孩子们如何运用语言以及他们如何审视看待自我，带来了极其深远重大的积极改变，”委托开展该项研究的皇家莎士比亚剧团（RSC）教育总监 Jacqui O'Hanlon 表示。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "The randomised control trial involved hundreds of year 5 pupils—aged nine and ten—at 45 state primary schools that had not been \"previously exposed to RSC pedagogy\".",
+    "translation": "这项随机对照试验（RCT）涵盖了45所此前从未接触过皇家莎士比亚剧团教学法的公立小学里数百名九至十岁的五年级学生。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "They were split into target and control groups and asked to write, for example, a message in a bottle as Ferdinand after the shipwreck in The Tempest. The target group was given a 30-minute drama-based activity to accompany the passage.",
+    "translation": "这些学生被随机分成实验目标组与对照组（to find whether the change in instruction enhances learning outcomes）；两组学生被要求以《暴风雨》中遭遇海难后的斐迪南王子的第一人称角色，写下一封漂流瓶信件。其中，实验目标组在阅读文本的同时，被安排参与了整整30分钟的沉浸式戏剧表演角色扮演活动。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "The peer-reviewed results showed that the target group of pupils drew on a wider vocabulary, used words \"classed as more sophisticated or rarer\", and wrote at greater length.",
+    "translation": "经过同行评审的最终研究结果清晰显示：实验目标组的学生调用了明显更为广阔的词汇库，使用了大量“被归类为更为高级、更为罕见”的生动词汇，且写出的文章篇幅更为充实详尽。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "They also \"appear to be more comfortable writing in role... while [control] group imagine how they themselves would react to being shipwrecked, [target] group put themselves in the shoes of a literary character and express that character's emotion\".",
+    "translation": "他们同样“在代入角色写作时显得更加游刃有余自信从容……对照组学生仅仅局限于想象如果是他们自己遭遇海难会作何反应，而实验目标组学生则能够完全设身处地代入文学角色的内心世界（put themselves in shoes of a literary character / identifying with characters），深刻细腻地抒发表达出那个角色的复杂情感。”",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "The Time to Act study also found that while control pupils relied on \"desert island clichés\" such as palm trees, target pupils were \"more expansive [giving] a broader picture of the sky, the sea and the atmospheric conditions\".",
+    "translation": "这项名为《行动之时》（Time to Act）的权威研究还发现：对照组学生通篇严重依赖诸如棕榈树等“荒岛陈词滥调”（desert island clichés），暴露出描写景物能力的严重匮乏薄弱（shows their weakness in description）；相比之下，实验目标组学生笔下的描写则显得“更具拓展张力，勾勒出了关于天空、海洋以及大气气象环境的更加广袤深邃的宏伟画卷”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "O'Hanlon said she had been most surprised by the \"emotional literacy that was evident in the [target] children's writing\" and that they were \"more resilient in their writing, more hopeful\".",
+    "translation": "O'Hanlon 女士坦言，最令她感到惊艳与震撼的，莫过于“实验组孩子书面表达中所展露出的极其惊人的情感共情素养（emotional literacy）”，他们在字里行间展现出了“更坚韧的内心力量与更满怀希望的情感光芒”。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "She added: \"The emotional understanding was very evident and it is probably related to the [rehearsal room process] where you are used to trying to imagine your way through. They were comfortable in describing different emotional states and part of what you do in drama is put yourself in different shoes.\" The study showed the importance of embedding the arts in education, she said.",
+    "translation": "她进一步补充道：“这种深刻的情感理解力极其清晰鲜明，它很可能正归功于排练室体验过程——在排练中你早已习惯了通过想象去体悟一切。孩子们能够极其自如地精准描绘各种不同的复杂情绪状态，而戏剧的核心本质正是让你设身处地穿上别人的鞋子换位思考（put yourself in different shoes / identifying with literary characters）。”她由衷感叹道，这项研究雄辩地证明了将艺术深度融入基础教育的极端重要性。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2025-r-t1",
+    "location": {
+      "paragraph": 7,
+      "sentence": 1,
+      "ps": "P7-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P7-S1",
+      "pIndex": 7
+    },
+    "text": "But could the results be replicated with any old dramatist? O'Hanlon said more research would be needed but suggested that Shakespeare's use of 20,000 words, compared with the everyday 2,000 words, gave a \"massive expansion of language into children's lives\", which was combined with children \"using their whole bodies to bring words to life\".",
+    "translation": "然而，这般辉煌的教学成果能否在任何其他古代剧作家的作品中轻易复制？O'Hanlon 表示虽然仍需更多对比实证研究，但她深刻指出：莎士比亚戏剧中庞大浩瀚的20,000个词汇量（相比之下现代人日常词汇仅有可怜的2,000个），给孩子们的语言世界带来了“空前巨大的语言暴涨式拓展扩张”，而这种浩瀚词汇又与孩子们“运用全身肢体去赋予词语鲜活生命（bring words to life）”的沉浸式表演完美结合在了一起（inferred that the new teaching method may work best with Shakespeare）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2025.js",
+      "year": 2025,
+      "articleKey": "ky-en1-2025-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:0c39dbd3215990c603ed1a4eb1cda3c68cff65c73c9a6ec9eab29bc34eb2eaff"
+    }
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2014-r-t1",
+  "year": 2014,
+  "textNumber": 1,
+  "title": "Austerity, Workfare, and the Erosion of British Welfare",
+  "chineseTitle": "紧缩政策下的强制求职方案与英国福利权利的消蚀",
+  "topic": null,
+  "topicDomain": "社会政策与公共福利",
+  "subTopic": "英国财政大臣奥斯本的主动求职方案、失业者生存困境与惩罚性福利改革批判",
+  "overview": null,
+  "wordCount": 405,
+  "readingTimeEstimate": "12-14 mins",
+  "difficultyRating": "4.0/5.0",
+  "sourcePublication": "选自 The Guardian 专栏作家 Aditya Chakrabortty《George Osborne’s welfare reforms are based on pure myth》",
+  "paragraphCount": 4,
+  "sentenceCount": 20,
+  "vocabularyCount": 25,
+  "phraseCount": 15,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "historicalAndCulturalContext": "2008年全球金融海啸后，英国保守党-自民党联合政府推行严厉的财政紧缩（Austerity）政策。财政大臣乔治·奥斯本（George Osborne）主导了二战以来英国最激进的社会福利改革，其核心是推行以削减开支为导向的‘以工代赈（Workfare）’方案，如‘预先主动求职方案（Upfront Work Search Scheme）’。政府在舆论上大肆污名化失业群体，将他们描绘成‘沉溺福利、好吃懒做’的寄生虫，将失业救济由最初全体国民缴纳社保换取的‘无条件保险兜底权利’，彻底异化为充满繁文缛节、带有惩戒性质且金额极其微薄的‘有条件津贴（Jobseeker's Allowance）’。本文作者以辛辣尖锐的笔触，痛斥这一改革背后的傲慢偏见，为失业者的尊严与生存权益发声。",
+      "coreDisputeOrTheme": "核心争论在于社会福利的本质属性究竟是‘公民基本权利’还是‘国家施舍的有条件津贴’。奥斯本打着‘让生活更美好’、‘保障纳税人基本公平’的旗号，将原本就深陷失业痛苦的底层民众推入更为严苛的官僚刁难之中；作者指出失业绝非贪图享乐，求职者最渴望的是有尊严的工作，政府的惩罚性改革实质上是对战后英国福利国家基石的无情背叛。",
+      "keyTerminology": [
+        {
+          "term": "Chancellor of the Exchequer",
+          "explanation": "英国财政大臣：英国政府内阁中仅次于首相的核心高官，统管国家财政与税收支出。"
+        },
+        {
+          "term": "Upfront Work Search",
+          "explanation": "预先主动求职计划：要求失业者在领取任何救济金之前，必须先携带简历到求职中心登记并证明自己已在积极投递简历。"
+        },
+        {
+          "term": "Jobseeker's Allowance (JSA)",
+          "explanation": "求职者津贴：英国取代传统失业救济金的福利形态，带有严格的活动审查与时间限制。"
+        },
+        {
+          "term": "National Insurance Contributions",
+          "explanation": "国民保险供款：英国工薪阶层依法缴纳的社会保障税费，传统上失业者凭此享有无条件抗风险给付权。"
+        },
+        {
+          "term": "Workfare / Conditional Welfare",
+          "explanation": "有条件福利/惩罚性福利：将工作搜寻或社区劳动作为获取最低生活救济的前提条件的福利制度。"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "coreDomain": "社会保障与劳动就业 (Social Welfare & Labor Economics)",
+      "highFrequencyStemsAndAffixes": [
+        {
+          "affix": "un- / in- (否定前缀)",
+          "examples": [
+            "unemployed (失业的)",
+            "unconditional (无条件的)",
+            "indulgent (纵容放任的)"
+          ]
+        },
+        {
+          "affix": "-ance / -ment (名词后缀)",
+          "examples": [
+            "allowance (津贴/补助)",
+            "entitlement (法定权利)",
+            "claimant (索赔/申领人)"
+          ]
+        }
+      ],
+      "thematicWordClusters": [
+        {
+          "theme": "福利改革与行政监管",
+          "words": [
+            "chancellor",
+            "scheme",
+            "eligible",
+            "jobseeker's allowance",
+            "sign on",
+            "claimants"
+          ]
+        },
+        {
+          "theme": "失业心理与生存处境",
+          "words": [
+            "hurting",
+            "terrifying",
+            "embarrassing",
+            "excluded",
+            "uneasy",
+            "deserving"
+          ]
+        },
+        {
+          "theme": "制度哲学与权利异化",
+          "words": [
+            "fundamental fairness",
+            "taxpayer",
+            "dependency",
+            "insure against",
+            "entitlement",
+            "conditional"
+          ]
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2014_t1.json",
+    "year": 2014,
+    "articleKey": "ky-en1-2014-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:8404a49597693257e9b964f57cda5b9cdeb31f89ed5998e10ca38998ca582432"
+  }
+}

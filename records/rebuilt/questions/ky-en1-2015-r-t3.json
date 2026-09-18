@@ -1,0 +1,754 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t3",
+    "qIndex": 31,
+    "questionNumber": 31,
+    "stem": "It can be learned from Paragraph 1 that _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Science intends to simplify its peer-review process.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反相反。第一段首句明确说明《科学》杂志是在原有同行评审中“增加额外一轮统计审查（adding an extra round of statistical checks）”，这显然使审稿流程更为严密繁复，绝非“有意简化（simplify）”。",
+        "vocab": [
+          {
+            "word": "strengthening",
+            "ipa": "",
+            "meaning": "加强",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "checks",
+            "ipa": "",
+            "meaning": "审查",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "journals are strengthening their statistical checks.",
+        "isCorrect": true,
+        "analysis": "定位至第一段：“The journal Science is adding an extra round of statistical checks to its peer-review process ... The policy follows similar efforts from other journals...” 首句指出《科学》杂志正在增加额外一轮统计审查，第二句指出该举措是效仿其他期刊的类似做法。由此可推知，各大学术期刊当前正在集体强化其统计审查力度（journals are strengthening their statistical checks）。",
+        "vocab": [
+          {
+            "word": "intends",
+            "ipa": "",
+            "meaning": "意在",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "simplify",
+            "ipa": "[ˈsɪmplɪfaɪ]",
+            "meaning": "简化",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "process",
+            "ipa": "[prəˈses; ˈprəʊses]",
+            "meaning": "流程",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "few journals are blamed for mistakes in data analysis.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "正反相反。第一段末句提到“widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings”，数据分析中的低级错误导致不可复制，已引发了学界的“广泛担忧（widespread concern）”，并非极少有期刊受责难。",
+        "vocab": [
+          {
+            "word": "blamed",
+            "ipa": "",
+            "meaning": "…为(某事)受责备",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "analysis",
+            "ipa": "[əˈnæləsɪs]",
+            "meaning": "分析",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "lack of data analysis is common in research projects.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "偷换概念。原文指的是数据分析中存在“基础性错误（basic mistakes in data analysis）”，而非研究项目中“缺乏数据分析（lack of data analysis）”。",
+        "vocab": [
+          {
+            "word": "lack",
+            "ipa": "[læk]",
+            "meaning": "缺乏",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "analysis",
+            "ipa": "[əˈnæləsɪs]",
+            "meaning": "分析",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "journals are strengthening their statistical checks": "adding an extra round of statistical checks ... follows similar efforts from other journals (增加额外一轮统计审查/效仿其他期刊的类似做法 -> 期刊正在加强其统计审查)"
+    },
+    "methodologyReview": "段落推断题。整合第一段两句话的核心信息：《科学》杂志加码统计审查 + 效仿其他期刊类似做法 $\\rightarrow$ 期刊界普遍在强化统计学把关（journals are strengthening their statistical checks）。注意排查反向干扰项（simplify）与概念篡改项（lack of analysis）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t3.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:05fae15faf016887bd14f14435ae8b224a1d8bc0b9eb5db84a825821a6ebf459"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t3",
+    "qIndex": 32,
+    "questionNumber": 32,
+    "stem": "The phrase \"flagged up\" (Para. 2) is the closest in meaning to _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "found.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "词义偏差。flag up 强调在初筛时打上专门标记以便后续跟进复审，并非单纯的“被发现（found）”。"
+      },
+      {
+        "key": "B",
+        "text": "revised.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "时序与语义颠倒。flagged up 只是把可疑论文标示出来送审，尚未进入修改（revised）阶段。"
+      },
+      {
+        "key": "C",
+        "text": "marked.",
+        "isCorrect": true,
+        "analysis": "词义推断题。定位至第二段第三句：“Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers.” 句中 flag 作动词，本义为插旗标示，短语 flag up 意为“做出标记、凸显标明”。论文稿件将被内部编辑或审稿人‘标记出来（flagged up）’以接受额外细审，故 marked（被标记的）与 flagged up 词义最为切合一致。",
+        "vocab": [
+          {
+            "word": "revised",
+            "ipa": "",
+            "meaning": "修改，修订",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "stored.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "概念偏差。语境强调挑选送审，与论文手稿“被封存/被储存（stored）”毫无关联。"
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "VOCAB",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "marked": "flagged up (打上旗标/标记提醒注意 -> 被标记)"
+    },
+    "methodologyReview": "词汇推断题。利用语境逻辑与词根隐喻：flag 原意为旗帜，在此作动词引申为‘插旗打标签、标记警示’，其后搭配 for additional scrutiny（以便接受额外严密审查），逻辑上即等价于被编辑 marked（标出/标记）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "phrase",
+          "ipa": "[freɪz]",
+          "meaning": "做出标记",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t3.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:05fae15faf016887bd14f14435ae8b224a1d8bc0b9eb5db84a825821a6ebf459"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t3",
+    "qIndex": 33,
+    "questionNumber": 33,
+    "stem": "Giovanni Parmigiani believes that the establishment of the SBoRE may _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pose a threat to all its peers.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。帕玛强尼认为该举措将产生良性深远影响，并未认为这会对同行构成威胁（pose a threat）。",
+        "vocab": [
+          {
+            "word": "pose",
+            "ipa": "[pəʊz]",
+            "meaning": "构成威胁",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "peers",
+            "ipa": "",
+            "meaning": "同行",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "meet with strong opposition.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。第四段中帕玛强尼盛赞其远见卓识，通篇未提及会遭遇强烈反对（meet with strong opposition）。",
+        "vocab": [
+          {
+            "word": "meet",
+            "ipa": "[miːt]",
+            "meaning": "遭到",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "increase Science's circulation.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。帕玛强尼讨论的是学术规范与行业示范，完全未讨论商业发行量（circulation）。",
+        "vocab": [
+          {
+            "word": "circulation",
+            "ipa": "[ˌsɜːkjəˈleɪʃn]",
+            "meaning": "发行量",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "set an example for other journals.",
+        "isCorrect": true,
+        "analysis": "定位至第四段第二、三句：“...likely to have a lasting impact. This impact will not only be through the publications in Science itself, but hopefully through a larger group of publishing places that may want to model their approach after Science.” 帕玛强尼指出SBoRE的影响不仅局限于《科学》自身，还希望波及更大范围想效仿《科学》做法的学术出版机构（a larger group of publishing places that may want to model their approach after Science）。model after 意为‘效仿/模仿’，与 set an example for other journals（为其他期刊树立榜样典范）构成标准同义替换。",
+        "vocab": [
+          {
+            "word": "set",
+            "ipa": "[set]",
+            "meaning": "树立榜样",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "set an example for other journals": "hopefully through a larger group of publishing places that may want to model their approach after Science (有望波及更多希望以《科学》为榜样的出版机构 -> 为其他期刊树立榜样)"
+    },
+    "methodologyReview": "事实细节题。考查高频同义替换：want to model their approach after Science $\\rightarrow$ set an example for other journals（以某人为榜样效仿 $\\rightarrow$ 为他人树立榜样）。排查时注意A、B、C项均为无中生有的虚假推论。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Parmigiani",
+          "ipa": "",
+          "meaning": "[人名]乔瓦尼·帕玛强尼（生物统…",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t3.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:05fae15faf016887bd14f14435ae8b224a1d8bc0b9eb5db84a825821a6ebf459"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t3",
+    "qIndex": 34,
+    "questionNumber": 34,
+    "stem": "David Vaux holds that what Science is doing now _______.",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "adds to researchers' workload.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "无中生有。沃克斯在第六段讨论的是期刊评审流程的把关机制，从未提及这会增加科研人员的工作负担（workload）。",
+        "vocab": [
+          {
+            "word": "adds",
+            "ipa": "",
+            "meaning": "增加",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "workload",
+            "ipa": "[ˈwɜːkləʊd]",
+            "meaning": "工作量",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "diminishes the role of reviewers.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "曲解文意与正反颠倒。沃克斯主张学术期刊应采取更严格的做法，“engaging reviewers who are statistically literate”（引入精通统计学的审阅专家），绝非削弱审稿人的作用（diminishes the role of reviewers）。",
+        "vocab": [
+          {
+            "word": "diminishes",
+            "ipa": "",
+            "meaning": "削弱",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "has room for further improvement.",
+        "isCorrect": true,
+        "analysis": "定位至第六段末句：“Vaux says that Science's idea to pass some papers to statisticians 'has some merit, but a weakness is that it relies on the board of reviewing editors to identify the papers that need scrutiny in the first place'.” 沃克斯评价《科学》杂志的新政具有‘一定优点（has some merit）’，但同时直言其存在‘明显弱点（a weakness）’——过分依赖编委会第一道初筛的判断。有优点亦有弱点，表明该做法并非完美无缺，仍有进一步提升优化的空间（has room for further improvement）。"
+      },
+      {
+        "key": "D",
+        "text": "is to fail in the foreseeable future.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "过激绝对化。沃克斯肯定了其具有 merit，只是指出了程序上的缺陷，绝非断言其在未来注定失败（to fail in the foreseeable future）。",
+        "vocab": [
+          {
+            "word": "foreseeable",
+            "ipa": "[fɔːˈsiːəb(ə)l]",
+            "meaning": "可预见的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "has room for further improvement": "has some merit, but a weakness is that it relies on the board of reviewing editors to identify 'the papers that need scrutiny' in the first place (有可取之处但弱点在于过分依赖编委会初筛 -> 仍有进一步改进的空间)"
+    },
+    "methodologyReview": "态度观点细节题。考查高层评价概括能力：当学者指出某项举措‘has some merit, but a weakness is...’（兼具长处与瑕疵）时，在客观评价上即等价于 has room for further improvement（有进一步改进的空间）。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "David",
+          "ipa": "",
+          "meaning": "[人名]大卫·沃克斯",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t3.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:05fae15faf016887bd14f14435ae8b224a1d8bc0b9eb5db84a825821a6ebf459"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2015-r-t3",
+    "qIndex": 35,
+    "questionNumber": 35,
+    "stem": "Which of the following is the best title of the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Science Joins Push to Screen Statistics in Papers.",
+        "isCorrect": true,
+        "analysis": "主旨标题题。全文开篇即引出核心新闻主线：《科学》杂志增加对论文的统计学审查，以应对科研不可复制性危机；第二段介绍其具体设立SBoRE编委会的流程机制；第三段阐释创设宗旨；第四至六段全方位展示学界权威专家（哈佛帕玛强尼、斯坦福约安尼季斯、细胞学家沃克斯）对《科学》杂志这一举措的深度评价与行业示范意义。选项A精准抓住了核心行为主体（Science）、核心行动（Joins Push to Screen Statistics in Papers），概括最为完整精确。",
+        "vocab": [
+          {
+            "word": "Screen",
+            "ipa": "[skriːn]",
+            "meaning": "检查",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "Statistics",
+            "ipa": "[stəˈtɪstɪks]",
+            "meaning": "统计数据",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "Professional Statisticians Deserve More Respect.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "偏离主旨。文章重点在于期刊如何通过引入统计审查把关学术质量，从未号召社会给专业统计学家‘更多尊重（More Respect）’。",
+        "vocab": [
+          {
+            "word": "Professional",
+            "ipa": "[prəˈfeʃənl]",
+            "meaning": "专业的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Deserve",
+            "ipa": "[dɪˈzɜːv]",
+            "meaning": "值得",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Data Analysis Finds Its Way onto Editors' Desks.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "概括模糊。数据分析本就存在于实验中，文章核心是针对数据分析建立专门的‘统计审查把关机制’，而非泛泛而谈数据分析走上编辑案头。",
+        "vocab": [
+          {
+            "word": "Data",
+            "ipa": "[ˈdeɪtə]",
+            "meaning": "数据分析",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "Finds",
+            "ipa": "",
+            "meaning": "走上了",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "onto",
+            "ipa": "[ˈɒntə; ˈɒntu]",
+            "meaning": "编辑",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Statisticians Are Coming Back with Science.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "曲解文意。统计学家并非在过去离开了科学现在又‘回归（Coming Back）’，而是《科学》杂志（Science）这一期刊首次在审稿机制中系统化引入统计学审查队伍。",
+        "vocab": [
+          {
+            "word": "Coming",
+            "ipa": "",
+            "meaning": "和…一起回归",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "MAIN_IDEA",
+    "type": null,
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": {
+      "Science Joins Push to Screen Statistics in Papers": "Science is adding an extra round of statistical checks ... overall drive to increase reproducibility (《科学》杂志加入审查论文统计数据的全行业推进浪潮)"
+    },
+    "methodologyReview": "主旨标题题。优质标题需涵盖文章的核心论述主体（Science期刊）与核心事件行为（Screen Statistics in Papers 审查论文统计数据）。选项A原汁原味地提炼了新闻社论的核心立意，兼具主体明确度与事件概括度。",
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2015_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2015_阅读Text3.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "title",
+          "ipa": "[ˈtaɪt(ə)l]",
+          "meaning": "标题",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2015_t3.json",
+      "year": 2015,
+      "articleKey": "ky-en1-2015-r-t3",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:05fae15faf016887bd14f14435ae8b224a1d8bc0b9eb5db84a825821a6ebf459"
+    }
+  }
+]

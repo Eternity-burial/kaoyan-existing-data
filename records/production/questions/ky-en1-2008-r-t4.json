@@ -1,0 +1,873 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "George Washington's dental surgery is mentioned to",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "show the primitive medical practice in the past.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有/偏离主旨】文章虽然提到拔牙与植牙手术，但其写作主旨并非探讨18世纪原始落后的医疗手术手段，偏离了全文关于奴隶制与建国道德妥协的核心论题。",
+        "vocab": [
+          {
+            "word": "primitive",
+            "ipa": "[ˈprɪmətɪv]",
+            "meaning": "落后的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "practice",
+            "ipa": "[ˈpræktɪs]",
+            "meaning": "在过去",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "demonstrate the cruelty of slavery in his days.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【过度推论/字面诱导】拔奴隶牙移植固然体现出奴隶制度的不人道，但这只是客观细节事实；作者以此作为全文引子，核心目的在于打破华盛顿的完美伟人滤镜，展现其鲜为人知的真实侧面，而非纯粹为了声讨奴隶制的残酷。",
+        "vocab": [
+          {
+            "word": "demonstrate",
+            "ipa": "[ˈdemənstreɪt]",
+            "meaning": "证明",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "cruelty",
+            "ipa": "[ˈkruːəlti]",
+            "meaning": "残酷，残忍",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "stress the role of slaves in the U.S. history.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/夸大作用】给华盛顿提供移植牙齿不能作为例证来说明黑奴在整个“美国历史发展中的宏大作用”，属于概念的过度拔高与偷换。",
+        "vocab": [
+          {
+            "word": "stress",
+            "ipa": "[stres]",
+            "meaning": "强调",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "slaves",
+            "ipa": "",
+            "meaning": "奴隶",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "reveal some unknown aspect of his life.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】对应第2段第1句“a far different image from the cherry-tree-chopping George...”。指出拔牙移植事件颠覆了传统神话形象，揭示了华盛顿私人生活中鲜为人知且与奴隶制纠缠的真实一面。",
+        "vocab": [
+          {
+            "word": "reveal",
+            "ipa": "[rɪˈviːl]",
+            "meaning": "揭示",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "aspect",
+            "ipa": "[ˈæspekt]",
+            "meaning": "方面",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": "EXEMPLIFICATION",
+    "type": "例证题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "That's a far different image from the cherry-tree-chopping George most people remember from their history books. But recently, many historians have begun to focus on the role slavery played in the lives of the founding generation.",
+      "explanation": "【王晶婷六大题型·例证题精析】\n题干问及作者提及“乔治·华盛顿的植牙手术”是为了什么。文章第1段开篇记叙了华盛顿在52岁时从黑奴嘴里拔出9颗牙移植到自己牙床上的历史真实事件；紧接着第2段第1句明确点题：“That's a far different image from the cherry-tree-chopping George most people remember from their history books”（这与人们在教科书中所记忆的砍樱桃树的诚实乔治形象截然不同），随后指出历史学家开始关注奴隶制在开国元勋生活中扮演的角色并自下而上审视历史。由此可知，引入植牙事件这一罕为人知的细节，是为了打破传统神话、展现华盛顿鲜为人知的生活侧面，故 [D] reveal some unknown aspect of his life 为正确答案。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "George",
+          "ipa": "",
+          "meaning": "[人名]乔治·华盛顿",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "dental",
+          "ipa": "[ˈdent(ə)l]",
+          "meaning": "牙齿的",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "surgery",
+          "ipa": "[ˈsɜːdʒəri]",
+          "meaning": "外科手术",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "We may infer from the second paragraph that",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "DNA technology has been widely applied to history research.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "【绝对化/以偏概全】原文第3句仅提到历史学家“spurred in part by DNA evidence made available in 1998”用于证实杰斐逊与萨莉·海明斯的亲子关系，这仅是一起个案证据，无法推导断言DNA技术已经在历史学界“广泛应用”（widely applied）。",
+        "vocab": [
+          {
+            "word": "technology",
+            "ipa": "[tekˈnɒlədʒi]",
+            "meaning": "技术",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "applied",
+            "ipa": "",
+            "meaning": "运用于",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "in its early days the U.S. was confronted with delicate situations.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】原文明确指出早期领导人的妥协反映了“the fragile nature of the country's infancy”（国家初创时期的脆弱本质），说明美国在建国早期面临着极为微妙、稍有不慎即会分裂解体的复杂局面（delicate situations）。",
+        "vocab": [
+          {
+            "word": "U.S",
+            "ipa": "",
+            "meaning": "面临",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "delicate",
+            "ipa": "[ˈdelɪkət]",
+            "meaning": "微妙的",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "C",
+        "text": "historians deliberately made up some stories of Jefferson's life.",
+        "isCorrect": false,
+        "distractorType": "CONTRADICTION",
+        "analysis": "【正反颠倒/无中生有】历史学家是依据1998年确凿的DNA科学证据来纠正过去的神话传闻，揭露历史真相，而不是“蓄意捏造”（deliberately made up）杰斐逊的私生活故事。",
+        "vocab": [
+          {
+            "word": "historians",
+            "ipa": "",
+            "meaning": "历史学家",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "made",
+            "ipa": "",
+            "meaning": "捏造",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "deliberately",
+            "ipa": "[dɪˈlɪbərətli]",
+            "meaning": "故意地",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "D",
+        "text": "political compromises are easily found throughout the U.S. history.",
+        "isCorrect": false,
+        "distractorType": "SCOPE_DISTORTION",
+        "analysis": "【范围扩大/过度外推】原文仅指出在“the country's infancy”（国家幼年期/建国初期）早期领导人面临道德妥协，不能盲目推广延伸到“throughout the U.S. history”（整部美国历史中随处可见）。",
+        "vocab": [
+          {
+            "word": "compromises",
+            "ipa": "",
+            "meaning": "妥协",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "throughout",
+            "ipa": "[θruːˈaʊt]",
+            "meaning": "遍及，贯穿",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "INFERENCE",
+    "type": "推理判断题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy.",
+      "explanation": "【王晶婷六大题型·推理判断题精析】\n题干针对第二段进行整体推理。第2段倒数第二句指出：“Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy”（数位历史学家的著作揭示了国家早期领导人所做出的道德妥协，以及这个国家在初创幼年时期的脆弱本质）。选项 [B] 中的“in its early days”精确对应原文的“the country's infancy”，“was confronted with delicate situations”精确同义替换原文的“the fragile nature（脆弱本质与如履薄冰的处境）”，因此 [B] 是极为标准的正解同义改写。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "infer",
+          "ipa": "[ɪnˈfɜː(r)]",
+          "meaning": "推断",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "paragraph",
+          "ipa": "[ˈpærəɡrɑːf]",
+          "meaning": "段落",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "What do we learn about Thomas Jefferson?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "His political view changed his attitude towards slavery.",
+        "isCorrect": false,
+        "distractorType": "CAUSALITY_INVERSION",
+        "analysis": "【强加因果/无中生有】文中指出杰斐逊深受时代现实与政治立场的限制，但并未提及是其“政治观点改变了他对奴隶制的态度”，属于因果妄加揣测。",
+        "vocab": [
+          {
+            "word": "view",
+            "ipa": "[vjuː]",
+            "meaning": "观点",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "attitude",
+            "ipa": "[ˈætɪtjuːd]",
+            "meaning": "态度",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "His status as a father made him free the child slaves.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/范围失当】第6段明确说明杰斐逊释放的是“Hemings's children”（他与女奴海明斯所生的亲生骨肉），并非泛指所有的“child slaves”（奴隶儿童）。",
+        "vocab": [
+          {
+            "word": "status",
+            "ipa": "[ˈsteɪtəs]",
+            "meaning": "身份",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "slaves",
+            "ipa": "",
+            "meaning": "奴隶",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "His attitude towards slavery was complex.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解综合概括】杰斐逊一方面私下反感奴隶制并释放了自己混血的孩子，另一方面其政治权力依附于奴隶制并亲手扩大了蓄奴州范围，未释放名下百余黑奴，其态度与行为充满了妥协与复杂的矛盾性。",
+        "vocab": [
+          {
+            "word": "attitude",
+            "ipa": "[ˈætɪtjuːd]",
+            "meaning": "态度",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "complex",
+            "ipa": "[ˈkɒmpleks]",
+            "meaning": "复杂的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "His affair with a slave stained his prestige.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】原文仅客观陈述1998年DNA证据几乎确凿证实了他与女奴生有孩子，但全文并未提及这段私情丑闻“玷污了他的崇高威望（stained his prestige）”。",
+        "vocab": [
+          {
+            "word": "slave",
+            "ipa": "[sleɪv]",
+            "meaning": "奴隶",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "stained",
+            "ipa": "",
+            "meaning": "玷污；染污",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "prestige",
+            "ipa": "[preˈstiːʒ]",
+            "meaning": "名声",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.",
+      "explanation": "【王晶婷六大题型·细节理解题精析】\n题干询问关于托马斯·杰斐逊的信息。综合全文第3段、第5段与第6段对杰斐逊的深入剖析：1）第3段指出他私下厌恶奴隶制（expressed distaste for slavery），却明白这是立国之本；2）第5段指出五分之三折算法虚增南方选票助其赢得1800年大选，且上任后借购地将奴隶制扩张到3个新州；3）第6段指出他虽然释放了海明斯的孩子，但并未释放海明斯本人或其他150多名黑奴。这些充满矛盾的历史事实表明杰斐逊在奴隶制问题上的态度与行为极其复杂矛盾（His attitude towards slavery was complex），故选 [C]。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "Jefferson",
+          "ipa": "",
+          "meaning": "[人名]托马斯·杰弗逊，…",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "Which of the following is true according to the text?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Some Founding Fathers benefit politically from slavery.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】对应第5段第1~2句。杰斐逊依赖五分之三条款在选举人团中虚增选票赢下总统大选，直接证明了部分开国领袖在政治上从奴隶制中获益。",
+        "vocab": [
+          {
+            "word": "Founding",
+            "ipa": "[ˈfaʊndɪŋ]",
+            "meaning": "国家创建人",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "benefit",
+            "ipa": "[ˈbenɪfɪt]",
+            "meaning": "得益于",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "B",
+        "text": "Slaves in the old days did not have the right to vote.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【常识干扰/偏离论述】虽然奴隶没有投票权符合历史常识，但文章第4段与第5段的核心观点是讨论南方奴隶人口折算为五分之三用于虚增南方自由民的国会代表权与选举人票，本选项偏离文章核心题眼。",
+        "vocab": [
+          {
+            "word": "Slaves",
+            "ipa": "",
+            "meaning": "奴隶",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "vote",
+            "ipa": "[vəʊt]",
+            "meaning": "投票",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "Slave owners usually had large savings accounts.",
+        "isCorrect": false,
+        "distractorType": "LITERAL_TRAP",
+        "analysis": "【字面曲解/张冠李戴】第4段中温切克使用了比喻：Owning slaves was \"like having a large bank account\"（拥有奴隶就像拥有一大笔银行存款一样是财富财富源泉），并非字面意义上指奴隶主们普遍拥有高额的银行储蓄账户。",
+        "vocab": [
+          {
+            "word": "Slave",
+            "ipa": "[sleɪv]",
+            "meaning": "奴隶",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "accounts",
+            "ipa": "",
+            "meaning": "账户",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "Slavery was regarded as a peculiar institution.",
+        "isCorrect": false,
+        "distractorType": "CONCEPT_DISTORTION",
+        "analysis": "【偷换概念/断章取义】第4段中“peculiar institution”是美国历史上特指南方黑奴制度的专有名词（常译为“特有制度”），选项将其字面曲解为当时该制度被人们普遍视为一种“古怪奇特的制度”。",
+        "vocab": [
+          {
+            "word": "peculiar",
+            "ipa": "[pɪˈkjuːliə(r)]",
+            "meaning": "特殊的",
+            "level": "red",
+            "isSelfAnnotated": true
+          },
+          {
+            "word": "institution",
+            "ipa": "[ˌɪnstɪˈtjuːʃ(ə)n]",
+            "meaning": "制度",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College.",
+      "explanation": "【王晶婷六大题型·正误判断细节题精析】\n题干要求根据文章判断哪一项陈述是正确的。根据第5段第1~2句：“And the statesmen's political lives depended on slavery. The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College”（政治家们的政治生命依赖于奴隶制。五分之三折算公式通过虚增南方各州在选举人团中的选票，让杰斐逊在1800年大选中惊险获胜）。这表明杰斐逊等开国元勋在政治上实实在在地享受了奴隶制带来的制度红利，选项 [A]“Some Founding Fathers benefit politically from slavery”与原文完全契合，为正确选项。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "according",
+          "ipa": "",
+          "meaning": "根据；按照",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2008-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "Washington's decision to free slaves originated from his",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "moral considerations.",
+        "isCorrect": false,
+        "distractorType": "EXTREME_ABSOLUTE",
+        "analysis": "【过度概括/混淆源头】虽然相信人人生而平等带有道德理念成分，但题干精准考查的是思想转变与最终决定的直接“源头（originated from）”，原文明确归因于其在独立战争期间亲眼目睹黑人士兵浴血奋战的军事经历。",
+        "vocab": [
+          {
+            "word": "moral",
+            "ipa": "[ˈmɒrəl]",
+            "meaning": "道德的",
+            "level": "green",
+            "isSelfAnnotated": false
+          },
+          {
+            "word": "considerations",
+            "ipa": "",
+            "meaning": "考虑因素",
+            "level": "red",
+            "isSelfAnnotated": true
+          }
+        ],
+        "selfAnnotated": true
+      },
+      {
+        "key": "B",
+        "text": "military experience.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正解同义替换】“observing the bravery of the black soldiers during the Revolutionary War”在独立战争中目睹黑人士兵的勇敢表现，完美对应其军事斗争经历（military experience）。",
+        "vocab": [
+          {
+            "word": "military",
+            "ipa": "[ˈmɪlətri]",
+            "meaning": "军事的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "C",
+        "text": "financial conditions.",
+        "isCorrect": false,
+        "distractorType": "UNFOUNDED",
+        "analysis": "【无中生有】文中第4段提到奴隶是南方重要的财产，但华盛顿立遗嘱解放奴隶纯属个人信念的转变，与自身经济财务状况的好坏无关。",
+        "vocab": [
+          {
+            "word": "financial",
+            "ipa": "[faɪˈnænʃ(ə)l]",
+            "meaning": "财务的",
+            "level": "green",
+            "isSelfAnnotated": false
+          }
+        ],
+        "selfAnnotated": false
+      },
+      {
+        "key": "D",
+        "text": "political stand.",
+        "isCorrect": false,
+        "distractorType": "ATTRIBUTION_ERROR",
+        "analysis": "【张冠李戴/概念混淆】第3段指出开国元勋在政治上受制于时代文化，第5段更指出奴隶制是政治生命所依附的基石；华盛顿释放奴隶是顶住家族亲属反对的个人遗嘱行为，而非其公开的政治立场。"
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": "DETAIL",
+    "type": "事实细节题",
+    "targetSentences": null,
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": null,
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2008_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2008_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "clueSentence": "Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will.",
+      "explanation": "【王晶婷六大题型·因果溯源细节题精析】\n题干考查华盛顿决定释放奴隶的根源起源。定位至第6段第2句：“Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will”（华盛顿在独立战争期间亲眼目睹了黑人士兵的英勇无畏后，开始深信人人生而平等；他顶住了亲属们的强烈反对，在遗嘱中赋予了他名下所有黑奴以自由）。题干问及华盛顿决定的起源（originated from），原文明确指出思想转变的诱发点是在独立战争中目睹黑人士兵的英勇表现，这正是他在战火中的军旅军事经历（military experience），因此 [B] 是极为精准的同义替换。",
+      "userFirstAttempt": null,
+      "vocab": [
+        {
+          "word": "slaves",
+          "ipa": "",
+          "meaning": "奴隶",
+          "level": "green",
+          "isSelfAnnotated": false
+        },
+        {
+          "word": "originated",
+          "ipa": "",
+          "meaning": "起源于",
+          "level": "green",
+          "isSelfAnnotated": false
+        }
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2008.js",
+      "year": 2008,
+      "articleKey": "ky-en1-2008-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e0d51cdc30c868b24aa04e0af20268db890538b46d6dabaa945c604780570b48"
+    }
+  }
+]

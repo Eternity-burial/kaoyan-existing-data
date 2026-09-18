@@ -1,0 +1,652 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "fraction",
+    "word": "fraction",
+    "ipa": "/ˈfrækʃn/",
+    "pos": "n.",
+    "sourceLocation": "P1 S2",
+    "contextMeaning": "部分，小部分（熟词僻义）",
+    "examMeaning": "分数；小部分，微量",
+    "collocationOrDerivation": "a fraction of 一小部分；this fraction can be much reduced 该部分可以大幅减少",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "behavioural",
+    "word": "behavioural",
+    "ipa": "/bɪˈheɪvjərəl/",
+    "pos": "adj.",
+    "sourceLocation": "P1 S3",
+    "contextMeaning": "行为的，行为定向的",
+    "examMeaning": "行为的，行为学的",
+    "collocationOrDerivation": "behavioural ads 行为定向广告；behavioural psychology 行为心理学",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "quarrel",
+    "word": "quarrel",
+    "ipa": "/ˈkwɑːrəl/",
+    "pos": "n./v.",
+    "sourceLocation": "P2 S4",
+    "contextMeaning": "争吵，争议，激烈论战",
+    "examMeaning": "争吵，不和；抱怨理由",
+    "collocationOrDerivation": "a quarrel has illustrated 一场争论表明；have no quarrel with 对...无异议",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "fine-grained",
+    "word": "fine-grained",
+    "ipa": "/ˌfaɪn ˈɡreɪnd/",
+    "pos": "adj.",
+    "sourceLocation": "P2 S4",
+    "contextMeaning": "细颗粒度的，详尽细微的（熟词僻义）",
+    "examMeaning": "有细密纹理的；详细深入的",
+    "collocationOrDerivation": "fine-grained information 细颗粒度信息；fine-grained analysis 精细分析",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "explicit",
+    "word": "explicit",
+    "ipa": "/ɪkˈsplɪsɪt/",
+    "pos": "adj.",
+    "sourceLocation": "P2 S5",
+    "contextMeaning": "明确的，清楚明白的",
+    "examMeaning": "明确清晰的；直截了当的",
+    "collocationOrDerivation": "explicit permission 明确许可；explicitly adv. 明确地；反义词 implicit 隐含的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "due",
+    "word": "due",
+    "ipa": "/duː/",
+    "pos": "adj.",
+    "sourceLocation": "P3 S7",
+    "contextMeaning": "预期的，预定要发生的（熟词僻义）",
+    "examMeaning": "到期的；应付的；预定的",
+    "collocationOrDerivation": "be due to do sth. 预定去做某事；the version due to appear 预定问世的版本",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "alliance",
+    "word": "alliance",
+    "ipa": "/əˈlaɪəns/",
+    "pos": "n.",
+    "sourceLocation": "P3 S8",
+    "contextMeaning": "联盟，同盟团体",
+    "examMeaning": "结盟，同盟",
+    "collocationOrDerivation": "Digital Advertising Alliance 数字广告联盟；in alliance with 与...结盟",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "row",
+    "word": "row",
+    "ipa": "/raʊ/",
+    "pos": "n.",
+    "sourceLocation": "P4 S9",
+    "contextMeaning": "公开争吵，激烈风波（熟词僻义）",
+    "examMeaning": "争吵，喧闹；排，行",
+    "collocationOrDerivation": "set off the row 挑起风波/引发争论；spark a row 激起争吵",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "default",
+    "word": "default",
+    "ipa": "/dɪˈfɔːlt/",
+    "pos": "n./v.",
+    "sourceLocation": "P4 S10",
+    "contextMeaning": "系统默认值，默认设置",
+    "examMeaning": "默认设置；违约，缺席",
+    "collocationOrDerivation": "by default 默认情况下；default settings 默认设置；default on debts 债务违约",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "horrified",
+    "word": "horrified",
+    "ipa": "/ˈhɔːrɪfaɪd/",
+    "pos": "adj.",
+    "sourceLocation": "P5 S11",
+    "contextMeaning": "惊骇的，感到震惊惊恐的",
+    "examMeaning": "惊恐的，极其震惊的",
+    "collocationOrDerivation": "be horrified at/by 对...感到惊恐；horrify v. 使惊恐",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "worse off",
+    "word": "worse off",
+    "ipa": "/wɜːrs ɔːf/",
+    "pos": "adj. phr.",
+    "sourceLocation": "P5 S14",
+    "contextMeaning": "处境更差，状况更恶化",
+    "examMeaning": "境况更差的，更贫穷的",
+    "collocationOrDerivation": "better off 境况更好；worse off 境况更糟",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "preference",
+    "word": "preference",
+    "ipa": "/ˈprefrəns/",
+    "pos": "n.",
+    "sourceLocation": "P5 S14",
+    "contextMeaning": "喜好，偏好倾向",
+    "examMeaning": "偏爱，偏好；优先权",
+    "collocationOrDerivation": "user preferences 用户偏好；have a preference for 偏爱",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "targeted",
+    "word": "targeted",
+    "ipa": "/ˈtɑːrɡɪtɪd/",
+    "pos": "adj.",
+    "sourceLocation": "P5 S16",
+    "contextMeaning": "有针对性的，定向的",
+    "examMeaning": "针对特定目标的",
+    "collocationOrDerivation": "targeted ads 定向广告；target audience 目标受众",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "oblige",
+    "word": "oblige",
+    "ipa": "/əˈblaɪdʒ/",
+    "pos": "v.",
+    "sourceLocation": "P6 S18",
+    "contextMeaning": "迫使，使负有法律或道义义务",
+    "examMeaning": "迫使，责成；施恩惠于",
+    "collocationOrDerivation": "oblige sb. to do sth. 强迫某人做某事；be obliged to 必须/感激",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "object",
+    "word": "object",
+    "ipa": "/əbˈdʒekt/",
+    "pos": "v.",
+    "sourceLocation": "P6 S19",
+    "contextMeaning": "反对，抗议（熟词僻义）",
+    "examMeaning": "反对，抗辩；物体，对象",
+    "collocationOrDerivation": "object to (doing) sth. 反对...；objection n. 反对意见",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "press on",
+    "word": "press on",
+    "ipa": "/pres ɑːn/",
+    "pos": "v. phr.",
+    "sourceLocation": "P6 S19",
+    "contextMeaning": "硬着头皮继续进行，顶风推进",
+    "examMeaning": "坚决继续推进",
+    "collocationOrDerivation": "press on with one's plan 坚持推进计划",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "go it alone",
+    "word": "go it alone",
+    "ipa": "/ɡoʊ ɪt əˈloʊn/",
+    "pos": "v. phr.",
+    "sourceLocation": "P7 S20",
+    "contextMeaning": "单干，独自行动，自行其是",
+    "examMeaning": "单独行动，孤军奋战",
+    "collocationOrDerivation": "decide to go it alone 决定单干",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "comply",
+    "word": "comply",
+    "ipa": "/kəmˈplaɪ/",
+    "pos": "v.",
+    "sourceLocation": "P7 S21",
+    "contextMeaning": "顺从，遵从，遵守",
+    "examMeaning": "遵从，顺从",
+    "collocationOrDerivation": "comply with regulations/requests 遵守规定/顺应诉求；compliance n. 合规",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "upset",
+    "word": "upset",
+    "ipa": "/ʌpˈset/",
+    "pos": "v.",
+    "sourceLocation": "P7 S22",
+    "contextMeaning": "打乱，颠覆，搞垮，打击（熟词僻义）",
+    "examMeaning": "打翻，扰乱；使烦恼；打败",
+    "collocationOrDerivation": "upset a competitor 打压竞争对手；upset the market 打乱市场",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "wholly",
+    "word": "wholly",
+    "ipa": "/ˈhoʊlli/",
+    "pos": "adv.",
+    "sourceLocation": "P7 S22",
+    "contextMeaning": "完全地，一概地",
+    "examMeaning": "完全地，全部地",
+    "collocationOrDerivation": "rely almost wholly on 几乎完全依赖；wholly-owned 全资的",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "norm",
+    "word": "norm",
+    "ipa": "/nɔːrm/",
+    "pos": "n.",
+    "sourceLocation": "P7 S22",
+    "contextMeaning": "规范，行业标准，常态",
+    "examMeaning": "社会准则，行业规范；平均水平",
+    "collocationOrDerivation": "become the norm 成为行业通用规范；social norm 社会规范",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "favorably",
+    "word": "favorably",
+    "ipa": "/ˈfeɪvərəbli/",
+    "pos": "adv.",
+    "sourceLocation": "P7 S23",
+    "contextMeaning": "有利地，赞许地",
+    "examMeaning": "顺利地；有利地，亲切地",
+    "collocationOrDerivation": "compare favorably with 与...相比显得优越；favorable adj. 有利的",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "count",
+    "word": "count",
+    "ipa": "/kaʊnt/",
+    "pos": "n.",
+    "sourceLocation": "P7 S23",
+    "contextMeaning": "论点，事项，方面（熟词僻义）",
+    "examMeaning": "事项，罪状；计数；计算",
+    "collocationOrDerivation": "on that count 在那一点上/在那方面；guilty on all counts 所有指控成立",
+    "frequencyRating": "★★★★☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "skepticism",
+    "word": "skepticism",
+    "ipa": "/ˈskeptɪsɪzəm/",
+    "pos": "n.",
+    "sourceLocation": "Q30",
+    "contextMeaning": "怀疑主义，怀疑态度",
+    "examMeaning": "怀疑，怀疑态度",
+    "collocationOrDerivation": "healthy skepticism 理性怀疑；skeptical adj. 怀疑的",
+    "frequencyRating": "★★★★★",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-vocabulary-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2013-r-t2",
+    "surface": "indulgence",
+    "word": "indulgence",
+    "ipa": "/ɪnˈdʌldʒəns/",
+    "pos": "n.",
+    "sourceLocation": "Q30",
+    "contextMeaning": "纵容，放纵，沉溺",
+    "examMeaning": "纵容，迁就；沉溺，嗜好",
+    "collocationOrDerivation": "self-indulgence 放纵；indulgent adj. 纵容的",
+    "frequencyRating": "★★★☆☆",
+    "isSelfAnnotated": null,
+    "rawFields": {
+      "isInObstacleList": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2013_t2.json",
+      "year": 2013,
+      "articleKey": "ky-en1-2013-r-t2",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:cfd439973f379f7baf6d65aaefa605b6748262d2bd890bc1d2fffec99cb58c64"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "kaoyan-existing-paper-1.0",
+  "source": "production",
+  "paperKey": "ky-en1-2002",
+  "exam": "kaoyan",
+  "track": "legacy",
+  "year": 2002,
+  "title": "2002年全国硕士研究生招生考试英语(一)真题阅读精读与题型分析",
+  "subject": "英语",
+  "articleKeys": [
+    "ky-en1-2002-r-t1",
+    "ky-en1-2002-r-t2",
+    "ky-en1-2002-r-t3",
+    "ky-en1-2002-r-t4"
+  ],
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "production",
+    "sourceFile": "题库/英语/data_2002.js",
+    "year": 2002,
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:d5f2f1556464c7cb2a6dd7d509bc7a972e2d5b3d5f7054f87a83e8a59eb68af1"
+  }
+}

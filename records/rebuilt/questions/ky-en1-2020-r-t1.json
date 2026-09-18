@@ -1,0 +1,577 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "qIndex": 21,
+    "questionNumber": 21,
+    "stem": "Cooper and her colleagues argue that a \"town of culture\" award could",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "consolidate the town-city ties in Britain.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 无中生有】提案是为了让城镇也能像大城市一样受益，非巩固城乡纽带。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "promote cooperation among Britain's towns.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】各城镇是竞标对手（competitors），提案旨在吸引投资，非促进城镇间合作。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "increase the economic strength of Britain's towns.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S3 明确阐述议员们的核心论点：'brought in £220m of investment... A town of culture award could... become an annual event, attracting funding and creating jobs'（为地方吸引2.2亿英镑投资，成为吸引资金和创造就业的年度盛事）。C选项 increase the economic strength of Britain's towns（增强英国小城镇的经济实力）是对 attracting funding and creating jobs 最精准高度的同义概括。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "focus Britain's limited resources on cultural events.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】小城镇缺乏资源去和大城市竞争，非要把全国有限资源集中在文化活动上。",
+        "refSentences": [
+          "P1-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P1-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "brought £220m investment + attracting funding and creating jobs = increase the economic strength of Britain's towns。",
+      "methodSummary": "因果效益概括法：attracting funding + creating jobs 转换为 increase economic strength。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Cooper and her colleagues argue",
+        "town of culture award could"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "qIndex": 22,
+    "questionNumber": 22,
+    "stem": "According to Paragraph 2, the proposal might be regarded by some as",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a sensible compromise.",
+        "isCorrect": false,
+        "distractorType": "褒贬颠倒",
+        "analysis": "【干扰特征: 褒贬颠倒】批评者视其为可笑的自嗨安慰奖（booby prize），绝非明智妥协（sensible）。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "a self-deceiving attempt.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 语义精准提炼】P2-S1 和 P2-S2 明确展现部分批评者与怀疑论者的尖酸看法：'see the proposal as a booby prize for the fact that Britain is no longer able to apply... endless fever of self-celebration in its desperation to reinvent itself'（因无法申请欧洲文化之都而设立的不值钱安慰奖，是在绝望中陷入无休止自我庆祝的狂热）。B选项 a self-deceiving attempt（一次自欺欺人的企图尝试）是对 booby prize 与 fever of self-celebration 最生动深刻的同义转述。",
+        "refSentences": [
+          "P2-S1",
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "an eye-catching bonus.",
+        "isCorrect": false,
+        "distractorType": "褒义误解",
+        "analysis": "【干扰特征: 词义误解】booby prize 意为“安慰奖/倒数第一恶搞奖”，绝非引人注目的丰厚奖金（bonus）。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "an inaccessible target.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实相反】无法企及（inaccessible）的是欧洲文化之都，而文化小镇是英国本土闭门自设的头衔。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "观点推断题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "booby prize + fever of self-celebration in desperation to reinvent itself = a self-deceiving attempt（自欺欺人的尝试）。",
+      "methodSummary": "贬义比喻推断法：booby prize（安慰奖）与 fever of self-celebration（自嗨狂热）直接对应 a self-deceiving attempt。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Paragraph 2",
+        "proposal might be regarded by some as"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "qIndex": 23,
+    "questionNumber": 23,
+    "stem": "The author suggests that a title holder is successful only if it",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "endeavours to maintain its image.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】文章指出是要重塑城市更加大胆自信的新自我形象（nudge self-image into bolder light），非维持旧形象。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "meets the aspirations of its people.",
+        "isCorrect": false,
+        "distractorType": "偷换动词",
+        "analysis": "【干扰特征: 偷换动词】原文是提升改变居民的志向抱负（transform aspirations），非迎合满足既有诉求（meets）。",
+        "refSentences": [
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "brings its local arts to prominence.",
+        "isCorrect": false,
+        "distractorType": "排除项",
+        "analysis": "【干扰特征: 明确排除】带来一时的显赫声名（prominence for a spell）是运营拙劣头衔的短期表象，成功者必须留下持久福祉。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "commits to its long-term growth.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P3-S1 和 P3-S2 明确阐述成功的必要条件：'leaving lasting benefits to the community... do a great deal more than fill hotel bedrooms and bring in arts events for a year. They transform aspirations... turned city into the powerhouse that it remains today'（为社区留下持久福祉，远不止带来一年的客房爆满和艺术热度，而是使城市彻底蜕变为至今依然繁荣的文化重镇）。D选项 commits to its long-term growth（致力于其长远持久的成长发展）完美概括了 lasting benefits 与 remains powerhouse today 的真谛。",
+        "refSentences": [
+          "P3-S1",
+          "P3-S2",
+          "P3-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节条件题",
+    "targetSentences": [
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "leaving lasting benefits + do much more than good press for a year + remains powerhouse today = commits to its long-term growth。",
+      "methodSummary": "成功核心标准定位：抓准 lasting benefits 和 do much more than a year 对应的 long-term growth。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author suggests",
+        "title holder is successful only if"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "qIndex": 24,
+    "questionNumber": 24,
+    "stem": "Glasgow is mentioned in Paragraph 3 to present",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a contrasting case.",
+        "isCorrect": false,
+        "distractorType": "例证属性颠倒",
+        "analysis": "【干扰特征: 属性颠倒】格拉斯哥是证明“成功确实可以做到”（But it can be done）的正面支持范例，非对立反例。",
+        "refSentences": [
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "a supporting example.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 例证属性精准确认】P3-S2 和 P3-S3 紧密相连：前文论述获得持久成功极其艰难需要远见合作，随后话锋一转给出论点'But it can be done'（但这完全是可以做到的），紧接着举出格拉斯哥的辉煌历程（Glasgow's year... turned the city into powerhouse that it remains today）作为强有力的论据。格拉斯哥正是证明该论点的支撑性范例（a supporting example）。B选项完全精准吻合。",
+        "refSentences": [
+          "P3-S2",
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "a background story.",
+        "isCorrect": false,
+        "distractorType": "偏离例证功能",
+        "analysis": "【干扰特征: 属性错误】并非交代背景故事，而是论证中心论点的实证论据。",
+        "refSentences": [
+          "P3-S3"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "a related topic.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 属性错误】是同一议题下的实证案例，非另一个相关话题。",
+        "refSentences": [
+          "P3-S3"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "例证题",
+    "targetSentences": [
+      "P3-S2",
+      "P3-S3"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "It is hard to get right... But it can be done: Glasgow's year as European capital of culture = a supporting example。",
+      "methodSummary": "例证属性题：识别 But it can be done 后紧跟的正面支撑案例（a supporting example）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Glasgow",
+        "Paragraph 3",
+        "present"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2020-r-t1",
+    "qIndex": 25,
+    "questionNumber": 25,
+    "stem": "What is the author's attitude towards the proposal?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Skeptical.",
+        "isCorrect": false,
+        "distractorType": "主体颠倒",
+        "analysis": "【干扰特征: 张冠李戴】怀疑讽刺的是第二段提到的批评者（cynic），非作者态度。",
+        "refSentences": [
+          "P2-S2",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Objective.",
+        "isCorrect": false,
+        "distractorType": "中立排除",
+        "analysis": "【干扰特征: 态度过淡】作者态度极其鲜明热情，直接赞美其为充满希望的提案并敦促落实，绝非单纯客观中立。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Favourable.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 态度精准匹配】P4-S1 在全篇结尾处盖棺定论：'Jeremy Wright, the culture secretary, should welcome this positive, hope-filled proposal, and turn it into action'（文化大臣理应热情欢迎这一积极向上、充满希望的提案，并将其迅速转化为行动）。作者对该提案持极其明确的赞赏与支持（Favourable）态度。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Critical.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 态度相反】作者呼吁文化大臣采纳落实该提案，绝非批评反对（Critical）。",
+        "refSentences": [
+          "P4-S1"
+        ]
+      }
+    ],
+    "officialAnswer": "C",
+    "standardType": null,
+    "type": "观点态度题",
+    "targetSentences": [
+      "P4-S1"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "welcome this positive, hope-filled proposal, and turn it into action = Favourable（赞同的/支持的）。",
+      "methodSummary": "末句态度词定位：positive, hope-filled proposal 与 turn into action 直接锁定正面赞许态度（Favourable）。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "C",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2020_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2020_阅读Text1.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "C",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author's attitude",
+        "towards the proposal"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2020_t1.json",
+      "year": 2020,
+      "articleKey": "ky-en1-2020-r-t1",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:177887c22c6bea7f0535b1dc2ca1e2c924d6d2c00195176211bb43749bc93cb7"
+    }
+  }
+]

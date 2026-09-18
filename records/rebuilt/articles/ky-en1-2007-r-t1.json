@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "kaoyan-existing-article-1.0",
+  "source": "rebuilt",
+  "articleKey": "ky-en1-2007-r-t1",
+  "year": 2007,
+  "textNumber": 1,
+  "title": "Deliberate Practice and Expert Performance",
+  "chineseTitle": "刻意练习与卓越表现：打破天赋神话",
+  "topic": null,
+  "topicDomain": "文教社科",
+  "subTopic": "认知心理学与专业技能习得",
+  "overview": null,
+  "wordCount": 424,
+  "readingTimeEstimate": "8-10 min",
+  "difficultyRating": "★★★☆☆",
+  "sourcePublication": "The New York Times Magazine (Freakonomics专栏)",
+  "paragraphCount": 5,
+  "sentenceCount": 17,
+  "vocabularyCount": 54,
+  "phraseCount": 72,
+  "questionCount": 5,
+  "capsules": {
+    "backgroundKnowledgeCapsule": {
+      "title": "认知心理学革命：刻意练习与天资神话的破灭",
+      "subtitle": "从足球选拔的‘相对年龄效应’到一万小时定律的真相",
+      "coreNarrative": "这篇文章源自《纽约时报杂志》对著名瑞典裔心理学家安德斯·埃里克森（K. Anders Ericsson）的学术专访。埃里克森被学术界公认为‘研究世界级顶尖大师的首席科学家’。畅销书作家马尔科姆·格拉德威尔在《异类》(Outliers) 中引用的‘一万小时定律’，其实正是借鉴了埃里克森在西柏林音乐学院对小提琴家们的研究。然而埃里克森本人多次出面辟谣：单纯在舒适区内机械熬满一万小时毫无意义（比如开了20年车的老司机车技未必比新学员更好），真正的跃迁必须依赖‘刻意练习’（Deliberate Practice）——必须走出心理舒适区、设定明确目标、获得世界级教练的毫秒级即时反馈，并建立精细复杂的‘心理表征’（Mental Representation）。",
+      "theSoccerQuirkExplained": "文章开篇提到的‘足球运动员上半年出生比例畸高’，在社会学与体育学上被称为著名的‘相对年龄效应’（Relative Age Effect, RAE）。欧洲青少年足球梯队按每年1月1日作为年龄分组的分水岭。在10岁左右的小孩中，1月份出生的孩子比12月份出生的孩子足足多发育了近11个月，在身高、肌肉力量、速度上占尽便宜。教练误将这种发育时间差带来的优势当成了‘足球天资’（talent），从而把更多优质比赛机会、顶尖教练资源倾斜给这批孩子。日复一日的高强度针对性训练（刻意练习），最终让这些孩子真正变成了顶尖职业球员——这反向雄辩地证明了：不是天资决定了卓越，而是后天的刻意练习与资源倾斜铸就了天才。",
+      "crossExamLinks": [
+        {
+          "year": "2014 Text 2",
+          "theme": "意志力、微习惯与心理反射",
+          "relevance": "同样探讨后天心理机制如何重塑个人长期行为与表现"
+        },
+        {
+          "year": "2008 Text 1",
+          "theme": "压力应对与身心适应机制",
+          "relevance": "探讨人在高压挑战下的心理韧性与适应调节"
+        }
+      ]
+    },
+    "topicVocabularyCapsule": {
+      "topicDomain": "文教社科·认知心理学与个人成长",
+      "coreConceptRoots": [
+        {
+          "root": "cogn- / gno-",
+          "meaning": "知道，认知",
+          "words": [
+            "cognitive (认知的)",
+            "cognition (认知)",
+            "recognize (认出，认可)",
+            "diagnose (诊断)"
+          ]
+        },
+        {
+          "root": "gen- / natur-",
+          "meaning": "出生，先天",
+          "words": [
+            "genetically (基因上)",
+            "innate (先天的)",
+            "native (本土的/天赋的)",
+            "nature (先天自然)"
+          ]
+        },
+        {
+          "root": "tract- / pel-",
+          "meaning": "拉，推，驱动",
+          "words": [
+            "compel (强迫)",
+            "propel (推进)",
+            "entail (必须导致，牵涉)",
+            "attract (吸引)"
+          ]
+        }
+      ],
+      "highFrequencyFamily": [
+        {
+          "word": "deliberate",
+          "pos": "adj./v.",
+          "meaning": "深思熟虑的，刻意的；仔细研讨",
+          "examTips": "考研阅读极高频，常与 deliberate practice, deliberate effort 搭配"
+        },
+        {
+          "word": "innate",
+          "pos": "adj.",
+          "meaning": "先天的，天生的",
+          "examTips": "与 acquired (后天的), nurture (后天培养) 形成经典对立"
+        },
+        {
+          "word": "overrate",
+          "pos": "v.",
+          "meaning": "高估",
+          "examTips": "前缀 over- 表示过度，反义词为 underrate / overlook"
+        },
+        {
+          "word": "encode",
+          "pos": "v.",
+          "meaning": "编码，加工信息",
+          "examTips": "心理学与计算机交叉词汇，指将外界感知转化为长期记忆表征"
+        }
+      ]
+    },
+    "nuancesAndConfusions": {
+      "familiarWordUncommonMeanings": [
+        {
+          "word": "feed",
+          "location": "P1 L4",
+          "familiarMeaning": "喂养",
+          "examMeaning": "输送，供给",
+          "contextCollocation": "teams that feed the World Cup"
+        },
+        {
+          "word": "ranks",
+          "location": "P1 L5",
+          "familiarMeaning": "等级，军衔",
+          "examMeaning": "行列，队伍",
+          "contextCollocation": "professional ranks"
+        },
+        {
+          "word": "account for",
+          "location": "P2 L1",
+          "familiarMeaning": "账户/账目相关",
+          "examMeaning": "解释；占比；负责",
+          "contextCollocation": "account for this phenomenon"
+        },
+        {
+          "word": "capacity",
+          "location": "P2 L3",
+          "familiarMeaning": "容量",
+          "examMeaning": "能力；身份",
+          "contextCollocation": "oxygen capacity"
+        },
+        {
+          "word": "conduct",
+          "location": "P3 L3",
+          "familiarMeaning": "行为",
+          "examMeaning": "进行，开展",
+          "contextCollocation": "conduct research"
+        },
+        {
+          "word": "exercise",
+          "location": "P4 L3",
+          "familiarMeaning": "运动",
+          "examMeaning": "训练；运用/行使",
+          "contextCollocation": "a cognitive exercise"
+        },
+        {
+          "word": "determine",
+          "location": "P4 L6",
+          "familiarMeaning": "决定",
+          "examMeaning": "确定，断定",
+          "contextCollocation": "Ericsson determined"
+        },
+        {
+          "word": "overlook",
+          "location": "Q24 C",
+          "familiarMeaning": "俯瞰",
+          "examMeaning": "忽视",
+          "contextCollocation": "talent is overlooked"
+        },
+        {
+          "word": "surgery",
+          "location": "P5 L6",
+          "familiarMeaning": "手术",
+          "examMeaning": "外科医学；诊所（英）",
+          "contextCollocation": "memory or surgery"
+        }
+      ],
+      "confusingWordPairs": [
+        {
+          "pair": "mania / craze / hysteria",
+          "analysis": "mania 在正文 P2 L4 指“狂热”；craze 最接近“热潮”；hysteria 出现在 Q22 C，偏“歇斯底里、情绪失控”。"
+        },
+        {
+          "pair": "overrated / overlooked",
+          "analysis": "overrated = 被高估（正文 P5 L5）；overlooked = 被忽视（Q24 C）。文章原观点是 talent is highly overrated。"
+        },
+        {
+          "pair": "nature / nurture",
+          "analysis": "nature = 先天、本性；nurture = 后天培养、环境影响（Q24 D）。本文强调 nurture。"
+        },
+        {
+          "pair": "cognitive / intuitive",
+          "analysis": "cognitive = 认知的、经过思维加工的（P4 L3）；intuitive = 直觉的。原文说记忆是 cognitive exercise。"
+        },
+        {
+          "pair": "confer / offer / grant",
+          "analysis": "confer（P2 L2）更正式，常指“授予、赋予”；offer 偏“提供”；grant 偏“正式准许/授予”。"
+        },
+        {
+          "pair": "data / statistics",
+          "analysis": "data（P5 L2）泛指资料、数据；statistics（P5 L3）更强调经过统计处理的数字资料。"
+        }
+      ]
+    }
+  },
+  "rawFields": {},
+  "provenance": {
+    "sourceLayer": "rebuilt",
+    "sourceFile": "rebuilt_data/single_texts/text_2007_t1.json",
+    "year": 2007,
+    "articleKey": "ky-en1-2007-r-t1",
+    "extractedAt": "2026-09-18T23:13:00+0800",
+    "contentHash": "sha256:bce971a18ce10da6cbdb064d0a62235f8240dfb4192af468e96a1fe3ee826048"
+  }
+}

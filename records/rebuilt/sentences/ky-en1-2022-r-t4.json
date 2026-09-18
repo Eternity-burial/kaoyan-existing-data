@@ -1,0 +1,332 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 1,
+      "sentence": 1,
+      "ps": "P1-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P1-S1",
+      "pIndex": 1
+    },
+    "text": "The personal grievance provisions of New Zealand's Employment Relations Act 2000 (ERA) prevent an employer from firing an employee without good cause. Instead, dismissals must be justified. Employers must both show cause and act in a procedurally fair way.",
+    "translation": "新西兰《2000年雇佣关系法》（ERA）中的个人申诉条款，严禁雇主在缺乏正当充分理由的情况下擅自解雇员工。相反，一切解雇决定都必须证明具有正当合法性（justified），雇主必须同时出示正当解雇事由并严格遵循程序公正的法定流程。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 2,
+      "sentence": 1,
+      "ps": "P2-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P2-S1",
+      "pIndex": 2
+    },
+    "text": "\"Personal grievance procedures were designed to guard the jobs of ordinary workers from unjustified dismissals\". The premise was that the common law of contract lacked sufficient safeguards for workers against arbitrary conduct by management. Long gone are the days when a boss could simply give an employee contractual notice.",
+    "translation": "“个人申诉程序的设立初衷，正是为了保护广大普通工人的饭碗工作免遭无理专断解雇的侵害（protect the rights of ordinary workers）。”其立法前提假设在于：传统的普通合同法在抵御管理层武断专横行径方面，严重缺乏对劳动者的充分制度保障。老板仅仅给出一份合同通知就能随意开除员工的时代早已一去不复返。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 1,
+      "ps": "P3-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P3-S1",
+      "pIndex": 3
+    },
+    "text": "But these provisions create difficulties for businesses when applied to highly paid managers and executives. As countless boards and business owners will attest, constraining firms from firing poorly performing, high-earning managers is a handbrake on boosting productivity and overall performance.",
+    "translation": "然而，当这些保护性条款被无差别地适用于高薪管理人员与企业高管时，却给商业企业带来了难以承受的严重困境。正如无数董事会成员和企业主所痛切证明的那样：束缚限制企业解雇那些业绩拙劣却拿着高薪的管理人员，实乃掣肘提升企业生产力与整体经营业绩的致命“急刹车手刹”（hinder business development / handbrake on boosting performance）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 3,
+      "sentence": 2,
+      "ps": "P3-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P3-S2",
+      "pIndex": 3
+    },
+    "text": "The difference between C-grade and A-grade managers may very well be the difference between business success or failure. Between preserving the jobs of ordinary workers or losing them. Yet mediocrity is no longer enough to justify a dismissal.",
+    "translation": "C级平庸经理人与A级卓越经理人之间的能力鸿沟，很可能直接决定了一家企业的商业成败，直接决定了广大普通员工是保住饭碗还是彻底失业。然而在现行法律下，管理者的平庸无能却再也不足以构成正当合法的解雇理由。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 1,
+      "ps": "P4-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P4-S1",
+      "pIndex": 4
+    },
+    "text": "Consequently and paradoxically laws introduced to protect the jobs of ordinary workers may be placing those jobs at risk.",
+    "translation": "结果令人啼笑皆非且极其矛盾悖论的是：原本为了保护普通工人就业而制定的法律，如今却反过来将这些工人的饭碗置于巨大的失业风险之中。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 4,
+      "sentence": 2,
+      "ps": "P4-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P4-S2",
+      "pIndex": 4
+    },
+    "text": "If not placing jobs at risk, to the extent employment protection laws constrain business owners from dismissing underperforming managers, those laws act as a constraint on firm productivity and therefore on workers' wages. Indeed, in \"An International Perspective on New Zealand's Productivity Paradox\" (2014), the Productivity Commission singled out the low quality of managerial capabilities as a cause of the country's poor productivity growth record.",
+    "translation": "即便不直接危及就业，只要雇佣保护法在客观上束缚了企业主解雇低效无能管理人员的权利，这些法律就会直接遏制企业生产力的提升，并进而直接压低压制广大工人的薪酬工资。事实上，在新西兰生产力委员会2014年发布的权威报告《新西兰生产力悖论之国际透视》中，该委员会明确将“管理人员能力素质低下”单列为导致该国长期生产力增长极其低迷疲软的罪魁祸首（supports dismissing poorly performing managers）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 1,
+      "ps": "P5-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P5-S1",
+      "pIndex": 5
+    },
+    "text": "Nor are highly paid managers themselves immune from the harm caused by the ERA's unjustified dismissal procedures. Because employment protection laws make it costlier to fire an employee, employers are more cautious about hiring new staff.",
+    "translation": "即便是高薪管理人员自身，也无法对 ERA 不当解雇程序所造成的附带伤害彻底免疫。因为雇佣保护法使得开除一名员工的法律经济成本变得极其昂贵，雇主在招聘新员工时因而变得空前谨慎保守。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 2,
+      "ps": "P5-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P5-S2",
+      "pIndex": 5
+    },
+    "text": "This makes it harder for the marginal manager to gain employment. And firms pay staff less because firms carry the burden of the employment arrangement going wrong.",
+    "translation": "这使得处于边缘水平的经理人更加难以找到工作；而且，由于企业必须全盘独自承担用人安排一旦出错所带来的沉重法律包袱，企业索性向全体员工支付更低的薪水（firms pay staff less / employees suffer from salary cuts）。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 5,
+      "sentence": 3,
+      "ps": "P5-S3"
+    },
+    "sourceLocator": {
+      "sIndex": 3,
+      "id": "P5-S3",
+      "pIndex": 5
+    },
+    "text": "Society also suffers from excessive employment protections. Stringent job dismissal regulations adversely affect productivity growth and hamper both prosperity and overall well-being.",
+    "translation": "整个社会同样在承受着过度雇佣保护所带来的深重苦果：过于严苛死板的解雇法规严重不利于生产力的健康增长，并沉重阻碍了经济繁荣与全社会整体福祉的提升。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": false
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 1,
+      "ps": "P6-S1"
+    },
+    "sourceLocator": {
+      "sIndex": 1,
+      "id": "P6-S1",
+      "pIndex": 6
+    },
+    "text": "Across the Tasman Sea, Australia deals with the unjustified dismissal paradox by excluding employees earning above a specified \"high-income threshold\" from the protection of its unfair dismissal laws.",
+    "translation": "在大洋彼岸的塔斯曼海对岸，澳大利亚通过在法律上明确将收入超过特定“高收入门槛”（high-income threshold）的高管员工彻底排除在其不当解雇法的保护范围之外，从而巧妙化解了这一悖论难题。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": true,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-sentence-1.0",
+    "source": "rebuilt",
+    "articleKey": "ky-en1-2022-r-t4",
+    "location": {
+      "paragraph": 6,
+      "sentence": 2,
+      "ps": "P6-S2"
+    },
+    "sourceLocator": {
+      "sIndex": 2,
+      "id": "P6-S2",
+      "pIndex": 6
+    },
+    "text": "In New Zealand, a 2016 private members' Bill tried to permit firms and high-income employees to contract out of the unjustified dismissal regime. However, the mechanisms proposed were unwieldy and the Bill was voted down following the change in government later that year.",
+    "translation": "在新西兰，2016年的一项非官方议员法案曾试图允许企业与高收入雇员通过合同约定自行退出不当解雇保护机制；然而由于其提议的操作机制过于笨拙复杂，加之同年稍晚政府换届更迭，该法案最终惨遭投票否决。",
+    "syntaxAnalysis": null,
+    "rawFields": {
+      "isTopicSentence": false,
+      "isKeyEvidence": true
+    },
+    "provenance": {
+      "sourceLayer": "rebuilt",
+      "sourceFile": "rebuilt_data/single_texts/text_2022_t4.json",
+      "year": 2022,
+      "articleKey": "ky-en1-2022-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:e7c5dbf6c832165b7d60c6905b5a115052be2f74c108189a08b0a3f64d2e2f15"
+    }
+  }
+]

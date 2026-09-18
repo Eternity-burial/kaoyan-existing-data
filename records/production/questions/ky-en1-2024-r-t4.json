@@ -1,0 +1,580 @@
+[
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t4",
+    "qIndex": 36,
+    "questionNumber": 36,
+    "stem": "The Chesapeake Bay is described in paragraph 1 as",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a valuable natural environment.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P1-S1 和 P1-S2 明确阐述切萨皮克湾的崇高生态地位：'The miracle... lies in the complexity of natural construction... provide homes for hundreds of species, storing floodwaters, filtering pollutants, protecting communities from storms'（奇迹在于其复杂的自然构造，为数百种物种提供家园，蓄洪、滤污、抵御风暴潮）。A选项 a valuable natural environment（一个极具价值的自然环境）完美概括了第一段对该海湾生态奇迹与宝贵功能的描写。",
+        "refSentences": [
+          "P1-S1",
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "a controversial conservation area.",
+        "isCorrect": false,
+        "distractorType": "跨段混淆",
+        "analysis": "【干扰特征: 跨段混淆】第一段全篇纯描写其自然奇迹，法律争议是第二段引出的最高法院判决，第一段未提及争议性。",
+        "refSentences": [
+          "P1-S1",
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "a place with commercial potential.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 商业化偏差】第一段盛赞的是其自然生态保护价值，非商业开发潜力。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "a headache for nearby communities.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】浅滩是在保护周边社区免受风暴侵袭（protecting nearby communities from storms），是保护屏障而非令人头疼的麻烦。",
+        "refSentences": [
+          "P1-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "细节态度题",
+    "targetSentences": [
+      "P1-S1",
+      "P1-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "miracle of natural construction + homes for species + storing floodwaters and filtering pollutants = a valuable natural environment。",
+      "methodSummary": "首段基调概括：抓准 miracle 与一系列生态服务功能，锁定 a valuable natural environment。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "Chesapeake Bay is described in paragraph 1 as"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t4",
+    "qIndex": 37,
+    "questionNumber": 37,
+    "stem": "The U.S. Supreme Court's ruling in the Idaho case",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "reinforces water pollution control.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】判决大幅收窄了保护范围，对全流水质和防洪带来严重负面后果（significant repercussions for water quality），严重削弱了治污控制。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "weakens the EPA's regulatory power.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 同义替换】P2-S1 明确揭示该判决的核心法律后果：'issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways'（在爱达荷州案中作出判决，给予 EPA 极其微少的权力去监管湿地和水道）。far less authority to regulate（监管权限大幅减少）与 weakens the EPA's regulatory power（削弱了 EPA 的监管权力）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P2-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "will end conflicts among local residents.",
+        "isCorrect": false,
+        "distractorType": "无中生有",
+        "analysis": "【干扰特征: 概念偏差】判决偏袒商业开发商，损害了下游居民利益，加剧了跨州矛盾。",
+        "refSentences": [
+          "P2-S2",
+          "P4-S1"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "may face opposition from mining operators.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 事实完全相反】该判决是采矿商和建筑商的重大胜利（victory for mining operators and builders），受到其热烈欢迎而非反对。",
+        "refSentences": [
+          "P2-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "细节事实题",
+    "targetSentences": [
+      "P2-S1",
+      "P2-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "provides the EPA far less authority to regulate wetlands = weakens the EPA's regulatory power。",
+      "methodSummary": "原句细节直接提取：far less authority to regulate 转换为 weakens regulatory power。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "U.S. Supreme Court's ruling in the Idaho case"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t4",
+    "qIndex": 38,
+    "questionNumber": 38,
+    "stem": "How does the author feel about the future of the Chesapeake Bay?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Worried.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 情感基调定位】P2-S1 指出海湾面临巨大风险（put at great risk），P3-S2 深入指出水流污染物不分州界，跨越6州的大流域不可能奢望所有辖区都出台同等保护（'Will those jurisdictions extend the same protections? That seems unlikely'——指望全部保护几乎不可能）。字里行间充满了对最高法院判决后下游生态遭殃、跨州协同破产的深切担忧与忧虑（Worried）。A选项精准契合作者态度。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "Puzzled.",
+        "isCorrect": false,
+        "distractorType": "情感偏差",
+        "analysis": "【干扰特征: 概念偏差】作者对跨州污染机理和法律漏洞洞若观火，分析极其透彻清醒，绝非困惑不解（Puzzled）。",
+        "refSentences": [
+          "P3-S2",
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "Relieved.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 情感相反】联邦保护伞被削弱，危机四伏，作者绝无如释重负之感（Relieved）。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "Encouraged.",
+        "isCorrect": false,
+        "distractorType": "正反颠倒",
+        "analysis": "【干扰特征: 情感相反】判决带来严峻生态倒退危机，绝非感到备受鼓舞（Encouraged）。",
+        "refSentences": [
+          "P2-S1",
+          "P3-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "A",
+    "standardType": null,
+    "type": "情感态度题",
+    "targetSentences": [
+      "P2-S1",
+      "P3-S1",
+      "P3-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "put at great risk + That seems unlikely all states will protect = Worried（深感担忧）。",
+      "methodSummary": "态度题反问与定性词提取：put at great risk 与 That seems unlikely 直接锁定态度为 Worried。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "A",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "A",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author feel about the future of Chesapeake Bay"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t4",
+    "qIndex": 39,
+    "questionNumber": 39,
+    "stem": "What can be inferred about the EPA's involvement in the Chesapeake Bay Program?",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It has restored the balance among neighboring jurisdictions.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 偷换概念】EPA 协调的是跨州环境治理，非恢复各辖区之间的政治权力平衡。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "It has triggered a radical reform in commercial fisheries.",
+        "isCorrect": false,
+        "distractorType": "无中生有渔业改革",
+        "analysis": "【干扰特征: 局部细节夸大】马里兰蓝蟹捕捞是下游受害者例证，非触发了商业渔业的根本性改革。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "It has set a fine example of respecting state authorities.",
+        "isCorrect": false,
+        "distractorType": "偷换概念",
+        "analysis": "【干扰特征: 事实相反】EPA 是以联邦统一监管超越（transcend）邻州自私的地方保护主义利益，非单纯顺从州级权威。",
+        "refSentences": [
+          "P4-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "It has ensured the coordination of protection efforts.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 合理推断】P4-S2 明确阐述 EPA 长期介入的关键不可替代作用：'EPA's involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states... Pennsylvania farmers aren't thinking about blue crabs in Maryland'（EPA 的介入作为超越邻州财大气粗特殊利益的手段至关重要，能防止上游宾州排污肆意祸害下游马里兰）。正因为各州各自为政且利益冲突，唯有 EPA 的联邦统一介入才能打破地方藩篱、确保跨州全流域生态保护工作的统筹协调与协同推进（ensured the coordination of protection efforts）。D选项精准契合推理。",
+        "refSentences": [
+          "P4-S1",
+          "P4-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "D",
+    "standardType": null,
+    "type": "细节推断题",
+    "targetSentences": [
+      "P4-S1",
+      "P4-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "EPA involvement crucial to transcend special interests in neighboring states (linking PA runoff and MD harvest) = It has ensured the coordination of protection efforts。",
+      "methodSummary": "机制功能推断法：transcend special interests in neighboring states 抽象概括为 ensured coordination of protection efforts。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "D",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "D",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "inferred about",
+        "EPA's involvement in the Chesapeake Bay Program"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  },
+  {
+    "schemaVersion": "kaoyan-existing-question-1.0",
+    "source": "production",
+    "articleKey": "ky-en1-2024-r-t4",
+    "qIndex": 40,
+    "questionNumber": 40,
+    "stem": "The author holds that the state lawmakers should",
+    "stemTranslation": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "be cautious about the influence of land owners.",
+        "isCorrect": false,
+        "distractorType": "次要批判点",
+        "analysis": "【干扰特征: 次要局部】第四段批判了判决偏袒土地所有者，末段作者直接对立法者的核心呼吁是审视加强湿地立法保护。",
+        "refSentences": [
+          "P4-S1",
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "B",
+        "text": "attach due importance to wetlands protections.",
+        "isCorrect": true,
+        "distractorType": null,
+        "analysis": "【正确项 · 原文同义复现】P5-S1 明确交代作者在篇末发出的核心号召：'we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stake involved'（呼吁从里士满到奥尔巴尼的各州立法者重新审视完善自身的湿地保护，并亲眼看清其中所关乎的巨大重大利害）。reviewing wetlands protections and see enormous stake 与 attach due importance to wetlands protections（对湿地保护给予应有的高度重视）完全同义对应。B选项完全精准吻合。",
+        "refSentences": [
+          "P5-S1"
+        ]
+      },
+      {
+        "key": "C",
+        "text": "recognize the need to expand wildlife refuges.",
+        "isCorrect": false,
+        "distractorType": "偷换目的手段",
+        "analysis": "【干扰特征: 偷换手段】黑水野生动物保护区是邀请议员考察生态之美的参访地，非要求扩建保护区土地面积。",
+        "refSentences": [
+          "P5-S2"
+        ]
+      },
+      {
+        "key": "D",
+        "text": "improve the wellbeing of endangered species.",
+        "isCorrect": false,
+        "distractorType": "次要生态细节",
+        "analysis": "【干扰特征: 局部细节】白头海雕只是保护区的生态掠影，议员的核心法律职责在于制定健全的湿地保护法规体系。",
+        "refSentences": [
+          "P5-S1",
+          "P5-S2"
+        ]
+      }
+    ],
+    "officialAnswer": "B",
+    "standardType": null,
+    "type": "篇章主旨建议题",
+    "targetSentences": [
+      "P5-S1",
+      "P5-S2"
+    ],
+    "verbatimEvidence": null,
+    "synonymMapping": null,
+    "methodologyReview": {
+      "trapAnalysis": "call on state lawmakers to review wetlands protections and see enormous stake = attach due importance to wetlands protections。",
+      "methodSummary": "末段行动呼吁提取：call on lawmakers to review protections and see enormous stake 转换为 attach due importance to wetlands protections。"
+    },
+    "paperVariants": {
+      "yellowBook": {
+        "officialAnswer": "B",
+        "source": "黄皮书真题试卷版 (文档化/选项内容)"
+      },
+      "standardMD": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "2024_英语一_真题.md"
+      },
+      "feishuPdf": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "英语一_2024_阅读Text4.pdf"
+      },
+      "eliNotes": {
+        "officialAnswer": "B",
+        "letterMapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        },
+        "source": "Eli田瀚博英语一真题讲解汇总笔记.pdf"
+      }
+    },
+    "rawFields": {
+      "stemKeywords": [
+        "author holds",
+        "state lawmakers should"
+      ]
+    },
+    "provenance": {
+      "sourceLayer": "production",
+      "sourceFile": "题库/英语/data_2024.js",
+      "year": 2024,
+      "articleKey": "ky-en1-2024-r-t4",
+      "extractedAt": "2026-09-18T23:13:00+0800",
+      "contentHash": "sha256:d8ec5e130b6c9a85bc1b8f4cab663d4c9bd16f06a5e972f56f21440bbe52db98"
+    }
+  }
+]
